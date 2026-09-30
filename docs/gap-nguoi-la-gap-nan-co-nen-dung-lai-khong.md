@@ -1,55 +1,55 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 路上遇到陌生人出事，走开还是停下
+# Trên đường gặp người lạ gặp nạn, đi thẳng hay dừng lại
 
-这是第 13 节第 2 条（老人摔倒、有人倒地先别急着扶）的长文版。全书把受益人分成四档，排序的标准是这份好处将来回到你身上的可能有多大。陌生人是最低的一档。指望对方回报你的可能小，你也不了解对方是什么人。所以这里不劝你做什么，只把三条路各要付的账列全，选哪条你自己定。
+Đây là bản dài của chương 13 mục 2 (người già té, có người ngã xuống đừng vội dìu dậy). Toàn sách chia người thụ lợi thành bốn bậc, tiêu chí xếp hạng là khả năng phần lợi này sau đó quay về với bạn lớn bao nhiêu. Người lạ là bậc thấp nhất. Mong đối phương đền đáp lại bạn thì khả năng nhỏ, bạn cũng không hiểu đối phương là người thế nào. Vì vậy ở đây không khuyên bạn nên làm gì, chỉ liệt kê đầy đủ khoản phải trả của từng con đường trong ba con đường, chọn con nào bạn tự định.
 
-**本文不给任何概率。** 下面每一层成本都真实存在，也都有条文可查。但是「一百个救人的里，真摊上事的有几个」，这种数据没有公开统计。全书的规矩是数字不确定就宁可不写。所以别把「这里列了七层」读成「这七层都会落到你头上」。
+**Bài này không đưa bất kỳ xác suất nào.** Từng tầng chi phí dưới đây đều thật sự tồn tại, cũng đều có điều khoản tra được. Nhưng “trong trăm người đi cứu người, bao nhiêu người thật sự dính chuyện” — loại dữ liệu này không có thống kê công khai. Luật của toàn sách là số không chắc chắn thì thà không viết. Vì vậy đừng đọc “ở đây liệt kê bảy tầng” thành “cả bảy tầng này đều sẽ rơi lên đầu bạn”.
 
-## 三条路
+## Ba con đường
 
-| | 走开 | 停下但不碰 | 停下并帮到底 |
+| | Đi thẳng | Dừng lại nhưng không đụng vào | Dừng lại và giúp đến cùng |
 | --- | --- | --- | --- |
-| 合法性 | 合法。普通人对陌生人没有救人的义务，刑法里也没有「看见了不救」这个罪名 | 合法 | 合法 |
-| 时间 | 0 | 几分钟。打 120 会留下你的号码 | 半天起步，可能要跟到医院 |
-| 事后被人找上门的可能 | 最低 | 你就是留了号码的那个人 | 最高 |
-| 对方得到的好处 | 0 | 救护车来得更早 | 最大 |
+| Tính hợp pháp | Hợp pháp. Người thường không có nghĩa vụ cứu người lạ, Bộ luật Hình sự cũng không có tội danh “nhìn thấy mà không cứu” | Hợp pháp | Hợp pháp |
+| Thời gian | 0 | Vài phút. Gọi 120 sẽ để lại số của bạn | Nửa ngày trở lên, có thể phải theo đến bệnh viện |
+| Khả năng sau đó bị người ta tìm đến | Thấp nhất | Bạn chính là người đã để lại số điện thoại | Cao nhất |
+| Lợi ích người kia nhận được | 0 | Xe cấp cứu đến sớm hơn | Lớn nhất |
 
-## 停下之后可能出现的成本，从轻到重
+## Những chi phí có thể xuất hiện sau khi dừng lại, từ nhẹ đến nặng
 
-**一、回电话和被问话。** 你打 120 或者 110，号码都会留下。对方可能回拨给你，问清楚位置在哪。事后也可能叫你去问一次话。如果是刑事案件，报案的人不愿意公开姓名，办案机关要替他保密（刑事诉讼法第一百一十一条）。打 120 没有这样一条保密规定。
+**Một, nhận lại điện thoại và bị mời hỏi cung.** Bạn gọi 120 hay 110 thì số đều để lại. Đối phương có thể gọi ngược lại cho bạn, hỏi rõ vị trí ở đâu. Sau đó cũng có thể gọi bạn đi lấy lời khai một lần. Nếu là vụ án hình sự, người báo án không muốn công khai họ tên thì cơ quan xử án phải giữ bí mật thay họ (điều 111 Bộ luật Tố tụng hình sự). Gọi 120 không có quy định bảo mật như vậy.
 
-**二、被伤者家属找上。** 监控里要是找不到肇事的车，家属最容易找到的人就是你。因为你留了号码，当时人又在现场。他们可能打电话来催，也可能找上门来。
+**Hai, bị người nhà người bị thương tìm đến.** Nếu trong hình ảnh camera không tìm ra xe gây tai nạn, người dễ bị gia đình tìm đến nhất chính là bạn. Vì bạn đã để lại số điện thoại, lúc đó người lại có mặt tại hiện trường. Họ có thể gọi điện thúc, cũng có thể tìm tận nơi.
 
-**三、被告到法院去。** 谁说是你撞的，就得由谁拿出证据。他拿不出证据，这个后果由他自己承担（民诉法解释第九十条）。**但这一条只管最后怎么判，不管你会不会被卷进去。** 案子按普通程序审，一审要在 6 个月内结案，有特殊情况还能再延 6 个月。按简易程序审是 3 个月（民事诉讼法第一百五十二、一百六十四条）。就算你赢得干干净净，能让对方掏的也只有三项：案件受理费、申请费，还有证人和鉴定人出庭的差旅费误工费（诉讼费用交纳办法第六、二十九条）。**你自己请律师的钱不在这三项里，得你自己出。**
+**Ba, bị kiện ra tòa.** Ai nói là bạn tông thì phải do người đó đưa ra chứng cứ. Họ không đưa được chứng cứ, hậu quả đó do họ tự gánh (điều 90 Giải thích về việc áp dụng Bộ luật Tố tụng dân sự). **Nhưng điều này chỉ quản việc cuối cùng phán thế nào, không quản bạn có bị cuốn vào hay không.** Vụ án theo thủ tục thông thường, sơ thẩm phải kết thúc trong 6 tháng, có tình huống đặc biệt còn được gia hạn thêm 6 tháng. Theo thủ tục đơn giản là 3 tháng (điều 152, 164 Bộ luật Tố tụng dân sự). Dù bạn thắng sạch sẽ, những khoản bắt được đối phương móc ra cũng chỉ có ba: lệ phí thụ lý vụ án, lệ phí đơn yêu cầu, và tiền đi lại, tiền thu nhập bị mất của nhân chứng và giám định viên ra tòa (điều 6, 29 Biện pháp nộp lệ phí tố tụng). **Tiền thuê luật sư của bạn không nằm trong ba khoản đó, phải tự bạn trả.**
 
-**四、闹到你单位去。** 有人到你单位来闹，你可以报警。扰乱企业事业单位秩序、让工作没法正常进行的，警察给警告，或者罚 500 元以下。情节较重的，拘留 5 到 10 日，再加罚 1000 元以下。一伙人一起来闹的，带头的拘留 10 到 15 日（治安管理处罚法第二十六条第一项）。反复滋扰、纠缠、跟踪，搅得你没法正常过日子的，按第五十条第五项处罚。经公安机关负责人批准，还可以责令他在一定期限内不得接触你。公司要是因为这件事把你开了，一般属于违法解除劳动合同，赔偿金按 2N 算（第 19 节第 6 条）。但是报警也好，去劳动仲裁也好，都得你自己一趟趟跑。而且工作先丢掉的那段时间，不会因为将来拿到 2N 就补回来。
+**Bốn, quậy tới cơ quan của bạn.** Có người đến cơ quan bạn quậy phá, bạn có thể báo công an. Hành vi làm rối trật tự của cơ quan, doanh nghiệp, khiến công việc không thể tiến hành bình thường, công an cảnh cáo, hoặc phạt tới 500 yên. Tình tiết nặng hơn thì tạm giữ 5 đến 10 ngày, cộng thêm phạt tới 1.000 yên. Cả bọn cùng đến quậy, người cầm đầu tạm giữ 10 đến 15 ngày (điều 26 khoản 1 điểm 1 Luật Xử phạt vi phạm hành chính về an ninh trật tự công cộng). Quấy rối, vây lấy, theo dõi lặp đi lặp lại, làm bạn không thể sống bình thường thì xử phạt theo điều 50 khoản 1 điểm 5. Có phê chuẩn của người phụ trách cơ quan công an, còn có thể buộc họ trong một thời hạn nhất định không được tiếp xúc với bạn. Công ty vì chuyện này mà đuổi bạn, nhìn chung là thuộc chấm dứt hợp đồng lao động trái pháp luật, tiền bồi thường tính theo 2N (chương 19 mục 6). Nhưng báo công an cũng vậy, đi trọng tài lao động cũng vậy, đều phải tự bạn chạy từng chuyến một. Mà quãng thời gian mất việc trước đó, sẽ không vì sau này nhận được 2N mà đền lại được.
 
-**五、被人拍下来、发到网上。** **你未必拦得住别人拍。** 没经过本人同意，不能制作、使用、公开别人的肖像（民法典第一千零一十九条）。但是有一条例外：「为实施新闻报道，不可避免地制作、使用、公开肖像权人的肖像」属于合理使用，不算侵权（第一千零二十条第二项）。记者为报道新闻来拍，就属于这种例外。你能做的是不接受采访，不出镜，不在镜头前说话。同不同意由你自己决定，谁也不能替你答应。
+**Năm, bị quay lại, đăng lên mạng.** **Bạn chưa chắc chặn được người ta quay.** Không qua sự đồng ý của bản thân người đó, không được tạo lập, sử dụng, công khai chân dung của người khác (điều 1019 của Bộ luật Dân sự). Nhưng có một ngoại lệ: “vì thực hiện đưa tin tức báo chí mà không tránh được việc tạo lập, sử dụng, công khai chân dung của người có quyền chân dung” thuộc sử dụng hợp lý, không tính là xâm phạm (điều 1020 điểm 2). Phóng viên quay để đưa tin tức báo chí là thuộc ngoại lệ này. Cái bạn làm được là không nhận phỏng vấn, không lên hình, không nói trước ống kính. Đồng ý hay không do bạn tự quyết, không ai có thể thay bạn nhận lời.
 
-**六、视频被转来转去，然后挨骂。** 视频一旦传开，评论区就不归你管了。你能自己动手的办法，写在《网络暴力信息治理规定》里（2024 年 8 月 1 日施行）。平台应当给你这几样防护设置：屏蔽陌生人或者指定的某个人，限制自己的信息谁能看见。你还可以禁止别人转载或者评论，只收好友的私信，或者谁的私信都不收（第二十三条）。平台应当提供一键取证的功能，把骂你的内容固定下来（第二十五条）。平台应当在显眼的位置设一个专门的快捷投诉举报入口（第二十六条）。平台发现涉嫌违法犯罪的，应当及时向公安机关报案，并且提供线索（第十五条）。自己怎么留证据、怎么报警，见第 8 节第 15 条。
+**Sáu, video bị chuyển đi truyền lại, rồi bị chửi bới.** Video một khi lan ra, phần bình luận không còn thuộc quyền bạn quản nữa. Cách tự tay làm được của bạn được viết trong Quy định về quản trị thông tin bạo lực mạng (có hiệu lực từ 01/08/2024). Nền tảng phải cho bạn mấy thiết lập bảo vệ này: chặn người lạ hoặc một người nào đó được chỉ định, giới hạn thông tin của mình ai được thấy. Bạn còn có thể cấm người khác đăng lại hoặc bình luận, chỉ nhận tin nhắn riêng của bạn bè, hoặc tin nhắn riêng của ai cũng không nhận (điều 23). Nền tảng phải cung cấp chức năng lấy chứng cứ chỉ với một nút, cố định lại nội dung chửi bạn (điều 25). Nền tảng phải đặt ở vị trí dễ thấy một cổng khiếu nại, tố cáo riêng, nhanh gọn (điều 26). Nền tảng phát hiện có dấu hiệu vi phạm pháp luật, phạm tội thì phải kịp thời báo án cho cơ quan công an, và cung cấp manh mối (điều 15). Tự mình giữ chứng cứ thế nào, báo công an thế nào, xem chương 8 mục 15.
 
-**七、扛不住的时候。** 上面六层都能拿条文去应对，第七层不能。一直被人围攻，对情绪有多大影响，国内没有可靠的数据可以引用。本书不给数字，只给一个出口：心理援助热线 12356，见第 1 节第 25 条。
+**Bảy, lúc chịu không nổi.** Sáu tầng trên đều có điều khoản để đối phó, riêng tầng thứ bảy thì không. Bị người ta bao vây công kích liên tục ảnh hưởng bao nhiêu tới cảm xúc, trong nước không có dữ liệu đáng tin để trích. Cuốn sách này không đưa số, chỉ đưa một lối ra: đường dây nóng trợ lý tâm lý 12356, xem chương 1 mục 25.
 
-## 让「走开」不再免费的两种情况
+## Hai trường hợp khiến “đi thẳng” không còn miễn phí
 
-- **你是这个场所的经营者、管理者，或者群众性活动的组织者。** 场所指宾馆、商场、银行、车站、机场、体育场馆、娱乐场所这类地方。你对场内的人负有安全保障义务。没尽到这份义务，你就要承担侵权责任（要赔钱）。损害是别人造成的，而你没尽到这份义务，你要在自己该负责的那部分范围内赔，这叫补充责任（民法典第一千一百九十八条）。所以值班的员工、场地方走开，要担的责任和一个路人走开不一样。
-- **这事本来就跟你有关。** 人是你撞的，车是你的，或者危险是你先前的行为造成的。这时该看的就不是要不要管别人，而是交通事故处置和肇事逃逸怎么办，见第 8 节第 1 条。
+- **Bạn là người kinh doanh, người quản lý địa điểm, hoặc người tổ chức hoạt động quần chúng.** Địa điểm là những chỗ như khách sạn, trung tâm thương mại, ngân hàng, bến xe nhà ga, sân bay, nhà thi đấu thể thao, nơi vui chơi giải trí. Bạn có nghĩa vụ bảo đảm an toàn đối với người trong địa điểm. Không thực hiện trọn nghĩa vụ này, bạn phải gánh trách nhiệm xâm phạm (phải đền tiền). Thiệt hại do người khác gây ra mà bạn không thực hiện trọn nghĩa vụ này, thì bạn đền trong phạm vi phần mình phải chịu trách nhiệm, cái này gọi là trách nhiệm bổ sung (điều 1198 của Bộ luật Dân sự). Vì vậy nhân viên trực, phía địa điểm mà đi thẳng, trách nhiệm phải gánh khác với một người đi đường đi thẳng.
+- **Chuyện này vốn đã dính đến bạn.** Người là bạn tông, xe là xe của bạn, hoặc cái nguy hiểm là do hành vi trước đó của bạn gây ra. Lúc này cái cần xem không phải là có nên quản chuyện của người khác hay không, mà là xử lý tai nạn giao thông và đâm chạy thì làm thế nào, xem chương 8 mục 1.
 
-## 决定停下时，最省事的做法
+## Khi quyết định dừng lại, cách làm ít tốn công nhất
 
-1. **不要上手去搬、去扶。** 这一点没有第二种答案。理由在医学上：硬扶可能让脑出血更重，也可能让脊柱的伤更重。法律上不用担心：救人过程中造成的损害，民法典第一百八十四条已经免掉了。
-2. 隔开一点距离喊他一声，看他有没有呼吸。没呼吸就用力按压他的胸口，见第 13 节第 1 条。有呼吸就待在原地打 120，报清楚位置。
-3. 拉一个路人一起，同时打开手机录像。有人证，又有录像，比事后跟人争辩管用。
-4. 别一个人把他抬上车，也别自己垫钱送他去医院。这一步花钱最多，事后也最难收场。
-5. 你救人时自己受了伤，或者搭进去了钱。想把这笔钱要回来，见第 13 节第 39 条（救人受了伤、搭进了钱怎么办）。
+1. **Đừng ra tay bê, đỡ.** Điểm này không có câu trả lời thứ hai. Lý do nằm ở mặt y học: gồng lên đỡ có thể làm xuất huyết não nặng thêm, cũng có thể làm tổn thương cột sống nặng thêm. Về pháp lý thì không phải lo: thiệt hại gây ra trong quá trình cứu người, điều 184 của Bộ luật Dân sự đã miễn rồi.
+2. Cách xa một chút hô một tiếng, xem người ta còn thở không. Không thở thì ấn thật mạnh vào ngực người ta, xem chương 13 mục 1. Còn thở thì ở nguyên tại chỗ gọi 120, báo rõ vị trí.
+3. Kéo một người đi đường cùng vào, đồng thời mở điện thoại quay lại. Có nhân chứng, lại có video, hữu dụng hơn việc sau đó tranh cãi với người ta.
+4. Đừng một mình bê người ta lên xe, cũng đừng tự bỏ tiền ra trước đưa họ đi viện. Bước này tốn tiền nhất, sau này cũng khó kết thúc nhất.
+5. Lúc cứu người bạn bị thương, hoặc bị dính tiền vào. Muốn đòi lại khoản tiền đó, xem chương 13 mục 39 (cứu người mà bị thương, mất tiền thì xử thế nào).
 
-## 来源
+## Nguồn
 
-- 全国人大 (2020). 民法典（第一百八十四、一千零一十九、一千零二十、一千一百九十八条）. 最高人民检察院转载全文. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>
-- 最高人民法院 (2022 年第二次修正，2022 年 4 月 10 日施行). 关于适用《中华人民共和国民事诉讼法》的解释（第九十条）. <https://www.court.gov.cn/zixun/xiangqing/353651.html>
-- 全国人大常委会 (2023 年修正，2024 年 1 月 1 日施行). 民事诉讼法（第一百五十二、一百六十四条）. 上海市发展和改革委员会转载全文. <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>
-- 国务院 (2006). 诉讼费用交纳办法（国务院令第 481 号，第六、二十九条）. <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>
-- 全国人大常委会 (2025). 治安管理处罚法（2025 年修订，2026 年 1 月 1 日起施行，第二十六条第一项、第五十条第五项）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>
-- 全国人大常委会 (2018 年修正). 刑事诉讼法（第一百一十一条）. 宁夏回族自治区人民检察院转载全文. <https://www.nx.jcy.gov.cn/zwsy/qwfb/202011/t20201119_608817.html>
-- 国家互联网信息办公室、公安部、文化和旅游部、国家广播电视总局 (2024). 网络暴力信息治理规定（第十五、二十三、二十五、二十六条，2024 年 8 月 1 日施行）. 国务院公报. <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969181.html>
+- Đại hội Đại biểu Nhân dân toàn quốc (2020). Bộ luật Dân sự (các điều 184, 1019, 1020, 1198). Toàn văn do Viện Kiểm sát Nhân dân Tối cao đăng lại. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>
+- Tòa án Nhân dân Tối cao (sửa đổi lần thứ hai năm 2022, có hiệu lực từ 10/04/2022). Giải thích về việc áp dụng Bộ luật Tố tụng dân sự nước CHND Trung Hoa (điều 90). <https://www.court.gov.cn/zixun/xiangqing/353651.html>
+- Ủy ban Thường vụ Đại hội Đại biểu Nhân dân toàn quốc (sửa đổi năm 2023, có hiệu lực từ 01/01/2024). Bộ luật Tố tụng dân sự (điều 152, 164). Toàn văn do Ủy ban Phát triển và Cải cách thành phố Thượng Hải đăng lại. <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>
+- Quốc vụ viện (2006). Biện pháp nộp lệ phí tố tụng (Lệnh Quốc vụ viện số 481, điều 6, 29). <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>
+- Ủy ban Thường vụ Đại hội Đại biểu Nhân dân toàn quốc (2025). Luật Xử phạt vi phạm hành chính về an ninh trật tự công cộng (sửa đổi năm 2025, có hiệu lực từ 01/01/2026, điều 26 khoản 1 điểm 1, điều 50 khoản 1 điểm 5). <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>
+- Ủy ban Thường vụ Đại hội Đại biểu Nhân dân toàn quốc (sửa đổi năm 2018). Bộ luật Tố tụng hình sự (điều 111). Toàn văn do Viện Kiểm sát Nhân dân Khu tự trị Hồi giáo Ninh Hạ đăng lại. <https://www.nx.jcy.gov.cn/zwsy/qwfb/202011/t20201119_608817.html>
+- Văn phòng Thông tin Internet Quốc gia, Bộ Công an, Bộ Văn hóa và Du lịch, Tổng cục Phát thanh Truyền hình Quốc gia (2024). Quy định về quản trị thông tin bạo lực mạng (các điều 15, 23, 25, 26, có hiệu lực từ 01/08/2024). Công báo Quốc vụ viện. <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969181.html>

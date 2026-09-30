@@ -1,121 +1,121 @@
-# 结婚划不划算：把一笔糊涂账拆成五笔清楚账
+# Kết hôn có đáng không: tách một khoản sổ mơ hồ thành năm khoản rõ ràng
 
-很多人想问的是一个笼统的问题：结婚到底亏还是赚。这个问题里塞了好几样东西：对方能不能给情绪上的支持，能不能分担家务，能不能挣钱，以及要不要为了应付长辈去结。这几样换算不到一起，放在一起没法回答，所以本文把它拆开算。每一笔账只用官方统计或荟萃分析（把多项研究合起来算）里的数字，算不出来的地方直说算不出来。最后给一张可以自己填的清单，全文不给「该不该结」的结论。
+Điều nhiều người muốn hỏi là một câu hỏi chung chung: kết hôn rốt cuộc là lỗ hay lãi. Trong câu hỏi này nhét sẵn mấy thứ: đối phương có cho được sự nâng đỡ về cảm xúc không, có chia sẻ việc nhà không, có kiếm được tiền không, và có nên kết hôn chỉ để đối phó với người lớn trong nhà hay không. Mấy thứ này không quy đổi được cho nhau, cứ để chung một chỗ thì không trả lời được, nên bài này tách riêng ra tính. Mỗi khoản chỉ dùng những con số trong thống kê chính thức hoặc phân tích tổng hợp (gộp nhiều nghiên cứu lại với nhau rồi tính), chỗ nào tính không ra thì nói thẳng là tính không ra. Cuối bài đưa một bảng liệt kê bạn có thể tự điền, toàn bài không đưa ra kết luận “nên hay không nên kết hôn”.
 
-## 一、先把问题拆开
+## 1. Trước hết tách câu hỏi ra
 
-「结婚划不划算」里至少装着五笔账。这五笔账的单位不一样，算法也不一样，不能加在一起。
+Trong “kết hôn có đáng không” chứa ít nhất năm khoản sổ. Năm khoản này đơn vị không giống nhau, cách tính cũng không giống nhau, không thể cộng chung lại với nhau.
 
-1. 钱：一是实打实要掏出去的彩礼、婚礼、婚房，二是法律规定的财产归谁。前一项没有官方统计，后一项有明文条款。
-2. 时间：家务、照料家人、为对方的工作让步，这些都是干了活没人给钱的劳动，单位是每天多少分钟。
-3. 健康：结了婚的人和没结婚的人，死亡率差多少。这笔账只能说明两件事同时出现，说明不了这个差距是结婚带来的。
-4. 法律风险：财产怎么分，想退出要走多久，哪些付出可以回头要一笔补偿。这笔账看法律条文怎么写。
-5. 关系质量：对方给不给你情绪上的支持，两个人吵成什么样。这笔账只能用研究里算出来的关联强弱去衡量，换不成钱，也换不成时间。
+1. Tiền: một là những khoản phải móc hẳn ra ngoài là tiền sính lễ, đám cưới, nhà cưới; hai là tài sản sẽ thuộc về ai theo quy định của luật. Khoản trước không có thống kê chính thức, khoản sau có điều khoản văn bản ghi rõ.
+2. Thời gian: việc nhà, chăm sóc người thân, nhường bước công việc của mình cho công việc của đối phương — đều là thứ lao động làm xong không ai trả tiền, đơn vị tính là mỗi ngày bao nhiêu phút.
+3. Sức khỏe: người đã kết hôn và người chưa kết hôn chênh nhau bao nhiêu về tỷ lệ tử vong. Khoản này chỉ chứng minh được hai việc cùng xuất hiện, không chứng minh được khoảng chênh đó do kết hôn mang lại.
+4. Rủi ro pháp lý: tài sản chia thế nào, muốn rút lui phải đi hết bao lâu, những đóng góp nào có thể quay lại đòi một khoản bù đắp. Khoản này xem luật viết thế nào.
+5. Chất lượng mối quan hệ: đối phương có nâng đỡ bạn về cảm xúc hay không, hai người cãi nhau ra thể trạng nào. Khoản này chỉ đo được bằng độ mạnh yếu của tương quan mà nghiên cứu tính ra, không quy được thành tiền, cũng không quy được thành thời gian.
 
-第五笔最难变成数字，但最接近多数人想问的东西。
+Khoản thứ năm khó biến thành con số nhất, nhưng lại gần nhất với cái mà đa số người muốn hỏi.
 
-## 二、每笔账的数据与来源
+## 2. Số liệu và nguồn của từng khoản
 
-### 登记数据：结婚率和离婚率是两种粗率
+### Số liệu đăng ký: tỷ lệ kết hôn và tỷ lệ ly hôn là hai loại tỷ suất thô
 
-数字来自民政部《2024 年民政事业发展统计公报》。2024 年全国依法办理结婚登记 610.6 万对，比上一年少了 20.5%，结婚率 4.3‰。依法办理离婚手续 351.3 万对，离婚率 2.5‰。这 351.3 万对里，262.2 万对是在民政部门登记离婚的，89.1 万对是由法院判决或者调解离婚的。公报的注释写明了这两个率怎么算：拿当年结婚（离婚）的对数，除以当年的平均总人口数，再乘 1000‰。
+Số liệu lấy từ Công báo thống kê sự nghiệp dân chính năm 2024 của Bộ Dân chính. Năm 2024 cả nước làm thủ tục đăng ký kết hôn hợp pháp 6.106.000 cặp, ít hơn năm trước 20.5%, tỷ lệ kết hôn 4.3‰. Làm thủ tục ly hôn hợp pháp 3.513.000 cặp, tỷ lệ ly hôn 2.5‰. Trong 3.513.000 cặp đó, 2.622.000 cặp đăng ký ly hôn tại cơ quan dân chính, 891.000 cặp do tòa án phán quyết hoặc hòa giải mà ly hôn. Chú thích của công báo ghi rõ hai tỷ lệ này tính thế nào: lấy số cặp kết hôn (ly hôn) trong năm chia cho số dân bình quân của năm đó, rồi nhân 1000‰.
 
-这两个率的分母都是全体人口，所以叫粗率。「粗」指没做任何细分。它回答的是今年每一千人里有多少对去登记了结婚或者离婚，回答不了一段婚姻最后会不会散。要回答后一个问题，得有跟着同一批人长期记录的数据。本文没能在官方原文里找到这样的数据。
+Mẫu số của hai tỷ lệ này đều là toàn bộ dân số, nên gọi là tỷ suất thô. “Thô” nghĩa là không chia nhỏ ra theo bất kỳ cách nào. Nó trả lời được câu hỏi trong mỗi nghìn người năm nay có bao nhiêu cặp đi đăng ký kết hôn hoặc ly hôn, không trả lời được một cuộc hôn nhân cuối cùng có tan vỡ hay không. Muốn trả lời câu hỏi sau phải có dữ liệu theo dõi lâu dài cùng một nhóm người. Bài này không tìm được loại dữ liệu như vậy trong văn bản gốc chính thức.
 
-### 健康账：已婚者死亡率更低，但这是相关不是因果
+### Khoản sức khỏe: người đã kết hôn có tỷ lệ tử vong thấp hơn, nhưng đó là tương quan chứ không phải nhân quả
 
-有三项荟萃分析把多篇研究汇总到了一起，给出的量级是一致的。下面说的「全因死亡」，指的是不分病因、所有死亡加在一起。
+Có ba phân tích tổng hợp đã gộp nhiều nghiên cứu lại với nhau, độ lớn hiệu quả đưa ra nhất quán với nhau. “Tử vong do mọi nguyên nhân” nói dưới đây nghĩa là không phân biệt nguyên nhân bệnh, cộng tất cả các ca tử vong lại.
 
-- Manzoli 等 (2007) 汇总了 53 组比较、25 万余名老年人。这里的「没在婚姻里」包括三种人：丧偶的、离异或者分居的、从未结婚的。已婚的人和这三种人比，全因死亡 RR 为 0.88，低约一成二。RR 是两群人的死亡风险之比，小于 1 说明已婚的一方更低。95% CI 0.85–0.91 是这个数字的可信范围。三种人分开看，丧偶 1.11、离异或分居 1.16、未婚 1.11，分别高约一成、一成六和一成。男女分开算、研究做得好坏分开算、欧洲和美洲分开算，结果都不变。用最保守的算法重算一遍，RR 为 0.94，只低约百分之六。
-- Roelfs 等 (2011) 汇总了 95 篇文献、5 亿余人。从未结过婚的人和已婚的人比，全因死亡 HR 为 1.24，高约两成四。HR 和 RR 一样是个倍数，大于 1 说明风险更高。1.19–1.30 是这个数字的可信范围。年纪越大，这个差距越小。研究做得越严谨，算出来的差距也越小。
-- Wang 等 (2020) 汇总了 21 项研究、789 万余人。不在婚姻里，和全因死亡、癌症死亡、心血管死亡都有关联，男女都是如此。其中男性在心血管死亡和全因死亡上的关联更强。从未结婚的男性和从未结婚的女性比，死于卒中（脑中风）的风险高 31%，全因死亡高 9%。
+- Manzoli và cộng sự (2007) gộp 53 nhóm so sánh, hơn 250.000 người cao tuổi. “Không trong hôn nhân” ở đây gồm ba loại người: goá phụ, ly hôn hoặc phân ly, chưa từng kết hôn. Người đã kết hôn so với ba loại người này, RR tử vong do mọi nguyên nhân là 0.88, thấp hơn khoảng 12%. RR là tỷ số giữa nguy cơ tử vong của hai nhóm người, nhỏ hơn 1 nghĩa là phía người đã kết hôn thấp hơn. 95% CI 0.85–0.91 là khoảng tin cậy của con số này. Xét riêng từng loại trong ba nhóm: goá phụ 1.11, ly hôn hoặc phân ly 1.16, chưa kết hôn 1.11, cao hơn lần lượt khoảng 10%, 16% và 10%. Tách riêng nam và nữ, tách nghiên cứu làm tốt và làm kém, tách châu Âu và châu Mỹ, kết quả đều không đổi. Tính lại bằng cách bảo thủ nhất, RR là 0.94, chỉ thấp hơn khoảng 6%.
+- Roelfs và cộng sự (2011) gộp 95 tài liệu, hơn 500 triệu người. Người chưa từng kết hôn so với người đã kết hôn, HR tử vong do mọi nguyên nhân là 1.24, cao hơn khoảng 24%. HR giống RR đều là một bội số, lớn hơn 1 nghĩa là rủi ro cao hơn. 1.19–1.30 là khoảng tin cậy của con số này. Tuổi càng cao, khoảng cách này càng nhỏ. Nghiên cứu làm càng chặt chẽ, khoảng cách tính ra cũng càng nhỏ.
+- Wang và cộng sự (2020) gộp 21 nghiên cứu, hơn 7.890.000 người. Việc không có hôn nhân có liên quan với tử vong do mọi nguyên nhân, tử vong do ung thư, tử vong do tim mạch, nam nữ đều như vậy. Trong đó phía nam liên quan mạnh hơn ở tử vong do tim mạch và tử vong do mọi nguyên nhân. Nam chưa từng kết hôn so với nữ chưa từng kết hôn, nguy cơ chết vì đột quỵ (tai biến mạch máu não) cao hơn 31%, tử vong do mọi nguyên nhân cao hơn 9%.
 
-这三项研究都只是跟踪记录人群，没有分组对照。身体好、收入高、社交多的人，本来就更容易结上婚，也本来就更容易活得久。这叫选择效应。Manzoli 那篇还发现有发表偏倚的迹象。发表偏倚的意思是，结果好看的研究更容易被发表出来，汇总的时候就会偏乐观。所以这些数字只能读成已婚的人群里死亡率低一些，不能读成「结了婚你就能少死 12%」。这些研究的样本以欧美人群为主，用在国内只能当个量级参考。
+Cả ba nghiên cứu này đều chỉ theo dõi ghi nhận quần thể, không có phân nhóm đối chứng. Người sức khỏe tốt, thu nhập cao, giao tiếp rộng vốn dễ kết hôn được hơn, và vốn cũng dễ sống lâu hơn. Cái này gọi là hiệu ứng lựa chọn. Bài của Manzoli còn phát hiện dấu hiệu thiên lệch xuất bản. Thiên lệch xuất bản nghĩa là nghiên cứu có kết quả đẹp dễ được đăng hơn, khi gộp lại sẽ nghiêng về phía lạc quan. Vì vậy những con số này chỉ đọc được là trong nhóm người đã kết hôn tỷ lệ tử vong thấp hơn, không đọc được thành “kết hôn rồi bạn sẽ bớt chết 12%”. Mẫu của những nghiên cứu này chủ yếu là quần thể Âu Mỹ, dùng cho trong nước chỉ nên coi là tham chiếu về độ lớn.
 
-### 时间账：无酬劳动的性别差距是一个上限参考
+### Khoản thời gian: khoảng cách giới trong lao động không trả công là một mốc trần để tham chiếu
 
-数字来自国家统计局第三次全国时间利用调查，调查时间是 2024 年 5 月。先说清三个词。无酬劳动就是干了活没人给钱的那部分。「参与者」指当天真做了这件事的人。「参与率」指有多少比例的人当天做了这件事。结果是这样：无酬劳动的参与者每天平均花 2 小时 45 分，其中男性 1 小时 52 分、女性 3 小时 29 分。参与率 75.6%，其中男性 67.5%、女性 83.9%。家务劳动单独拿出来看，按全体居民摊平是每天 1 小时 17 分。只算当天真干了的人，是 1 小时 59 分，比 2018 年少 28 分，参与率 64.9%。陪伴照料家人单独拿出来看，按全体居民摊平是 30 分。只算当天真干了的人，是 1 小时 46 分，参与率 28.4%。
+Số liệu lấy từ Cuộc điều tra sử dụng thời gian toàn quốc lần thứ ba của Cục Thống kê Quốc gia, thời gian khảo sát là tháng 5 năm 2024. Trước hết nói rõ ba từ. Lao động không trả công là phần việc đã làm mà không ai trả tiền. “Người tham gia” chỉ người hôm đó thật sự làm việc đó. “Tỷ lệ tham gia” chỉ bao nhiêu phần trăm người hôm đó đã làm việc đó. Kết quả như sau: người tham gia lao động không trả công trung bình mỗi ngày bỏ ra 2 giờ 45 phút, trong đó nam 1 giờ 52 phút, nữ 3 giờ 29 phút. Tỷ lệ tham gia 75.6%, trong đó nam 67.5%, nữ 83.9%. Xét riêng việc nhà, tính dàn đều trên toàn bộ cư dân là 1 giờ 17 phút mỗi ngày. Chỉ tính những người hôm đó thật sự làm, là 1 giờ 59 phút, ít hơn năm 2018 là 28 phút, tỷ lệ tham gia 64.9%. Xét riêng việc chăm sóc, trông nom người thân, tính dàn đều trên toàn bộ cư dân là 30 phút. Chỉ tính những người hôm đó thật sự làm, là 1 giờ 46 phút, tỷ lệ tham gia 28.4%.
 
-2018 年的第二次调查是这样：家务劳动按全体居民摊平是 1 小时 26 分，其中男性 45 分、女性 2 小时 6 分。参与率男性 40.4%、女性 75.6%。陪伴照料孩子生活按全体居民摊平是 36 分，其中男性 17 分、女性 53 分。参与率男性 12.3%、女性 25.1%。
+Cuộc điều tra lần thứ hai năm 2018 như sau: việc nhà tính dàn đều trên toàn bộ cư dân là 1 giờ 26 phút, trong đó nam 45 phút, nữ 2 giờ 6 phút. Tỷ lệ tham gia nam 40.4%, nữ 75.6%. Chăm sóc, trông nom sinh hoạt của con tính dàn đều trên toàn bộ cư dân là 36 phút, trong đó nam 17 phút, nữ 53 phút. Tỷ lệ tham gia nam 12.3%, nữ 25.1%.
 
-这两次调查都只按性别、城乡、年龄分组，没有按结没结婚分组。所以「结婚之后每天要多干多少家务」这个问题，没有官方数字。能拿来用的是男女之间的差距。2024 年无酬劳动的男女差距是 1 小时 37 分。如果家务分工没谈清楚，两个人可能拉开的差距最多就是这么大。
+Cả hai cuộc điều tra đều chỉ phân nhóm theo giới tính, thành thị nông thôn, độ tuổi, không phân theo đã hay chưa kết hôn. Vì vậy câu hỏi “kết hôn xong mỗi ngày phải làm thêm bao nhiêu việc nhà” không có con số chính thức. Cái dùng được là khoảng cách giữa nam và nữ. Năm 2024 khoảng cách nam nữ trong lao động không trả công là 1 giờ 37 phút. Nếu hai người không bàn rõ việc phân công việc nhà, khoảng cách có thể mở ra giữa hai người nhiều nhất là cỡ này.
 
-### 钱账：默认规则、书面约定和家务补偿
+### Khoản tiền: quy tắc mặc định, thỏa thuận bằng văn bản và khoản bù đắp việc nhà
 
-彩礼、婚礼、婚房这几项没有官方统计，本文不写数字。能写清楚的是民法典婚姻家庭编定下的规则。民法典从 2021 年 1 月 1 日起施行。
+Tiền sính lễ, đám cưới, nhà cưới mấy khoản này không có thống kê chính thức, bài này không ghi số. Ghi rõ được là những quy tắc mà phần Hôn nhân – Gia đình của Bộ luật Dân sự đặt ra. Bộ luật Dân sự có hiệu lực từ 01/01/2021.
 
-- 第一千零六十二条：从结婚那天到离婚那天，这段时间里得到的四样东西，都算两个人的共同财产。一是工资、奖金、劳务报酬。二是做生意和投资的收益。三是知识产权的收益。四是继承来的或者别人赠与的财产。第四样有个例外：遗嘱或者赠与合同里写明只给一个人的，不算共同财产。共同财产两个人有同等的处理权。
-- 第一千零六十三条：有四样算个人财产，离婚的时候不进共同财产。一是结婚前就有的财产。二是身体受伤害拿到的赔偿或者补偿。三是遗嘱或者赠与合同里写明只给一方的财产。四是一方专用的生活用品。
-- 第一千零六十五条：婚前和婚后的财产归谁，两个人可以自己约定。可以约定各归各的，可以约定全部共有，也可以约定一部分各归各、一部分共有。这个约定必须写成书面的，写了就对两个人都有法律约束力。没有约定，或者约定得不清不楚，就按上面两条办。
-- 第一千零八十八条：有一方因为带孩子、照顾老人、帮着另一方工作，比对方多付出了，离婚的时候可以向对方要一笔补偿。补多少，先由两个人自己商量，商量不拢由法院判。
+- Điều 1062: bốn thứ có được trong khoảng từ ngày kết hôn đến ngày ly hôn đều tính là tài sản chung của hai người. Một là tiền lương, tiền thưởng, thù lao lao động. Hai là lợi nhuận kinh doanh và đầu tư. Ba là lợi nhuận từ quyền sở hữu trí tuệ. Bốn là tài sản thừa kế hoặc được người khác tặng cho. Thứ tư có một ngoại lệ: di chúc hoặc hợp đồng tặng cho ghi rõ chỉ cho một người thì không tính là tài sản chung. Với tài sản chung, hai người có quyền định đoạt ngang nhau.
+- Điều 1063: có bốn thứ tính là tài sản cá nhân, khi ly hôn không đưa vào tài sản chung. Một là tài sản có từ trước khi kết hôn. Hai là tiền bồi thường hoặc tiền đền bù nhận được do thân thể bị tổn hại. Ba là tài sản mà di chúc hoặc hợp đồng tặng cho ghi rõ chỉ cho một bên. Bốn là vật dụng sinh hoạt dùng riêng của một bên.
+- Điều 1065: tài sản trước và sau hôn nhân thuộc về ai, hai người có thể tự thỏa thuận. Có thể thỏa thuận mỗi người giữ phần của mình, có thể thỏa thuận tất cả cùng sở hữu, cũng có thể thỏa thuận một phần mỗi người giữ phần, một phần cùng sở hữu. Thỏa thuận này phải viết thành văn bản, viết rồi thì có hiệu lực ràng buộc pháp lý đối với cả hai người. Không thỏa thuận, hoặc thỏa thuận không rõ ràng, thì xử theo hai điều trên.
+- Điều 1088: một bên vì nuôi con, chăm sóc người già, giúp đỡ công việc của bên kia mà bỏ ra nhiều hơn đối phương, thì khi ly hôn có thể yêu cầu bên kia một khoản bù đắp. Bù bao nhiêu, trước hết do hai người tự thương lượng, thương lượng không xong thì tòa án phán.
 
-这套规则对两边都有用。挣钱多的那一方，重点看第一千零六十二条和第一千零六十五条。家里干活多的那一方，重点看第一千零八十八条。财产约定只要求写成书面的，法律上不要求去公证处公证。
+Bộ quy tắc này dùng được cho cả hai phía. Bên thu nhập cao, tập trung xem điều 1062 và điều 1065. Bên làm nhiều việc nhà, tập trung xem điều 1088. Thỏa thuận tài sản luật chỉ yêu cầu viết thành văn bản, về pháp lý không bắt buộc ra văn phòng công chứng chứng thực.
 
-### 退出成本：冷静期和诉讼条件
+### Chi phí rút lui: thời hạn tĩnh tâm và điều kiện tố tụng
 
-- 第一千零七十六条：两个人都愿意离婚的，先签一份书面离婚协议，再本人到婚姻登记机关去申请。协议里要写明孩子归谁带，财产和债务怎么处理。这些内容都得是两个人谈拢了的意见。
-- 第一千零七十七条：从登记机关收到申请那天算起的三十天里，任何一方反悔了，都可以把申请撤回来。这三十天就是常说的冷静期。冷静期过完之后的三十天里，两个人要本人去申请领离婚证，没去的就当作撤回申请。
-- 第一千零七十九条：一方想离、另一方不同意的，可以先调解，也可以直接到法院起诉。到了法院，法院也要先调解。法院确认感情确实已经破裂、调解也没用的，应当判离。下面这几种情形，调解无效的应当判离：重婚或者与他人同居，家庭暴力或者虐待遗弃，赌博吸毒等恶习屡教不改，因为感情不和分居满二年。还有一种情形：第一次判了不准离，之后两个人又分居满一年，再起诉的应当判离。
+- Điều 1076: hai người đều muốn ly hôn, trước hết ký một thỏa thuận ly hôn bằng văn bản, rồi đích thân đến cơ quan đăng ký hôn nhân nộp đơn. Trong thỏa thuận phải ghi rõ con giao ai nuôi, tài sản và nợ nần xử thế nào. Những nội dung này đều phải là ý kiến hai người đã bàn thống nhất với nhau.
+- Điều 1077: trong 30 ngày kể từ ngày cơ quan đăng ký nhận được đơn, bất kỳ bên nào đổi ý cũng có thể rút lại đơn. Ba mươi ngày đó chính là cái người ta vẫn gọi là thời hạn tĩnh tâm. Trong 30 ngày sau khi hết thời hạn tĩnh tâm, hai người phải đích thân đến xin cấp giấy chứng nhận ly hôn, không đến thì coi như rút lại đơn.
+- Điều 1079: một bên muốn ly hôn, bên kia không đồng ý, có thể hòa giải trước, cũng có thể kiện ra tòa luôn. Đến tòa, tòa án cũng phải hòa giải trước. Tòa án xác nhận tình cảm quả thật đã tan vỡ, hòa giải cũng vô ích, thì nên phán cho ly hôn. Những tình huống sau đây, hòa giải không có hiệu lực thì nên phán cho ly hôn: kết hôn trùng (đang có vợ chồng mà kết hôn với người khác) hoặc chung sống với người khác, bạo lực gia đình hoặc ngược đãi bỏ rơi, cờ bạc ma túy và các tệ nạn khác giáo dục nhiều lần không bỏ, vì tình cảm không hòa hợp mà phân ly đủ hai năm. Còn một tình huống nữa: lần đầu phán không cho ly hôn, sau đó hai người lại phân ly đủ một năm, kiện tiếp thì nên phán cho ly hôn.
 
-2024 年离婚的 351.3 万对里，有 89.1 万对是走法院判决或者调解离的。冷静期只管登记离婚，走法院打官司的不适用冷静期。
+Trong 3.513.000 cặp ly hôn năm 2024, có 891.000 cặp đi qua phán quyết hoặc hòa giải của tòa án. Thời hạn tĩnh tâm chỉ áp dụng cho ly hôn đăng ký, ly hôn qua tòa án kiện tụng không áp dụng thời hạn tĩnh tâm.
 
-### 关系质量：比「有没有结婚」更值得算的一笔
+### Chất lượng mối quan hệ: một khoản đáng tính hơn cả “có kết hôn hay không”
 
-Robles 等 (2014) 汇总了 126 篇研究、7.2 万余人。结论是：婚姻质量越高，健康越好。这里衡量两件事跟得紧不紧，用的是一个叫效应量 r 的数。r 越接近 0，说明两件事几乎不相干。r 的绝对值越大，说明跟得越紧。r 前面带个负号，表示一个高、另一个就低。这些关联的 r 在 0.07 到 0.21 之间。其中和死亡风险的 r = 0.11。和两人起冲突时的心血管反应，r = −0.13。这些数值都不大。不过吃得好不好这类健康行为和健康之间的关联，也是同一个量级。有一部分结果存在发表偏倚（好看的结果更易发表）。有些研究专门检验过男女差别，基本没发现男女不一样。这些研究多数只是跟踪记录，没有分组对照，所以推不出因果。Dhindsa 等 (2020) 这篇心血管方面的综述也指出，对婚姻满不满意、婚姻质量好不好，对心血管风险有明显影响。
+Robles và cộng sự (2014) gộp 126 nghiên cứu, hơn 72.000 người. Kết luận là: chất lượng hôn nhân càng cao, sức khỏe càng tốt. Ở đây muốn đo hai việc bám theo nhau chặt đến đâu, dùng một con số gọi là cỡ hiệu ứng r. r càng gần 0 nghĩa là hai việc gần như không dính dáng gì đến nhau. Giá trị tuyệt đối của r càng lớn nghĩa là bám theo nhau càng chặt. Trước r có dấu trừ nghĩa là cái này cao thì cái kia thấp. r của những tương quan này nằm trong khoảng 0.07 đến 0.21. Trong đó với nguy cơ tử vong r = 0.11. Với phản ứng tim mạch khi hai người xung đột, r = −0.13. Những giá trị này đều không lớn. Nhưng mức liên quan giữa các hành vi sức khỏe như ăn uống thế nào với sức khỏe cũng cùng một cỡ này. Một phần kết quả có tồn tại thiên lệch xuất bản (kết quả đẹp dễ được đăng hơn). Vài nghiên cứu đã kiểm định riêng khác biệt nam nữ, về cơ bản không thấy nam và nữ khác nhau. Đa số nghiên cứu này chỉ theo dõi ghi nhận, không có phân nhóm đối chứng, nên không suy ra được nhân quả. Bài tổng quan về tim mạch của Dhindsa và cộng sự (2020) cũng chỉ ra mức có hài lòng với hôn nhân hay không, chất lượng hôn nhân tốt hay không, đều ảnh hưởng rõ rệt tới rủi ro tim mạch.
 
-本文没有找到这样的荟萃分析：直接拿「质量差的婚姻」和「没结婚」比死亡率。所以「坏婚姻还不如不结」目前只是推出来的说法，没有数字撑着。站得住的是：「结没结婚」这个差别里混着选择效应，「婚姻质量好不好」是另外一件独立的事。只看有没有结婚、不看过得怎么样，就会把婚姻质量这笔账整个漏掉。
+Bài này không tìm được phân tích tổng hợp nào trực tiếp đem “hôn nhân kém chất lượng” so tỷ lệ tử vong với “không kết hôn”. Vì vậy “hôn nhân tệ còn chẳng bằng không cưới” hiện nay mới chỉ là câu suy ra, không có con số đỡ đằng sau. Điều đứng vững được là: trong khác biệt “có hay không có kết hôn” trộn lẫn hiệu ứng lựa chọn, còn “chất lượng hôn nhân tốt hay không” là một việc riêng độc lập. Chỉ nhìn có kết hôn hay không mà không nhìn sống ra sao, là bỏ sót cả khoản chất lượng hôn nhân.
 
-## 三、怎么给自己算：一张填空清单
+## 3. Tính cho chính mình thế nào: một bảng điền vào chỗ trống
 
-一笔账归一笔账地填。不同笔的数不要加在一起。填不出来的格子就写「不知道」。「不知道」本身也是有用的信息。
+Điền khoản nào về khoản nấy. Số của các khoản khác nhau đừng cộng chung lại. Ô nào điền không ra thì viết “không biết”. Bản thân chữ “không biết” cũng là một thông tin hữu ích.
 
-对方能提供什么（一笔一笔填）
+Đối phương có thể cung cấp gì (điền từng khoản một)
 
-- 钱：对方的收入有多少，欠了多少债，婚前有什么财产。婚后的财产，是按法律的默认规则走，还是要写一份书面约定。要写约定的话，约定里写什么。
-- 时间：对方现在每天做多少没人付钱的家务和照料。全国平均数可以拿来对照：当天真干了的人里，男性 1 小时 52 分、女性 3 小时 29 分。结婚以后这些活怎么分。有了孩子、家里老人要人照顾的时候，又怎么分。两个人里谁的工作可以往后放。
-- 关系质量：过去半年两个人起过几次冲突，每次最后是怎么收场的。你生病、失业、情绪低落的时候，对方做了什么。反过来，对方碰上这些事的时候，你做了什么。
-- 情绪价值：和对方待在一起，你是觉得精力变多了，还是被耗掉了。这个要相处几个月才看得出来，光看条件清单看不出来。
+- Tiền: thu nhập của đối phương bao nhiêu, nợ bao nhiêu, trước hôn nhân có tài sản gì. Tài sản sau hôn nhân đi theo quy tắc mặc định của luật, hay cần viết một thỏa thuận bằng văn bản. Nếu viết thỏa thuận, thỏa thuận đó ghi những gì.
+- Thời gian: hiện nay mỗi ngày đối phương làm bao nhiêu việc nhà và chăm sóc không ai trả tiền. Có thể lấy con số bình quân cả nước ra đối chiếu: trong những người hôm đó thật sự làm, nam 1 giờ 52 phút, nữ 3 giờ 29 phút. Sau khi kết hôn những việc này chia thế nào. Có con, nhà có người già cần người chăm thì lại chia thế nào. Công việc của ai trong hai người có thể đẩy lùi lại sau.
+- Chất lượng mối quan hệ: nửa năm qua hai người xung đột mấy lần, mỗi lần rốt cuộc khép lại thế nào. Khi bạn ốm, mất việc, tinh thần xuống thấp, đối phương đã làm gì. Ngược lại, khi đối phương gặp những chuyện đó, bạn đã làm gì.
+- Giá trị cảm xúc: ở cạnh đối phương, bạn thấy sức lực nhiều thêm lên hay bị hao hụt đi. Cái này phải ở với nhau vài tháng mới nhìn ra, chỉ nhìn checklist điều kiện thì không nhìn ra.
 
-自己要付出什么（一笔一笔填）
+Bản thân phải bỏ ra gì (điền từng khoản một)
 
-- 钱：为结婚这件事本身要掏多少，包括彩礼、婚礼、婚房。这笔钱如果不结婚，会用到哪儿去。
-- 时间：估一下每天要多干多少家务和照料。再估一下每周要多花多少时间在人情往来上。
-- 健康：自己的作息、吃饭、运动，会因为结婚变好还是变坏。这比荟萃分析算出来的那些数字更贴近你自己。
-- 退出成本：走登记离婚，要先等 30 天冷静期，再在接下来的 30 天内去领证。走法院，要满足第一千零七十九条写的那些情形。这段时间自己扛不扛得住。
+- Tiền: riêng chuyện kết hôn phải móc ra bao nhiêu, kể cả tiền sính lễ, đám cưới, nhà cưới. Nếu không kết hôn, khoản tiền này sẽ dùng vào đâu.
+- Thời gian: ước xem mỗi ngày phải làm thêm bao nhiêu việc nhà và chăm sóc. Rồi ước xem mỗi tuần phải tốn thêm bao nhiêu thời gian cho chuyện thăm hỏi, đi tiệc, qua lại tình nghĩa.
+- Sức khỏe: giờ giấc sinh hoạt, bữa ăn, vận động của bạn sẽ tốt lên hay xấu đi vì kết hôn. Cái này sát với chính bạn hơn những con số mà phân tích tổng hợp tính ra.
+- Chi phí rút lui: đi ly hôn đăng ký, trước hết phải chờ 30 ngày tĩnh tâm, rồi trong 30 ngày tiếp theo phải đến nhận giấy chứng nhận. Đi tòa, phải rơi vào những tình huống mà điều 1079 ghi. Thời gian đó tự mình gánh nổi không.
 
-法律上怎么保护自己（两边都适用）
+Trên pháp lý tự bảo vệ mình thế nào (áp dụng cho cả hai bên)
 
-- 婚前的财产有没有凭证，比如购房合同、银行流水、赠与合同、遗嘱。这些凭证能不能证明它是「婚前就有的」，或者「写明了只归一方」。
-- 要不要签一份书面的财产约定。这份约定是只管婚前财产，只管婚后挣的，还是两头都管。
-- 婚后是谁家务和照料干得更多。干得多的这一方，知不知道按第一千零八十八条可以要一笔补偿。两个人愿不愿意提前把补偿办法约定好。
-- 债务：婚后以个人名义借的钱，哪些会算成两个人的共同债务。另一方对这笔钱知不知情。
+- Tài sản trước hôn nhân có chứng từ không, ví dụ hợp đồng mua nhà, sao kê ngân hàng, hợp đồng tặng cho, di chúc. Những chứng từ đó có chứng minh được nó là “có từ trước hôn nhân”, hoặc “ghi rõ chỉ thuộc về một bên” không.
+- Có nên ký một thỏa thuận tài sản bằng văn bản không. Thỏa thuận này chỉ chạm tới tài sản trước hôn nhân, chỉ chạm tới cái kiếm được sau hôn nhân, hay hai đầu đều chạm.
+- Sau hôn nhân ai làm việc nhà và chăm sóc nhiều hơn. Bên làm nhiều có biết theo điều 1088 có thể yêu cầu một khoản bù đắp không. Hai người có sẵn lòng thỏa thuận trước cách bù đắp không.
+- Nợ nần: tiền vay mượn nhân danh cá nhân sau hôn nhân, phần nào sẽ bị tính thành nợ chung của hai người. Bên kia có hay không đến khoản tiền đó.
 
-为长辈结婚这一栏单独填
+Khoản cưới vì người lớn — điền riêng một mục
 
-- 长辈能得到什么：心里踏实，面子上过得去，不用再催婚，将来有人养老。
-- 这几样里哪些真是长辈的好处，哪些其实是自己的好处。
-- 上面三栏的成本，全都由自己承担。长辈得到的那些好处，不会自动变成自己的健康，也不会自动变成自己的关系质量。
-- 这么分开写完，这笔账是重是轻，由填表的人自己判断。
+- Người lớn được gì: lòng yên ổn, thể diện qua được, khỏi phải giục cưới nữa, mai này có người dưỡng già.
+- Trong mấy cái đó, cái nào thật là lợi của người lớn, cái nào thật ra là lợi của chính mình.
+- Chi phí của ba phần trên, tất cả do mình gánh. Những lợi ích người lớn nhận được sẽ không tự động biến thành sức khỏe của mình, cũng không tự động biến thành chất lượng mối quan hệ của mình.
+- Viết tách bạch thế này xong, khoản này nặng hay nhẹ, do người điền bảng tự phán đoán.
 
-## 四、常见误区
+## 4. Những hiểu lầm thường gặp
 
-把两种离婚率搞混。一种是粗离婚率，算的是每一千人里有多少对离婚，2024 年是 2.5‰。另一种是「离结比」，算的是当年离婚的对数除以当年结婚的对数，351.3 / 610.6 ≈ 57.5%。离结比的分子和分母不是同一批人，今年离婚的这些人，多数是好多年前结的婚。结婚的人一少，这个比值就会自己往上跳，所以它说明不了「一半的婚姻会离」。民政部的公报里也没有这个指标。
+Lẫn lộn hai loại tỷ lệ ly hôn với nhau. Một loại là tỷ suất ly hôn thô, tính trong mỗi nghìn người có bao nhiêu cặp ly hôn, năm 2024 là 2.5‰. Loại kia là “tỷ số ly hôn trên kết hôn”, tính số cặp ly hôn trong năm chia số cặp kết hôn trong năm, 3.513.000 / 6.106.000 ≈ 57.5%. Tử số và mẫu số của tỷ số ly hôn trên kết hôn không phải cùng một nhóm người — những người ly hôn năm nay phần lớn cưới từ nhiều năm trước. Người đi cưới ít đi, cái tỷ số này tự nó sẽ nhảy lên, nên nó không nói lên được “một nửa các cuộc hôn nhân sẽ đổ vỡ”. Công báo của Bộ Dân chính cũng không có chỉ tiêu này.
 
-把「同时出现」当成「因为所以」。已婚的人死亡率低 12% 左右，这是把多篇研究合起来算出来的结果。但身体好、收入高、社交多这些条件，本来就同时影响两件事：一个人能不能结上婚，和一个人能不能活得久。这笔账可以算，但要打折看，也不能拿它代替对眼前这段具体关系的判断。
+Coi “hai việc cùng xuất hiện” thành “vì cái này nên có cái kia”. Người đã kết hôn có tỷ lệ tử vong thấp hơn khoảng 12%, đó là kết quả gộp nhiều nghiên cứu lại tính ra. Nhưng các điều kiện như sức khỏe tốt, thu nhập cao, giao tiếp rộng vốn cùng lúc tác động tới hai việc: một người có kết hôn được không, và một người sống lâu được không. Khoản này tính được, nhưng phải nhìn sau khi chiết khấu, và không thể lấy nó thay cho phán đoán về mối quan hệ cụ thể ngay trước mắt.
 
-把结婚当成一项要完成的任务。当成任务，就只盯着「结没结」这个状态，不看「过得怎么样」。可是关系质量对健康的影响独立于结没结婚，任务式的决定通常把这笔账整个漏掉。
+Coi kết hôn là một nhiệm vụ phải hoàn thành. Coi là nhiệm vụ thì chỉ dòm vào trạng thái “đã cưới hay chưa”, không dòm “sống ra sao”. Nhưng ảnh hưởng của chất lượng mối quan hệ tới sức khỏe độc lập với đã cưới hay chưa, kiểu quyết định theo nhiệm vụ thường bỏ sót nguyên khoản này.
 
-把全国平均数当成自己的数。时间利用调查里的男女差距，是全国平均。财产规则是法律给的默认设置，可以用一份书面约定改掉。全国数字只能给你一个量级、一个谈判的起点，给不了结论。
+Lấy con số bình quân cả nước làm con số của mình. Khoảng cách nam nữ trong cuộc điều tra sử dụng thời gian là bình quân cả nước. Quy tắc tài sản là thiết lập mặc định luật đưa ra, có thể đổi bằng một thỏa thuận bằng văn bản. Con số cả nước chỉ cho bạn một độ lớn, một điểm khởi đầu để thương lượng, không cho được kết luận.
 
-没有官方数字的地方，别拿民间数字去填。彩礼、婚礼、养孩子的成本都没有官方统计，所以本文空着。自己填自己那份真实的数，比引用任何机构的估算都准。
+Chỗ không có con số chính thức, đừng lấy con số trong dân điền vào. Tiền sính lễ, đám cưới, chi phí nuôi con đều không có thống kê chính thức, nên bài này để trống. Tự điền con số thật của chính mình thì chuẩn hơn trích dẫn bất kỳ con số ước tính của cơ quan nào.
 
-## 来源
+## Nguồn
 
-- 民政部 (2025). 2024 年民政事业发展统计公报（五（二）1 婚姻登记服务、注释 5）. <https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html>（PDF：<https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf>）
-- 国家统计局 (2024). 第三次全国时间利用调查公报（第一号、第二号、第三号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>、<https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html>；国家统计局社科文司负责人答记者问. <https://www.stats.gov.cn/sj/sjjd/202410/t20241031_1957218.html>
-- 国家统计局 (2019). 2018 年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>
-- 全国人民代表大会 (2020). 中华人民共和国民法典（第一千零六十二、一千零六十三、一千零六十五、一千零七十六、一千零七十七、一千零七十九、一千零八十八条）. 国家法律法规数据库 <https://flk.npc.gov.cn/detail?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8&id=ff808081729d1efe01729d50b5c500bf>；条文全文见最高人民法院公报转载 <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>
-- 民政部 (2020). 关于贯彻落实《中华人民共和国民法典》中有关婚姻登记规定的通知（民发〔2020〕116 号）. <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm>
+- Bộ Dân chính (2025). Công báo thống kê sự nghiệp dân chính năm 2024 (V.2.1 dịch vụ đăng ký kết hôn, chú thích 5). <https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html> (PDF: <https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf>)
+- Cục Thống kê Quốc gia (2024). Công báo điều tra sử dụng thời gian toàn quốc lần thứ ba (số thứ nhất, số thứ hai, số thứ ba). <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html>; <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>; <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html>; Người phụ trách Vụ Khoa học xã hội và Văn hóa của Cục Thống kê Quốc gia trả lời phỏng vấn báo giới. <https://www.stats.gov.cn/sj/sjjd/202410/t20241031_1957218.html>
+- Cục Thống kê Quốc gia (2019). Công báo điều tra sử dụng thời gian toàn quốc năm 2018. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>
+- Đại hội Đại biểu Nhân dân toàn quốc (2020). Bộ luật Dân sự nước CHND Trung Hoa (các điều 1062, 1063, 1065, 1076, 1077, 1079, 1088). Cơ sở dữ liệu pháp luật quốc gia <https://flk.npc.gov.cn/detail?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B0%91%E6%B3%95%E5%85%B8&id=ff808081729d1efe01729d50b5c500bf>; toàn văn điều khoản xem bản đăng lại của Công báo Tòa án Nhân dân Tối cao <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html>
+- Bộ Dân chính (2020). Thông báo về việc thực hiện các quy định đăng ký hôn nhân trong Bộ luật Dân sự nước CHND Trung Hoa (Dân phát〔2020〕số 116). <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm>
 - Manzoli L, Villari P, Pirone GM, Boccia A (2007). Marital status and mortality in the elderly: a systematic review and meta-analysis. Soc Sci Med 64:77–94. <https://doi.org/10.1016/j.socscimed.2006.08.031>
 - Roelfs DJ, Shor E, Kalish R, Yogev T (2011). The rising relative risk of mortality for singles: meta-analysis and meta-regression. Am J Epidemiol 174(4):379–389. <https://doi.org/10.1093/aje/kwr111>
 - Wang Y, Jiao Y, Nie J, et al. (2020). Sex differences in the association between marital status and the risk of cardiovascular, cancer, and all-cause mortality: a systematic review and meta-analysis of 7,881,040 individuals. Glob Health Res Policy 5:4. <https://doi.org/10.1186/s41256-020-00133-8>

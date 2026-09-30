@@ -1,80 +1,80 @@
-# 第 33 节：残疾之后怎么活
+# Chương 33: Sống thế nào khi khuyết tật
 
-2026-09-21。起因是读者提出全书缺残疾这一块，问要不要补身体、心理、生活三方面。
+2026-09-21. Khởi nguồn là độc giả nêu toàn sách còn thiếu mảng khuyết tật, hỏi có nên bổ sung ba mặt thể chất, tâm lý, sinh hoạt không.
 
-先查了已有覆盖：全书跟残疾有关的只有四处，且全在「证明和钱」这一侧——第 24 节第 10、11 条（伤残鉴定时机、残疾人证），第 7 节第 9 条（两项补贴），第 19 节（工伤劳动能力鉴定），第 17 节第 7、8 条（长期护理保险、长期卧床压疮，写的是老人不是残疾人）。也就是说书里回答了「怎么把残疾证明出来、能领哪笔钱」，完全没回答「证办下来之后日子怎么过」。缺的是康复、并发症、辅具、无障碍、就业、教育、心理、照护者、精神与智力残疾的监护这几块。和用户确认后新开第 33 节，五块全写，共 21 条。
+Trước hết đã rà phần có sẵn: toàn sách liên quan tới khuyết tật chỉ có bốn chỗ và đều nằm ở phía “chứng nhận và tiền” — mục 10, 11 chương 24 (thời điểm giám định thương tật, giấy chứng nhận người khuyết tật), mục 9 chương 7 (hai khoản phụ cấp), chương 19 (giám định khả năng lao động khi tai nạn lao động), mục 7, 8 chương 17 (bảo hiểm chăm sóc dài hạn, loét do nằm lâu — viết về người già chứ không phải người khuyết tật). Tức là sách đã trả lời “làm sao chứng minh được khuyết tật, được lĩnh khoản tiền nào”, nhưng hoàn toàn chưa trả lời “lấy được chứng rồi thì ngày tháng sống thế nào”. Cái thiếu là phục hồi chức năng, biến chứng, công cụ hỗ trợ, không rào cản, việc làm, giáo dục, tâm lý, người chăm sóc, giám hộ cho khuyết tật tinh thần và trí tuệ. Sau khi xác nhận với người dùng, mở chương 33 mới, viết đủ năm mảng, tổng cộng 21 mục.
 
-定位：只写残疾已经发生之后。怎么防住致残在第 1、13 节，不重复。四种口径并行（死亡率、金钱、时间、人身自由），不做跨口径换算。
+Định vị: chỉ viết sau khi khuyết tật đã xảy ra. Cách phòng tránh gây khuyết tật ở chương 1 và 13, không lặp. Bốn trục đo song song (tử vong, tiền, thời gian, tự do thân xác), không quy đổi chéo trục.
 
-## 来源逐条核对
+## Đối chiếu nguồn từng mục
 
-取数路径沿用本仓库的老办法：国务院政策文件库 JSON 接口（`searchfield=title`）取行政法规和部门文件，`flk.npc.gov.cn` 的搜索 API + docx 下载取全国人大制定的法律并用 `sxx` 字段确认现行有效，Europe PMC REST 取英文文献题录与摘要原文。Europe PMC 本轮多次返回 500/503，按精确标题重试可通。
+Đường lấy số liệu kế thừa cách cũ của repo này: giao diện JSON của kho văn bản chính sách Quốc vụ viện (`searchfield=title`) lấy pháp quy hành chính và văn bản bộ ngành; API tìm kiếm của `flk.npc.gov.cn` cộng tải docx lấy luật do Nhân đại toàn quốc ban hành và dùng trường `sxx` xác nhận còn hiệu lực; Europe PMC REST lấy bản ghi và nguyên văn tóm tắt của văn liệu tiếng Anh. Europe PMC vòng này nhiều lần trả 500/503, thử lại theo tiêu đề chính xác thì thông.
 
-### 中文法规（全部逐字取到全文并核对条款号）
+### Pháp quy tiếng Trung (toàn bộ lấy được toàn văn từng chữ và đối chiếu số điều khoản)
 
-| 文件 | 现行版本核实 | 用在 | 核对到的原文要点 |
+| Văn bản | Đối chiếu bản hiện hành | Dùng ở | Điểm chính nguyên văn đã đối chiếu |
 | --- | --- | --- | --- |
-| 精神卫生法 | flk `sxx=3`（有效），2018-04-27 修正；附则「本法自2013年5月1日起施行」 | 第 3 条 | 第三十条「精神障碍的住院治疗实行自愿原则」+ 两项情形逐字；第三十一条监护人同意；第三十二条三日内要求再次诊断、二名初次诊断医师以外的精神科执业医师、可自主委托鉴定；第三十五条不得实施住院治疗；第七十八条第一项赔偿责任。另取第二十八条（近亲属、所在单位、公安机关应当立即制止并送诊；医疗机构不得拒绝诊断）与第七十五条（医疗机构责任）写进备注 |
-| 无障碍环境建设法 | flk `sxx=3`，2023-06-28 公布、2023-09-01 施行 | 第 10、13 条 | 第十八条既有设施改造计划；第十九条「对符合条件的残疾人、老年人家庭应当给予适当补贴」；第三十五条紧急呼叫系统无障碍功能；第四十六条导盲犬、导听犬、辅助犬；第六十二条投诉举报「应当及时处理并予以答复」；第六十三条检察建议与公益诉讼 |
-| 残疾人保障法 | flk `sxx=3`，2018-10-26 修正 | 第 11、12、13、21 条 | 第三条禁止基于残疾的歧视；第三十六条税收优惠与免除行政事业性收费；第三十八条招用转正晋级等不得歧视、单位应改造劳动场所；第五十条盲人免费乘市内公交、免费携带随身必备辅助器具；第六十四条责令改正与可提起诉讼 |
-| 民法典 | flk `sxx=3`，2021-01-01 施行 | 第 19、20 条 | 第二十一、二十二、二十三、二十四条（行为能力认定与恢复、有关组织清单）；第二十八条监护人法定顺序；第三十一条争议指定与临时监护；第三十三条意定监护；第一千一百八十八、一千一百八十九条监护人侵权责任与委托监护 |
-| 法律援助法 | flk `sxx=3`，2021-08-20 公布、2022-01-01 施行 | 第 21 条 | 第四十二条第一项「无固定生活来源的未成年人、老年人、残疾人等特定群体」免予核查经济困难状况；第四十五条无障碍设施设备和服务 |
-| 广告法 | flk `sxx=3`，2021-04-29 修正 | 第 6 条 | 第四条虚假或引人误解；第十六条四项禁止内容逐字；第十七条非医疗广告禁止涉及疾病治疗功能 |
-| 道路交通安全法 | flk `sxx=3`，2021-04-29 修正 | 第 16 条备注 | 第五十八条残疾人机动轮椅车在非机动车道内最高时速不得超过十五公里；第一百一十九条第四项把残疾人机动轮椅车列入非机动车 |
-| 个人所得税法 | flk `sxx=3`，2018-08-31 修正、2019-01-01 施行 | 第 12 条 | 第五条第一项「残疾、孤老人员和烈属的所得」可减征，幅度和期限由省级政府规定并报同级人大常委会备案 |
-| 残疾预防和残疾人康复条例 | gov.cn 政策库，国务院令第 675 号，附则「本条例自2017年7月1日起施行」 | 第 7、9 条 | 第二十条社区康复的具体内容；第二十六条残疾儿童康复救助制度、重度残疾人护理补贴、「对基本型辅助器具配置给予补贴」 |
-| 残疾人教育条例 | gov.cn 政策库，国务院令第 674 号，附则「本条例自2017年5月1日起施行」 | 第 15 条 | 第七条不得拒绝招收；第二十条残疾人教育专家委员会与评估、评估结果属隐私；第二十三条随班就读可适用普通课程但学习要求有适度弹性；第二十九条普通职业学校不得拒收；第五十二条国家教育考试的合理便利；送教上门与纳入学籍管理 |
-| 残疾人就业条例 | gov.cn 政策库，国务院令第 488 号，附则「本条例自2007年5月1日起施行」 | 第 11、21 条 | 第四条禁止就业歧视；第八条「比例不得低于本单位在职职工总数的1.5%」；第九条达不到比例应缴纳保障金；第十三条在职残疾职工不得歧视 |
-| 残疾人就业保障金征收使用管理办法 | gov.cn 政策库，财税〔2015〕72 号 | 第 11 条 | 第六条 1.5%；第八条保障金年缴纳额公式逐字；第十六条注册 3 年内、在职职工 20 人以下小微企业免征 |
-| 国务院关于建立残疾儿童康复救助制度的意见 | gov.cn 政策库，国发〔2018〕20 号 | 第 9 条 | 救助对象 0—6 岁五类残疾儿童和孤独症儿童、三类家庭范围逐字；「有条件的地区，可扩大残疾儿童康复救助年龄范围，也可放宽对救助对象家庭经济条件的限制」；经费保障标准由县级以上地方政府分类确定并动态调整；定点机构准入退出监管与黑名单制度 |
-| 残疾人参加普通高等学校招生全国统一考试管理规定 | gov.cn 政策库，教学〔2017〕4 号，2017-04-07 发布施行（修订 2015 年暂行版） | 第 14 条 | 第五条十二项合理便利逐字；第六项延长 50%／30% 的两种情形逐字；第七条申请程序与第二代及以上残疾人证；第八条向省级教育行政部门复核；第九条免听外语的折算公式；第十八条其他国家教育考试可参照 |
-| 机动车驾驶证申领和使用规定 | gov.cn 公报，公安部令第 172 号，「自2025年1月1日起施行」 | 第 16 条 | 附件 1 身体条件第 5、6、8 目逐字（C5 的下肢与上肢条件、单手手掌缺失、左下肢缺失可申请 C2）；视力一项单眼视力障碍优眼 5.0 且水平视野 150 度；听力一项佩戴助听设备可申请 C1／C2 并须佩戴；第七十八条车身设置残疾人机动车专用标志；第八十五条身体条件证明须省级卫健部门认定的专门医疗机构出具；每三年一次身体检查、记分周期结束后三十日内提交 |
-| 加快建立长期护理保险制度实施方案 | gov.cn 政策库，国家医保局等八部门 2026 年印发 | 第 8 条 | 保障对象、6 个月失能持续、不设起付标准、50%／70% 支付比例、年度限额不超过上年度城乡居民人均可支配收入的 50%、6 个月固定等待期。与第 17 节第 7 条引的是同一份文件，核对结论一致 |
+| “Luật Sức khỏe tinh thần” | flk `sxx=3` (hiệu lực), sửa đổi 2018-04-27; chương cuối “Luật này thi hành từ ngày 1/5/2013” | Mục 3 | Điều 30 “việc điều trị nội trú đối với rối loạn tâm thần thực hiện nguyên tắc tự nguyện” + hai tình huống chép từng chữ; Điều 31 người giám hộ đồng ý; Điều 32 trong ba ngày yêu cầu chẩn đoán lại, hai y sĩ tâm thần hành nghề khác hai người chẩn đoán lần đầu, có thể tự chủ ủy quyền giám định; Điều 35 không được thực hiện điều trị nội trú; Điều 78 khoản 1 trách nhiệm bồi thường. Ngoài ra lấy Điều 28 (thân quyến gần, đơn vị công tác, cơ quan công an phải lập tức ngăn chặn và đưa đi chẩn đoán; cơ sở y tế không được từ chối chẩn đoán) và Điều 75 (trách nhiệm của cơ sở y tế) đưa vào Ghi chú |
+| “Luật Xây dựng môi trường không rào cản” | flk `sxx=3`, công bố 2023-06-28, thi hành 2023-09-01 | Mục 10, 13 | Điều 18 kế hoạch cải tạo cơ sở hiện hữu; Điều 19 “đối với hộ người khuyết tật, người cao tuổi đủ điều kiện phải cho trợ cấp thích đáng”; Điều 35 tính năng không rào cản của hệ thống gọi khẩn cấp; Điều 46 chó dẫn đường, chó dẫn nghe, chó hỗ trợ; Điều 62 khiếu nại - tố giác “phải xử lý kịp thời và trả lời”; Điều 63 kiến nghị của kiểm sát viên và kiện tụng vì lợi ích công |
+| “Luật Bảo đảm quyền lợi người khuyết tật” | flk `sxx=3`, sửa đổi 2018-10-26 | Mục 11, 12, 13, 21 | Điều 3 cấm phân biệt đối xử dựa trên khuyết tật; Điều 36 ưu đãi thuế và miễn các khoản phí hành chính sự nghiệp; Điều 38 tuyển dụng, chuyển chính thức, thăng cấp v.v. không được phân biệt đối xử, đơn vị phải cải tạo nơi làm việc; Điều 50 người mù miễn phí đi xe buýt nội thành, miễn phí mang theo dụng cụ hỗ trợ thiết yếu theo người; Điều 64 ra lệnh sửa chữa và có thể khởi kiện |
+| “Bộ luật Dân sự” | flk `sxx=3`, thi hành 2021-01-01 | Mục 19, 20 | Điều 21, 22, 23, 24 (nhận định và khôi phục năng lực hành vi, danh sách các tổ chức liên quan); Điều 28 thứ tự pháp định của người giám hộ; Điều 31 tranh chấp chỉ định và giám hộ tạm thời; Điều 33 giám hộ theo ý chí; Điều 1188, 1189 trách nhiệm xâm hại của người giám hộ và giám hộ ủy thác |
+| “Luật Trợ giúp pháp lý” | flk `sxx=3`, công bố 2021-08-20, thi hành 2022-01-01 | Mục 21 | Điều 42 khoản 1 “trẻ em, người cao tuổi, người khuyết tật v.v. nhóm đối tượng đặc biệt không có nguồn sống cố định” được miễn kiểm tra hoàn cảnh kinh tế khó khăn; Điều 45 cơ sở vật chất - thiết bị và dịch vụ không rào cản |
+| “Luật Quảng cáo” | flk `sxx=3`, sửa đổi 2021-04-29 | Mục 6 | Điều 4 giả mạo hoặc gây hiểu lầm; Điều 16 bốn nội dung cấm chép từng chữ; Điều 17 quảng cáo phi y tế cấm nhắc tới chức năng chữa bệnh |
+| “Luật An toàn giao thông đường bộ” | flk `sxx=3`, sửa đổi 2021-04-29 | Ghi chú mục 16 | Điều 58 xe lăn máy của người khuyết tật đi trong làn xe không máy, tốc độ tối đa không quá 15 km/h; khoản 4 Điều 119 đưa xe lăn máy của người khuyết tật vào nhóm xe không máy |
+| “Luật Thuế thu nhập cá nhân” | flk `sxx=3`, sửa đổi 2018-08-31, thi hành 2019-01-01 | Mục 12 | Điều 5 khoản 1 “thu nhập của người khuyết tật, người cô lão và gia đình liệt sĩ” có thể giảm thu, mức và thời hạn do Chính phủ cấp tỉnh quy định và lưu hồ sơ với Ủy ban Thường vụ Nhân đại cùng cấp |
+| “Điều lệ Phòng ngừa khuyết tật và phục hồi chức năng người khuyết tật” | kho chính sách gov.cn, Lệnh Quốc vụ viện số 675, chương cuối “Điều lệ này thi hành từ ngày 1/7/2017” | Mục 7, 9 | Điều 20 nội dung cụ thể của phục hồi cộng đồng; Điều 26 chế độ cứu trợ phục hồi trẻ em khuyết tật, phụ cấp chăm sóc người khuyết tật nặng, “trợ cấp cho việc trang bị dụng cụ hỗ trợ kiểu cơ bản” |
+| “Điều lệ Giáo dục người khuyết tật” | kho chính sách gov.cn, Lệnh Quốc vụ viện số 674, chương cuối “Điều lệ này thi hành từ ngày 1/5/2017” | Mục 15 | Điều 7 không được từ chối tuyển nhận; Điều 20 ủy ban chuyên gia giáo dục người khuyết tật và đánh giá, kết quả đánh giá thuộc dữ liệu riêng tư; Điều 23 học cùng lớp bình thường có thể áp chương trình phổ thông nhưng yêu cầu học có độ co giãn vừa phải; Điều 29 trường dạy nghề phổ thông không được từ chối nhận; Điều 52 các thuận lợi hợp lý trong kỳ thi giáo dục quốc gia; dạy đến tận nhà và đưa vào quản lý tư cách học sinh |
+| “Điều lệ Việc làm người khuyết tật” | kho chính sách gov.cn, Lệnh Quốc vụ viện số 488, chương cuối “Điều lệ này thi hành từ ngày 1/5/2007” | Mục 11, 21 | Điều 4 cấm phân biệt đối xử trong việc làm; Điều 8 “tỷ lệ không được thấp hơn 1.5% tổng số lao động đang làm việc của đơn vị”; Điều 9 không đạt tỷ lệ phải nộp quỹ bảo đảm; Điều 13 lao động khuyết tật đang làm việc không được bị phân biệt đối xử |
+| “Biện pháp quản lý thu nộp và sử dụng quỹ bảo đảm việc làm người khuyết tật” | kho chính sách gov.cn, Tài chính [2015] số 72 | Mục 11 | Điều 6: 1.5%; Điều 8 công thức số nộp quỹ hằng năm chép từng chữ; Điều 16 doanh nghiệp nhỏ vi mô đăng ký trong 3 năm, lao động dưới 20 người được miễn thu |
+| “Ý kiến của Quốc vụ viện về xây dựng chế độ cứu trợ phục hồi chức năng trẻ em khuyết tật” | kho chính sách gov.cn, Quốc phát [2018] số 20 | Mục 9 | Đối tượng cứu trợ là năm loại trẻ em khuyết tật 0—6 tuổi và trẻ tự kỷ; phạm vi ba loại hộ gia đình chép từng chữ; “những nơi có điều kiện có thể mở rộng độ tuổi cứu trợ phục hồi trẻ em khuyết tật, cũng có thể nới lỏng giới hạn điều kiện kinh tế gia đình của đối tượng cứu trợ”; chuẩn bảo đảm kinh phí do chính quyền địa phương cấp huyện trở lên phân loại xác định và điều chỉnh động; giám sát vào - ra của cơ sở định điểm và chế độ danh sách đen |
+| “Quy định quản lý người khuyết tật dự thi kỳ thi tuyển sinh đại học thống nhất toàn quốc” | kho chính sách gov.cn, Giáo học [2017] số 4, phát hành và thi hành 2017-04-07 (sửa bản tạm hành 2015) | Mục 14 | Điều 5 mười hai thuận lợi hợp lý chép từng chữ; khoản 6 hai tình huống kéo dài 50%／30% chép từng chữ; Điều 7 thủ tục xin và giấy chứng nhận người khuyết tật thế hệ hai trở lên; Điều 8 xin cơ quan hành chính giáo dục cấp tỉnh đối soát; Điều 9 công thức quy đổi cho người miễn thi nghe ngoại ngữ; Điều 18 các kỳ thi giáo dục quốc gia khác có thể tham chiếu |
+| “Quy định xin cấp và sử dụng giấy phép lái xe cơ giới” | công báo gov.cn, Lệnh Bộ Công an số 172, “thi hành từ ngày 1/1/2025” | Mục 16 | Phụ lục 1, mục 5, 6, 8 điều kiện thể chất chép từng chữ (điều kiện chi dưới và chi trên của C5, mất lòng bàn tay một bàn tay, mất chi dưới trái có thể xin C2); mục thị lực: rối loạn thị lực một mắt thì mắt tốt đạt 5.0 và thị trường ngang 150 độ; mục thính lực: đeo thiết bị trợ thính có thể xin C1／C2 và bắt buộc phải đeo; Điều 78 thân xe gắn dấu hiệu xe cơ giới chuyên dùng cho người khuyết tật; Điều 85 giấy chứng nhận điều kiện thể chất phải do cơ sở y tế chuyên môn được cơ quan vệ sinh - y tế cấp tỉnh công nhận cấp; ba năm một lần khám thể chất, nộp trong 30 ngày sau khi chu kỳ ghi điểm kết thúc |
+| “Phương án thực hiện đẩy nhanh xây dựng chế độ bảo hiểm chăm sóc dài hạn” | kho chính sách gov.cn, Cục Bảo hiểm y tế quốc gia cùng tám bộ ngành phát hành năm 2026 | Mục 8 | Đối tượng bảo đảm, mất năng lực kéo dài 6 tháng, không đặt mức khởi điểm chi trả, tỷ lệ chi 50%／70%, hạn mức năm không quá 50% thu nhập khả dụng bình quân đầu người dân thành thị - nông thôn năm trước, thời gian chờ cố định 6 tháng. Mục 7 chương 17 trích cùng một văn bản, kết luận đối chiếu nhất quán |
 
-**为什么第 8 条敢写「不只给老人」**：这份文件通篇写的是「参保人员」和「失能人员」，全文没有出现年龄门槛，唯一的资格条件是参保缴费、失能持续 6 个月以上、评估认定。第 17 节第 7 条把它写成老人条目，是因为那一节的受众是老人，不是因为文件限定了年龄。
+**Vì sao mục 8 dám viết “không chỉ cho người già”**: văn bản này từ đầu đến cuối viết về “người tham gia bảo hiểm” và “người mất năng lực”, toàn văn không xuất hiện ngưỡng tuổi, điều kiện tư cách duy nhất là nộp phí bảo hiểm, mất năng lực kéo dài trên 6 tháng, được đánh giá - công nhận. Mục 7 chương 17 viết nó thành mục cho người già là vì độc giả của chương đó là người già, không phải vì văn bản giới hạn tuổi.
 
-### 英文文献（Europe PMC 取题录与摘要原文，数字逐项对照）
+### Văn liệu tiếng Anh (Europe PMC lấy bản ghi và nguyên văn tóm tắt, số đối chiếu từng mục)
 
-| 文献 | 用在 | 核到的数字 |
+| Văn liệu | Dùng ở | Số đã đối chiếu |
 | --- | --- | --- |
-| Krassioukov 2009, Arch Phys Med Rehabil 90(4):682-695, doi:10.1016/j.apmr.2008.10.017 | 第 1 条 | 检索 Medline／CINAHL／EMBASE／PsycINFO，纳入 31 项研究含 6 项 RCT；急性期非药物处理（直立体位、松开紧身衣物、去除诱发刺激）为 level 5 evidence；哌唑嗪 level 1、硝苯地平与前列腺素 E2 level 2；预防策略主要为 level 4、level 5 |
-| Savic 2018, Spinal Cord 56(1):2-6, doi:10.1038/sc.2017.98 | 第 2 条 | 2304 例 tSCI，1991—2010 入院、活过伤后第一年、出院时有神经功能缺损，随访至 2014-12-31；63 例（2.7%）由自杀未遂致伤；533 人死亡，4.2% 死于自杀，91% 的自杀在伤后前 10 年；年龄标化自杀死亡率 62.5/10 万/年（95% CI 36.4–88.6），2014 年英格兰和威尔士普通人群 12.2/10 万；自杀未遂致伤者死亡 OR 4.32、自杀 OR 9.46，均 P<0.001 |
-| Schulz & Beach 1999, JAMA 282(23):2215-2219, doi:10.1001/jama.282.23.2215 | 第 4 条 | 1993—1998，平均随访 4.5 年，四个美国社区，392 名照护者 + 427 名非照护者，66—96 岁，均与配偶同住；四年内 103 人（12.6%）死亡；有照护紧张者 RR 1.63（95% CI 1.00–2.65），无紧张者 RR 1.08（0.61–1.90），配偶失能但不照护者 RR 1.37（0.73–2.58） |
-| Brienza 2010, J Am Geriatr Soc 58(12):2308-2314, doi:10.1111/j.1532-5415.2010.03168.x | 第 5 条 | 12 家养老院，2004-06 至 2008-05 招募 232 人，≥65 岁、每天坐轮椅≥6 小时、Braden≤18；全部先配合身轮椅后随机；坐骨结节压疮 SFC 组 8 例（6.7%）vs SPC 组 1 例（0.9%），P=.04；坐骨+骶尾合计 21 例（17.6%）vs 12 例（10.6%），P=.14 |
-| Langhorne & Ramachandra 2020, Cochrane Database Syst Rev 4:CD000197, doi:10.1002/14651858.CD000197.pub4 | 第 17 条 | 29 项试验、5902 人；末次随访（中位 1 年）poor outcome OR 0.77（0.69–0.87）、death OR 0.76（0.66–0.88）、death or dependency OR 0.75（0.66–0.85），均 moderate-quality；绝对差「every 100 participants… two extra survivors, six more living at home, and six more living independently」 |
-| AVERT Trial Collaboration group 2015, Lancet 386(9988):46-55, doi:10.1016/S0140-6736(15)60690-0 | 第 17 条 | 5 国 56 个急性卒中单元，2104 人；3 个月良好结局（mRS 0–2）480（46%）vs 525（50%），adjusted OR 0.73（0.59–0.90），P=0.004；死亡 88 vs 72，OR 1.34（0.93–1.93），P=0.113 |
-| Lin 2023, Lancet 402(10404):786-797, doi:10.1016/S0140-6736(23)01406-X | 第 18 条 | ACHIEVE，美国 4 个社区，977 人，70—84 岁，未经治疗的听力损失；3 年整体认知变化，干预组 −0.200（−0.256 到 −0.144）vs 对照 −0.202（−0.258 到 −0.145），差值 0.002（−0.077 到 0.081），P=0.96；预设敏感性分析两个来源人群间交互 p=0.010；无归因于研究的严重不良事件 |
-| WHO. Disability and health（fact sheet） | 导语 | 「An estimated 1.3 billion people experience significant disability. This represents 16% of the world's population, or 1 in 6 of us.」「Some persons with disabilities die up to 20 years earlier than those without disabilities.」「Persons with disabilities have twice the risk of developing conditions such as depression, asthma, diabetes, stroke, obesity or poor oral health.」 |
+| Krassioukov 2009, Arch Phys Med Rehabil 90(4):682-695, doi:10.1016/j.apmr.2008.10.017 | Mục 1 | Tra cứu Medline／CINAHL／EMBASE／PsycINFO, thu 31 nghiên cứu gồm 6 RCT; xử lý không dùng thuốc giai đoạn cấp (tư thế đứng thẳng, nới quần áo chật, loại bỏ kích thích gây cơn) là bằng chứng level 5; prazosin level 1, nifedipine và prostaglandin E2 level 2; các chiến lược dự phòng chủ yếu level 4, level 5 |
+| Savic 2018, Spinal Cord 56(1):2-6, doi:10.1038/sc.2017.98 | Mục 2 | 2304 ca tSCI, nhập viện 1991—2010, sống qua năm đầu sau chấn thương, còn tổn thương thần kinh khi xuất viện, theo dõi tới 2014-12-31; 63 ca (2.7%) bị chấn thương do tự sát hụt; 533 người chết, 4.2% chết vì tự sát, 91% các vụ tự sát nằm trong 10 năm đầu sau chấn thương; tỷ suất tử vong tự sát hiệu chỉnh theo tuổi 62.5/100.000/năm (95% CI 36.4–88.6), dân số chung Anh - Wales năm 2014 là 12.2/100.000; nhóm bị chấn thương do tự sát hụt: tử vong OR 4.32, tự sát OR 9.46, đều P<0.001 |
+| Schulz & Beach 1999, JAMA 282(23):2215-2219, doi:10.1001/jama.282.23.2215 | Mục 4 | 1993—1998, theo dõi bình quân 4.5 năm, bốn cộng đồng Mỹ, 392 người chăm sóc + 427 người không chăm sóc, 66—96 tuổi, đều sống cùng vợ/chồng; trong bốn năm 103 người (12.6%) chết; người có căng thẳng chăm sóc RR 1.63 (95% CI 1.00–2.65), không căng thẳng RR 1.08 (0.61–1.90), vợ/chồng mất năng lực nhưng không chăm sóc RR 1.37 (0.73–2.58) |
+| Brienza 2010, J Am Geriatr Soc 58(12):2308-2314, doi:10.1111/j.1532-5415.2010.03168.x | Mục 5 | 12 viện dưỡng lão, tuyển 232 người từ 2004-06 đến 2008-05, ≥65 tuổi, ngồi xe lăn ≥6 giờ mỗi ngày, Braden≤18; tất cả trước hết ngồi ghế cơ bản rồi mới random; loét mỏm ngồi: nhóm SFC 8 ca (6.7%) so với nhóm SPC 1 ca (0.9%), P=.04; mỏm ngồi cộng cùng cụt: 21 ca (17.6%) so với 12 ca (10.6%), P=.14 |
+| Langhorne & Ramachandra 2020, Cochrane Database Syst Rev 4:CD000197, doi:10.1002/14651858.CD000197.pub4 | Mục 17 | 29 thử nghiệm, 5902 người; lần theo dõi cuối (trung vị 1 năm) poor outcome OR 0.77 (0.69–0.87), death OR 0.76 (0.66–0.88), death or dependency OR 0.75 (0.66–0.85), đều moderate-quality; chênh tuyệt đối “every 100 participants… two extra survivors, six more living at home, and six more living independently” |
+| AVERT Trial Collaboration group 2015, Lancet 386(9988):46-55, doi:10.1016/S0140-6736(15)60690-0 | Mục 17 | 5 nước 56 đơn vị đột quỵ cấp tính, 2104 người; sau 3 tháng kết cục tốt (mRS 0–2) 480 (46%) so với 525 (50%), adjusted OR 0.73 (0.59–0.90), P=0.004; tử vong 88 so với 72, OR 1.34 (0.93–1.93), P=0.113 |
+| Lin 2023, Lancet 402(10404):786-797, doi:10.1016/S0140-6736(23)01406-X | Mục 18 | ACHIEVE, 4 cộng đồng Mỹ, 977 người, 70—84 tuổi, suy giảm thính lực chưa điều trị; thay đổi nhận thức tổng thể sau 3 năm, nhóm can thiệp −0.200 (−0.256 đến −0.144) so với đối chứng −0.202 (−0.258 đến −0.145), hiệu số 0.002 (−0.077 đến 0.081), P=0.96; phân tích độ nhạy định trước, tương tác giữa hai nguồn quần thể p=0.010; không có biến cố bất lợi nghiêm trọng nào quy về nghiên cứu |
+| WHO. Disability and health (fact sheet) | Phần dẫn | “An estimated 1.3 billion people experience significant disability. This represents 16% of the world's population, or 1 in 6 of us.” “Some persons with disabilities die up to 20 years earlier than those without disabilities.” “Persons with disabilities have twice the risk of developing conditions such as depression, asthma, diabetes, stroke, obesity or poor oral health.” |
 
-**网上流传的「助听器降低认知下降 48%」没有写进正文**。那个数字来自 ACHIEVE 的 ARIC 亚组，主要结果是两组没有差别（P=0.96）。第 18 条按主要结果写，并在备注里点名这个说法的来源，标「争议」。
+**Con số “máy trợ thính làm giảm 48% mức suy giảm nhận thức” lưu truyền trên mạng chưa đưa vào thân bài**. Số đó đến từ phân nhóm ARIC của ACHIEVE, còn kết quả chính là hai nhóm không khác nhau (P=0.96). Mục 18 viết theo kết quả chính, và trong Ghi chú nêu tên nguồn của cách nói này, đánh dấu “tranh cãi”.
 
-## 定级说明
+## Thuyết minh định mức
 
-- 第 1 条定 B：三个现场动作只有临床共识和生理学数据（level 5），综述自己说多数干预只有非对照研究支撑。收益量级「大」——防的是持续高血压导致的脑出血等致命后果；成本全零，合成为「极高」。
-- 第 4 条定 A（前瞻队列，有可量化数字），但标「争议」：RR 1.63 的 95% CI 下限正好是 1.00。
-- 第 5 条定 B：样本 232 人、主要终点 P=.04 刚过线、次要终点无差别，人群是养老院高龄住户。与第 17 节第 8 条（压疮）的定级理由同一路数。
-- 第 10 条定 B：法律只写「应当给予适当补贴」，没有全国统一数字，补多少与资格全由地方定。
-- 第 17、18 条定 A 并标「争议」：证据本身是大型 RCT 和 Cochrane 综述，争议点分别是「卒中证据外推到其他致残原因」和「主要结果为阴性但流传的是亚组数字」。
-- 第 12 条收益量级定「小」：法律没给数字，各省减免额多在几百到几千元。
-- 其余中文法规条目均为 A：条款可逐字核对。
+- Mục 1 định B: ba động tác hiện trường chỉ có đồng thuận lâm sàng và dữ liệu sinh lý học (level 5), chính bản tổng quan nói đa số can thiệp chỉ có nghiên cứu không đối chứng chống lưng. Quy mô lợi ích “lớn” — phòng là các hậu quả chết người như xuất huyết não do huyết áp cao kéo dài; chi phí toàn bằng không, hợp thành “rất cao”.
+- Mục 4 định A (đoàn hệ tiền triển, có số định lượng được), nhưng đánh dấu “tranh cãi”: giới hạn dưới của 95% CI cho RR 1.63 đúng bằng 1.00.
+- Mục 5 định B: mẫu 232 người, điểm cuối chính P=.04 vừa qua vạch, điểm cuối phụ không khác nhau, quần thể là người cao tuổi trong viện dưỡng lão. Cùng một lối lập luận định mức với mục 8 chương 17 (loét do nằm lâu).
+- Mục 10 định B: luật chỉ viết “phải cho trợ cấp thích đáng”, không có số thống nhất toàn quốc, trợ bao nhiêu và tư cách thế nào đều do địa phương định.
+- Mục 17, 18 định A và đánh dấu “tranh cãi”: bản thân bằng chứng là RCT quy mô lớn và tổng quan Cochrane, điểm tranh cãi lần lượt là “ngoại suy bằng chứng đột quỵ sang các nguyên nhân gây khuyết tật khác” và “kết quả chính âm tính nhưng thứ lưu truyền lại là số phân nhóm”.
+- Mục 12 quy mô lợi ích định “nhỏ”: luật không cho số, mức miễn giảm của các tỉnh phần lớn vài trăm đến vài nghìn yên.
+- Các mục pháp quy tiếng Trung còn lại đều là A: điều khoản đối chiếu từng chữ được.
 
-## 受益人口径
+## Trục phân loại người thụ hưởng
 
-本节主线是自己或家人致残，落在第 ①② 档。三处单独标注：第 4 条（照护者）的受益人是读者自己；第 9、15 条（康复救助、入学）的受益人是孩子，属第 ② 档。没有涉及第 ③④ 档的条目。
+Mạch chính của chương này là bản thân hoặc người nhà bị khuyết tật, rơi vào bậc ①②. Ba chỗ ghi chú riêng: mục 4 (người chăm sóc) đối tượng thụ hưởng là chính độc giả; mục 9, 15 (cứu trợ phục hồi, vào học) đối tượng thụ hưởng là đứa trẻ, thuộc bậc ②. Không có mục nào chạm tới bậc ③④.
 
-## 引用与统计
+## Trích dẫn và thống kê
 
-本节 21 条全部新增在文件末尾，没有插进已有章节，所以别节的条号不会被顺延。`node tools/check-refs.mjs --check` 通过，383 处引用全部指向正确且带锚点；`docs/引用对照.md` 的 diff 除末尾新增行和总数行外没有改动，确认没有撞歪已有引用。
+21 mục của chương này đều thêm mới ở cuối file, không chèn vào chương có sẵn, nên số mục của các chương khác không bị dồn xuống. `node tools/check-refs.mjs --check` đạt, 383 tham chiếu đều trúng đúng và có neo; diff của `docs/bang-doi-chieu-nguon.md` ngoài các dòng thêm mới ở cuối và dòng tổng số không có gì thay đổi, xác nhận không làm lệch các tham chiếu có sẵn.
 
-写作过程中改了三处锚点：本节第 11 条原来写成「（按比例就业）」，这几个字不在目标标题里，被 `--check` 判为裸条号，改成「（主动说明持证）」；第 7 条的「（残联清单）」和第 10 条的「（家庭无障碍改造）」锚点偏弱，一并改成标题里的原词。
+Trong lúc viết đã sửa ba chỗ neo: mục 11 chương này ban đầu viết “(việc làm theo tỷ lệ)”, mấy chữ đó không có trong tiêu đề đích, bị `--check` phạt là số mục trần, đổi thành “(chủ động nêu rõ có chứng chỉ)”; neo “(danh sách Hội người khuyết tật)” của mục 7 và “(cải tạo không rào cản cho hộ gia đình)” của mục 10 hơi yếu, một thể đổi thành nguyên từ trong tiêu đề.
 
-全书 552 → 573 条，A 级 366 → 384，B 级 136 → 139，C 级 50 不变，争议 → 51，TODO → 38，链接 1144 → 1173。性价比极高 103 → 105（18%）、高 → 265（46%）、一般 → 203（36%）。README 的问题表加了一行（32 行对 32 节变成 33 行对 33 节），目录加了第 33 条，「32 个文件」改成 33；index.html 的「32 节」改成「33 节」、「32 个文件」改成「33 个文件」。
+Toàn sách 552 → 573 mục, mức A 366 → 384, mức B 136 → 139, mức C giữ nguyên 50, tranh cãi → 51, TODO → 38, liên kết 1144 → 1173. Hiệu quả chi phí rất cao 103 → 105 (18%), cao → 265 (46%), trung bình → 203 (36%). Bảng câu hỏi của README thêm một dòng (33 dòng ứng 33 chương thay cho 32 dòng ứng 32 chương), mục lục thêm mục 33, “32 file” đổi thành 33; index.html “32 chương” đổi thành “33 chương”, “32 file” đổi thành “33 file”.
 
-顺带改了 `tools/sync-stats.ps1` 两处：一是页头条目数的匹配模式原来把节数 32 写死，新增一节就报错，改成从 `book/*.md` 的文件数算 `$sections`；二是性价比三档的百分比原来三个数各自四舍五入，本轮算出 18+46+35=99，改成最大余数法分配，保证加起来正好 100。
+Nhân tiện sửa hai chỗ trong `tools/sync-stats.ps1`: một là mẫu khớp số mục ở phần đầu trang vốn ghi cứng số chương 32, thêm một chương là báo lỗi, đổi thành tính `$sections` từ số file trong `book/*.md`; hai là phần trăm ba bậc hiệu quả chi phí vốn để ba số tự làm tròn riêng, vòng này ra 18+46+35=99, đổi sang phân bổ theo phương pháp số dư lớn nhất, bảo đảm cộng lại đúng 100.
 
-## 没写进去的东西
+## Những thứ chưa viết vào
 
-- **尿路感染与膀胱管理**：脊髓损伤后的常见并发症，但没找到能逐字核对、又给得出数字的原始来源，这一轮不写，不拿综述里的一般说法凑数。
-- **托养与喘息服务**：《残疾人保障法》只有「国家鼓励和扶持社会力量举办残疾人供养、托养机构」和托养机构不得侮辱虐待遗弃两句，没有可操作的申请路径和标准，写进去等于只给一句话。中残联的阳光家园计划属于部门项目，政策库不收。
-- **干细胞等「治愈系」疗法的监管依据**：《干细胞临床研究管理办法》在 gov.cn 政策库里查不到，nhc.gov.cn 全站 412，拿不到能逐字核对的原文。第 6 条改从《广告法》第十六、十七条切入，读者用得上的判据（看它敢不敢把话说满）反而更直接。
-- **中国残疾人总数**：常被引用的 8500 万出自 2006 年第二次全国残疾人抽样调查的推算，距今太久。2026-07-27 国新办发布会提到《2025年残疾人事业发展统计公报》「2025年全国城乡新增持证残疾人就业44.8万人」和「我国80%残疾人生活在农村」，但统计公报全文在政策库里查不到。导语因此只用 WHO 的全球数字，不写中国的总数。
+- **Nhiễm khuẩn tiết niệu và quản lý bàng quang**: biến chứng thường gặp sau chấn thương tủy sống, nhưng không tìm được nguồn gốc vừa đối chiếu từng chữ được vừa đưa ra được số, vòng này không viết, không lấy lời nói chung trong tổng quan để chêm cho đủ.
+- **Nuôi dưỡng tạm và dịch nghỉ thay**: “Luật Bảo đảm quyền lợi người khuyết tật” chỉ có hai câu “nhà nước khuyến khích và hậu thuẫn lực lượng xã hội lập cơ sở nuôi dưỡng, nuôi dưỡng tạm cho người khuyết tật” và cơ sở nuôi dưỡng không được xúc nhục - ngược đãi - bỏ mặc, không có lộ trình xin và tiêu chuẩn thao tác được, viết vào cũng chỉ là một câu. Kế hoạch “Ngôi nhà Ánh dương” của Hội liên hiệp Người khuyết tật Trung Quốc thuộc dự án bộ ngành, kho chính sách không thu.
+- **Căn cứ giám sát các liệu pháp kiểu “chữa khỏi” như tế bào gốc**: “Biện pháp quản lý nghiên cứu lâm sàng tế bào gốc” không tra được trong kho chính sách gov.cn, nhc.gov.cn cả site trả 412, không lấy được nguyên văn đối chiếu từng chữ được. Mục 6 đổi sang đi từ Điều 16, 17 của “Luật Quảng cáo” — tiêu chí người đọc dùng được (coi nó dám nói toét tới đâu) lại càng trực tiếp hơn.
+- **Tổng số người khuyết tật của Trung Quốc**: con số 85 triệu hay được trích là ước tính từ khảo sát mẫu toàn quốc về người khuyết tật lần thứ hai năm 2006, cách nay quá lâu. Hội họp báo Văn phòng Thông tin Quốc vụ viện ngày 2026-07-27 nhắc “Thông báo thống kê phát triển sự nghiệp người khuyết tật năm 2025” với “năm 2025 cả nước có thêm 448.000 người khuyết tật có chứng chỉ đi làm ở thành thị - nông thôn” và “80% người khuyết tật nước ta sống ở nông thôn”, nhưng toàn văn thông báo thống kê không tra được trong kho chính sách. Phần dẫn vì vậy chỉ dùng số toàn cầu của WHO, không viết tổng số của Trung Quốc.

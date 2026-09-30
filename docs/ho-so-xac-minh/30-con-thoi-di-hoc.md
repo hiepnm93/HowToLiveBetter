@@ -1,45 +1,45 @@
-# 第 30 节「上学以后的孩子」· 核实记录（2026-09-09）
+# Chương 30 “Con thời đi học” · Hồ sơ xác minh (2026-09-09)
 
-任务来源：读者原话——「身体重要还是健康重要，有些家长甚至为了不耽误学习不给孩子做手术，危及生命的，太卷了现在」。
+Nguồn nhiệm vụ: nguyên lời độc giả — “Thì sức khỏe mới quan trọng, có phụ huynh thậm chí vì sợ con lỡ việc học mà không cho con mổ dù đe dọa tính mạng, giờ này người ta đua nhau quá”.
 
-原有覆盖：3 到 18 岁整段空白。第 20 节写到婴儿期为止，第 18 节只算钱和时间，第 1 节的溺水、交通、头盔、HPV 疫苗覆盖到儿童但不成体系。搜「近视」只命中第 6 节末尾那句「儿童近视防控是另一个话题，本书未核实该领域证据，不给建议」；搜「欺凌」「窝沟」「脊柱」「休学」全书零命中。
+Phần đã có sẵn: đoạn 3 đến 18 tuổi là khoảng trống nguyên khối. Chương 20 viết đến hết thời kỳ trẻ bú, chương 18 chỉ tính tiền và thời gian, chương 1 có đuối nước, giao thông, mũ bảo hiểm, vaccine HPV phủ đến trẻ em nhưng không thành hệ thống. Tìm “cận thị” chỉ trúng câu cuối chương 6 “phòng chống cận thị ở trẻ em là đề tài khác, sách này chưa kiểm chứng bằng chứng của lĩnh vực này, không đưa lời khuyên”; tìm “bắt nạt”, “rãnh răng”, “cột sống”, “nghỉ học bảo lưu” toàn sách không trúng kết quả nào.
 
-落点（经用户确认）：**新开第 30 节**，文件 `book/30-上学以后的孩子.md`。备选方案是把条目拆进第 18、24、1 三节，未采用：第 18 节口径是金钱与时间，塞健康条目会串口径；第 24 节讲的是成人怎么少花钱看病，不是「什么时候必须去」。
+Điểm đặt (đã được người dùng xác nhận): **mở chương 30 mới**, file `book/30-con-thoi-di-hoc.md`. Phương án dự bị là tách mục vào ba chương 18, 24, 1, không áp dụng: trục của chương 18 là tiền và thời gian, nhét mục sức khỏe vào sẽ lệch trục; chương 24 nói người lớn làm sao khám bệnh tốn ít tiền, không phải “lúc nào là bắt buộc phải đi”.
 
-## 收进来的十一条与各自的原文
+## Mười một mục được thu vào và nguyên văn tương ứng của từng mục
 
-英文文献全部经 Europe PMC REST 取摘要原文逐字核对；中文文件全部取自国务院政策文件库或中国政府网正文页，逐条抄写条文原句。
+Văn liệu tiếng Anh toàn bộ lấy nguyên văn tóm tắt qua Europe PMC REST để đối chiếu từng chữ; văn bản tiếng Trung toàn bộ lấy từ kho văn bản chính sách Quốc vụ viện hoặc trang thân bài của Chính phủ Trung Quốc, chép y nguyên từng câu quy định.
 
-| 条 | 来源 | 核到的关键内容 |
+| Mục | Nguồn | Nội dung chính đã đối chiếu |
 |---|---|---|
-| 1 | Mellick 2019 Pediatr Emerg Care | 30 项病例系列、2116 例：0–6 h 存活 97.2%、7–12 h 79.3%、13–18 h 61.3%、19–24 h 42.5%、25–48 h 24.4%、>48 h 7.4%；累计 12 h 内 90.4%、13–24 h 54.0%、>24 h 18.1% |
-| 2 | Weinstein 2013 NEJM（BrAIST） | 242 例；意向治疗 75% 对 42%（OR 4.11，1.85–9.16），合并队列 72% 对 48%（倾向评分校正 OR 1.93，1.08–3.46）；佩戴时长与成功率正相关 P<0.001；因有效提前终止 |
-| 3 | van Geel 2014 JAMA Pediatr；教育部令第 50 号 | 自杀意念 OR 2.23（2.10–2.37，34 项、284,375 人），自杀未遂 OR 2.55（1.95–3.34，9 项、70,102 人）；第二十一条列五类行为与认定标准，第二十二条报告义务，第二十三条立即调查、认定处置、严重欺凌不得隐瞒须报公安 |
-| 4 | He 2015 JAMA；国卫办妇幼函〔2023〕278 号 | 广州 12 校整群随机，1903 人：3 年近视发生率 30.4% 对 39.5%，差 −9.1 个百分点（−14.1 至 −4.1）；等效球镜 −1.42 D 对 −1.59 D；眼轴差异不显著。核心知识十条：每天日间户外≥2 小时或每周 14 小时，阴天亦有效 |
-| 5 | 国卫医发〔2021〕29 号 | 每年 1 次体检；外科含脊柱，眼科含远视力与屈光度；报告单须以超重、肥胖、营养不良、脊柱弯曲异常、视力不良、龋齿为指导重点；义务教育阶段费用由学校公用经费开支 |
-| 6 | USPSTF 2022 JAMA；教基厅〔2025〕2 号 | 12–18 岁筛查重度抑郁为 B 类推荐，≤11 岁与自杀风险筛查均为 I 声明；自杀是 10–19 岁第二位死因。十条措施：三级服务体系、每学年心理测评一般不超过 1 次、转介就医与愈后复学、12355 与 12356 |
-| 7 | 市场监管总局办公厅 2021 年整治通知 | 原句「在目前医疗技术条件下，近视不能治愈」；「康复」「恢复」「降低度数」「近视治愈」「近视克星」「度数修复」列为要查处的误导性表述；电商平台须审查护眼仪等医疗器械经营资质 |
-| 8 | 教基厅函〔2021〕11 号；教基厅〔2025〕2 号 | 睡眠 10/9/8 小时；上课不早于 8:20 与 8:00；就寝不晚于 21:20/22:00/23:00；培训不晚于 20:30、线上 21:00；22:00–次日 8:00 不得向未成年人提供游戏服务。2025 年加：每天综合体育活动≥2 小时、课间 15 分钟、不得以成绩排名 |
-| 9 | 教基〔2025〕1 号第十六条 | 监护人申请、学校确认后报上级学籍管理部门核准；一次不超过 1 年，期满续休需重新申请；休学期间保留学籍；具体办法由省级教育行政部门制定 |
-| 10 | 国卫办妇幼函〔2023〕278 号 | 散瞳验光为诊断近视金标准，对健康眼无损伤；戴镜视力正常者学龄前与小学生每 3–6 个月、初高中每 6–12 个月复查；1–3 岁、4–6 岁、7 岁后定期屈光筛查 |
-| 11 | Ahovuo-Saloranta 2017 Cochrane | 38 项试验、7924 名儿童；树脂封闭剂 24 个月患龋 OR 0.12（0.08–0.19，中等质量）；对照 16%/40%/70% 时封闭组 5.2%/6.25%/19%；48–54 个月 OR 0.21；作者结论减少 11%–51%；报告不良事件的 4 项试验无不良事件 |
+| 1 | Mellick 2019 Pediatr Emerg Care | 30 chuỗi ca bệnh, 2116 ca: 0–6 h sống 97.2%, 7–12 h 79.3%, 13–18 h 61.3%, 19–24 h 42.5%, 25–48 h 24.4%, >48 h 7.4%; tích lũy trong 12 h 90.4%, 13–24 h 54.0%, >24 h 18.1% |
+| 2 | Weinstein 2013 NEJM (BrAIST) | 242 ca; phân tích ý định điều trị 75% so với 42% (OR 4.11, 1.85–9.16), đoàn hệ gộp 72% so với 48% (OR hiệu chỉnh theo điểm xu hướng 1.93, 1.08–3.46); thời gian đeo tương quan thuận với tỷ lệ thành công P<0.001; dừng sớm vì đã chứng minh hiệu quả |
+| 3 | van Geel 2014 JAMA Pediatr; Lệnh Bộ Giáo dục số 50 | Ý định tự sát OR 2.23 (2.10–2.37, 34 nghiên cứu, 284,375 người), tự sát hụt OR 2.55 (1.95–3.34, 9 nghiên cứu, 70,102 người); Điều 21 liệt năm loại hành vi và tiêu chuẩn xác định, Điều 22 nghĩa vụ báo cáo, Điều 23 điều tra ngay lập tức, xác định và xử lý, bạo lực học đường nghiêm trọng không được che giấu mà phải báo công an |
+| 4 | He 2015 JAMA; Văn bản Quốc vệ biện phụ ấm [2023] số 278 | Quảng Châu 12 trường random hóa theo cụm, 1903 người: tỷ lệ mắc cận thị 3 năm 30.4% so với 39.5%, chênh −9.1 điểm phần trăm (−14.1 đến −4.1); độ khúc xạ tương đương cầu −1.42 D so với −1.59 D; khác biệt trục nhãn cầu không có ý nghĩa thống kê. Mười kiến thức cốt lõi: mỗi ngày hoạt động ngoài trời ban ngày ≥2 giờ hoặc mỗi tuần 14 giờ, trời âm u vẫn có hiệu quả |
+| 5 | Văn bản Quốc vệ y phát [2021] số 29 | Mỗi năm 1 lần khám sức khỏe; khoa ngoại gồm cột sống, nhãn khoa gồm thị lực nhìn xa và độ khúc xạ; phiếu báo cáo phải lấy thừa cân, béo phì, dinh dưỡng kém, dị dạng cong vẹo cột sống, thị lực kém, sâu răng làm trọng điểm hướng dẫn; giai đoạn giáo dục bắt buộc chi phí tính vào kinh phí chi thường xuyên của trường |
+| 6 | USPSTF 2022 JAMA; Văn bản Giáo cơ sảnh [2025] số 2 | Tầm soát trầm cảm nặng ở 12–18 tuổi là khuyến nghị hạng B, ≤11 tuổi và tầm soát nguy cơ tự sát đều là tuyên bố mức I; tự sát là nguyên nhân chết thứ hai ở lứa 10–19 tuổi. Mười biện pháp: hệ thống dịch vụ ba cấp, mỗi năm học mỗi học sinh làm đánh giá tâm lý thường không quá 1 lần, giới thiệu đi khám và quay lại học sau khi khỏi, 12355 và 12356 |
+| 7 | Thông báo chỉnh trị năm 2021 của Văn phòng Tổng cục Giám sát quản lý thị trường | Nguyên câu “trong điều kiện kỹ thuật y tế hiện nay, cận thị không thể chữa khỏi”; các cách nói như “phục hồi”, “hồi phục”, “giảm độ”, “chữa khỏi cận thị”, “khắc tinh của cận thị”, “sửa độ kính” được liệt vào biểu hiện sai lệch cần tra xét xử lý; nền tảng thương mại điện tử phải soi tư cách kinh doanh thiết bị y tế như máy bảo vệ mắt |
+| 8 | Văn bản Giáo cơ sảnh hàm [2021] số 11; Giáo cơ sảnh [2025] số 2 | Ngủ 10/9/8 giờ; vào học không sớm hơn 8:20 và 8:00; đi ngủ không muộn hơn 21:20/22:00/23:00; lớp học thêm không muộn hơn 20:30, trực tuyến 21:00; 22:00–8:00 sáng hôm sau không được cung cấp dịch vụ trò chơi cho người chưa thành niên. Năm 2025 bổ sung: mỗi ngày hoạt động thể dục tổng hợp ≥2 giờ, giờ ra chơi 15 phút, không được xếp hạng theo điểm số |
+| 9 | Văn bản Giáo cơ [2025] số 1, Điều 16 | Người giám hộ làm đơn, trường xác nhận rồi báo cơ quan quản lý tư cách học sinh cấp trên phê chuẩn; một lần không quá 1 năm, hết hạn muốn nghỉ tiếp phải làm thủ tục xin lại; trong thời gian nghỉ được bảo lưu tư cách học sinh; cách thức cụ thể do cơ quan hành chính giáo dục cấp tỉnh xây dựng |
+| 10 | Văn bản Quốc vệ biện phụ ấm [2023] số 278 | Khúc xạ khi giãn đồng tử là chuẩn vàng chẩn đoán cận thị, không gây tổn thương cho mắt khỏe; người đeo kính mà thị lực bình thường: trước tuổi đến trường và tiểu học tái khám mỗi 3–6 tháng, trung học cơ sở và trung học phổ thông mỗi 6–12 tháng; 1–3 tuổi, 4–6 tuổi và sau 7 tuổi tầm soát khúc xạ định kỳ |
+| 11 | Ahovuo-Saloranta 2017 Cochrane | 38 thử nghiệm, 7924 trẻ; chất trám rãnh nhựa 24 tháng mắc sâu răng OR 0.12 (0.08–0.19, chất lượng trung bình); khi nhóm chứng 16%/40%/70% thì nhóm trám 5.2%/6.25%/19%; 48–54 tháng OR 0.21; kết luận của tác giả là giảm 11%–51%; 4 thử nghiệm có báo cáo biến cố bất lợi thì không ghi nhận biến cố bất lợi nào |
 
-## 几个写作决定
+## Một vài quyết định khi viết
 
-- **第 2 条的成本按「早做还是晚做」记，不按治疗本身记**。这一条的动作是「别把有窗口的治疗推到考完」，治疗该花的钱和时间不因早晚而变，所以成本标签记 `钱=0 时间=少 毅力=些`，同时在成本栏里写明支具本身另有费用且要求每天至少佩戴 18 小时，不让读者以为是免费的。
-- **用脊柱侧弯举例，而不是泛泛说「别拖」**。它同时满足三个条件：有随机试验、有跟骨龄绑定的窗口、正好是学生体检的重点项目之一，能和第 5 条接上。斜视、弱视、龋齿、先心病的择期手术只在备注里点名，不写没核实的窗口期。
-- **第 6 条给 B**。USPSTF 是推荐等级而不是可换算的效应量，且是美国的推荐，国内没有对应的官方筛查建议，正文写明了这一点。
-- **没有把「学校每学年一次心理测评」写成筛查手段**。十条措施的原话是「每名学生每学年接受心理测评一般不超过 1 次」，这是控制测评频次的规定，不是诊断依据，正文据此写「测评不等于诊断」。
-- **第 11 条没写免费项目的覆盖范围**。政策库以 `searchfield=title` 搜「儿童口腔」「健康口腔」均零命中，未取得可逐字核对的全国性文件，所以只写「不少地区有免费项目，问当地疾控或社区卫生服务中心」。
-- **急症只量化了睾丸扭转**。它是少数有按小时分段存活率的系统综述；阑尾炎穿孔与延误的时间曲线本轮未取得可核对的原文（Europe PMC 相应标题检索无结果），所以只在备注里列名，不给数字。
-- **顺带改了第 6 节**：把「儿童近视防控是另一个话题，本书未核实该领域证据，不给建议」改成指向第 30 节第 4、10、7 条——这一节已经核实了该领域证据，原话作废。
+- **Chi phí mục 2 ghi theo “làm sớm hay làm muộn”, không ghi theo bản thân việc điều trị**. Hành động của mục này là “đừng đẩy việc điều trị có khung thời gian sang sau kỳ thi”; tiền và thời gian của việc điều trị không đổi theo sớm muộn, nên thẻ chi phí ghi `tien=0 thoi-gian=it y-luc=chut`, đồng thời trong cột chi phí ghi rõ nẹp có chi phí riêng và yêu cầu đeo ít nhất 18 giờ mỗi ngày, để độc giả không tưởng đây là miễn phí.
+- **Dùng cong vẹo cột sống làm ví dụ, thay vì nói chung chung “đừng chần chừ”**. Nó đồng thời thỏa ba điều kiện: có thử nghiệm ngẫu nhiên, có khung thời gian gắn với tuổi xương, lại đúng là một trong các trọng điểm khám sức khỏe học sinh, nối được với mục 5. Lệ mắt, nhược thị, sâu răng, dị tật tim bẩm sinh cần mổ chọn kỳ chỉ nêu tên trong Ghi chú, không viết các khung thời gian chưa kiểm chứng.
+- **Mục 6 cho B**. USPSTF là hạng khuyến nghị chứ không phải cỡ hiệu ứng quy đổi được, và là khuyến nghị của Mỹ, trong nước không có khuyến nghị tầm soát chính thức tương ứng, thân bài đã ghi rõ điểm này.
+- **Chưa viết “trường mỗi năm học một lần đánh giá tâm lý” thành phương tiện tầm soát**. Nguyên câu của mười biện pháp là “mỗi học sinh mỗi năm học nhận đánh giá tâm lý thường không quá 1 lần”, đây là quy định kiểm soát tần suất đánh giá, không phải căn cứ chẩn đoán; thân bài viết “đánh giá không phải chẩn đoán” theo đó.
+- **Mục 11 chưa viết phạm vi phủ của các dự án miễn phí**. Tìm “răng miệng trẻ em”, “răng miệng khỏe mạnh” trong kho chính sách bằng `searchfield=title` đều không trúng kết quả nào, không lấy được văn bản toàn quốc đối chiếu từng chữ được, nên chỉ viết “không ít địa phương có dự án miễn phí, hỏi trung tâm kiểm soát dịch bệnh hoặc trạm y tế khu dân cư nơi mình”.
+- **Tình huống cấp cứu chỉ định lượng hóa được xoắn tinh hoàn**. Đây là một trong số ít tổng quan hệ thống có tỷ lệ sống chia theo từng giờ; đường cong thời gian của viêm ruột thừa thủng và trì hoãn vòng này chưa lấy được nguyên văn đối chiếu được (tra cứu Europe PMC theo tên tương ứng không có kết quả), nên chỉ nêu tên trong Ghi chú, không đưa số.
+- **Nhân tiện sửa chương 6**: đổi câu “phòng chống cận thị ở trẻ em là đề tài khác, sách này chưa kiểm chứng bằng chứng của lĩnh vực này, không đưa lời khuyên” thành chỉ tới mục 4, 10, 7 của chương 30 — chương này đã kiểm chứng bằng chứng của lĩnh vực đó, câu cũ hết giá trị.
 
-## 同步改的计数与文件
+## Số đếm và file sửa đồng bộ
 
-- `README.md`：问题索引表加一行；章节列表加第 30 条；条目数 451 → **462**，证据等级 → **A 295·B 118·C 49**，链接数 865 → **881**，性价比 → **81（18%）/ 231（50%）/ 150（32%）**；「怎么读」里的 290 条 → 295 条、80 条 → 81 条；「拆成 29 个文件」→ 30 个。
-- `index.html`：meta / og / twitter description、JSON-LD 的 `numberOfPages`、页内「全书 29 节 451 条」、侧栏「book/ 下的 29 个文件」全部对齐。
-- `tools/og.html` 与 `og.png`：三个数字改完后重新截图。
-- `CLAUDE.md`：目录结构加第 30 节。
-- `book/06-反面清单.md`：近视那句作废声明改成指向本节。
+- `README.md`: bảng chỉ mục câu hỏi thêm một dòng; danh sách chương thêm mục 30; số mục 451 → **462**, mức bằng chứng → **A 295·B 118·C 49**, số liên kết 865 → **881**, hiệu quả chi phí → **81 (18%) / 231 (50%) / 150 (32%)**; trong phần “đọc thế nào” 290 mục → 295 mục, 80 mục → 81 mục; “chia thành 29 file” → 30 file.
+- `index.html`: meta / og / twitter description, `numberOfPages` trong JSON-LD, chữ trong trang “toàn sách 29 chương 451 mục”, sidebar “29 file trong thư mục book/” — đồng bộ hết.
+- `tools/og.html` và `og.png`: sửa xong ba con số thì chụp lại ảnh.
+- `CLAUDE.md`: cấu trúc mục lục thêm chương 30.
+- `book/06-danh-sach-dieu-khong-nen.md`: câu tuyên bố hết giá trị về cận thị đổi thành chỉ tới chương này.
 
-计数复核方式同第 29 节，按 index.html 的 `parse()` 同规则重算全书：条目 462、A 295·B 118·C 49、极高 81·高 231·一般 150、`- 来源：`与`- 备注：`行内 http(s) 链接 881。三档合计与 A/B/C 合计均等于 462，自洽。
+Cách đối soát số đếm như chương 29, tính lại toàn sách theo cùng quy tắc `parse()` của index.html: mục 462, A 295·B 118·C 49, rất cao 81 · cao 231 · trung bình 150, liên kết http(s) trong các dòng `- Nguồn:` và `- Ghi chú:` 881. Tổng ba bậc và tổng A/B/C đều bằng 462, tự nhất quán.

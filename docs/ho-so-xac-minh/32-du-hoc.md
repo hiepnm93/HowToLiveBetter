@@ -1,120 +1,120 @@
-# 第 32 节 出国留学：身份、打工、保险和回国认证 · 核实记录（2026-09-18）
+# Chương 32 Du học: tư cách, đi làm thêm, bảo hiểm và công nhận bằng khi về nước · Hồ sơ xác minh (2026-09-18)
 
-任务来源：仓库 issue #8 读者问「有没有给常见留学国家留学生的建议，比如美国、加拿大、英国、澳大利亚，身为留学生有什么权益、如何维护」。
+Nguồn nhiệm vụ: độc giả hỏi trong issue #8 của repo “Có lời khuyên cho du học sinh ở các nước du học thông dụng không, ví dụ Mỹ, Canada, Anh, Úc; với tư cách du học sinh thì có những quyền gì, duy trì thế nào”.
 
-原有覆盖：第 21 节写的是出国与境外安全（外交部安全提醒、12308、领事保护边界、境外医疗与转运保险、境外高薪招聘陷阱），不含留学生身份与学业。第 23 节写学历回报，不含境外学历认证。所以新开一节，不与两节重复，正文里做了互相指路。
+Phần đã có sẵn: chương 21 viết đi nước ngoài và an toàn ở nước ngoài (cảnh báo an toàn của Bộ Ngoại giao, 12308, ranh giới bảo hộ lãnh sự, bảo hiểm y tế và vận chuyển cấp cứu ở nước ngoài, bẫy tuyển dụng lương cao ở nước ngoài), không chứa tư cách và việc học của du học sinh. Chương 23 viết lợi tức của bằng cấp, không chứa công nhận bằng cấp nước ngoài. Nên mở chương mới, không lặp với hai chương đó, thân bài có chỉ chéo qua lại.
 
-落点：新增 `book/32-出国留学.md`，10 条。覆盖国家按读者提问限定为美国、加拿大、英国、澳大利亚，逐国写数字。**本节所有外国政策数字标注截至 2026 年 9 月，正文和节首都写明要读者按来源链接自查，不长期维护。**
+Điểm đặt: thêm mới `book/32-du-hoc.md`, 10 mục. Các nước được phủ theo câu hỏi của độc giả giới hạn ở Mỹ, Canada, Anh, Úc, viết số cho từng nước. **Mọi con số chính sách nước ngoài của chương này đều ghi chú là tính đến tháng 9/2026, thân bài và đầu chương đều ghi rõ yêu cầu độc giả tự kiểm theo liên kết nguồn, không bảo trì dài hạn.**
 
-取源工具：本机 curl 段错误、`Invoke-WebRequest` 对 canada.ca 与 cscse.edu.cn 超时或断连，改用无头 Chrome `--dump-dom` 取渲染后 DOM（jsj.moe.gov.cn 与 immi.homeaffairs.gov.au 是前端渲染，必须走这条路）。全节 17 条外链在 2026-09-18 逐条跑过可达性，除 canada.ca 外均返回 200；canada.ca 本机 PowerShell 取不到但无头 Chrome 可取全文，内容已逐字核对。
+Công cụ lấy nguồn: curl trên máy này lỗi segmentation, `Invoke-WebRequest` với canada.ca và cscse.edu.cn thì timeout hoặc đứt kết nối, chuyển sang headless Chrome `--dump-dom` lấy DOM sau khi render (jsj.moe.gov.cn và immi.homeaffairs.gov.au là render phía front-end, bắt buộc phải đi đường này). Cả 17 liên kết ngoài của chương được chạy kiểm tra khả năng tiếp cận từng cái vào 2026-09-18, trừ canada.ca đều trả về 200; canada.ca PowerShell trên máy không lấy được nhưng headless Chrome lấy được toàn văn, nội dung đã đối chiếu từng chữ.
 
-## 第 1 条（认证院校名单）
+## Mục 1 (danh sách cơ sở đào tạo được đưa vào công nhận)
 
-| URL | 复核 | 依据 |
+| URL | Đối chiếu lại | Căn cứ |
 |---|---|---|
-| <http://yxcx.cscse.edu.cn/>（留服中心「认证院校查询」入口，从 cscse.edu.cn 首页锚点取得） | 是 | 页面为按国家和院校名检索的查询入口 |
-| <https://jsj.moe.gov.cn/>（教育部教育涉外监管信息网首页） | 是 | 栏目含文件政策、预警信息、合作办学 |
-| <http://rzzccx.crs.jsj.edu.cn/>（中外合作办学证书认证注册信息查询） | 是 | 「自 2008 年入学就读的学生，可凭本人姓名、身份证号码查询境外学历学位证书认证注册序号」 |
+| <http://yxcx.cscse.edu.cn/> (đầu vào “tra cơ sở được công nhận” của Trung tâm phục vụ lưu học sinh CSCSE, lấy từ neo trang chủ cscse.edu.cn) | Có | Trang là đầu vào truy vấn theo nước và tên cơ sở đào tạo |
+| <https://jsj.moe.gov.cn/> (trang chủ Mạng giám sát - quản lý giáo dục liên quan nước ngoài của Bộ Giáo dục) | Có | Chuyên mục gồm văn bản - chính sách, thông tin cảnh báo, liên kết đào tạo |
+| <http://rzzccx.crs.jsj.edu.cn/> (truy vấn thông tin đăng ký chứng nhận chứng chỉ của các chương trình liên kết Trung - nước ngoài) | Có | “Sinh viên nhập học từ năm 2008 trở đi có thể tra số thứ tự đăng ký chứng nhận bằng - chứng chỉ nước ngoài bằng họ tên và số căn cước của mình” |
 
-定级 A：查询入口和制度安排均可在官方页面逐字核对。收益量级「大」——金钱口径按万元级定档，学费与一到两年时间的量级远超万元。备注里「名单会变、每年复查」是操作建议，非文件原文。
+Định mức A: đầu vào truy vấn và thiết kế chế độ đều đối chiếu từng chữ được trên trang chính thức. Quy mô lợi ích “lớn” — trục tiền định bậc theo cỡ 10.000 yên, học phí và lượng thời gian một đến hai năm vượt xa cỡ 10.000 yên. Ghi chú “danh sách có thể thay đổi, mỗi năm đối soát lại” là lời khuyên thao tác, không phải nguyên văn văn bản.
 
-## 第 2 条（美国固定入境期限与 30 天离境窗口）
+## Mục 2 (thời hạn nhập cảnh cố định của Mỹ và khung 30 ngày rời nước)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>（eCFR 现行文本 8 CFR 214.2(f)） | 是 | 完成学业与已获批实习的 F-1，自项目结束日期、四年最长入境期限或 OPT/STEM OPT 许可结束日起「an additional 30-day period」用于准备离境或另求合法身份；提前结束学业或培训的，自结束之日起 30 日内离境或另求合法身份 |
-| <https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant>（联邦公报最终规则） | 是 | publication_date 2026-07-17，effective_on 2026-09-15（经 federalregister.gov API 取字段核对） |
+| <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2> (văn bản hiện hành trên eCFR, 8 CFR 214.2(f)) | Có | F-1 đã hoàn thành việc học và đã được duyệt thực tập, tính từ ngày kết thúc chương trình, thời hạn nhập cảnh tối đa bốn năm hoặc ngày kết thúc giấy phép OPT/STEM OPT có “an additional 30-day period” để chuẩn bị rời nước hoặc tìm tư cách hợp pháp khác; ai kết thúc học hoặc đào tạo sớm thì trong 30 ngày kể từ ngày kết thúc phải rời nước hoặc tìm tư cách hợp pháp khác |
+| <https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant> (quy chế cuối cùng trên Công báo liên bang) | Có | publication_date 2026-07-17, effective_on 2026-09-15 (đối chiếu lấy trường qua API federalregister.gov) |
 
-**2026-09-25 更正（issue #32）**：这项规则**没有**在 2026-09-15 生效。2026-09-14，马萨诸塞州联邦地区法院 Saylor 法官在 Presidents' Alliance on Higher Education and Immigration v. DHS（No. 1:26-cv-13799-FDS）一案中，依 5 U.S.C. § 705 推迟了整份规则的生效，效力及于全国；撤销（vacatur）与简易判决请求被驳回、允许再提。条目已据此改写为「新规被暂停，眼下仍是 D/S 与 60 天宽限期」。
+**Đính chính ngày 2026-09-25 (issue #32)**: quy chế này **không** có hiệu lực vào 2026-09-15. Ngày 2026-09-14, thẩm phán Saylor của Tòa án liên bang quận Massachusetts, trong vụ Presidents' Alliance on Higher Education and Immigration v. DHS (No. 1:26-cv-13799-FDS), theo 5 U.S.C. § 705 đã hoãn ngày hiệu lực của toàn bộ quy chế, hiệu lực trên toàn quốc; yêu cầu hủy bỏ (vacatur) và phán quyết tóm tắt bị bác, được phép nộp lại. Mục đã được viết lại theo đó thành “quy chế mới bị đình chỉ, hiện vẫn là D/S và 60 ngày ân hạn”.
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://oiss.yale.edu/news/important-update-court-action-on-the-ds-rule>（耶鲁国际学生学者办公室，2026-09-14） | 是 | 「issued an order preliminarily enjoining DHS from implementing this rule」「the current D/S framework remains in place for now」「You do not currently need to apply for an Extension of Stay」「The administration may appeal」 |
-| <https://www.aila.org/blog/think-immigration-one-day-before-taking-effect-federal-court-postpones-the-f-j-and-i-fixed-admission-period-rule>（美国移民律师协会） | 是 | 「The relief is nationwide, and it reaches the whole rule」「The rule is postponed, not vacated」「the 60-day grace period stands, and there is no new I-539 requirement」「denying the vacatur and summary judgment requests without prejudice to renewal」「the government may seek review in the First Circuit」 |
-| <https://www.courtlistener.com/docket/74661796/presidents-alliance-on-higher-education-and-immigration-v-united-states/>（法院案卷） | 是 | 第 50 号（2026-09-14）MEMORANDUM AND ORDER：「GRANTED to the extent that it seeks to postpone the effective date of the Final Rule pursuant to … 5 U.S.C. § 705. To the extent that plaintiffs seek vacatur of the Final Rule, summary judgment, or other relief, the motion is DENIED without prejudice to its renewal」；第 51 号（2026-09-14）「PRELIMINARY INJUNCTION ORDER POSTPONING EFFECTIVE DATE OF FINAL RULE」；同日通知「Status Conference set for 10/2/2026 12:00 PM」。直连 403，走本地代理可取 |
+| <https://oiss.yale.edu/news/important-update-court-action-on-the-ds-rule> (Văn phòng sinh viên và học giả quốc tế của Đại học Yale, 2026-09-14) | Có | “issued an order preliminarily enjoining DHS from implementing this rule” “the current D/S framework remains in place for now” “You do not currently need to apply for an Extension of Stay” “The administration may appeal” |
+| <https://www.aila.org/blog/think-immigration-one-day-before-taking-effect-federal-court-postpones-the-f-j-and-i-fixed-admission-period-rule> (Hiệp hội Luật sư Di trú Mỹ) | Có | “The relief is nationwide, and it reaches the whole rule” “The rule is postponed, not vacated” “the 60-day grace period stands, and there is no new I-539 requirement” “denying the vacatur and summary judgment requests without prejudice to renewal” “the government may seek review in the First Circuit” |
+| <https://www.courtlistener.com/docket/74661796/presidents-alliance-on-higher-education-and-immigration-v-united-states/> (hồ sơ vụ án) | Có | Văn bản số 50 (2026-09-14) MEMORANDUM AND ORDER: “GRANTED to the extent that it seeks to postpone the effective date of the Final Rule pursuant to … 5 U.S.C. § 705. To the extent that plaintiffs seek vacatur of the Final Rule, summary judgment, or other relief, the motion is DENIED without prejudice to its renewal”; văn bản số 51 (2026-09-14) “PRELIMINARY INJUNCTION ORDER POSTPONING EFFECTIVE DATE OF FINAL RULE”; thông báo cùng ngày “Status Conference set for 10/2/2026 12:00 PM”. Truy cập thẳng bị 403, đi qua proxy cục bộ lấy được |
 
-原定级说明（下文）保留作历史记录，其中「2026-09-15 起已被固定期限规则取代」一句已不成立。
+Phần thuyết minh định mức ban đầu (dưới đây) giữ lại làm hồ sơ lịch sử, trong đó câu “từ 2026-09-15 đã bị quy chế thời hạn cố định thay thế” không còn đúng.
 
-定级 A：条文与生效日期均可逐字核对。**这条是本节最要紧的更新**：eCFR 现行文本写的是 30 天，网上通行的「60 天宽限期」与「duration of status 读到毕业」均为旧制，2026-09-15 起已被固定期限规则取代，距本次写作仅三天。收益量级「大」——自由口径，后果是非法滞留与遣返，按「避免刑责 大」一档类推。延期程序在 (f)(7)，正文只指路未展开。
+Định mức A: điều văn và ngày hiệu lực đều đối chiếu từng chữ được. **Đây là cập nhật quan trọng nhất của chương này**: văn bản hiện hành trên eCFR ghi là 30 ngày, cách nói phổ biến trên mạng “60 ngày ân hạn” và “duration of status tính đến tốt nghiệp” đều là chế độ cũ, từ 2026-09-15 đã bị quy chế thời hạn cố định thay thế — chỉ ba ngày trước khi phần này được viết. Quy mô lợi ích “lớn” — trục tự do, hậu quả là lưu trú bất hợp pháp và trục xuất, suy theo bậc “tránh trách nhiệm hình sự — lớn”. Thủ tục gia hạn ở (f)(7), thân bài chỉ chỉ đường, không triển khai.
 
-## 第 3 条（四国打工时数）
+## Mục 3 (số giờ làm thêm của bốn nước)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>（8 CFR 214.2(f)(9)） | 是 | 校内就业「must not exceed 20 hours a week while school is in session」；经批准的校外兼职「limited to no more than 20 hours a week when school is in session」，假期可全职 |
-| <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>（移民规则附录 Student，ST26.1 表） | 是 | 学位及以上且保荐方合规：学期内每周 20 小时；学位以下：10 小时；其余含全部非全日制：不得就业。ST26.5 另禁自雇、职业运动员与教练、演艺 |
-| <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>（IRCC） | 是 | 「You can work up to 24 hours per week」；旧许可印 20 小时的，符合条件仍可做到 24 小时；依据为 IRPR 第 186(v) 条 |
-| <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>（内政部 Student visa 500） | 是 | 「work up to 48 hours a fortnight when your course of study or training is in session」，研究型硕士与博士及家属无工时上限 |
+| <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2> (8 CFR 214.2(f)(9)) | Có | Việc làm trong trường “must not exceed 20 hours a week while school is in session”; làm ngoài trường được duyệt “limited to no more than 20 hours a week when school is in session”, nghỉ hè làm toàn thời gian được |
+| <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student> (Phụ lục Student của Luật Di trú, bảng ST26.1) | Có | Bằng cấp trở lên và bên bảo trợ tuân thủ: 20 giờ mỗi tuần trong kỳ học; dưới bằng cấp: 10 giờ; các trường hợp còn lại gồm toàn bộ part-time: không được đi làm. ST26.5 còn cấm tự kinh doanh, vận động viên và huấn luyện viên nghề nghiệp, biểu diễn nghệ thuật |
+| <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html> (IRCC) | Có | “You can work up to 24 hours per week”; giấy phép cũ in 20 giờ thì đủ điều kiện vẫn được làm tới 24 giờ; căn cứ là Điều 186(v) IRPR |
+| <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500> (Student visa 500 của Bộ Nội vụ) | Có | “work up to 48 hours a fortnight when your course of study or training is in session”; thạc sĩ theo hướng nghiên cứu, tiến sĩ và thân quyến không có giới hạn giờ làm |
 
-定级 A：四国均为移民主管部门现行页面或成文规则，数字逐字可核。收益量级「大」——自由口径，超时属违反签证条件，可致签证取消与遣返。
+Định mức A: bốn nước đều là trang hiện hành hoặc quy định thành văn của cơ quan quản lý di trú, số đối chiếu từng chữ được. Quy mô lợi ích “lớn” — trục tự do, làm quá giờ là vi phạm điều kiện visa, có thể dẫn tới hủy visa và trục xuất.
 
-## 第 4 条（全日制在读是打工资格的根）
+## Mục 4 (học toàn thời gian là gốc của tư cách đi làm)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html> | 是 | 获批休学期间，或转学期间未在学习的，不得校外打工，恢复学业后方可复工 |
-| <https://studyinthestates.dhs.gov/students/work/working-in-the-united-states>（DHS Study in the States） | 是 | 校内就业以 SEVIS 中状态为 Active 的 F-1 学生为限；校外就业须先获批，I-765 审理期间不得开工 |
-| <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>（ST26.1） | 是 | 打工许可按课程类型授予，非全日制课程不得就业 |
+| <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html> | Có | Trong thời gian nghỉ học được phê duyệt, hoặc đang chuyển trường mà chưa theo học thì không được đi làm ngoài trường, khôi phục việc học rồi mới được làm lại |
+| <https://studyinthestates.dhs.gov/students/work/working-in-the-united-states> (DHS Study in the States) | Có | Việc làm trong trường chỉ dành cho sinh viên F-1 có trạng thái Active trong SEVIS; làm ngoài trường phải được phê duyệt trước, trong thời gian xét duyệt I-765 không được bắt đầu làm |
+| <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student> (ST26.1) | Có | Giấy phép đi làm cấp theo loại khóa học, khóa part-time không được đi làm |
 
-定级 A。加拿大页面表述最明确，美英两国以各自规则佐证。收益量级「大」，理由同第 3 条。
+Định mức A. Trang của Canada diễn đạt rõ nhất, Mỹ và Anh lấy quy định riêng của mỗi nước làm chứng. Quy mô lợi ích “lớn”, lý do như mục 3.
 
-## 第 5 条（美国地址变更 10 日内报备）
+## Mục 5 (ở Mỹ, báo thay đổi địa chỉ trong 10 ngày)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-265/section-265.1> | 是 | 负有登记义务者须「within 10 days of such change」按 USCIS 要求报告地址变更与新地址 |
-| <https://www.uscis.gov/ar-11> | 是 | AR-11 表格页，说明须尽快通知地址变更以免错收文书 |
+| <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-265/section-265.1> | Có | Người có nghĩa vụ đăng ký phải “within 10 days of such change” báo thay đổi địa chỉ và địa chỉ mới theo yêu cầu của USCIS |
+| <https://www.uscis.gov/ar-11> | Có | Trang mẫu AR-11, nói rõ phải báo thay đổi địa chỉ càng sớm càng tốt để tránh nhận nhầm giấy tờ |
 
-定级 A：10 日期限为条文明文。收益量级「中」——自由口径按「避免行政处罚」一档，且错收文书的实际后果多为程序性不利，未到刑责一级。
+Định mức A: hạn 10 ngày là chữ trắng trong điều văn. Quy mô lợi ích “trung” — trục tự do theo bậc “tránh xử phạt hành chính”, và hậu quả thực của việc nhận nhầm giấy tờ phần lớn là bất lợi về thủ tục, chưa tới mức trách nhiệm hình sự.
 
-## 第 6 条（教育部留学预警）
+## Mục 6 (cảnh báo du học của Bộ Giáo dục)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://jsj.moe.gov.cn/n2/2/2/2001.shtml> | 是 | 2025 年第 1 号（2025-04-09），美国有关州高等教育法案含涉华消极条款 |
-| <https://jsj.moe.gov.cn/n2/2/2/2030.shtml> | 是 | 第 2 号（2025-07-18），菲律宾治安不靖、针对中国公民犯罪多发 |
-| <https://jsj.moe.gov.cn/n2/2/2/2035.shtml> | 是 | 第 3 号（2025-08-30），再次提示菲律宾 |
-| <https://jsj.moe.gov.cn/n2/2/2/2060.shtml> | 是 | 第 4 号（2025-11-16），日本治安形势与留学环境不佳，建议谨慎规划赴日留学 |
+| <https://jsj.moe.gov.cn/n2/2/2/2001.shtml> | Có | Số 1 năm 2025 (2025-04-09), đạo luật giáo dục đại học của một số bang Mỹ có các điều khoản tiêu cực nhắm vào Trung Quốc |
+| <https://jsj.moe.gov.cn/n2/2/2/2030.shtml> | Có | Số 2 (2025-07-18), Philippines trật tự an ninh bất ổn, tội phạm nhằm vào công dân Trung Quốc diễn ra nhiều |
+| <https://jsj.moe.gov.cn/n2/2/2/2035.shtml> | Có | Số 3 (2025-08-30), nhắc lại về Philippines |
+| <https://jsj.moe.gov.cn/n2/2/2/2060.shtml> | Có | Số 4 (2025-11-16), tình hình an ninh và môi trường du học của Nhật không tốt, khuyên hoạch định du học Nhật phải thận trọng |
 
-定级 A：四份预警的编号、日期、指向国家均逐条核对。正文来源栏只列第 4 号与第 1 号加栏目首页，避免来源行过长。收益量级「中」——预警是风险提示不是禁令，不直接对应可量化后果。**预警名单随形势变动，本节按 CLAUDE.md 第 21 节同一惯例，不长期维护。**
+Định mức A: số hiệu, ngày và nước nhắm của bốn bản cảnh báo đều được đối chiếu từng mục. Cột nguồn của thân bài chỉ liệt số 4 và số 1 cùng trang chủ chuyên mục, tránh dòng nguồn quá dài. Quy mô lợi ích “trung” — cảnh báo là nhắc rủi ro chứ không phải lệnh cấm, không ứng trực tiếp với hậu quả định lượng được. **Danh sách cảnh báo đổi theo tình hình, chương này theo cùng quy ước với chương 21 trong CLAUDE.md, không bảo trì dài hạn.**
 
-## 第 7 条（澳大利亚 OSHC）
+## Mục 7 (OSHC của Úc)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500> | 是 | 须持有并全程维持 OSHC，除非属豁免情形；与前一签证的保险之间不得有空档；入境时无法证明已投保者可能被拒绝入境；先于课程开始入境的，保险起始日为抵澳之日 |
+| <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500> | Có | Phải có và duy trì OSHC suốt toàn bộ thời gian, trừ các trường hợp được miễn; bảo hiểm không được có khoảng hở với visa trước đó; khi nhập cảnh không chứng minh được đã mua bảo hiểm thì có thể bị từ chối nhập cảnh; nhập cảnh trước khi khóa học bắt đầu thì ngày bắt đầu bảo hiểm tính là ngày tới Úc |
 
-定级 A。收益量级「中」——金钱口径，保费为数千到上万元级，属「数百到数千」与万元级交界，取中。成本标签钱=多（按签证年限一次性支出）。
+Định mức A. Quy mô lợi ích “trung” — trục tiền, phí bảo hiểm ở cỡ vài nghìn đến hơn 10.000 yên, thuộc ranh giữa “vài trăm đến vài nghìn” và cỡ 10.000 yên, lấy trung. Thẻ chi phí tien=nhieu (chi một lần theo số năm visa).
 
-## 第 8 条（英国签证费与医疗附加费）
+## Mục 8 (phí visa và phụ phí y tế của Anh)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://www.gov.uk/student-visa> | 是 | 境外申请与境内延期或转换均为 £558；年满 18 岁读学位及以上通常最长停留 5 年，学位以下 2 年 |
-| <https://www.gov.uk/healthcare-immigration-application> | 是 | 学生及其家属每年 £776（2 年签证即 £1,552），其他申请人每年 £1,035；超过 6 个月不足 1 年按整年收取 |
+| <https://www.gov.uk/student-visa> | Có | Xin từ ngoài nước và gia hạn hay chuyển trong nước đều là £558; từ 18 tuổi học bậc bằng cấp trở lên thường tối đa lưu trú 5 năm, dưới bằng cấp 2 năm |
+| <https://www.gov.uk/healthcare-immigration-application> | Có | Sinh viên và thân quyến £776 mỗi năm (visa 2 năm tức £1,552), người xin khác £1,035 mỗi năm; quá 6 tháng nhưng chưa đầy 1 năm thì tính trọn năm |
 
-定级 A：金额逐字取自 gov.uk 当期页面。收益量级「中」——金钱口径，两项合计为数千元人民币量级。正文未换算人民币具体数额，只写「按当前汇率一万几千元」的量级，避免汇率变动导致数字失效。
+Định mức A: số tiền lấy từng chữ từ trang hiện thời của gov.uk. Quy mô lợi ích “trung” — trục tiền, hai khoản cộng lại cỡ vài nghìn nhân dân tệ. Thân bài không quy ra số nhân dân tệ cụ thể, chỉ viết cỡ “theo tỷ giá hiện thời là khoảng trên dưới mười nghìn”, tránh tỷ giá thay đổi làm số liệu mất tác dụng.
 
-## 第 9 条（留服认证时限）
+## Mục 9 (thời hạn chứng nhận của CSCSE)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <http://zwfw.cscse.edu.cn/>（留服中心网上服务大厅） | 是 | 学历学位认证流程为注册实名认证、提交申请与材料、在线缴费、评估与审核；「认证工作时限 10-20 个工作日」；申请材料含文凭证书、护照或通行证、居留卡或签证签注、证件照片、授权声明；出入境记录由系统取 |
+| <http://zwfw.cscse.edu.cn/> (sảnh dịch vụ trực tuyến của Trung tâm phục vụ lưu học sinh) | Có | Quy trình chứng nhận bằng - chứng chỉ: đăng ký xác thực tên thật, nộp đơn và hồ sơ, thanh toán trực tuyến, đánh giá và thẩm định; “thời hạn làm việc chứng nhận 10-20 ngày làm việc”; hồ sơ xin gồm văn bằng chứng chỉ, hộ chiếu hay giấy thông hành, thẻ cư trú hay visa - thị thực, ảnh giấy tờ, tuyên bố ủy quyền; hồ sơ xuất nhập cảnh do hệ thống tự lấy |
 
-定级 A：时限与材料清单为页面明示。收益量级「中」、口径时间——节省的是错过截止日期的风险，不是每天的时间，按「一次性」本应定小，但错过秋招或考公报名的后果按窗口期计，取中；此处为判断，非机械套阈值，依 CLAUDE.md 要求在此写明。
+Định mức A: thời hạn và danh mục hồ sơ là trang ghi rõ. Quy mô lợi ích “trung”, trục thời gian — cái tiết kiệm được là rủi ro lỡ hạn chót chứ không phải thời gian mỗi ngày; theo kiểu “chỉ một lần” đáng lẽ định nhỏ, nhưng hậu quả của việc lỡ tuyển dụng mùa thu hoặc đăng ký thi công chức phải tính theo khung cửa sổ, lấy trung; đây là phán đoán chứ không phải áp máy móc ngưỡng, theo yêu cầu của CLAUDE.md ghi rõ tại đây.
 
-## 第 10 条（加强认证审查名单）
+## Mục 10 (danh sách tăng cường xét nghiệm chứng nhận)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính nguyên văn |
 |---|---|---|
-| <https://www.cscse.edu.cn/cscse/sy/tzgg/2025102809225023345/index.html> | 是 | 《关于对部分国外院校学历学位认证加强认证审查的公告（九）》，2025-10-28 发布 |
-| <https://www.cscse.edu.cn/> | 是 | 通知公告栏同时列有「关于谨防借国（境）外学历学位认证实施诈骗的重要提示」「关于对部分国（境）外学历学位认证书失效处置的公告」「关于暂停泰国彭世洛大学学历学位认证申请的公告」 |
+| <https://www.cscse.edu.cn/cscse/sy/tzgg/2025102809225023345/index.html> | Có | “Thông báo về việc tăng cường xét nghiệm chứng nhận đối với chứng nhận bằng - chứng chỉ của một số cơ sở nước ngoài (lần chín)”, phát ngày 2025-10-28 |
+| <https://www.cscse.edu.cn/> | Có | Chuyên mục thông báo cùng lúc có “Lưu ý quan trọng về cảnh giác với hành vi lừa đảo lợi dụng việc chứng nhận bằng - chứng chỉ trong nước (ngoài nước)”, “Thông báo về việc xử lý vô hiệu chứng nhận bằng - chứng chỉ trong (ngoài) nước của một số trường”, “Thông báo về việc tạm dừng tiếp nhận hồ sơ chứng nhận bằng - chứng chỉ của Đại học Phitsanulok Thái Lan” |
 
-定级 A：公告标题、期号与日期可逐字核对。收益量级「中」——金钱口径，后果是认证受阻或延迟，未必全额损失学费，故不取大。正文未点名任何具体院校（除引用公告标题中已公开的一所），避免名单变动后失准。
+Định mức A: tiêu đề thông báo, số kỳ và ngày đối chiếu từng chữ được. Quy mô lợi ích “trung” — trục tiền, hậu quả là chứng nhận bị cản hoặc chậm, chưa chắc mất toàn bộ học phí, nên không lấy lớn. Thân bài không nêu tên bất kỳ cơ sở cụ thể nào (trừ một trường đã công khai trong tiêu đề thông báo được trích), tránh danh sách thay đổi thì lệch.
 
-## 本节没写的
+## Những thứ chương này chưa viết
 
-- 各国的税务申报义务（如美国 F-1 无收入也需报送表格）本轮未取得可逐字核对的官方页面，未写入。
-- 加拿大、英国、澳大利亚的地址变更报备期限各不相同，未逐国取原文，第 5 条只写美国并在备注里提示其余三国另按本国规定办。
-- 学生签证被拒或身份失效后的补救程序（美国的 reinstatement 等）未写，属专门程序，超出本节「不知道就吃亏」的定位。
-- 日本、新西兰、新加坡等其他留学目的国不在读者提问范围内，未纳入。
+- Nghĩa vụ khai thuế của các nước (ví dụ F-1 của Mỹ không có thu nhập vẫn phải nộp mẫu tờ khai) vòng này chưa lấy được trang chính thức đối chiếu từng chữ được, chưa viết.
+- Hạn báo cáo thay đổi địa chỉ của Canada, Anh, Úc mỗi nước mỗi khác, chưa lấy nguyên văn từng nước; mục 5 chỉ viết Mỹ và trong Ghi chú nhắc ba nước còn lại cứ theo quy định nước mình mà làm.
+- Thủ tục khắc phục sau khi visa sinh viên bị từ chối hay tư cách mất hiệu lực (reinstatement của Mỹ v.v.) chưa viết, thuộc thủ tục chuyên sâu, vượt định vị “không biết là phải chịu thiệt” của chương này.
+- Nhật, New Zealand, Singapore v.v. các nước du học khác ngoài phạm vi câu hỏi của độc giả, chưa đưa vào.

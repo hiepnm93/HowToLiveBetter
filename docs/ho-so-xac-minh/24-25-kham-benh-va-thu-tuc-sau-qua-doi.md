@@ -1,47 +1,47 @@
-# 核实记录：新增第 24、25 节
+# Hồ sơ xác minh: bổ sung chương 24, 25
 
-核实日期：2026-09-07。新增第 24 节「看病：怎么少花钱少走弯路」6 条、第 25 节「人走了以后要办什么」5 条，全书 333 → 344 条，23 → 25 节。
+Ngày xác minh: 2026-09-07. Bổ sung chương 24 “Đi khám bệnh: làm sao tốn ít tiền, đi ít đường vòng” 6 mục, chương 25 “Khi người thân qua đời cần làm gì” 5 mục; toàn sách 333 → 344 mục, 23 → 25 chương.
 
-两节都与已有章节相邻，写之前先划了边界：待遇资格与救助在第 7 节，慢性病长期管理在第 16 节，急症处置在第 13 节，老人生前安排在第 17 节，工亡待遇在第 19 节。这两节只写这些章节没覆盖的部分，重复的地方一律写成互相指路。
+Cả hai chương đều nằm sát cạnh các chương đã có, nên trước khi viết đã vạch ranh giới: đãi ngộ và cứu trợ ở chương 7, quản lý lâu dài bệnh mãn tính ở chương 16, xử trí tình huống cấp ở chương 13, sắp xếp trước khi mất của người già ở chương 17, đãi ngộ khi chết do lao động ở chương 19. Hai chương này chỉ viết phần các chương đó chưa phủ tới; chỗ trùng lặp đều ghi thành lời chỉ chéo sang nhau.
 
 ---
 
-## 一、第 24 节逐条核对到的原文
+## I. Nguyên văn đã đối chiếu từng mục của chương 24
 
-来源为国务院办公厅《关于加快建设分级诊疗体系的若干措施》（2026 年 4 月）<https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>。
+Nguồn là “Một số biện pháp về đẩy nhanh xây dựng hệ thống khám chữa bệnh phân cấp” do Văn phòng Quốc vụ viện ban hành (tháng 4/2026) <https://www.gov.cn/zhengce/zhengceku/202604/content_7065031.htm>.
 
-| 条目 | 核对到的原文 |
+| Mục | Nguyên văn đã đối chiếu |
 | --- | --- |
-| 起付线连续计算 | 「统筹地区内经基层医疗卫生机构逐级转诊的参保患者，在上级医院的住院起付线可连续计算；由上级医院下转至基层医疗卫生机构的住院患者，同一疾病周期内不再另设住院起付线。」 |
-| 报销比例逐级差 10 个百分点 | 「因地制宜适当拉开参保人员在不同等级医疗卫生机构的住院报销水平，原则上统筹地区内医疗卫生机构住院报销比例逐级拉开10个百分点左右的差距。」「具备条件的地方，可按分级诊疗导向酌情拉开参保人员在不同等级医疗卫生机构的门诊报销水平。」 |
-| 预留号源与转诊中心 | 「牵头医院要为基层医疗卫生机构预留一定比例的号源和床位，并及时接诊经基层转诊患者。」「医疗机构要强化转诊服务统一管理，设立转诊中心或指定固定部门承担患者转诊服务工作，到2027年实现全覆盖。」 |
-| 跨省就医必要性评估 | 「原则上由二、三级医院副主任医师及以上职称人员评估患者跨统筹地区、跨省异地就医的必要性。」「跨省临时外出就医人员报销水平与参保地同级别医疗机构报销水平保持合理差异。」 |
-| 三级医院酌减普通门诊 | 「三级医院要聚焦急危重症和疑难复杂疾病……逐步酌减常见病复诊和诊断明确、病情稳定的慢性病等普通门诊。」「紧密型医联体内上级医院要在基层医疗卫生机构开设高血压、糖尿病、慢性阻塞性肺疾病等常见病、慢性病门诊……并将专家团队普通门诊向基层医疗卫生机构延伸。」 |
+| Mức khởi điểm nội trú được tính liên tục | “Người tham gia bảo hiểm trong vùng điều phối quỹ, được chuyển tuyến theo từng bậc từ cơ sở y tế cơ sở, thì mức khởi điểm nội trú tại bệnh viện cấp trên được tính liên tục; người bệnh nội trú được chuyển xuống từ bệnh viện cấp trên về cơ sở y tế cơ sở thì trong cùng một chu kỳ bệnh không phải chịu thêm mức khởi điểm nội trú mới.” |
+| Tỷ lệ hoàn phí chênh nhau 10 điểm phần trăm theo từng bậc | “Tùy điều kiện từng nơi, phân biệt hợp lý mức hoàn nội trú của người tham gia bảo hiểm giữa các cơ sở y tế cấp độ khác nhau; về nguyên tắc, trong vùng điều phối quỹ, tỷ lệ hoàn nội trú giữa các cơ sở y tế chênh nhau khoảng 10 điểm phần trăm theo từng bậc.” “Những nơi có đủ điều kiện có thể theo định hướng khám chữa bệnh phân cấp mà cân nhắc phân biệt mức hoàn ngoại trú của người tham gia bảo hiểm giữa các cơ sở y tế cấp độ khác nhau.” |
+| Nguồn lượt khám dự sẵn và trung tâm chuyển tuyến | “Bệnh viện đầu mối phải dự sẵn cho cơ sở y tế cơ sở một tỷ lệ nhất định nguồn lượt khám và giường bệnh, kịp thời tiếp nhận người bệnh do tuyến cơ sở chuyển lên.” “Cơ sở y tế phải tăng cường quản lý thống nhất dịch vụ chuyển tuyến, lập trung tâm chuyển tuyến hoặc chỉ định một bộ phận cố định đảm nhận chuyển tuyến người bệnh, đến năm 2027 thực hiện phủ khắp.” |
+| Đánh giá mức cần thiết của việc đi chữa bệnh khác tỉnh | “Về nguyên tắc, do người có chức danh phó chủ nhiệm y sĩ trở lên ở bệnh viện cấp hai, cấp ba đánh giá mức cần thiết của việc người bệnh đi chữa bệnh khác vùng điều phối, khác tỉnh.” “Mức hoàn của người tạm thời ra ngoài chữa bệnh khác tỉnh giữ mức chênh lệch hợp lý so với mức hoàn của cơ sở y tế cùng cấp tại nơi tham gia bảo hiểm.” |
+| Bệnh viện cấp ba cân nhắc giảm ngoại trú thông thường | “Bệnh viện cấp ba phải tập trung vào cấp cứu, bệnh nguy kịch và các bệnh khó, phức tạp… từng bước cân nhắc giảm dần ngoại trú thông thường như tái khám bệnh thông thường và bệnh mãn tính đã chẩn đoán rõ, tình trạng ổn định.” “Trong liên minh y tế liên kết chặt chẽ, bệnh viện cấp trên phải mở tại cơ sở y tế cơ sở các phòng khám ngoại trú bệnh thông thường, bệnh mãn tính như tăng huyết áp, tiểu đường, bệnh phổi tắc nghẽn mạn tính… và đưa ngoại trú thông thường của đội ngũ chuyên gia mở rộng xuống cơ sở y tế cơ sở.” |
 
-## 二、第 25 节逐条核对到的原文
+## II. Nguyên văn đã đối chiếu từng mục của chương 25
 
-| 来源 | 核对到的原文 | 用在哪 |
+| Nguồn | Nguyên văn đã đối chiếu | Dùng cho mục |
 | --- | --- | --- |
-| 《殡葬管理条例》（国务院令第 824 号，2025-11-14 修订通过）<https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> | 「已经2025年11月14日国务院第72次常务会议修订通过，现予公布，自2026年3月30日起施行。」第五条「殡葬服务分为基础项目和非基础项目，收费政策由国务院发展改革部门、财政部门会同国务院民政等部门制定。」「国家制定殡葬服务基础项目清单，将遗体接运、遗体存放、遗体告别、遗体火化、骨灰寄存、生态安葬以及政府举办的殡葬服务机构提供的骨灰格位安葬等纳入清单范围」；第五十条「殡葬服务实行清单化管理并动态调整，禁止在清单之外设立项目、收取费用。」 | 第 1 条 |
-| 同上 | 第四十二条「不得违反有关规定擅自设立收费项目，或者采取分解项目、扩大范围收费等形式变相提高收费标准。」第四十三条五类价格违法行为（不明码标价／标价外加价、虚假或误导性价格手段、捆绑或附加不合理条件强制销售、强制接受第三方有偿服务或重复收费、其他）；第五十一条民政部门与政务服务便民热线建立信息共享监督机制，「对丧属反映的殡葬服务问题，应当会同有关部门及时予以处理并将处理结果告知丧属」 | 第 2 条 |
-| 同上 | 第四十一条「除殡葬服务机构外，从事殡葬服务代理、用品代购、策划主持、信息咨询等殡葬相关服务活动的组织和个人，应当向县级人民政府民政部门备案。」「对存在以欺骗等手段违规收费、诱导大操大办、强迫接受服务、倒卖逝者信息等损害丧属权益行为的依法处置，并在殡葬服务信息系统中进行标注，向社会公开。」第四十五条网络祭扫平台「加强逝者信息保护，不得诱导消费」 | 第 3 条 |
-| 《住房公积金管理条例》（国务院令第 844 号修改）第二十四条末款 | 「职工死亡或者被宣告死亡的，职工的继承人、受遗赠人可以提取职工住房公积金账户内的存储余额；无继承人也无受遗赠人的，职工住房公积金账户内的存储余额纳入住房公积金的增值收益。」 | 第 4 条 |
-| 《个人信息保护法》第四十九条、第五十条 | 「自然人死亡的，其近亲属为了自身的合法、正当利益，可以对死者的相关个人信息行使本章规定的查阅、复制、更正、删除等权利；死者生前另有安排的除外。」 | 第 5 条 |
+| “Điều lệ Quản lý tang tế” (Lệnh Quốc vụ viện số 824, thông qua bản sửa đổi ngày 2025-11-14) <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> | “Đã được thông qua bản sửa đổi tại phiên họp Thường vụ Quốc vụ viện thứ 72 ngày 14/11/2025, nay được công bố, thi hành từ ngày 30/3/2026.” Điều 5: “Dịch vụ tang tế chia thành hạng mục cơ bản và hạng mục không cơ bản, chính sách thu phí do các cơ quan phát triển cải cách, tài chính của Quốc vụ viện cùng các cơ quan dân chính v.v. của Quốc vụ viện xây dựng.” “Nhà nước xây dựng danh mục các hạng mục cơ bản của dịch vụ tang tế, đưa vào phạm vi danh mục cả vận chuyển thi thể, giữ thi thể, lễ viếng thi thể, hỏa táng thi thể, gửi giữ tro cốt, an táng sinh thái cũng như an táng ô giữ tro cốt do các cơ quan dịch vụ tang tế do chính phủ lập cung cấp”; Điều 50: “Dịch vụ tang tế thực hiện quản lý theo danh mục và điều chỉnh linh hoạt, cấm lập hạng mục, thu phí ngoài danh mục.” | Mục 1 |
+| Như trên | Điều 42: “Không được trái với quy định liên quan mà tự ý lập hạng mục thu phí, hoặc dùng các hình thức như tách hạng mục, mở rộng phạm vi thu phí để ngầm nâng mức thu phí.” Điều 43 liệt kê năm loại hành vi vi phạm pháp luật về giá (không niêm yết rõ giá / tăng giá ngoài giá đã niêm yết, thủ đoạn về giá giả mạo hoặc gây hiểu lầm, bán ép theo kiểu gói kèm hoặc gán điều kiện bất hợp lý, ép buộc nhận dịch vụ trả phí của bên thứ ba hoặc thu phí trùng lặp, khác); Điều 51: cơ quan dân chính cùng đường dây nóng dịch vụ hành chính tiện dân lập cơ chế giám sát chia sẻ thông tin, “với các vấn đề về dịch vụ tang tế mà thân quyến người mất phản ánh, phải phối hợp với các cơ quan liên quan xử lý kịp thời và báo kết quả xử lý cho thân quyến người mất” | Mục 2 |
+| Như trên | Điều 41: “Ngoài các cơ quan dịch vụ tang tế, tổ chức và cá nhân kinh doanh các dịch vụ liên quan tang tế như làm đại lý dịch vụ tang tế, mua hộ vật phẩm, tổ chức và dẫn chương trình, tư vấn thông tin v.v. phải đăng ký với cơ quan dân chính của Chính quyền nhân dân cấp huyện.” “Với các hành vi gây tổn hại quyền lợi thân quyến người mất như thu phí sai quy định bằng thủ đoạn lừa dối, xúi giục chưng diện làm to, ép buộc nhận dịch vụ, buôn bán thông tin người đã mất v.v., xử lý theo pháp luật, đồng thời đánh dấu trong hệ thống thông tin dịch vụ tang tế và công khai cho xã hội.” Điều 45 về các nền tảng cúng bái trực tuyến: “tăng cường bảo vệ thông tin người đã mất, không được xúi giục tiêu dùng” | Mục 3 |
+| “Điều lệ Quản lý quỹ tiết kiệm nhà ở” (sửa đổi theo Lệnh Quốc vụ viện số 844), khoản cuối Điều 24 | “Người lao động chết hoặc bị tuyên bố là đã chết thì người thừa kế, người được di tặng của người lao động có thể rút số dư lưu trong tài khoản quỹ tiết kiệm nhà ở của người lao động; không có người thừa kế cũng không có người được di tặng thì số dư lưu trong tài khoản quỹ tiết kiệm nhà ở của người lao động được nộp vào lợi nhuận gia tăng của quỹ tiết kiệm nhà ở.” | Mục 4 |
+| “Luật Bảo vệ thông tin cá nhân”, Điều 49, Điều 50 | “Khi thể nhân chết, thân quyến gần của họ, vì lợi ích chính đáng, hợp pháp của bản thân, có thể thực hiện các quyền xem, sao chép, đính chính, xóa v.v. quy định trong chương này đối với thông tin cá nhân liên quan của người đã mất; trừ trường hợp người đã mất khi còn sống đã có sắp xếp khác.” | Mục 5 |
 
-## 三、未取得 / 未采用
+## III. Chưa lấy được / chưa sử dụng
 
-| 想找的 | 结果 | 处理 |
+| Cần tìm | Kết quả | Cách xử lý |
 | --- | --- | --- |
-| 患者查阅、复制病历资料的法条依据与病历保存期限 | 《医疗纠纷预防和处理条例》《医疗机构病历管理规定》均不在国务院政策文件库中；最高检法律栏目也没有收录相关法律 | 第 24 节第 6 条定 C 级，来源栏写 TODO |
-| 基本养老保险丧葬补助金、遗属抚恤金的标准 | 人社部相关文件不在国务院政策文件库中，mohrss.gov.cn 本机不可访问 | 第 25 节第 4 条来源栏写 TODO，正文不写金额 |
-| 基本养老保险个人账户余额的继承规则 | 需要《社会保险法》原文，npc.gov.cn 的猜测链接返回的是导航页，最高检法律栏目未收录 | 同上，写 TODO |
-| 已故存款人小额存款简化提取的限额 | 检索「已故存款人小额存款」在国务院政策文件库中无对应文件 | 未写该条 |
-| 号贩子、倒卖号源的处罚依据 | 检索无对应文件 | 第 24 节第 3 条只写「走转诊通道」，不写号贩子的法律后果 |
+| Căn cứ điều luật cho người bệnh xem, sao chép hồ sơ bệnh án và thời hạn lưu giữ hồ sơ bệnh án | “Điều lệ Phòng ngừa và xử lý tranh chấp y tế”, “Quy định quản lý hồ sơ bệnh án của cơ sở y tế” đều không có trong kho văn bản chính sách của Quốc vụ viện; chuyên mục pháp luật của Viện kiểm sát nhân dân tối cao cũng không thu luật liên quan | Mục 6 chương 24 đặt mức C, cột Nguồn ghi TODO |
+| Chuẩn của trợ cấp mai táng và tiền tuất cho thân quyến thuộc bảo hiểm hưu trí cơ bản | Văn bản liên quan của Bộ Nhân lực và An sinh Xã hội không có trong kho văn bản chính sách Quốc vụ viện; mohrss.gov.cn không truy cập được từ máy này | Mục 4 chương 25 cột Nguồn ghi TODO, thân bài không ghi số tiền |
+| Quy tắc thừa kế số dư tài khoản cá nhân của bảo hiểm hưu trí cơ bản | Cần nguyên văn “Luật Bảo hiểm xã hội”; liên kết suy đoán trên npc.gov.cn trả về trang điều hướng; chuyên mục pháp luật của Viện kiểm sát tối cao không thu | Như trên, ghi TODO |
+| Hạn mức của việc rút gọn thủ tục rút tiền gửi nhỏ của người gửi tiền đã mất | Tra “người gửi tiền đã mất tiền gửi nhỏ” không thấy văn bản tương ứng trong kho văn bản chính sách Quốc vụ viện | Không viết mục này |
+| Căn cứ xử phạt cò lượt khám, buôn bán lượt đăng ký khám | Tra không có văn bản tương ứng | Mục 3 chương 24 chỉ viết “đi kênh chuyển tuyến”, không viết hậu quả pháp lý của cò lượt |
 
-> **更正（同日）**：本节表格中判断为「不在国务院政策文件库中」的文件，实际是检索参数用错（`searchfield=title|default`）导致的漏检。改用 `searchfield=title` 后均已命中并逐字核对，见 [追加-第15节与病历条回填.md](追加-第15节与病历条回填.md)。相关条目已补写。
+> **Đính chính (cùng ngày)**: các văn bản mà bảng trong phần này kết luận là “không có trong kho văn bản chính sách Quốc vụ viện” thực ra là bị sót vì dùng sai tham số tra cứu (`searchfield=title|default`). Sau khi đổi sang `searchfield=title` thì đều tìm thấy và đã đối chiếu từng chữ, xem [bo-sung-chuong-15-va-muc-benh-an.md](bo-sung-chuong-15-va-muc-benh-an.md). Các mục liên quan đã được viết bổ sung.
 
-## 四、口径与收益量级
+## IV. Trục đo lường và quy mô lợi ích
 
-第 24 节六条中四条口径为金钱、两条为时间。收益量级按金钱阈值定：起付线与报销比例差都在数百到数千元一档，定「中」；没有一条落在万元级，所以本节没有「大」。第 25 节前三条是避免几百到几千元的违规收费，定「中」；第 4 条涉及公积金余额与社保待遇，可以到万元级，定「大」；第 5 条口径为自由（含个人信息），与第 14 节的两条同样属于阈值套不上的情形，按判断定「中」。
+Trong sáu mục của chương 24 thì bốn mục lấy trục tiền bạc, hai mục trục thời gian. Quy mô lợi ích xác định theo ngưỡng tiền: mức khởi điểm và chênh lệch tỷ lệ hoàn đều nằm ở bậc vài trăm đến vài nghìn yên, định “trung”; không có mục nào chạm tới cỡ 10.000 yên nên chương này không có mức “lớn”. Ba mục đầu của chương 25 là tránh các khoản thu phí sai quy định từ vài trăm đến vài nghìn yên, định “trung”; mục 4 liên quan tới số dư quỹ tiết kiệm nhà ở và đãi ngộ an sinh xã hội, có thể lên tới cỡ 10.000 yên, định “lớn”; mục 5 lấy trục tự do thân xác (bao gồm thông tin cá nhân), cùng hoàn cảnh “ngưỡng không khớp” với hai mục của chương 14, định “trung” theo phán đoán.
 
-两节的成本几乎都是零，但多条记了「毅力=些」：难的不是知道规则，是在当口愿意先去社区、愿意在办丧事时较真一张价目表。
+Chi phí của hai chương gần như đều bằng không, nhưng nhiều mục được ghi “ý chí = chút”: cái khó không phải là biết quy tắc, mà là ở khoảnh khắc đó sẵn lòng đi trước lên cơ sở y tế khu dân cư, sẵn lòng nằng nặc đòi xem bảng giá khi lo việc tang lễ.

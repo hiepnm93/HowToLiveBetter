@@ -1,42 +1,42 @@
-# 第 29 节「遭遇重大打击之后」· 核实记录（2026-09-09）
+# Chương 29 “Sau cú sốc lớn” · Hồ sơ xác minh (2026-09-09)
 
-任务来源：读者原话——「感觉还少了东西，比如人生遇到重大挫折，亲人去世该怎么办，有些人因为这个抑郁的」。
+Nguồn nhiệm vụ: nguyên lời độc giả — “Cảm giác vẫn còn thiếu thứ gì đó, ví dụ gặp biến cố lớn trong đời, người thân qua đời thì phải làm gì, có người vì thế mà trầm cảm”.
 
-原有覆盖：散在三处，且都不是这件事。第 1 节第 25 条讲限制致死手段与 12356，第 3 节第 19 条讲情绪低落时的运动与光照，第 22 节第 7 条讲运动抗抑郁的剂量，第 25 节整节讲人走了以后的手续和钱。丧亲本身的健康风险、风险的时间窗口、什么时候该去挂号、失业与离婚后的死亡率、家长去世的孩子怎么安置——全书零覆盖。
+Phần đã có sẵn: rải rác ba chỗ và đều không phải việc này. Mục 25 chương 1 nói hạn chế phương tiện chết người và 12356, mục 19 chương 3 nói vận động và ánh sáng khi tâm trạng xuống thấp, mục 7 chương 22 nói liều vận động chống trầm cảm, cả chương 25 nói thủ tục và tiền khi người thân qua đời. Rủi ro sức khỏe của chính việc mất người thân, khung thời gian của rủi ro, lúc nào nên đi đăng ký khám, tỷ lệ tử vong sau thất nghiệp và ly hôn, sắp đặt thế nào cho trẻ mất cha mẹ — toàn sách phủ bằng không.
 
-落点（经用户确认）：**新开第 29 节**，文件 `book/29-遭遇重大打击之后.md`。备选方案是拆进第 3、25、1 三节，未采用：这批条目的共同点是「时间窗口」——头 24 小时、头一周、头一个月、头半年，拆开就看不出这条线，读者遇事时也找不到。
+Điểm đặt (đã được người dùng xác nhận): **mở chương 29 mới**, file `book/29-sau-cu-soc-lon.md`. Phương án dự bị là tách vào ba chương 3, 25, 1, không áp dụng: điểm chung của nhóm mục này là “khung thời gian” — 24 giờ đầu, tuần đầu, tháng đầu, nửa năm đầu; tách ra thì mất hẳn mạch này, người đọc gặp chuyện cũng không tìm ra.
 
-## 收进来的十一条与各自的原文
+## Mười một mục được thu vào và nguyên văn tương ứng của từng mục
 
-全部经 Europe PMC REST（`resultList.result` 的 `abstractText`）逐条核对摘要原文，数字与置信区间照抄，未取二手转述。
+Tất cả đều đối chiếu từng mục với nguyên văn tóm tắt qua Europe PMC REST (`abstractText` trong `resultList.result`), số liệu và khoảng tin cậy chép y nguyên, không dùng lời thuật lại của nguồn thứ hai.
 
-| 条 | 来源 | 核到的关键数字 |
+| Mục | Nguồn | Các số chính đã đối chiếu |
 |---|---|---|
-| 1 | Mostofsky 2012 Circulation；Carey 2014 JAMA Intern Med | 1985 例心梗的病例交叉：重要的人去世后 24 小时内心梗发作率升高 21.1 倍（13.1–34.1），绝对风险 5% 十年风险者 1/1394、20% 者 1/320；英国 30447 丧偶者对 83588 对照：30 天内心梗或中风 0.16% 对 0.08%，IRR 2.20（1.52–3.15） |
-| 2 | Fang 2012 NEJM | 瑞典 607 万人：确诊癌症后第一周自杀 RR 12.6（8.6–17.8）、第一年 3.1；心血管死亡第一周 5.6（5.2–5.9）、前 4 周 3.3 |
-| 3 | Roelfs 2011 Soc Sci Med | 42 项研究、逾 2000 万人：失业者全因死亡平均 HR 1.63；控制健康行为的研究里平均 HR 低 24% |
-| 4 | Erlangsen 2017 JAMA Psychiatry；Pitman 2014 Lancet Psychiatry | 丹麦 670 万人：配偶自杀后 5 年内新发精神障碍 IRR 男 1.8、女 1.7（对一般人群），对其他死因丧偶者男 1.7、女 2.0 |
-| 5 | Moon 2011 PLoS ONE；Shor 2012 Demography | 15 项队列、226 万人：丧偶不足 6 个月 RR 1.41（1.26–1.57），6 个月后 1.14；男 1.23、女 1.04（不显著）。123 篇、逾 5 亿人：HR 1.23，男 1.27、女 1.15 |
-| 6 | Li 2014 PLoS Med | 北欧三国逾 730 万人、其中 189,094 人 18 岁前丧亲：全因死亡率比 1.50（1.43–1.58），父母非自然死亡 1.84、自然死亡 1.33 |
-| 7 | Lundorff 2017 J Affect Disord；Prigerson 2009 PLoS Med；Shear 2005 JAMA | 延长哀伤障碍合并患病率 9.8%（6.8–14.0）；诊断标准为渴念加九项中至少五项、死亡后至少 6 个月仍在并伴功能损害；针对性治疗有效率 51% 对人际心理治疗 28%（P=0.02），需治疗人数 4.3 |
-| 8 | Currier 2008 Psychol Bull；Wittouck 2011 Clin Psychol Rev；Bonanno 2002 JPSP | 61 项对照研究：结束时效应小、随访无显著获益，只招收适应困难者的干预效果与其他心理治疗相当；14 项 RCT：治疗性有效、预防性无效；205 人前瞻：五种模式中韧性型最常见 |
-| 9 | Sbarra 2011 Perspect Psychol Sci | 32 项前瞻研究、逾 650 万人、11 国：分居离婚者早死风险显著升高，男性与较年轻者升幅更大。**原文摘要只给方向和分组比较，没有可引的合并 HR，所以本条不写倍数** |
-| 10 | 国卫医政发〔2026〕8 号 | 12356 热线与 110 联动、12355 与 12356 联动；到 2030 年 80% 以上村社区设心理咨询室、各县（区）至少 1 所医院提供心理门诊、各省建成省级 12356 平台 |
-| 11 | 作者经验 + 同一份方案 | 「三个月」是作者定的阈值，无文献支持，故 C 级；方案把「家庭变故、失业、失学」列为社区要主动排查的心理危机风险 |
+| 1 | Mostofsky 2012 Circulation; Carey 2014 JAMA Intern Med | Thiết kế ca - chứng có ghép cho 1985 ca nhồi máu cơ tim: trong 24 giờ sau khi người thân thiết mất, tỷ suất phát cơn nhồi máu cơ tim tăng 21.1 lần (13.1–34.1), với người có nguy cơ 10 năm 5% thì nguy cơ tuyệt đối 1/1394, 20% thì 1/320; Anh: 30447 người góa so với 83588 đối chứng: nhồi máu cơ tim hoặc đột quỵ trong 30 ngày 0.16% so với 0.08%, IRR 2.20 (1.52–3.15) |
+| 2 | Fang 2012 NEJM | Thụy Điển 6.070.000 người: tuần đầu sau khi xác định mắc ung thư, tự sát RR 12.6 (8.6–17.8), năm đầu 3.1; tử vong tim mạch tuần đầu 5.6 (5.2–5.9), 4 tuần đầu 3.3 |
+| 3 | Roelfs 2011 Soc Sci Med | 42 nghiên cứu, hơn 20.000.000 người: người thất nghiệp HR tử vong mọi nguyên nhân bình quân 1.63; trong các nghiên cứu có kiểm soát hành vi sức khỏe, HR bình quân thấp hơn 24% |
+| 4 | Erlangsen 2017 JAMA Psychiatry; Pitman 2014 Lancet Psychiatry | Đan Mạch 6.700.000 người: trong 5 năm sau khi vợ/chồng tự sát, IRR rối loạn tâm thần mới mắc nam 1.8, nữ 1.7 (so với dân số chung); so với người góa vì nguyên nhân chết khác: nam 1.7, nữ 2.0 |
+| 5 | Moon 2011 PLoS ONE; Shor 2012 Demography | 15 đoàn hệ, 2.260.000 người: góa dưới 6 tháng RR 1.41 (1.26–1.57), sau 6 tháng 1.14; nam 1.23, nữ 1.04 (không có ý nghĩa thống kê). 123 bài, hơn 500 triệu người: HR 1.23, nam 1.27, nữ 1.15 |
+| 6 | Li 2014 PLoS Med | Ba nước Bắc Âu hơn 7.300.000 người, trong đó 189,094 người mất người thân trước 18 tuổi: tỷ số tử vong mọi nguyên nhân 1.50 (1.43–1.58), cha mẹ chết không tự nhiên 1.84, chết tự nhiên 1.33 |
+| 7 | Lundorff 2017 J Affect Disord; Prigerson 2009 PLoS Med; Shear 2005 JAMA | Tỷ lệ hợp bình của rối loạn đau buồn kéo dài 9.8% (6.8–14.0); tiêu chuẩn chẩn đoán là khao khát nhớ người mất cộng ít nhất năm trên chín biểu hiện, kéo dài ít nhất 6 tháng sau cái chết và kèm suy giảm chức năng; hiệu quả của điều trị đích danh 51% so với 28% của trị liệu tâm lý liên nhân cách (P=0.02), số cần điều trị 4.3 |
+| 8 | Currier 2008 Psychol Bull; Wittouck 2011 Clin Psychol Rev; Bonanno 2002 JPSP | 61 nghiên cứu đối chứng: hiệu ứng lúc kết thúc nhỏ, theo dõi không thấy lợi ích đáng kể; can thiệp chỉ tuyển người khó thích ứng thì hiệu quả ngang các trị liệu tâm lý khác; 14 RCT: điều trị có hiệu quả, dự phòng không; 205 người theo dõi tiến triển: trong năm kiểu hình thì kiểu phục hồi linh hoạt phổ biến nhất |
+| 9 | Sbarra 2011 Perspect Psychol Sci | 32 nghiên cứu tiến triển, hơn 6.500.000 người, 11 nước: người ly thân - ly hôn có nguy cơ chết sớm tăng rõ; nam giới và người trẻ tuổi tăng mạnh hơn. **Nguyên văn tóm tắt chỉ cho hướng và so sánh giữa các phân nhóm, không có HR hợp để trích, nên mục này không viết số lần** |
+| 10 | Văn bản Quốc vệ y chính phát [2026] số 8 | Đường nóng 12356 liên thông với 110, 12355 liên thông với 12356; đến năm 2030 hơn 80% thôn - khu dân cư có phòng tư vấn tâm lý, mỗi huyện (khu) có ít nhất 1 bệnh viện mở phòng khám tâm lý, các tỉnh xây xong nền tảng 12356 cấp tỉnh |
+| 11 | Kinh nghiệm tác giả + cùng văn bản đó | “Ba tháng” là ngưỡng tác giả tự đặt, không có văn liệu chống lưng, nên mức C; văn bản liệt “biến cố gia đình, thất nghiệp, bỏ học” vào các nguy cơ khủng hoảng tâm lý cộng đồng cần chủ động sàng lọc |
 
-## 几个写作决定
+## Một vài quyết định khi viết
 
-- **没有写 ICD-11 / DSM-5-TR 收录延长哀伤障碍**。Lundorff 2017 的原话是「expected to be included in the forthcoming ICD-11」，Prigerson 2009 是「proposed for DSM-V and ICD-11」，两者都只到「提议/预期」。本机未取得可逐字核对的 ICD-11 或 DSM-5-TR 原文，所以正文改成「不同文献里叫复杂哀伤或延长哀伤障碍，不同标准要求的时长不同（6 个月或 12 个月），别自己卡月份，按是否影响吃饭睡觉上班带孩子去挂号」，避开这个未核实的声明。
-- **第 6 条给 B 而不是 A**。Li 2014 是三国全人群队列，数字本身是 A 级的；降到 B 是因为从「死亡率高五成」到「如实告诉孩子、让他参加告别、别送走」之间没有直接试验证据，属外推。
-- **第 9 条收益量级定「中」而非「大」**。按项目阈值应看相对降幅，但原文没给可套的合并比值，只有方向和分组比较，所以按规则「数字不足以判定时用判断并写明凭什么定」，此处凭「只有方向」定中。
-- **第 8 条口径定金钱**。它的实际作用是「先别花这笔咨询费」，收益落在省钱那一侧；哀伤本身的健康终点已经由第 7 条承担。
-- **未收的方向**：丧假天数（劳动部劳总薪字〔1980〕29 号）。国务院政策文件库以 `searchfield=title` 搜「丧假」「婚丧假」「请婚丧假」「职工探亲待遇」均零命中，该库只收国务院系统现行文件，1980 年的原劳动部通知不在其中，本机也未找到可逐字核对的官方全文，按项目规则不写。
+- **Chưa viết việc ICD-11 / DSM-5-TR đưa rối loạn đau buồn kéo dài vào chẩn đoán**. Nguyên lời Lundorff 2017 là “expected to be included in the forthcoming ICD-11”, Prigerson 2009 là “proposed for DSM-V and ICD-11”, cả hai chỉ dừng ở “đề xuất / dự kiến”. Trên máy này không lấy được nguyên văn ICD-11 hay DSM-5-TR để đối chiếu từng chữ, nên thân bài đổi thành “trong các văn liệu khác gọi là đau buồn phức tạp hoặc rối loạn đau buồn kéo dài, các chuẩn yêu cầu khoảng thời gian khác nhau (6 tháng hoặc 12 tháng), đừng tự bó hẹp theo số tháng, cứ dựa vào việc có làm ảnh hưởng ăn ngủ đi làm chăm con mà đi đăng ký khám”, tránh khỏi mệnh đề chưa kiểm chứng này.
+- **Mục 6 cho B chứ không A**. Li 2014 là đoàn hệ toàn dân ba nước, bản thân con số là hạng A; hạ xuống B vì từ “tỷ lệ tử vong cao hơn nửa” đến “kể thật cho trẻ, cho trẻ dự lễ tiễn, đừng gửi trẻ đi nơi khác” không có bằng chứng thử nghiệm trực tiếp, thuộc suy ngoại.
+- **Quy mô lợi ích của mục 9 định “trung” chứ không “lớn”**. Theo ngưỡng của dự án phải xem mức giảm tương đối, nhưng nguyên văn không đưa hợp số để áp, chỉ có hướng và so sánh phân nhóm, nên theo quy tắc “khi số liệu không đủ để quyết định thì dùng phán đoán và ghi rõ căn cứ”, chỗ này định trung dựa trên “chỉ có hướng”.
+- **Trục đo của mục 8 định tiền**. Tác dụng thực của nó là “tạm đừng tiêu khoản phí tư vấn này”, lợi ích rơi vào phía tiết kiệm tiền; điểm cuối sức khỏe của chính nỗi đau buồn đã do mục 7 đảm nhiệm.
+- **Hướng chưa thu**: số ngày nghỉ ma chay (Bộ Lao động, văn bản Lao tổng tân tự [1980] số 29). Tìm “nghỉ tang”, “nghỉ cưới tang”, “xin nghỉ cưới tang”, “đãi ngộ thăm thân” trong kho văn bản chính sách Quốc vụ viện bằng `searchfield=title` đều không trúng kết quả nào; kho này chỉ thu văn bản hiện hành của hệ thống Quốc vụ viện, thông báo năm 1980 của Bộ Lao động cũ không có trong đó, trên máy này cũng không tìm thấy bản chính thức đối chiếu từng chữ được, theo quy tắc dự án là không viết.
 
-## 同步改的计数与文件
+## Số đếm và file sửa đồng bộ
 
-- `README.md`：问题索引表加一行；章节列表加第 29 条；徽章与正文段的条目数 440 → **451**，证据等级 A 282·B 110·C 48 → **A 290·B 112·C 49**，链接数 845 → **865**，性价比 78/219/143 → **80（18%）/ 225（50%）/ 146（32%）**；「怎么读」里的 282 条 → 290 条、78 条 → 80 条；「拆成 28 个文件」→ 29 个。
-- `index.html`：meta description、og:description、twitter:description、JSON-LD 的 `numberOfPages`、页内「全书 28 节 440 条」、侧栏「book/ 下的 28 个文件」全部对齐。
-- `tools/og.html` 与 `og.png`：条数、A 级条数、链接数三个数字改完后按注释里的命令重新截图。
-- `CLAUDE.md`：目录结构加第 29 节。
+- `README.md`: bảng chỉ mục câu hỏi thêm một dòng; danh sách chương thêm mục 29; số mục ở badge và đoạn thân 440 → **451**, mức bằng chứng A 282·B 110·C 48 → **A 290·B 112·C 49**, số liên kết 845 → **865**, hiệu quả chi phí 78/219/143 → **80 (18%) / 225 (50%) / 146 (32%)**; trong phần “đọc thế nào” 282 mục → 290 mục, 78 mục → 80 mục; “chia thành 28 file” → 29 file.
+- `index.html`: meta description, og:description, twitter:description, `numberOfPages` trong JSON-LD, chữ trong trang “toàn sách 28 chương 440 mục”, sidebar “28 file trong thư mục book/” — đồng bộ hết.
+- `tools/og.html` và `og.png`: sau khi sửa xong ba con số số mục, số mục A, số liên kết thì chụp lại ảnh theo lệnh ghi trong chú thích.
+- `CLAUDE.md`: cấu trúc mục lục thêm chương 29.
 
-计数复核方式：按 index.html 的 `parse()` 同规则重算全书（`cs = 钱 + 时间 + 毅力`，0/少·少/中·否/些 记 0/1/2；收益=大 且 cs=0 记极高、cs≤2 记高，收益=中 且 cs=0 记高，其余一般），得条目 451、A 290·B 112·C 49、极高 80·高 225·一般 146、争议 43、TODO 36，`- 来源：`与`- 备注：`行内 http(s) 链接 865。三档合计与 A/B/C 合计均等于 451，自洽。
+Cách đối soát số đếm: tính lại toàn sách theo cùng quy tắc `parse()` của index.html (`cs = tien + thoi-gian + y-luc`, tien 0/it · thoi-gian it/trung · y-luc khong/chut lần lượt ghi 0/1/2; `loi-ich=lon` mà cs=0 ghi rất cao, cs≤2 ghi cao, `loi-ich=trung` mà cs=0 ghi cao, còn lại trung bình), được mục 451, A 290·B 112·C 49, rất cao 80 · cao 225 · trung bình 146, tranh cãi 43, TODO 36, liên kết http(s) trong các dòng `- Nguồn:` và `- Ghi chú:` là 865. Tổng ba bậc và tổng A/B/C đều bằng 451, tự nhất quán.

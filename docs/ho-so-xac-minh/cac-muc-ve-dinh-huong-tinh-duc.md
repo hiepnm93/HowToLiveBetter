@@ -1,48 +1,48 @@
-# 性取向相关条目核实记录（2026-09-30）
+# Ghi chép kiểm chứng các mục liên quan đến xu hướng tính dục (2026-09-30)
 
-涉及：第 1 节第 38 条、第 6 节第 28 条、第 8 节第 32 条备注、第 10 节第 19、20 条、第 30 节第 15 条。全部追加在各节末尾，没有顺延条号。
+Liên quan tới: chương 1 mục 38, chương 6 mục 28, Ghi chú của chương 8 mục 32, chương 10 mục 19 và mục 20, chương 30 mục 15. Tất cả đều được nối thêm vào cuối từng chương, không dồn lại số mục.
 
-## 第 1 节第 38 条（暴露前预防药）
-- Grant 2010、McCormack 2016、Molina 2015、Fonner 2016、Xu 2020：Crossref 核题录，Europe PMC 核摘要原句。
-  - iPrEx："a 44% reduction in the incidence of HIV (95% confidence interval, 15 to 63; P=0.005)"
-  - PROUD："relative reduction 86%, 90% CI 64-96"。注意是 90% CI，正文照写。
-  - IPERGAY："a relative reduction in the TDF-FTC group of 86% (95% confidence interval, 40 to 98; P=0.002)"；不良反应 "gastrointestinal adverse events (14% vs. 5%) … renal adverse events (18% vs. 10%)"
-  - Fonner 总体 RR 0.49（0.33–0.73）只在全文；吃药率超 70% 的 RR 0.30（0.21–0.45）在摘要；低吃药率组 0.95 取自全文表 2（正文把区间印成 0.34–1.23，表里是 0.74–1.23，条目只写点估计）。
-- 药监局 2020-08-11 批准：只在 Xu 2020 共识里找到，nmpa 公告原文没找到。
-- 全国免费政策：未找到。国务院办公厅 2024—2030 规划写「规范实施暴露前预防措施」。
-- WHO 2+1+1 技术简报：只对男男性行为者推荐按需吃，适合平均每周少于 2 次；女性、有乙肝的人不适用。
-- 收益量级「大」：吃药率超七成时相对降幅 70%，按死亡率口径的阈值（≥20%）。终点是 HIV 感染而非死亡，按健康终点算。
+## Chương 1 mục 38 (thuốc dự phòng trước phơi nhiễm)
+- Grant 2010, McCormack 2016, Molina 2015, Fonner 2016, Xu 2020: đối chiếu thông tin đầu bài qua Crossref, đối chiếu câu nguyên văn trong tóm tắt qua Europe PMC.
+  - iPrEx: "a 44% reduction in the incidence of HIV (95% confidence interval, 15 to 63; P=0.005)"
+  - PROUD: "relative reduction 86%, 90% CI 64-96". Lưu ý đây là 90% CI, phần thân viết nguyên như vậy.
+  - IPERGAY: "a relative reduction in the TDF-FTC group of 86% (95% confidence interval, 40 to 98; P=0.002)"; tác dụng phụ "gastrointestinal adverse events (14% vs. 5%) … renal adverse events (18% vs. 10%)"
+  - RR tổng thể của Fonner 0.49 (0.33–0.73) chỉ có ở toàn văn; RR 0.30 (0.21–0.45) của nhóm tỷ lệ uống thuốc trên 70% nằm ở tóm tắt; nhóm tỷ lệ uống thuốc thấp 0.95 lấy từ bảng 2 của toàn văn (thân bài in khoảng là 0.34–1.23, trong bảng là 0.74–1.23, mục chỉ ghi ước lượng điểm).
+- Phê duyệt của Cục Quản lý thuốc ngày 2020-08-11: chỉ tìm thấy trong văn bản đồng thuận Xu 2020, không tìm được thông báo gốc trên nmpa.
+- Chính sách miễn phí toàn quốc: không tìm thấy. Quy hoạch 2024—2030 của Văn phòng Quốc vụ viện viết “thực hiện chuẩn hóa biện pháp dự phòng trước phơi nhiễm”.
+- Bản kỹ thuật WHO 2+1+1: chỉ khuyến cáo uống theo nhu cầu cho nam quan hệ đồng tính nam, phù hợp khi trung bình dưới 2 lần mỗi tuần; không áp dụng cho phụ nữ và người nhiễm viêm gan B.
+- Cấp độ lợi ích “lớn”: khi tỷ lệ uống thuốc trên bảy phần mười thì mức giảm tương đối 70%, đạt ngưỡng theo cách tính tử vong (≥20%). Điểm cuối là nhiễm HIV chứ không phải tử vong, tính theo điểm cuối sức khỏe.
 
-## 第 6 节第 28 条（性取向矫正）
-- APA 2009 工作组报告：apa.org 本机被反爬拦，经 Wayback 存档取全文核对 "unlikely to be successful and involve some risk of harm"。
-- Blosnich 2020：摘要原句核对；表 4 的 AOR 取自 PMC 全文（PMC7287530）。
-- Ryan 2020：百分比取自 PMC10371222 正文描述表。
-- 反方 Sullins 2022（OR 0.44，0.20–0.94）与 Blosnich 2023 回应：Crossref 核题录，回应内容未取到。
-- 驻马店案：判决书原文和案号未取到，引广西检察网转载新京报（2017-09-20），逐字核对「不符合应当强制治疗的条件」「5000元」「撤回上诉」。
-- 未收：海淀 2014 电击案（只有澎湃报道，不是官方页面）；CCMD-3（原书取不到，且媒体报道显示只移出了自我和谐型，不能写成「移出了精神疾病」）。
-- 精神卫生法 2018 修正文本：flk docx 逐字核对第二十三、三十、七十八条。
-- 收益量级「大」：按 OR 1.88–1.92（高约九成）机械套阈值；因横断面、置信区间下限贴 1.01、有反方重算，证据等级给 B 并标争议。
+## Chương 6 mục 28 (cải tạo xu hướng tính dục)
+- Báo cáo nhóm công tác APA 2009: apa.org bị cơ chế chống quét chặn trên máy này, đã lấy toàn văn qua bản lưu Wayback để đối chiếu câu "unlikely to be successful and involve some risk of harm".
+- Blosnich 2020: đối chiếu câu nguyên văn trong tóm tắt; AOR ở bảng 4 lấy từ toàn văn PMC (PMC7287530).
+- Ryan 2020: các con số phần trăm lấy từ bảng mô tả trong thân bài PMC10371222.
+- Bên phản biện Sullins 2022 (OR 0.44, 0.20–0.94) và bài hồi đáp Blosnich 2023: đối chiếu thông tin đầu bài qua Crossref, nội dung hồi đáp chưa lấy được.
+- Vụ Trú Mã Điếm: chưa lấy được văn bản bản án và số vụ án, trích theo trang Kiểm sát Quảng Tây đăng lại từ Tân Kinh Bảo (2017-09-20), đối chiếu từng chữ “không phù hợp điều kiện phải điều trị cưỡng bức”, “5000 yên”, “rút đơn kháng cáo”.
+- Chưa thu: vụ điện giật Hải Điến 2014 (chỉ có tin của Bành Bái, không phải trang chính thức); CCMD-3 (không lấy được bản gốc, và tin báo chí cho thấy chỉ đưa ra nhóm tự hòa hợp với bản thân, không thể viết thành “đã đưa ra khỏi danh mục bệnh tâm thần”).
+- Văn bản Luật Sức khỏe tinh thần sửa đổi 2018: đối chiếu từng chữ Điều 23, Điều 30, Điều 78 qua file docx flk.
+- Cấp độ lợi ích “lớn”: áp máy móc ngưỡng theo OR 1.88–1.92 (cao khoảng chín phần mười); do là nghiên cứu cắt ngang, cận dưới khoảng tin cậy sát 1.01, lại có bên phản biện tính lại, mức bằng chứng cho B và đánh dấu tranh cãi.
 
-## 第 8 节第 32 条备注（曝光性取向要挟）
-- 检察日报 2018-04-09 稿，徐州市鼓楼区检察院网站转载，逐字核对「同性社交软件」「1.45万元」「两次因敲诈勒索罪被判处刑罚」。只到起诉，没有判决结果，正文照写「被起诉」。
-- 未收：西安新城区「假扮同性恋约见抢劫」案，只有人民网转载西安晚报，法院官网无原稿。
+## Ghi chú của chương 8 mục 32 (dọa tiết lộ xu hướng tính dục)
+- Bản tin của Nhật báo Kiểm sát ngày 2018-04-09, do website Viện kiểm sát khu Cổ Lâu thành phố Từ Châu đăng lại, đối chiếu từng chữ “phần mềm giao tiếp đồng tính”, “14.500 yên”, “hai lần bị kết án về tội cưỡng đoạt tài sản”. Chỉ đến mức bị khởi tố, không có kết quả bản án, phần thân viết nguyên “bị khởi tố”.
+- Chưa thu: vụ “giả làm người đồng tính hẹn gặp rồi cướp tài sản” ở khu Tân Thành, Tây An; chỉ có trang Nhân Dân mạng đăng lại tin của báo Tây An Vãn Bảo, website tòa án không có bản gốc.
 
-## 第 10 节第 19 条（同性伴侣的三份文件）
-- 民法典第二十三、三十三、一百六十五、一百七十三、一千零四十五、一千一百二十四、一千一百二十七、一千一百三十三至一千一百四十、一千一百四十二、一千二百一十九条：flk docx 逐字核对。
-- 湖北省司法厅网站转载的宜昌市司法局文章（2021-01-08）：逐字核对「可以通过办理意定监护协议公证指定自己的伴侣作为自己未来的监护人」。
-- 未收：北京国信公证处首例、普陀公证处件数，只有媒体转述。
-- 「意定监护人能否签手术同意书」没有找到统一规定，正文写成「各医院做法不一，提前问」。
+## Chương 10 mục 19 (ba loại giấy tờ của cặp đôi đồng tính)
+- Bộ luật Dân sự Điều 23, 33, 165, 173, 1045, 1124, 1127, 1133 đến 1140, 1142, 1219: đối chiếu từng chữ qua file docx flk.
+- Bài viết của Sở Tư pháp thành phố Nghi Xương do website Sở Tư pháp tỉnh Hồ Bắc đăng lại (2021-01-08): đối chiếu từng chữ “có thể thông qua công chứng thỏa thuận giám hộ theo ý chí để chỉ định bạn đời của mình làm người giám hộ tương lai của mình”.
+- Chưa thu: vụ đầu tiên tại Văn phòng công chứng Quốc Tín Bắc Kinh, số lượng hồ sơ tại công chứng Phổ Đà, chỉ có báo chí kể lại.
+- Chưa tìm thấy quy định thống nhất về việc “người giám hộ theo ý chí có được ký giấy đồng ý mổ hay không”, phần thân viết là “từng bệnh viện làm khác nhau, hỏi trước”.
 
-## 第 10 节第 20 条（隐瞒性取向结婚、形婚）
-- 民法典第一千零五十一至一千零五十四、一千零六十二、一千零六十四、一千零七十九、一千零八十七、一千零九十一条，婚姻家庭编解释（一）第二、十七、八十六至九十条：flk docx 逐字核对。
-- 江苏法院网 2013-04-15 朱来宽、王洪娟文：本轮直接打开逐字核对。子代理的转述把作者立场说反了一半，原文是作者赞同第二种观点，即多分财产和精神抚慰金都支持，正文按原文写。
-- 未找到民法典施行后法院公开的这类判决。
-- 收益量级「中」凭判断：结果取决于法院对「其他重大过错」的认定，数字不足以机械套。
+## Chương 10 mục 20 (giấu xu hướng tính dục để kết hôn, kết hôn hình thức)
+- Bộ luật Dân sự Điều 1051 đến 1054, 1062, 1064, 1079, 1087, 1091, cùng Giải thích (I) của phần Hôn nhân và gia đình, Điều 2, 17, 86 đến 90: đối chiếu từng chữ qua file docx flk.
+- Bài của Chu Lai Khoan, Vương Hồng Quyên trên website Tòa án tỉnh Giang Tô ngày 2013-04-15: vòng này mở trực tiếp để đối chiếu từng chữ. Lời kể lại của agent con đã nói ngược một nửa lập trường của tác giả; nguyên văn là tác giả tán thành quan điểm thứ hai, tức ủng hộ cả việc chia tài sản nhiều hơn lẫn khoản tiền an ủi tinh thần, phần thân viết theo nguyên văn.
+- Không tìm thấy bản án dạng này do tòa án công bố sau khi Bộ luật Dân sự có hiệu lực.
+- Cấp độ lợi ích “trung bình” dựa vào phán đoán: kết quả phụ thuộc vào việc tòa án công nhận thế nào là “lỗi nặng khác”, con số chưa đủ để áp máy móc.
 
-## 第 30 节第 15 条（孩子说喜欢同性）
-- Huang 2018 BMJ Open：摘要核对患病率；男生 AOR 3.13、3.83 取自正文结果节，女生数字取自表 2、表 3。
-- di Giacomo 2018：摘要核对 35 项研究、OR 3.50（2.98–4.12）。
-- Ryan 2009：摘要核对 8.4 倍（OR）。回顾式测量，横断面。
-- Ryan 2020：调整后 OR 3.08（1.39–6.83）、5.07（2.38–10.79），取自 PMC10371222 表格。
-- 未成年人保护法（2024 修正）第十七条、反家庭暴力法第二条：flk docx 逐字核对。未成年人保护法第三条没有列性取向，正文不写「法律禁止性取向歧视」。
-- 收益量级「大」：按 OR 3 以上机械套；因全是横断面、家庭排斥靠回忆，证据等级给 B。
+## Chương 30 mục 15 (con nói thích người cùng giới)
+- Huang 2018 BMJ Open: đối chiếu tỷ lệ mắc qua tóm tắt; AOR 3.13 và 3.83 của nam sinh lấy từ phần kết quả trong thân bài, số liệu của nữ sinh lấy từ bảng 2, bảng 3.
+- di Giacomo 2018: đối chiếu 35 nghiên cứu và OR 3.50 (2.98–4.12) qua tóm tắt.
+- Ryan 2009: đối chiếu con số 8.4 lần (OR) qua tóm tắt. Đo lường hồi cứu, cắt ngang.
+- Ryan 2020: OR hiệu chỉnh 3.08 (1.39–6.83) và 5.07 (2.38–10.79), lấy từ bảng trong PMC10371222.
+- Luật Bảo vệ người chưa thành niên (sửa đổi 2024) Điều 17 và Luật Phòng, chống bạo lực gia đình Điều 2: đối chiếu từng chữ qua file docx flk. Điều 3 Luật Bảo vệ người chưa thành niên không liệt kê xu hướng tính dục, phần thân không viết “pháp luật cấm phân biệt đối xử vì xu hướng tính dục”.
+- Cấp độ lợi ích “lớn”: áp máy móc theo OR từ 3 trở lên; do toàn bộ là nghiên cứu cắt ngang và việc gia đình ghét bỏ chỉ dựa vào hồi tưởng, mức bằng chứng cho B.

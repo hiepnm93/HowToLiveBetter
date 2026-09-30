@@ -1,150 +1,151 @@
-# 新增：第 31 节 十八岁之后有哪几条路
+# Bổ sung mới: chương 31 Những con đường sau 18 tuổi
 
-2026-09-10。读者的问题是「要不要当兵、福利怎么样，人生有几个选择，是不是只有打工和读书」。
+2026-09-10. Câu hỏi của độc giả: “có nên nhập ngũ không, phúc lợi thế nào, đời người có mấy lựa chọn, có phải chỉ có đi làm thuê và đi học không”.
 
-**这一节返工过一次，原因记在前面**：初版把 11 条里的 10 条全写成了当兵，读者当场指出「你咋全部写当兵的，我就举个例子」。问题不在内容对不对，在读题——他问的是「有哪几条路」，当兵只是举例。改版后定位改成路径地图：第 1 条对八条路的法定门槛，当兵压到 5 条（靠合并，内容基本保留），另外补 6 条写别的路，全节 12 条。**教训：读者举的例子不是题目本身，动笔前先确认要回答的是哪一问。**
+**Chương này từng bị làm lại một lần, lý do ghi ở trước**: bản đầu viết 10 trên 11 mục đều thành chuyện nhập ngũ, độc giả ngay tại chỗ chỉ ra “sao toàn viết về nhập ngũ thế, tôi chỉ lấy nó làm ví dụ thôi”. Vấn đề không nằm ở nội dung đúng hay sai, mà ở việc đọc đề — anh ấy hỏi là “có mấy con đường”, nhập ngũ chỉ là ví dụ. Sau khi sửa, định vị đổi thành bản đồ lộ trình: mục 1 đối chiếu ngưỡng pháp định của tám con đường, nhập ngũ ép xuống còn 5 mục (bằng cách gộp, nội dung về cơ bản được giữ lại), ngoài ra bổ sung 6 mục viết các con đường khác, cả chương 12 mục. **Bài học: ví dụ độc giả nêu ra không phải là bản thân câu hỏi, trước khi đặt bút phải xác nhận cần trả lời câu hỏi nào.**
 
-## 节的结构
+## Cấu trúc chương
 
-| 条 | 主题 | 口径 | 收益 | 性价比 |
+| Mục | Chủ đề | Cách tính | Lợi ích | Hiệu quả chi phí |
 |---|---|---|---|---|
-| 1 | 八条路的年龄与学历门槛 | 时间 | 中 | 高 |
-| 2 | 兵役登记 + 义务兵两年 | 时间 | 中 | 一般 |
-| 3 | 应征后拒服兵役的联合惩戒 | 自由 | 大 | 极高 |
-| 4 | 大学生当兵：学费补偿与升学 | 金钱 | 大 | 极高 |
-| 5 | 安置六条件 + 30 日报到 | 金钱 | 大 | 极高 |
-| 6 | 退役金、军龄工龄社保、创业扣税 | 金钱 | 中 | 高 |
-| 7 | 基层服务项目与 10% 定向考录 | 金钱 | 中 | 一般 |
-| 8 | 特岗教师期满入编 | 金钱 | 大 | 一般 |
-| 9 | 消防员与军队文职 | 金钱 | 中 | 一般 |
-| 10 | 自考、成人高考、开放大学 | 金钱 | 中 | 一般 |
-| 11 | 灵活就业的社保 | 金钱 | 大 | 一般 |
-| 12 | 骑手的职业伤害保障 | 金钱 | 中 | 高 |
+| 1 | Ngưỡng tuổi và bằng cấp của tám con đường | Thời gian | Trung | Cao |
+| 2 | Đăng ký nghĩa vụ quân sự + lính nghĩa vụ hai năm | Thời gian | Trung | Trung bình |
+| 3 | Chế tài liên hợp với việc từ chối phục vụ nghĩa vụ quân sự sau khi trúng tuyển | Tự do | Lớn | Rất cao |
+| 4 | Sinh viên đại học nhập ngũ: bù học phí và học lên | Tiền | Lớn | Rất cao |
+| 5 | Sáu điều kiện bố trí công việc + báo cáo có mặt trong 30 ngày | Tiền | Lớn | Rất cao |
+| 6 | Tiền xuất ngũ, thâm niên quân – thâm niên công tác tính bảo hiểm xã hội, khấu trừ thuế khi khởi nghiệp | Tiền | Trung | Cao |
+| 7 | Dự án phục vụ cơ sở và tuyển công chức định hướng 10% | Tiền | Trung | Trung bình |
+| 8 | Giáo viên đặc cách hết hạn được vào biên chế | Tiền | Lớn | Trung bình |
+| 9 | Lính cứu hỏa và viên chức quân sự | Tiền | Trung | Trung bình |
+| 10 | Tự học, thi đại học cho người lớn, đại học mở | Tiền | Trung | Trung bình |
+| 11 | Bảo hiểm xã hội của lao động tự do | Tiền | Lớn | Trung bình |
+| 12 | Bảo hiểm tổn thương nghề nghiệp của người giao hàng | Tiền | Trung | Cao |
 
-12 条全部定 A 级：每一条的核心事实都是现行有效的法律、行政法规或部门文件的明文条款，且都自行抓过原文逐字比对。
+Cả 12 mục đều định mức A: phần sự kiện cốt lõi của mỗi mục đều là điều khoản minh văn của luật, quy định hành chính hoặc văn bản của bộ ngành đang có hiệu lực, và đều đã tự tay lấy nguyên văn đối chiếu từng chữ.
 
-## 两处必须记住的更正
+## Hai chỗ đính chính bắt buộc phải nhớ
 
-- **《退役士兵安置条例》（国务院、中央军委令第 608 号，2011 年）已于 2024 年 9 月 1 日废止**，现行是《退役军人安置条例》（第 787 号），第九十三条写明「本条例自2024年9月1日起施行。《退役士兵安置条例》同时废止」。安排工作的条件表述变了：旧版是「士官服现役满12年」「平时荣获二等功以上奖励或者战时荣获三等功以上奖励」，新版是「军士服现役满12年」「个人获得勋章、荣誉称号」「个人荣获三等战功、二等功以上奖励」「个人获得一级表彰」，另加因战致残 5 至 8 级和烈士子女。网上攻略普遍还在引旧条例。
-- **服兵役学费补偿的现行标准是本专科 20000 元、研究生 25000 元**（2024 年秋季学期起）。沿革：8000/12000（财科教〔2019〕19 号）→ 16000/20000（教财〔2023〕4 号）→ 20000/25000（财教〔2024〕188 号）。检索中从未出现过 12000/16000 这一对，遇到就是抄错的。退役军人事务部 2022 年的政策摘要里仍写 8000/12000。
+- **Quy định bố trí công việc cho chiến sĩ xuất ngũ (Nghị lệnh số 608 của Quốc vụ viện, Quân ủy Trung ương, năm 2011) đã bị bãi bỏ từ ngày 1 tháng 9 năm 2024**, văn bản hiện hành là Quy định bố trí công việc cho người quân nhân xuất ngũ (số 787), Điều 93 viết rõ “Quy định này có hiệu lực từ ngày 01/9/2024. Đồng thời bãi bỏ Quy định bố trí công việc cho chiến sĩ xuất ngũ”. Cách diễn đạt các điều kiện được bố trí công việc đã đổi: bản cũ là “sĩ quan phục vụ tại ngũ đủ 12 năm” “thời bình được khen thưởng từ nhì đẳng trở lên hoặc thời chiến được khen thưởng từ ba đẳng trở lên”, bản mới là “quân sĩ phục vụ tại ngũ đủ 12 năm” “cá nhân được trao huân chương, danh hiệu vinh dự” “cá nhân được công nhận chiến công ba đẳng, khen thưởng từ nhì đẳng trở lên” “cá nhân được khen tặng hạng nhất”, cộng thêm thương tật do chiến đấu cấp 5 đến 8 và con của liệt sĩ. Các bài chỉ dẫn trên mạng phần lớn vẫn trích quy định cũ.
+- **Mức bù học phí hiện hành cho người nhập ngũ là bậc đại học – cao đẳng 20000 yên, sau đại học 25000 yên** (từ học kỳ thu 2024). Diễn biến: 8000/12000 (văn bản số 19/2019 của Tài chính – Khoa giáo) → 16000/20000 (văn bản số 4/2023 của Giáo dục – Tài chính) → 20000/25000 (văn bản số 188/2024 của Tài chính – Giáo dục). Trong quá trình tra cứu chưa bao giờ xuất hiện cặp 12000/16000, gặp phải là chắc chắn chép sai. Bản tóm tắt chính sách năm 2022 của Cục Công tác người quân nhân xuất ngũ vẫn ghi 8000/12000.
 
-另有一处要点：**《公务员录用规定》里没有「定向考录」条款**。全文逐字通读后检索，「基层」「定向」「服务基层项目」「退役」四个词出现 0 次；《公务员法》也只有一句「上级机关应当注重从基层机关公开遴选公务员」。定向考录的真实依据是中办国办 2017 年那份《关于进一步引导和鼓励高校毕业生到基层工作的意见》和人社部发〔2021〕32 号里的 10% 硬指标，第 7 条据此挂来源。
+Còn một điểm đáng nhớ: **trong “Quy định tuyển dụng công chức” không có điều khoản “tuyển định hướng”**. Sau khi đọc trọn toàn văn rồi tìm kiếm, bốn cụm “cơ sở”, “định hướng”, “dự án phục vụ cơ sở”, “xuất ngũ” xuất hiện 0 lần; Luật Công chức cũng chỉ có một câu “cơ quan cấp trên cần chú ý tuyển chọn công chức công khai từ các cơ quan cơ sở”. Căn cứ thực của tuyển định hướng là “Ý kiến về tiếp tục hướng dẫn và khuyến khích sinh viên tốt nghiệp đại học xuống cơ sở công tác” năm 2017 của Văn phòng Trung ương Đảng – Văn phòng Quốc vụ viện, cùng chỉ tiêu cứng 10% trong văn bản số 32/2021 do Bộ Lao động – Thương binh – Xã hội đứng đầu; mục 7 dựa vào đây mà gắn nguồn.
 
-## 逐条来源与复核
+## Nguồn và đối chiếu từng mục
 
-### 第 1 条（八条路的门槛）
+### Mục 1 (ngưỡng của tám con đường)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <http://www.mod.gov.cn/regulatory/2021-08/20/content_4892491.htm>（兵役法，2021-08-20 修订、10-01 施行，国防部刊登） | 是，自行抓页 grep | 第二十条：「年满十八周岁的男性公民，应当被征集服现役；当年未被征集的，在二十二周岁以前仍可以被征集服现役。普通高等学校毕业生的征集年龄可以放宽至二十四周岁，研究生的征集年龄可以放宽至二十六周岁。」 |
-| <https://www.12371.cn/2020/01/08/ARTI1578447606460158.shtml>（《公务员录用规定》，中共中央组织部 2019-10-15 修订、11-26 发布施行，共产党员网） | 是 | 第十八条含「年龄为十八周岁以上，三十五周岁以下」「具有大学专科以上文化程度」，「经省级以上公务员主管部门批准，可以适当调整」；第十九条五类不得报考 |
-| <https://www.gov.cn/zhengce/zhengceku/2021-08/27/content_5633684.htm>（《国家综合性消防救援队伍消防员招录办法》，人社部、应急管理部，人社部发〔2021〕58 号） | 是，自行抓页 grep | 第五条「年龄为18周岁以上、22周岁以下」「具有高中以上文化程度」；第六条「放宽至24周岁」「原则上不超过28周岁」 |
-| <https://flk.npc.gov.cn/detail?id=ff808181857bca5e01859ee5a6c06d62>（《中国人民解放军文职人员条例》，国务院、中央军委令第 757 号第二次修订，2023-01-01 施行） | 是，由该库 docx 接口逐字取出 grep | 第九条「年满18周岁」；第十九条较低职级岗位首次招录聘用最高 35 周岁；「文职人员岗位应当优先招录聘用符合条件的退役军人」 |
-| <https://www.gov.cn/zhengce/zhengceku/2014-05/15/content_8810.htm>（《事业单位人事管理条例》，国务院令第 652 号） | 是 | 第八条「事业单位新聘用工作人员，应当面向社会公开招聘」 |
-| <https://www.gov.cn/zhengce/zhengceku/2022-10/25/content_5721592.htm>（《促进个体工商户发展条例》，国务院令第 755 号） | 是 | 第二条「有经营能力的公民在中华人民共和国境内从事工商业经营，依法登记为个体工商户的，适用本条例。」 |
-| <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f415d64e5236d>（《高等教育自学考试暂行条例》，国务院 1988 年发布，2014 年修订） | 是，docx 逐字取出 grep | 第三条「不受性别、年龄、民族、种族和已受教育程度的限制」；第二十条「各级各类全日制学校的在校生不得报考」 |
-| <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202110/t20211029_575949.html>（义务教育法，教育部刊登） | 沿用 | 第十四条，与第 23 节第 1 条同一来源 |
+| <http://www.mod.gov.cn/regulatory/2021-08/20/content_4892491.htm> (Luật Nghĩa vụ quân sự, sửa đổi 2021-08-20, hiệu lực 10-01, Bộ Quốc phòng đăng) | Có, tự tay lấy trang và grep | Điều 20: “Nam công dân đủ mười tám tuổi phải được tuyển phục vụ tại ngũ; năm đó không được tuyển thì trước hai mươi hai tuổi vẫn có thể được tuyển phục vụ tại ngũ. Tuổi tuyển của sinh viên tốt nghiệp đại học có thể nới đến đủ hai mươi bốn tuổi, của học viên sau đại học có thể nới đến đủ hai mươi sáu tuổi.” |
+| <https://www.12371.cn/2020/01/08/ARTI1578447606460158.shtml> (Quy định tuyển dụng công chức, Ban Tổ chức Trung ương Đảng sửa đổi 2019-10-15, ban hành và áp dụng 11-26, trang Đảng viên cộng sản) | Có | Điều 18 có “độ tuổi từ đủ mười tám trở lên, ba mươi lăm trở xuống” “có trình độ văn hóa từ cao đẳng trở lên”, “khi được cơ quan chủ quản công chức cấp tỉnh trở lên phê duyệt thì có thể điều chỉnh hợp lý”; Điều 19 năm nhóm không được dự tuyển |
+| <https://www.gov.cn/zhengce/zhengceku/2021-08/27/content_5633684.htm> (Biện pháp tuyển lính cứu hỏa của Lực lượng cứu hỏa – cứu nạn tổng hợp quốc gia, Bộ Lao động – Thương binh – Xã hội và Bộ Quản lý tình trạng khẩn cấp, văn bản số 58/2021) | Có, tự tay lấy trang và grep | Điều 5 “tuổi từ đủ 18 trở lên, dưới 22” “có trình độ văn hóa từ trung học phổ thông trở lên”; Điều 6 “nới đến đủ 24 tuổi” “về nguyên tắc không quá 28 tuổi” |
+| <https://flk.npc.gov.cn/detail?id=ff808181857bca5e01859ee5a6c06d62> (Điều lệ viên chức quân sự Quân giải phóng nhân dân Trung Quốc, lần thứ hai sửa đổi theo Nghị lệnh số 757 của Quốc vụ viện, Quân ủy Trung ương, hiệu lực 2023-01-01) | Có, lấy từng chữ qua giao diện docx của kho luật rồi grep | Điều 9 “đủ 18 tuổi”; Điều 19 chức danh cấp thấp hơn tuyển dụng lần đầu tối đa 35 tuổi; “chức vụ viên chức quân sự phải ưu tiên tuyển người quân nhân xuất ngũ đủ điều kiện” |
+| <https://www.gov.cn/zhengce/zhengceku/2014-05/15/content_8810.htm> (Điều lệ quản lý nhân sự đơn vị sự nghiệp, Nghị lệnh Quốc vụ viện số 652) | Có | Điều 8 “đơn vị sự nghiệp khi tuyển mới người làm việc phải công khai tuyển dụng ra toàn xã hội” |
+| <https://www.gov.cn/zhengce/zhengceku/2022-10/25/content_5721592.htm> (Quy định thúc đẩy phát triển hộ công thương cá thể, Nghị lệnh Quốc vụ viện số 755) | Có | Điều 2: “Công dân có năng lực kinh doanh, hoạt động kinh doanh công thương trong lãnh thổ Cộng hòa Nhân dân Trung Hoa, đăng ký theo pháp luật thành hộ công thương cá thể, thì áp dụng quy định này.” |
+| <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f415d64e5236d> (Điều lệ tạm hành về tự học bậc đại học, Quốc vụ viện ban hành năm 1988, sửa đổi 2014) | Có, lấy từng chữ qua docx rồi grep | Điều 3 “không bị hạn chế về giới tính, tuổi tác, dân tộc, chủng tộc và trình độ giáo dục đã nhận”; Điều 20 “học sinh đang học tại các trường toàn thời gian các cấp các loại không được dự thi” |
+| <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202110/t20211029_575949.html> (Luật Giáo dục bắt buộc, Bộ Giáo dục đăng) | Kế thừa | Điều 14, cùng nguồn với chương 23 mục 1 |
 
-口径「时间」、收益量级「中」：换回的是知道有哪些选项，没有可量化的金额或降幅，按判断定中。成本全零，合成为「高」。刻意不比较回报；政治条件、体检和政治考核没有公开的量化标准，正文写明查不到。
+Cách tính “thời gian”, cấp lợi ích “trung”: đổi lại được là biết có những lựa chọn nào, không có số tiền hay mức giảm nào định lượng được, nên theo phán đoán định trung. Chi phí toàn zero, tổng hợp thành “cao”. Cố ý không so sánh phần hồi báo; điều kiện chính trị, khám sức khỏe và đánh giá chính trị không có tiêu chuẩn định lượng công khai, phần thân viết rõ là tra không thấy.
 
-### 第 2、3 条（兵役登记与拒服兵役）
+### Mục 2, 3 (đăng ký nghĩa vụ quân sự và từ chối phục vụ nghĩa vụ quân sự)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/zhengce/zhengceku/202512/content_7051363.htm>（《兵役登记工作规定》，国务院办公厅、中央军委办公厅，国办发〔2025〕41 号） | 是 | 「县、自治县、不设区的市、市辖区人民政府兵役机关应当于每年10月31日前，组织本行政区域内当年12月31日以前年满18周岁的男性公民进行初次兵役登记。」「初次兵役登记主要采取网络登记的方式进行，由公民通过兵役登记网络平台自主完成」 |
-| 兵役法第五十七、五十八条（出处同上） | 是，自行抓页逐字比对 | 第五十七条第一款：「有服兵役义务的公民有下列行为之一的，由县级人民政府责令限期改正；逾期不改正的，由县级人民政府强制其履行兵役义务，并处以罚款：（一）拒绝、逃避兵役登记的；（二）应征公民拒绝、逃避征集服现役的；（三）预备役人员拒绝、逃避参加军事训练……」第二款：「有前款第二项行为，拒不改正的，不得录用为公务员或者参照《中华人民共和国公务员法》管理的工作人员，不得招录、聘用为国有企业和事业单位工作人员，两年内不准出境或者升学复学，纳入履行国防义务严重失信主体名单实施联合惩戒。」第五十八条第二款：「军人有前款行为被军队除名、开除军籍或者被依法追究刑事责任的，依照本法第五十七条第二款的规定处罚；其中，被军队除名的，并处以罚款。」 |
-| <http://www.gov.cn/gongbao/content/2023/content_5753313.htm>（《征兵工作条例》，国务院、中央军委令第 759 号） | 是 | 「优先保证普通高等学校毕业生和对政治、身体条件或者专业技能有特别要求的兵员征集」；「应征公民为普通高等学校的全日制在校生、应届毕业生的，可以在入学前户籍所在地或者学校所在地应征。」 |
+| <https://www.gov.cn/zhengce/zhengceku/202512/content_7051363.htm> (Quy định công tác đăng ký nghĩa vụ quân sự, Văn phòng Quốc vụ viện và Văn phòng Quân ủy Trung ương, văn bản số 41/2025 của Văn phòng Quốc vụ viện) | Có | “Cơ quan nghĩa vụ quân sự của chính quyền huyện, huyện tự trị, thành phố không chia quận, khu thuộc quận phải trước ngày 31 tháng 10 hằng năm tổ chức cho nam công dân đủ 18 tuổi tính đến ngày 31 tháng 12 trong năm, trong phạm vi hành chính của mình, tiến hành đăng ký nghĩa vụ quân sự lần đầu.” “Đăng ký lần đầu chủ yếu theo hình thức đăng ký trên mạng, do công dân tự hoàn thành qua nền tảng đăng ký nghĩa vụ quân sự trực tuyến” |
+| Luật Nghĩa vụ quân sự Điều 57, 58 (nguồn như trên) | Có, tự tay lấy trang đối chiếu từng chữ | Điều 57 khoản 1: “Công dân có nghĩa vụ phục vụ nghĩa vụ quân sự có một trong các hành vi sau, chính quyền cấp huyện chỉ thị sửa trong thời hạn; quá hạn không sửa, chính quyền cấp huyện cưỡng chế thực hiện nghĩa vụ quân sự và xử phạt tiền: (1) từ chối, trốn tránh đăng ký nghĩa vụ quân sự; (2) công dân trúng tuyển từ chối, trốn tránh việc được tuyển phục vụ tại ngũ; (3) nhân viên dự bị từ chối, trốn tránh tham gia huấn luyện quân sự…” Khoản 2: “Có hành vi nêu tại điểm hai khoản trước mà không chịu sửa, thì không được nhận vào công chức hoặc nhân viên quản lý theo mô hình Luật Công chức nước Cộng hòa Nhân dân Trung Hoa, không được tuyển nhận, thuê làm việc của doanh nghiệp nhà nước và đơn vị sự nghiệp, trong hai năm không được xuất cảnh hay học lên, học lại, đưa vào danh sách chủ thể vi phạm nghiêm trọng tín nhiệm trong thực hiện nghĩa vụ quốc phòng để thực hiện chế tài liên hợp.” Điều 58 khoản 2: “Quân nhân có hành vi như khoản trước mà bị quân đội xóa tên, khai trừ quân tịch hoặc bị truy cứu trách nhiệm hình sự theo pháp luật, thì xử phạt theo quy định tại khoản 2 Điều 57 của luật này; trong đó, bị quân đội xóa tên thì đồng thời xử phạt tiền.” |
+| <http://www.gov.cn/gongbao/content/2023/content_5753313.htm> (Quy định công tác tuyển quân, Nghị lệnh số 759 của Quốc vụ viện, Quân ủy Trung ương) | Có | “Ưu tiên bảo đảm tuyển quân cho sinh viên tốt nghiệp các trường đại học và các nhóm binh viên có yêu cầu đặc biệt về điều kiện chính trị, thể chất hoặc kỹ năng chuyên môn”; “công dân trúng tuyển là học sinh toàn thời gian đang học hoặc tốt nghiệp đúng hạn của trường đại học thì có thể dự tuyển tại nơi hộ khẩu trước khi nhập học hoặc nơi trường tọa lạc.” |
 
-**这里踩过一个坑**：初稿在两条备注里都写了「拒绝兵役登记同样落在联合惩戒的射程里」。抓原文核对后发现是错的——第五十七条第二款只针对「**前款第二项**」，即应征公民拒绝、逃避征集服现役；单纯没做兵役登记只到「责令限期改正、逾期强制履行并处罚款」。这条转述来自子代理，引号完整但适用范围张冠李戴。两条的收益栏和备注都据此改写。**教训：凡是要写进条目的关键条文，主任务必须自己抓一次原文，核对的是条款号和适用范围，不只是字句对不对。**
+**Ở đây từng vấp một cái bẫy**: bản nháp ở Ghi chú của cả hai mục đều viết “từ chối đăng ký nghĩa vụ quân sự cũng rơi vào tầm chế tài liên hợp”. Lấy nguyên văn đối chiếu mới phát hiện là sai — khoản 2 Điều 57 chỉ nhắm tới “**điểm hai khoản trước**”, tức công dân trúng tuyển từ chối, trốn tránh việc được tuyển phục vụ tại ngũ; đơn thuần không làm đăng ký nghĩa vụ quân sự chỉ đến mức “chỉ thị sửa trong thời hạn, quá hạn cưỡng chế thực hiện và xử phạt tiền”. Lời kể lại này do agent con đưa, dấu ngoặc kép đầy đủ nhưng phạm vi áp dụng thì gán nhầm người. Cột Lợi ích và Ghi chú của cả hai mục đều viết lại theo đây. **Bài học: văn bản chính nào sắp viết vào mục thì nhiệm vụ chính bắt buộc phải tự tay lấy nguyên văn một lần, đối chiếu cả số điều khoản lẫn phạm vi áp dụng, chứ không chỉ xem câu chữ có khớp không.**
 
-第 2 条口径「时间」、收益「中」，成本 钱=0 时间=多 毅力=是（成本分 4），合成为「一般」——两年全职是这条路最大的成本，档位如实反映。第 3 条口径「自由」、收益「大」（后果是长期丧失公务员和国企事业单位的就业资格，比行政处罚重且不可逆，按邻近档判为大），成本全零，合成为「极高」。罚款数额地方定，两条都不写金额。
+Mục 2: cách tính “thời gian”, lợi ích “trung”, chi phí tien=0 thoi-gian=nhieu y-luc=co (điểm chi phí 4), tổng hợp thành “trung bình” — hai năm làm việc toàn thời gian là chi phí lớn nhất của con đường này, bậc phản ánh đúng thực tế. Mục 3: cách tính “tự do”, lợi ích “lớn” (hậu quả là mất lâu dài tư cách việc làm ở công chức và các doanh nghiệp nhà nước, đơn vị sự nghiệp, nặng hơn xử phạt hành chính và không thể đảo ngược, theo bậc kề bên xét là lớn), chi phí toàn zero, tổng hợp thành “rất cao”. Mức tiền phạt do địa phương định, cả hai mục đều không ghi số tiền.
 
-### 第 4 条（学费补偿与升学）
+### Mục 4 (bù học phí và học lên)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm>（财教〔2024〕188 号，财政部、教育部、人民银行、金融监管总局） | 是，自行抓页逐字比对 | 「国家助学贷款额度调整后，服兵役高等学校学生学费补偿、用于学费的国家助学贷款代偿和学费减免标准以及基层就业学费补偿、用于学费的国家助学贷款代偿标准，相应调整为本专科学生每人每年最高不超过20000元、研究生每人每年最高不超过25000元。」 |
-| <http://www.gov.cn/gongbao/content/2019/content_5421553.htm>（《学生资助资金管理办法》，财科教〔2019〕19 号，第五条） | 是 | 「按学生实际缴纳的学费或获得的国家助学贷款（包括本金及其全部偿还之前产生的利息，下同）两者金额较高者执行」；「超出标准部分不予补偿、代偿或减免。」 |
-| <http://www.mod.gov.cn/gfbw/fgwx/flfg/16048597.html>（退役军人保障法，2021-01-01 施行，国防部刊登） | 是，自行抓页 grep | 第三十五条保留学籍与两年内复学；第三十四条单列计划、单独招生 |
-| <http://www.moe.gov.cn/srcsite/A15/moe_778/s3261/202512/t20251211_1423174.html>（教学厅〔2025〕8 号，教育部办公厅） | 是 | 「在全国硕士研究生招生计划总规模内单列下达、专项使用，不得调整为普通计划或其他专项计划」；「2026年全国『退役大学生士兵计划』由北京大学、清华大学等532所普通高等学校承担」 |
+| <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm> (văn bản số 188/2024 của Tài chính – Giáo dục, do Bộ Tài chính, Bộ Giáo dục, Ngân hàng Nhân dân, Tổng cục Giám sát tài chính ban hành) | Có, tự tay lấy trang đối chiếu từng chữ | “Sau khi điều chỉnh hạn mức vay học phí quốc gia, mức bù học phí cho sinh viên đại học phục vụ nghĩa vụ quân sự, mức thay trả khoản vay học phí quốc gia dùng cho học phí và mức giảm miễn học phí, cũng như mức bù học phí cho việc làm ở cơ sở và mức thay trả khoản vay học phí quốc gia dùng cho học phí, tương ứng điều chỉnh thành: sinh viên đại học – cao đẳng mỗi người mỗi năm tối đa không quá 20000 yên, sau đại học mỗi người mỗi năm tối đa không quá 25000 yên.” |
+| <http://www.gov.cn/gongbao/content/2019/content_5421553.htm> (Quy định quản lý quỹ trợ giúp học sinh sinh viên, văn bản số 19/2019 của Tài chính – Khoa giáo, Điều 5) | Có | “Thực hiện theo mức cao hơn trong hai khoản: học phí sinh viên thực tế nộp hoặc khoản vay học phí quốc gia sinh viên nhận được (gồm gốc và lãi phát sinh trước khi hoàn trả toàn bộ, dưới đây cũng vậy)”; “phần vượt mức chuẩn không bù, không thay trả hay giảm miễn.” |
+| <http://www.mod.gov.cn/gfbw/fgwx/flfg/16048597.html> (Luật Bảo đảm quyền lợi người quân nhân xuất ngũ, hiệu lực 2021-01-01, Bộ Quốc phòng đăng) | Có, tự tay lấy trang và grep | Điều 35 giữ tư cách học tập và đi học lại trong hai năm; Điều 34 chỉ tiêu riêng, tuyển sinh riêng |
+| <http://www.moe.gov.cn/srcsite/A15/moe_778/s3261/202512/t20251211_1423174.html> (văn bản số 8/2025 của Văn phòng Bộ Giáo dục) | Có | “Được giao riêng trong tổng quy mô chỉ tiêu tuyển sinh thạc sĩ toàn quốc, dùng chuyên biệt, không được điều chỉnh thành chỉ tiêu thường hoặc chỉ tiêu chuyên biệt khác”; “Kế hoạch lính xuất ngũ sinh viên đại học năm 2026 của cả nước do 532 trường đại học, trong đó có Đại học Bắc Kinh, Đại học Thanh Hoa, đảm nhận” |
 
-口径「金钱」、收益「大」（两年最高四万或五万，万元级），成本全零，合成为「极高」。**未取得**：退役军人免试专升本（教学厅〔2021〕8 号）与研究生初试加分的原始通知。moe.gov.cn 正文页能直取，但站内搜索由 JS 渲染、抓不到结果，栏目页也没列这两份；退役军人事务部的政策摘要有转述并注明文号，属二手，按项目规则不引。正文只写有这条通道、不写加多少分，标 TODO。
+Cách tính “tiền”, lợi ích “lớn” (hai năm tối đa 40000 hoặc 50000 yên, cấp vạn yên), chi phí toàn zero, tổng hợp thành “rất cao”. **Chưa lấy được**: thông báo gốc về miễn thi liên thông đại học cho người quân nhân xuất ngũ (văn bản số 8/2021 của Văn phòng Bộ Giáo dục) và về cộng điểm vòng thi đầu của kỳ thi sau đại học. Trang bài trên moe.gov.cn lấy trực tiếp được, nhưng tìm kiếm trong trang do JS render nên không lấy được kết quả, trang chuyên mục cũng không liệt kê hai văn bản này; bản tóm tắt chính sách của Cục Công tác người quân nhân xuất ngũ có kể lại kèm số văn bản, thuộc nguồn gián tiếp, theo quy tắc dự án thì không trích. Phần thân chỉ ghi có lối đi này, không ghi cộng bao nhiêu điểm, đánh dấu TODO.
 
-### 第 5、6 条（安置、报到、退役后的三笔账）
+### Mục 5, 6 (bố trí công việc, báo cáo và ba khoản tiền sau xuất ngũ)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969192.html>（《退役军人安置条例》，第 787 号，2024-09-01 施行） | 是，自行抓页 grep 第二十二、二十五、三十一、五十一条 | 第二十五条六项条件、第三十一条 6 个月、第三十二条合同期限、第七十五条生活补助与 80% 生活费、第二十二条增发 25%/20%/15%/10%/5%，原文见正文收益栏。第五十一条：「以逐月领取退役金、安排工作、供养方式安置的退役军士和以安排工作、供养方式安置的退役义务兵，应当按照规定时间到安置地人民政府退役军人工作主管部门报到；自主就业的退役军士和义务兵，应当自被批准退出现役之日起30日内，到安置地人民政府退役军人工作主管部门报到。无正当理由不按照规定时间报到超过30日的，视为放弃安置待遇。」 |
-| 退役军人保障法第四十二、四十四、五十条（出处同上） | 是，自行抓页 grep | 第四十四条「退役军人服现役年限计算为工龄，退役后与所在单位工作年限累计计算」；第四十二条「退役的军士和义务兵服现役经历视为基层工作经历」 |
-| <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf73e160645>（军人保险法，2012-07-01 施行） | 是（docx 逐字） | 第二十三条「军人服现役年限视同职工基本医疗保险缴费年限……合并计算」 |
-| <https://www.gov.cn/zhengce/zhengceku/202308/content_6896456.htm>（财政部、税务总局、退役军人事务部公告 2023 年第 14 号） | 是 | 个体经营「按每户每年20000元为限额」「最高可上浮20%」；企业招用「每人每年6000元，最高可上浮50%」；执行期 2023-01-01 至 2027-12-31，到期未满 3 年可继续享受至期满 |
+| <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969192.html> (Quy định bố trí công việc cho người quân nhân xuất ngũ, số 787, hiệu lực 2024-09-01) | Có, tự tay lấy trang và grep Điều 22, 25, 31, 51 | Điều 25 sáu điều kiện, Điều 31 6 tháng, Điều 32 thời hạn hợp đồng, Điều 75 trợ cấp sinh hoạt và 80% sinh hoạt phí, Điều 22 phát thêm 25%/20%/15%/10%/5%, nguyên văn xem cột Lợi ích trong phần thân. Điều 51: “Người quân sĩ xuất ngũ được bố trí theo các cách nhận tiền xuất ngũ hằng tháng, sắp xếp công việc, nuôi dưỡng, và lính nghĩa vụ xuất ngũ được bố trí theo cách sắp xếp công việc, nuôi dưỡng, phải đến cơ quan chủ quản công tác người quân nhân xuất ngũ của chính quyền nhân dân nơi được bố trí để báo cáo theo thời gian quy định; quân sĩ và lính nghĩa vụ xuất ngũ tự tìm việc thì phải trong 30 ngày kể từ ngày được phê duyệt rút khỏi ngạch phục vụ, đến cơ quan chủ quản công tác người quân nhân xuất ngũ của chính quyền nhân dân nơi được bố trí để báo cáo. Không có lý do chính đáng mà không báo cáo đúng thời gian quy định quá 30 ngày thì coi như từ bỏ đãi ngộ bố trí công việc.” |
+| Luật Bảo đảm quyền lợi người quân nhân xuất ngũ Điều 42, 44, 50 (nguồn như trên) | Có, tự tay lấy trang và grep | Điều 44 “số năm phục vụ tại ngũ của người quân nhân xuất ngũ được tính là thâm niên công tác, sau xuất ngũ cộng dồn với số năm làm việc tại đơn vị”; Điều 42 “kinh lịch phục vụ tại ngũ của quân sĩ và lính nghĩa vụ xuất ngũ được coi là kinh nghiệm làm việc cơ sở” |
+| <https://flk.npc.gov.cn/detail?id=2c909fdd678bf17901678bf73e160645> (Luật Bảo hiểm quân nhân, hiệu lực 2012-07-01) | Có (từng chữ qua docx) | Điều 23 “số năm phục vụ tại ngũ của quân nhân được coi như số năm đóng bảo hiểm y tế cơ bản của người lao động… tính cộng gộp” |
+| <https://www.gov.cn/zhengce/zhengceku/202308/content_6896456.htm> (Thông báo số 14 năm 2023 của Bộ Tài chính, Tổng cục Thuế và Cục Công tác người quân nhân xuất ngũ) | Có | Kinh doanh cá thể “theo hạn mức 20000 yên mỗi hộ mỗi năm” “tối đa có thể tăng thêm 20%”; doanh nghiệp tuyển dùng “6000 yên mỗi người mỗi năm, tối đa có thể tăng thêm 50%”; thời gian thực hiện từ 2023-01-01 đến 2027-12-31, đến hạn mà chưa đủ 3 năm thì tiếp tục hưởng đến khi đủ hạn |
 
-第 5 条初稿标题漏了「自主就业的」这个限定，核对第五十一条后补上——30 日只管自主就业那一档。第 5 条口径「金钱」、收益「大」，成本全零，合成「极高」。第 6 条口径「金钱」、收益**「中」**：一次性退役金金额未公开、税那笔是扣减限额不是到手的钱，都不能按万元级套；成本全零，合成「高」。
+Bản nháp tiêu đề mục 5 lỡ mất hạn định “tự tìm việc”, đối chiếu Điều 51 xong mới bổ sung vào — hạn 30 ngày chỉ áp dụng đúng bậc tự tìm việc. Mục 5: cách tính “tiền”, lợi ích “lớn”, chi phí toàn zero, tổng hợp “rất cao”. Mục 6: cách tính “tiền”, lợi ích **“trung”**: khoản tiền xuất ngũ cấp một lần chưa công bố số tiền, phần thuế là hạn mức khấu trừ chứ không phải tiền nhận về, đều không thể áp theo cấp vạn yên; chi phí toàn zero, tổng hợp “cao”.
 
-**未取得**：一次性退役金的现行金额标准。787 号只授权由退役军人事务部会同财政部另定，本轮在 gov.cn、mva.gov.cn 均未检索到发布金额的文件，正文标 TODO 并明确不写数字。义务兵家庭优待金同理——兵役法第五十条「标准由地方人民政府制定，中央财政给予定额补助」，《军人抚恤优待条例》（第 788 号）第四十二条同样只建制度不写金额，正文写明问批准入伍地的县级人民政府。
+**Chưa lấy được**: mức chuẩn hiện hành của khoản tiền xuất ngũ cấp một lần. Văn bản số 787 chỉ trao quyền cho Cục Công tác người quân nhân xuất ngũ cùng Bộ Tài chính quy định riêng; vòng này trên gov.cn lẫn mva.gov.cn đều không tra được văn bản nào công bố mức tiền, phần thân đánh dấu TODO và nói rõ không ghi số liệu. Khoản ưu đãi cho gia đình lính nghĩa vụ cũng vậy — Điều 50 Luật Nghĩa vụ quân sự “mức chuẩn do chính quyền nhân dân địa phương quy định, tài chính trung ương cho hỗ trợ định mức”, Điều 42 “Điều lệ chiếu cố thương tật và ưu đãi quân nhân” (số 788) cũng chỉ lập chế độ không ghi số tiền, phần thân viết rõ là hỏi chính quyền nhân dân cấp huyện nơi phê duyệt nhập ngũ.
 
-### 第 7 条（基层服务项目）
+### Mục 7 (dự án phục vụ cơ sở)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/zhengce/zhengceku/2021-06/04/content_5615404.htm>（中组部、人社部等十部门《关于实施第四轮高校毕业生「三支一扶」计划的通知》，人社部发〔2021〕32 号） | 是，自行抓页 grep | 「服务期为两年」；「各省（区、市）每年应拿出公务员考录计划的10％左右，面向『三支一扶』计划等服务基层项目人员定向考录」；「聘用后可以不再约定试用期」；「三年内参加全国硕士研究生招生考试的，初试总分加10分」；「高职（高专）毕业生期满且考核合格的，可免试入读成人高等学历教育专科起点本科」；「『三支一扶』人员在基层服务年限计算为工龄，其参加工作时间按其到基层报到之日起算」；中央财政补助西部 3 万元、中部 2.4 万元、东部 1.2 万元 |
-| <http://www.gov.cn/gongbao/content/2017/content_5171278.htm>（中办、国办《关于进一步引导和鼓励高校毕业生到基层工作的意见》，2017 年国务院公报） | 是 | 「参加基层服务项目前无工作经历的人员服务期满且考核合格后2年内，在参加机关事业单位考录（招聘）……可同等享受应届高校毕业生的相关政策」；「省级以上机关录用公务员，除特殊职位外，按照有关规定一律从具有2年以上基层工作经历的人员中考录」 |
-| <http://xibu.youth.cn/tzgg/202604/t20260423_16623558.htm>（全国大学生志愿服务西部计划项目管理办公室《2026—2027 年度招募协议书》，附件 .doc 用 antiword 逐字提取） | 是 | 「西部计划由共青团中央、教育部、财政部、人力资源社会保障部共同组织实施……招募普通高等学校应届毕业生或在读研究生，到西部基层从事为期1—3年的……志愿服务。」 |
+| <https://www.gov.cn/zhengce/zhengceku/2021-06/04/content_5615404.htm> (Thông báo của Ban Tổ chức Trung ương, Bộ Lao động – Thương binh – Xã hội và tổng cộng mười ngành về thực hiện vòng thứ tư Kế hoạch “Tam hỗ Nhất phù” cho sinh viên tốt nghiệp đại học, văn bản số 32/2021) | Có, tự tay lấy trang và grep | “Thời gian phục vụ là hai năm”; “các tỉnh (khu, thành phố) hằng năm phải dành khoảng 10% chỉ tiêu tuyển công chức để tuyển định hướng cho người thuộc Kế hoạch ‘Tam hỗ Nhất phù’ và các dự án phục vụ cơ sở khác”; “sau khi được thuê có thể không phải thỏa thuận thời gian thử việc”; “trong vòng ba năm dự kỳ thi tuyển sinh thạc sĩ toàn quốc thì cộng 10 điểm tổng điểm vòng thi đầu”; “tốt nghiệp cao đẳng (đại học nghề) hết hạn và đánh giá đạt thì được miễn thi vào học liên thông từ cao đẳng lên đại học trong hệ giáo dục đại học cho người lớn”; “số năm phục vụ cơ sở của người ‘Tam hỗ Nhất phù’ tính là thâm niên công tác, thời điểm bắt đầu đi làm tính từ ngày xuống cơ sở báo cáo”; tài chính trung ương hỗ trợ miền Tây 30.000 yên, miền Trung 24.000 yên, miền Đông 12.000 yên |
+| <http://www.gov.cn/gongbao/content/2017/content_5171278.htm> (Ý kiến của Văn phòng Trung ương Đảng, Văn phòng Quốc vụ viện về tiếp tục hướng dẫn và khuyến khích sinh viên tốt nghiệp đại học xuống cơ sở công tác, Công báo Quốc vụ viện 2017) | Có | “Người chưa có kinh nghiệm làm việc trước khi tham gia dự án phục vụ cơ sở, sau khi hết hạn phục vụ và đánh giá đạt, trong vòng 2 năm khi dự tuyển (tuyển dụng) vào cơ quan, đơn vị sự nghiệp… được hưởng chính sách tương đương sinh viên tốt nghiệp đại học mới ra trường”; “cơ quan cấp tỉnh trở lên tuyển dụng công chức, ngoài các chức danh đặc thù, theo quy định đều tuyển từ những người có từ 2 năm kinh nghiệm làm việc cơ sở trở lên” |
+| <http://xibu.youth.cn/tzgg/202604/t20260423_16623558.htm> (Văn phòng quản lý dự án Kế hoạch tình nguyện miền Tây dành cho sinh viên toàn quốc, “Thỏa thuận tuyển mộ niên hạn 2026—2027”, file đính kèm .doc được trích từng chữ bằng antiword) | Có | “Kế hoạch miền Tây do Đoàn Thanh niên Cộng sản Trung ương, Bộ Giáo dục, Bộ Tài chính, Bộ Nhân lực và An sinh xã hội cùng tổ chức thực hiện… tuyển mộ sinh viên tốt nghiệp đúng hạn của các trường đại học hoặc nghiên cứu sinh đang học, đến cơ sở miền Tây làm công tác tình nguyện kéo dài 1—3 năm.” |
 
-口径「金钱」、收益「中」，成本 钱=0 时间=多 毅力=是（成本分 4），合成为「一般」——两年基层服务是实打实的成本，收入是财政补助不是市场价，备注写明了。
+Cách tính “tiền”, lợi ích “trung”, chi phí tien=0 thoi-gian=nhieu y-luc=co (điểm chi phí 4), tổng hợp thành “trung bình” — hai năm phục vụ cơ sở là chi phí thật sự, thu nhập là trợ cấp tài chính chứ không phải giá thị trường, Ghi chú đã viết rõ.
 
-**未取得**：《关于统筹实施引导高校毕业生到农村基层服务项目工作的通知》与《2026—2027 年度西部计划实施方案》原文（不在 gov.cn 政策库，西部计划官网政策栏目是脚本渲染的）；第五轮三支一扶计划文件与 2026 年度通知（政策库最新是 2025 年度，人社厅发〔2025〕21 号，写明「2025年中央财政支持招募『三支一扶』人员34430名」）。正文因此写明第四轮周期是 2021 到 2025 年、报名前查当年公告。
+**Chưa lấy được**: nguyên văn “Thông báo về việc thực hiện thống nhất các dự án hướng dẫn sinh viên tốt nghiệp về phục vụ cơ sở nông thôn” và “Phương án thực hiện Kế hoạch miền Tây niên hạn 2026—2027” (không có trong kho chính sách gov.cn, chuyên mục chính sách trên website Kế hoạch miền Tây do script render); văn bản vòng thứ năm kế hoạch Tam hỗ Nhất phù và thông báo niên hạn 2026 (trong kho chính sách, mới nhất là niên hạn 2025, văn bản số 21/2025 của Văn phòng Bộ Lao động – Thương binh – Xã hội, ghi rõ “năm 2025 tài chính trung ương hỗ trợ tuyển mộ 34430 người ‘Tam hỗ Nhất phù’”). Vì thế phần thân viết rõ vòng thứ tư có chu kỳ 2021 đến 2025, trước khi đăng ký hãy tra thông báo của năm đó.
 
-### 第 8 条（特岗教师）
+### Mục 8 (giáo viên đặc cách)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/zhengce/zhengceku/202405/content_6950803.htm>（教育部办公厅、财政部办公厅《关于做好 2024 年农村义务教育阶段学校教师特设岗位计划实施工作的通知》，教师厅〔2024〕1 号） | 是，自行抓页 grep | 「要求本科及以上学历，以师范类专业为主，小学阶段可适当招聘师范高等专科学校毕业生」；「年龄不超过30周岁」；「中部地区由年人均3.52万元提高到3.88万元，西部地区由3.82万元提高到4.18万元」；「保证三年服务期满、考核合格且愿意留任的特岗教师及时入编并落实工作岗位……连续计算工龄、教龄，不再实行试用期」 |
+| <https://www.gov.cn/zhengce/zhengceku/202405/content_6950803.htm> (Thông báo của Văn phòng Bộ Giáo dục, Văn phòng Bộ Tài chính về làm tốt công tác thực hiện Kế hoạch đặc cách giáo viên trường bậc giáo dục bắt buộc nông thôn năm 2024, văn bản số 1/2024 của Văn phòng Bộ Giáo dục) | Có, tự tay lấy trang và grep | “Yêu cầu trình độ đại học trở lên, chủ yếu ngành sư phạm, bậc tiểu học có thể tuyển hợp lý tốt nghiệp trường sư phạm cao đẳng”; “tuổi không quá 30”; “miền Trung nâng từ mức bình quân đầu người 35.200 yên/năm lên 38.800 yên, miền Tây từ 38.200 yên lên 41.800 yên”; “bảo đảm giáo viên đặc cách hết hạn ba năm phục vụ, đánh giá đạt và muốn ở lại được vào biên chế kịp thời, sắp xếp được vị trí việc làm… tính liền thâm niên công tác, thâm niên giảng dạy, không áp dụng thời gian thử việc nữa” |
 
-口径「金钱」、收益**「大」**——期满入编是一份长期编制内工作，量级远过万元。成本 钱=0 时间=多 毅力=是（成本分 4），合成为「一般」。政策库里最新是 2024 年度通知，2025、2026 年度未收录，正文写明以当年通知和本省实施方案为准。
+Cách tính “tiền”, lợi ích **“lớn”** — hết hạn được vào biên chế là một chỗ làm biên chế dài hạn, cấp độ xa vượt vạn yên. Chi phí tien=0 thoi-gian=nhieu y-luc=co (điểm chi phí 4), tổng hợp thành “trung bình”. Trong kho chính sách, mới nhất là thông báo niên hạn 2024, niên hạn 2025 và 2026 chưa được thu vào, phần thân viết rõ lấy thông báo của năm đó và phương án thực hiện của tỉnh mình làm chuẩn.
 
-### 第 9 条（消防员与军队文职）
+### Mục 9 (lính cứu hỏa và viên chức quân sự)
 
-来源同第 1 条表格里的人社部发〔2021〕58 号和文职人员条例，另用了第 六 条备注提到的《退役军人就业创业促进条例》（国务院令第 840 号，2026-08-01 施行，<https://www.gov.cn/zhengce/zhengceku/202606/content_7073789.htm>）里的两句：消防员招录「应当设置一定比例的计划专项招录退役军士和义务兵」；「招聘警务辅助人员时，同等条件下应当优先招聘退役军人」。口径「金钱」、收益「中」，成本 钱=0 时间=中 毅力=些（成本分 2），合成为「一般」。年度名额与岗位以当年公告为准，正文只写办法里的固定门槛。
+Nguồn gồm văn bản số 58/2021 và Điều lệ viên chức quân sự trong bảng của mục 1, ngoài ra còn dùng hai câu trong “Điều lệ thúc đẩy việc làm và khởi nghiệp cho người quân nhân xuất ngũ” (Nghị lệnh Quốc vụ viện số 840, hiệu lực 2026-08-01, <https://www.gov.cn/zhengce/zhengceku/202606/content_7073789.htm>) mà Ghi chú của mục 6 nhắc tới: tuyển lính cứu hỏa “phải đặt ra một tỷ lệ nhất định trong kế hoạch để tuyển riêng quân sĩ và lính nghĩa vụ xuất ngũ”; “khi tuyển nhân viên hỗ trợ cảnh vụ, điều kiện ngang nhau thì phải ưu tiên tuyển người quân nhân xuất ngũ”. Cách tính “tiền”, lợi ích “trung”, chi phí tien=0 thoi-gian=trung y-luc=chut (điểm chi phí 2), tổng hợp thành “trung bình”. Chỉ tiêu hằng năm và vị trí việc làm lấy theo thông báo của năm đó, phần thân chỉ ghi các ngưỡng cố định trong biện pháp.
 
-### 第 10 条（学历补救）
+### Mục 10 (bù đắp trình độ học vấn)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f415d64e5236d>（《高等教育自学考试暂行条例》） | 是，docx 逐字 grep | 第三条、第二十条见上；第二十五条「获得专科（基础科）或本科毕业证书者，国家承认其学历」；第三十二条「非在职人员录用后，与普通高等学校同类毕业生相同」 |
-| <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f20df64ec16c5>（高等教育法，2018-12-29 公布施行） | 是，docx 逐字 grep | 第二十一条「国家实行高等教育自学考试制度，经考试合格的，发给相应的学历证书或者其他学业证书。」 |
-| <https://www.gov.cn/zhengce/zhengceku/202509/content_7040877.htm>（教学厅〔2025〕6 号及附件《2025 年全国成人高校招生办法》，附件 .doc 用 antiword 逐字提取核对） | 是 | 「国家承认学历的各类高、中等学校在校生以外的从业人员和社会其他人员」；「报考高起本或高起专的考生应高级中等教育学校毕业或者具有同等学力。报考专升本的考生必须是已取得……专科毕业证书、本科结业证书或以上证书的人员」；「脱产最短学习时间为：高起本四年、高起专和专升本两年，非脱产最短学习时间为：高起本五年、高起专和专升本两年半」 |
-| <http://www.gov.cn/gongbao/content/2016/content_5067956.htm>（《教育部关于办好开放大学的意见》，教职成〔2016〕2 号，2016 年国务院公报） | 是 | 「开放大学实行注册入学，学生修完课程并获得相应学分，即可获得课程证书，修满规定的学分并达到相关要求，即可获得相应的学历与非学历证书，符合学位授予条件的应授予相应学位。」 |
+| <https://flk.npc.gov.cn/detail?id=ff8080816f3cbb3c016f415d64e5236d> (Điều lệ tạm hành về tự học bậc đại học) | Có, grep từng chữ qua docx | Điều 3, Điều 20 xem trên; Điều 25 “người nhận được chứng chỉ tốt nghiệp cao đẳng (khóa cơ sở) hoặc đại học, Nhà nước công nhận trình độ đó”; Điều 32 “người không đang làm việc, sau khi được nhận, ngang với tốt nghiệp cùng loại của trường đại học thường” |
+| <https://flk.npc.gov.cn/detail?id=ff8080816f135f46016f20df64ec16c5> (Luật Giáo dục đại học, công bố và áp dụng 2018-12-29) | Có, grep từng chữ qua docx | Điều 21 “Nhà nước thực hiện chế độ thi tự học đại học, người qua thi đạt sẽ được cấp chứng chỉ trình độ tương ứng hoặc chứng chỉ học tập khác.” |
+| <https://www.gov.cn/zhengce/zhengceku/202509/content_7040877.htm> (văn bản số 6/2025 của Văn phòng Bộ Giáo dục cùng phụ lục “Biện pháp tuyển sinh trường đại học cho người lớn toàn quốc năm 2025”, file đính kèm .doc được trích từng chữ bằng antiword để đối chiếu) | Có | “Người lao động và những người xã hội khác ngoài học sinh đang học tại các trường trung học, cao trung các loại được Nhà nước công nhận trình độ”; “thí sinh dự thi hệ THPT học lên đại học hoặc THPT học lên cao đẳng phải tốt nghiệp trường giáo dục trung học hoặc có trình độ tương đương. Thí sinh dự thi liên thông cao đẳng lên đại học bắt buộc phải là người đã có… chứng chỉ tốt nghiệp cao đẳng, chứng chỉ hoàn thành chương trình đại học hoặc chứng chỉ trở lên”; “thời gian học tối thiểu của hệ toàn thời gian: THPT học lên đại học bốn năm, THPT học lên cao đẳng và liên thông hai năm; hệ không toàn thời gian: THPT học lên đại học năm năm, THPT học lên cao đẳng và liên thông hai năm rưỡi” |
+| <http://www.gov.cn/gongbao/content/2016/content_5067956.htm> (Ý kiến của Bộ Giáo dục về làm tốt đại học mở, văn bản số 2/2016 của Giáo dục – Giáo dục nghề, Công báo Quốc vụ viện 2016) | Có | “Đại học mở thực hiện nhập học bằng đăng ký, học viên học xong môn học và nhận đủ tín chỉ tương ứng là được cấp chứng chỉ môn học, học đủ tín chỉ quy định và đạt các yêu cầu liên quan là được cấp chứng chỉ trình độ và chứng chỉ ngoài trình độ tương ứng, người đủ điều kiện cấp học vị thì phải được cấp học vị tương ứng.” |
 
-口径「金钱」、收益「中」，成本 钱=少 时间=多 毅力=是（成本分 5），合成为「一般」。
+Cách tính “tiền”, lợi ích “trung”, chi phí tien=it thoi-gian=nhieu y-luc=co (điểm chi phí 5), tổng hợp thành “trung bình”.
 
-**未取得**：统招专升本的全国层面规定。现行是教育部高校学生司的年度函件（教学司函〔2025〕53 号），未在 gov.cn / moe.gov.cn 公开发布，只能从省级教育厅转发文里看到文号与口径（湖南省教育厅 2026 年转发件写明招生对象为「我省2026届普通高校全日制专科毕业生」）。且招生对象基本限于当届全日制专科毕业生、规则由各省定，正文不写它的条件，标 TODO。另记一条易错点：自 2025 年秋季起高等学历继续教育不再用「函授」「业余」的名称，统一为「非脱产」（依据教职成〔2022〕2 号）。
+**Chưa lấy được**: quy định cấp toàn quốc về liên thông đại học theo tuyến tuyển sinh chung. Hiện hành là công văn hằng năm của Cục Sinh viên đại học thuộc Bộ Giáo dục (công văn số 53/2025 của Cục Sinh viên), chưa được công bố công khai trên gov.cn / moe.gov.cn, chỉ nhìn thấy số văn bản và cách tính qua văn bản chuyển phát của sở giáo dục cấp tỉnh (văn bản chuyển phát năm 2026 của Sở Giáo dục tỉnh Hồ Nam ghi rõ đối tượng tuyển là “tốt nghiệp cao đẳng toàn thời gian trường đại học thường của tỉnh tôi khóa 2026”). Mặt khác đối tượng tuyển sinh về cơ bản chỉ giới hạn ở tốt nghiệp cao đẳng toàn thời gian cùng khóa, quy tắc do từng tỉnh tự định, phần thân không ghi điều kiện của nó, đánh dấu TODO. Ghi thêm một điểm dễ sai: từ thu 2025, giáo dục trình độ đại học thuộc giáo dục tiếp tục không còn dùng tên gọi “hàm thụ”, “bán thời gian”, thống nhất thành “không toàn thời gian” (căn cứ văn bản số 2/2022 của Giáo dục – Giáo dục nghề).
 
-### 第 11、12 条（灵活就业与职业伤害保障）
+### Mục 11, 12 (lao động tự do và bảo hiểm tổn thương nghề nghiệp)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/zhengce/zhengceku/2021-07/23/content_5626761.htm>（人社部等八部门《关于维护新就业形态劳动者劳动保障权益的指导意见》，人社部发〔2021〕56 号，gov.cn 转载，人社部站本机打不开） | 是，自行抓页 grep | 第八条「各地要放开灵活就业人员在就业地参加基本养老、基本医疗保险的户籍限制，个别超大型城市难以一步实现的，要结合本地实际，积极创造条件逐步放开……做到应保尽保」；第二条的用工三分法原文见正文 |
-| <https://www.gov.cn/zhengce/zhengceku/2020-07/31/content_5531613.htm>（国办发〔2020〕27 号） | 是 | 「在政府指定的场所和时间内销售农副产品、日常生活用品，或者个人利用自己的技能从事依法无须取得许可的便民劳务活动，无须办理营业执照。」 |
-| <https://www.gov.cn/zhengce/zhengceku/202507/content_7031656.htm>（人社部等九部门《关于扩大新就业形态人员职业伤害保障试点的通知》，人社部发〔2025〕24 号，含《新就业形态人员职业伤害保障办法（试行）》） | 是，自行抓页 grep | 办法第二条「实现每单必保、每人必保。适用《工伤保险条例》规定的劳动者，企业应当依法为其参加工伤保险，不适用本办法」；第九条「出行行业按照每单0.01元执行；即时配送行业按照每单0.07元、0.25元执行；同城货运行业按照每单0.18元执行」；扩围安排「2026年，推动职业伤害保障试点在全国31个省份和新疆生产建设兵团实施」 |
+| <https://www.gov.cn/zhengce/zhengceku/2021-07/23/content_5626761.htm> (Ý kiến chỉ đạo của Bộ Lao động – Thương binh – Xã hội cùng tám ngành về bảo vệ quyền lợi đảm bảo lao động của người lao động trong các dạng việc làm mới, văn bản số 56/2021, do gov.cn đăng lại, website của bộ mở không được trên máy này) | Có, tự tay lấy trang và grep | Điều 8 “các nơi phải bỏ hạn chế hộ khẩu khi lao động tự do tham gia bảo hiểm hưu cơ bản, bảo hiểm y tế cơ bản tại nơi làm việc, một số siêu thành phố khó làm ngay một bước thì phải kết hợp thực tế địa phương, tích cực tạo điều kiện bỏ dần… đạt mức ai cũng được bảo hiểm”; cách phân ba dạng sử dụng lao động ở Điều 2, nguyên văn xem phần thân |
+| <https://www.gov.cn/zhengce/zhengceku/2020-07/31/content_5531613.htm> (văn bản số 27/2020 của Văn phòng Quốc vụ viện) | Có | “Bán nông sản phụ, hàng tiêu dùng ngày thường tại nơi và thời gian do chính phủ chỉ định, hoặc cá nhân dùng kỹ năng của mình làm các nghề phục vụ tiện dân mà pháp luật không yêu cầu giấy phép, thì không cần đăng ký giấy phép kinh doanh.” |
+| <https://www.gov.cn/zhengce/zhengceku/202507/content_7031656.htm> (Thông báo của Bộ Lao động – Thương binh – Xã hội cùng chín ngành về mở rộng thí điểm bảo hiểm tổn thương nghề nghiệp cho người lao động dạng việc làm mới, văn bản số 24/2025, kèm “Biện pháp bảo hiểm tổn thương nghề nghiệp cho người lao động dạng việc làm mới (thử nghiệm)”) | Có, tự tay lấy trang và grep | Điều 2 của biện pháp “thực hiện mỗi đơn hàng đều được bảo hiểm, mỗi người đều được bảo hiểm. Người lao động thuộc đối tượng áp dụng Điều lệ bảo hiểm tai nạn lao động, doanh nghiệp phải cho họ tham gia bảo hiểm tai nạn lao động theo pháp luật, không áp dụng biện pháp này”; Điều 9 “ngành đi lại thực hiện 0,01 yên mỗi đơn; ngành giao hàng tức thì thực hiện 0,07 yên, 0,25 yên mỗi đơn; ngành vận tải hàng trong cùng thành phố thực hiện 0,18 yên mỗi đơn”; kế hoạch mở rộng “năm 2026, thúc đẩy thí điểm bảo hiểm tổn thương nghề nghiệp thực hiện tại 31 tỉnh của cả nước và Binh đoàn sản xuất và xây dựng Tân Cương” |
 
-第 11 条口径「金钱」、收益「大」（断缴的代价是养老和医疗待遇本身，量级远过万元），成本 钱=多 时间=少 毅力=些（成本分 3），合成为「一般」——全额自缴每月上千元是这条路最容易漏算的固定支出，档位如实反映。第 12 条口径「金钱」、收益「中」，成本全零（钱由平台缴），合成为「高」。措辞上留了两处口子：原文写的是「放开」户籍限制且给超大城市留了余地，不是「已经全国取消」；职业伤害保障是试点、逐年扩围，不是已覆盖全国的正式制度。
+Mục 11: cách tính “tiền”, lợi ích “lớn” (cái giá của việc đứt đóng là chính đãi ngộ hưu và y tế, cấp độ xa vượt vạn yên), chi phí tien=nhieu thoi-gian=it y-luc=chut (điểm chi phí 3), tổng hợp thành “trung bình” — tự đóng toàn phần mỗi tháng hơn nghìn yên là khoản cố định dễ bị bỏ sót nhất khi tính toán trên con đường này, bậc phản ánh đúng thực tế. Mục 12: cách tính “tiền”, lợi ích “trung”, chi phí toàn zero (tiền do nền tảng đóng), tổng hợp thành “cao”. Về cách diễn đạt chừa lại hai chỗ mở: bản gốc viết là “bỏ” hạn chế hộ khẩu và để dư địa cho siêu thành phố, không phải “đã hủy trên toàn quốc”; bảo hiểm tổn thương nghề nghiệp là thí điểm, mở rộng từng năm, chưa phải chế độ chính thức đã phủ toàn quốc.
 
-### 未取得（整块）
+### Chưa lấy được (cả khối)
 
-- **士兵考军校、优秀士兵提干的条件**：政策库以「士兵提干」「军队院校招收学员」为标题词检索均 0 条，《征兵工作条例》全文「军校」「提干」「院校」出现 0 次；兵役法只有第三十三条「现役军官从……表现优秀的现役士兵……中选拔、招收」和第三十八条军队院校招收学员年龄不受征集年龄限制两句原则表述。具体条件在军队内部法规里，公开渠道没有。第 2 条备注与节导语都写明不给分数线和名额。
-- **征兵与退役人数**：兵役法第十九条「全国每年征集服现役的士兵的人数、次数、时间和要求，由国务院和中央军事委员会的命令规定」，年度征兵命令中的人数不公开发布；退役军人事务部官网站内搜索由 JS 渲染、抓不到结果，未找到年度统计公报类发布物。本节不写任何征兵或退役人数。
+- **Điều kiện thi trường quân đội từ quân nhân, đề bạt sĩ quan từ quân nhân ưu tú**: tìm trong kho chính sách với từ khóa tiêu đề “đề bạt từ quân nhân”, “trường quân đội tuyển học viên” đều được 0 kết quả; toàn văn “Quy định công tác tuyển quân” các từ “trường quân đội”, “đề bạt”, “học viện” xuất hiện 0 lần; Luật Nghĩa vụ quân sự chỉ có hai câu nguyên tắc là Điều 33 “sĩ quan hiện dịch tuyển chọn, tuyển nhận từ… quân nhân hiện dịch biểu hiện ưu tú…” và Điều 38 việc trường quân đội tuyển học viên không bị giới hạn tuổi như tuổi tuyển quân. Điều kiện cụ thể nằm trong quy chế nội bộ quân đội, kênh công khai không có. Ghi chú của mục 2 và phần dẫn chương đều viết rõ là không cho điểm chuẩn và chỉ tiêu.
+- **Số lượng tuyển quân và xuất ngũ**: Điều 19 Luật Nghĩa vụ quân sự “số lượng, số lần, thời gian và yêu cầu tuyển lính phục vụ tại ngũ hằng năm trên toàn quốc do mệnh lệnh của Quốc vụ viện và Quân ủy Trung ương quy định”, số liệu trong mệnh lệnh tuyển quân hằng năm không công bố; tìm kiếm trong website của Cục Công tác người quân nhân xuất ngũ do JS render nên không lấy được kết quả, không tìm thấy công bố dạng niên giám thống kê. Chương này không viết bất kỳ con số tuyển quân hay xuất ngũ nào.
 
-## 本轮新增的工具与站点实测结果
+## Công cụ bổ sung trong vòng này và kết quả thử thực tế các trang
 
-- **`flk.npc.gov.cn`（国家法律法规数据库）的后端 API 是本轮最大的收获**，全国人大制定的法律终于能逐字取全文：`POST /law-search/search/list`（Content-Type application/json，body 的键必须给全，少一个返回 code 500），返回 `rows[].bbbs/sxx`，**`sxx` 就是效力状态：3 有效、2 已修改、1 已废止、4 尚未生效**——608 号安置条例已废止就是这么发现的；再 `GET /law-search/download/mobile?format=docx&bbbs=<id>&fileId=` 下 docx，解 zip 取 `word/document.xml` 去标签即得逐字全文。引用时用 `https://flk.npc.gov.cn/detail?id=<bbbs>`（页面本身只有 552 字节的 SPA 壳，浏览器能看、脚本抓不到正文）。注意该 API 返回 JSON 里的 title 是 UTF-8 被当 GBK 读的乱码，跟 gov.cn 的 latin-1 乱码不是同一种，别用同一个还原函数。
-- **`.doc` 附件用 `/mingw64/bin/antiword -m UTF-8.txt` 能逐字取中文**，比 pdftotext 那条路好用；gov.cn 通知页的附件里 .doc 很多（成人高招办法、西部计划协议书都是这么取的）。附件 URL 要从通知页正则出 `href="./P0…"` 再拼同目录绝对地址。
-- 可用且能逐字取正文：`www.gov.cn`（政策库 JSON + zhengceku + gongbao）、`www.mod.gov.cn`（国防部）、`www.12371.cn`（共产党员网，党内法规）、`www.moe.gov.cn` 正文页与栏目索引页（站内搜索 so.moe.gov.cn 是 JS 渲染，抓不到）、`www.mva.gov.cn` 正文页、`jyt.hunan.gov.cn` 等省级教育厅、`xibu.youth.cn`（正文页可开，但列表页给的链接 id 与文章对不上，要按标题二次核对）。
-- 不可用：`www.chsi.com.cn` 恒 412；`www.mva.gov.cn/gongkai/zfxxgkpt/...` 子栏目 403；`mohrss.gov.cn` 本轮未尝试，人社部的 4 份文件全部从 gov.cn 转载取到。
-- **搜索引擎给的 gov.cn 老新闻 URL 大量 404**，本节所有 30 个外链在写完后统一跑了一次可达性检查，全部返回 200。
+- **API backend của `flk.npc.gov.cn` (Cơ sở dữ liệu pháp luật và quy phạm pháp luật quốc gia) là thu hoạch lớn nhất của vòng này**, luật do Quốc hội Trung Quốc ban hành cuối cùng cũng lấy được toàn văn từng chữ: `POST /law-search/search/list` (Content-Type application/json, body phải đủ hết các khóa, thiếu một cái là trả code 500), trả về `rows[].bbbs/sxx`, **`sxx` chính là trạng thái hiệu lực: 3 còn hiệu lực, 2 đã sửa đổi, 1 đã bãi bỏ, 4 chưa có hiệu lực** — quy định bố trí số 608 đã bị bãi bỏ là phát hiện ra nhờ thế; sau đó `GET /law-search/download/mobile?format=docx&bbbs=<id>&fileId=` tải về docx, giải zip lấy `word/document.xml` bỏ thẻ là ra toàn văn từng chữ. Khi trích dẫn dùng `https://flk.npc.gov.cn/detail?id=<bbbs>` (bản thân trang chỉ là vỏ SPA 552 byte, trình duyệt xem được còn script không lấy được phần thân). Chú ý: trường title trong JSON trả về của API này là chuỗi lỗi do UTF-8 bị đọc nhầm thành GBK, khác loại với chuỗi lỗi latin-1 của gov.cn, đừng dùng chung một hàm khôi phục.
+- **File đính kèm `.doc` dùng `/mingw64/bin/antiword -m UTF-8.txt` lấy được tiếng Trung từng ký tự**, tiện dùng hơn đường pdftotext; các file đính kèm trang thông báo của gov.cn có nhiều .doc (biện pháp tuyển sinh đại học cho người lớn, thỏa thuận Kế hoạch miền Tây đều lấy kiểu này). URL file đính kèm phải dùng regex bung `href="./P0…"` từ trang thông báo rồi ghép thành địa chỉ tuyệt đối cùng thư mục.
+- Dùng được và lấy được phần thân từng chữ: `www.gov.cn` (kho chính sách JSON + zhengceku + gongbao), `www.mod.gov.cn` (Bộ Quốc phòng), `www.12371.cn` (trang Đảng viên cộng sản, quy định nội bộ Đảng), trang bài và trang chỉ mục chuyên mục của `www.moe.gov.cn` (tìm kiếm trong site so.moe.gov.cn do JS render, không lấy được), trang bài của `www.mva.gov.cn`, các sở giáo dục cấp tỉnh như `jyt.hunan.gov.cn`, `xibu.youth.cn` (trang bài mở được, nhưng id link ở trang danh sách không khớp với bài, phải đối chiếu lần hai theo tiêu đề).
+- Không dùng được: `www.chsi.com.cn` luôn trả 412; chuyên mục con `www.mva.gov.cn/gongkai/zfxxgkpt/...` trả 403; `mohrss.gov.cn` vòng này chưa thử, 4 văn bản của Bộ Lao động – Thương binh – Xã hội đều lấy từ bản gov.cn đăng lại.
+- **URL tin cũ trên gov.cn do công cụ tìm kiếm đưa ra 404 rất nhiều**, cả 30 link ngoài của chương này sau khi viết xong đã chạy thống nhất một lượt kiểm tra khả năng truy cập, toàn bộ trả 200.
 
-## 统计
+## Thống kê
 
-全书 496 → 497 条（返工前是 496，含旧版 11 条；返工后本节 12 条）。A 级 321 → 322，B 级 126、C 级 49 不变。文献链接 960 → 970。TODO 38 → 39 处（本节 3 处：退役金金额、退役军人升学加分原文、统招专升本的全国规定）。性价比按 index.html 的 COST_W 规则复算：极高 89 → 88、高 249 → 247、一般 158 → 162，百分比 18%/50%/33%（四舍五入后和为 101，属正常）。
+Toàn sách 496 → 497 mục (trước khi làm lại là 496, gồm 11 mục bản cũ; sau khi làm lại chương này 12 mục). Mức A 321 → 322, mức B 126 và mức C 49 không đổi. Liên kết tài liệu 960 → 970. TODO 38 → 39 chỗ (chương này 3 chỗ: mức tiền xuất ngũ, nguyên văn cộng điểm học lên cho người quân nhân xuất ngũ, quy định toàn quốc về liên thông đại học theo tuyến chung). Hiệu quả chi phí tính lại theo quy tắc COST_W của index.html: rất cao 89 → 88, cao 249 → 247, trung bình 158 → 162, phần trăm 18%/50%/33% (sau khi làm tròn tổng là 101, thuộc chuyện bình thường).
 
-同步位置：README（正文数字、两个徽章、导读表那一行的问句改成「有哪几条路」、目录第 31 条简介重写）、index.html（五处描述、numberOfPages、页头「全书 31 节 497 条」）、CLAUDE.md 第 31 节简介（写明本节定位是路径地图不是当兵说明书，并记下这次返工的原因）、tools/og.html 三个数字并用无头 Chrome 重出 og.png。
+Các vị trí đồng bộ: README (số liệu phần thân, hai badge, câu hỏi ở dòng tương ứng trong bảng dẫn đọc đổi thành “có mấy con đường”, viết lại phần giới thiệu mục 31 trong mục lục), index.html (năm chỗ mô tả, numberOfPages, phần đầu trang “toàn sách 31 chương 497 mục”), phần giới thiệu chương 31 trong CLAUDE.md (ghi rõ định vị chương này là bản đồ lộ trình chứ không phải hướng dẫn nhập ngũ, và ghi lại lý do lần làm lại này), ba con số trong tools/og.html và xuất lại og.png bằng Chrome không giao diện (headless).
+

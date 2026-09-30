@@ -1,51 +1,51 @@
-# 排查：备注里的文献链接 · 记录（2026-09-21）
+# Rà soát: liên kết tài liệu trong phần Ghi chú · Ghi chép (2026-09-21)
 
-任务来源：用户在检索页上读到第 2 节第 1 条（戒烟）的备注，里面嵌着一整串英文题录，说「这里怎么还有啊，读者都是中国人，你整个一长串这些放着」。
+Nguồn gốc nhiệm vụ: người dùng đọc trên trang tra cứu phần Ghi chú của chương 2 mục 1 (bỏ thuốc lá), trong đó nhúng cả một chuỗi dài thông tin đầu bài tiếng Anh, nói “sao chỗ này lại còn có thế, độc giả toàn người Trung Quốc, để nguyên cả một chùm dài thế này làm gì”.
 
-此前同一天已经处理过两条（第 2 节第 41 条夜班、第 6 节第 26 条早餐），当时只修了链接最多的两条，没做全书扫查。这一轮补齐。
+Trước đó trong cùng ngày đã xử lý hai mục (chương 2 mục 41 ca làm đêm, chương 6 mục 26 bữa sáng), lúc đó chỉ sửa hai mục nhiều liên kết nhất, chưa rà soát toàn sách. Vòng này bổ sung cho trọn.
 
-## 判据与口径
+## Tiêu chí và cách làm
 
-- **文献链接一律进「来源」栏，备注不放。** 备注里至多留一个链接，且只能是指向 docs/ 长文的相对链接。
-- 依据：CLAUDE.md 的通俗化规则明写「**来源栏除外**，文献题录和条款号照原样留着才能核对」——言下之意，英文题录的容身处就是来源栏。备注是给中国读者读的中文正文，塞进一串英文题名和 DOI 既读不懂也不该读。
-- 扫描命令：`grep -c http` 扫全书所有 `- 备注：` 行。
+- **Liên kết tài liệu nhất nhất đưa vào cột “Nguồn”, không đặt trong Ghi chú.** Trong Ghi chú tối đa chỉ giữ một liên kết, và chỉ được là liên kết tương đối trỏ tới bài dài trong docs/.
+- Căn cứ: quy tắc phổ cập trong CLAUDE.md viết rõ “**ngoại trừ cột Nguồn**, thông tin đầu bài tài liệu và số điều khoản phải giữ nguyên để đối chiếu được” — hàm ý là nơi dung nạp thông tin đầu bài tiếng Anh chính là cột Nguồn. Ghi chú là phần thân bài tiếng Trung dành cho độc giả Trung Quốc đọc, nhét cả một chuỗi tên bài tiếng Anh cùng DOI vào đó thì vừa không đọc hiểu vừa không nên đọc.
+- Lệnh quét: dùng `grep -c http` quét tất cả các dòng `- Ghi chú: ` trong toàn sách.
 
-## 处理前后
+## Trước và sau khi xử lý
 
-| | 处理前 | 处理后 |
+| | Trước xử lý | Sau xử lý |
 |---|---|---|
-| 备注里带链接的条目 | 19 条（其中 11 条是整串英文题录嵌在中文里） | **0 条** |
-| 单条备注最多链接数 | 3 个 | 0 个 |
-| 全书文献链接总数 | 1234 | **1234（未变）** |
+| Mục có liên kết trong Ghi chú | 19 mục (trong đó 11 mục là cả chùm thông tin đầu bài tiếng Anh nhúng giữa văn bản tiếng Trung) | **0 mục** |
+| Số liên kết nhiều nhất trong một Ghi chú | 3 | 0 |
+| Tổng số liên kết tài liệu toàn sách | 1234 | **1234 (không đổi)** |
 
-链接总数不变是这轮的核心不变量：**题录是从备注挪到来源栏，不是删掉**。挪进来源时给每条加了一个中文小尾巴说明它撑的是哪个说法（「（争议方）」「（备注里那项高纯度处方鱼油试验）」之类），免得来源栏变成一串看不出用途的题录。
+Tổng số liên kết không đổi là bất biến cốt lõi của vòng này: **thông tin đầu bài được chuyển từ Ghi chú sang cột Nguồn, chứ không bị xóa**. Khi chuyển vào Nguồn, mỗi mục được thêm một đuôi nhỏ tiếng Trung nói rõ nó chống lưng cho luận điểm nào (kiểu “(bên tranh cãi)”, “(thử nghiệm dầu cá kê đơn độ tinh khiết cao trong Ghi chú ấy)”), để cột Nguồn không biến thành một dãy thông tin đầu bài nhìn không ra công dụng.
 
-## 逐条清单
+## Danh sách từng mục
 
-第 1 节：第 20 条（流感疫苗 Cochrane）、第 28 条（PrEP，Fonner 2016）、第 29 条（窗口期，广东疾控页面）。
-第 2 节：第 1 条（二手烟 Oberg 2011）、第 9 条（低钠盐争议方 PURE）、第 19 条（加工肉争议方 NutriRECS 指南）、第 20 条（饮酒争议方 Di Castelnuovo 2006）、第 34 条（BMI 争议方 Flegal 2013）、第 41 条（夜班癌症两篇 + 光照 Czeisler，先一轮已处理）。
-第 3 节：第 9 条（两篇争议方 Grubbs 2018、Prause & Pfaus 2015）。
-第 5 节：第 17 条（指数基金争议方 Harvey & Liu 2022）。
-第 6 节：第 1 条（复合维生素 Gaziano 2012）、第 2 条（鱼油 Bhatt 2019 REDUCE-IT）、第 26 条（早餐三篇，先一轮已处理）。
-第 10 节：第 3 条（Perilloux & Kurzban 2015）、第 6 条（Dargie 2015）。
-第 20 节：第 12 条（一般婴儿试验 EAT，Perkin 2016）。
-第 29 节：第 4 条（Kristensen 2012）、第 9 条（Stroebe 2007）。
+Chương 1: mục 20 (vaccine cúm Cochrane), mục 28 (PrEP, Fonner 2016), mục 29 (giai đoạn cửa sổ, trang của CDC tỉnh Quảng Đông).
+Chương 2: mục 1 (hút thuốc thụ động Oberg 2011), mục 9 (bên tranh cãi muối ít natri PURE), mục 19 (bên tranh cãi thịt chế biến, hướng dẫn NutriRECS), mục 20 (bên tranh cãi rượu bia Di Castelnuovo 2006), mục 34 (bên tranh cãi BMI Flegal 2013), mục 41 (hai bài ung thư do ca làm đêm + ánh sáng Czeisler, vòng trước đã xử lý).
+Chương 3: mục 9 (hai bài bên tranh cãi Grubbs 2018, Prause & Pfaus 2015).
+Chương 5: mục 17 (bên tranh cãi quỹ chỉ số Harvey & Liu 2022).
+Chương 6: mục 1 (vitamin tổng hợp Gaziano 2012), mục 2 (dầu cá Bhatt 2019 REDUCE-IT), mục 26 (ba bài về bữa sáng, vòng trước đã xử lý).
+Chương 10: mục 3 (Perilloux & Kurzban 2015), mục 6 (Dargie 2015).
+Chương 20: mục 12 (thử nghiệm EAT ở trẻ em nói chung, Perkin 2016).
+Chương 29: mục 4 (Kristensen 2012), mục 9 (Stroebe 2007).
 
-## 补全的题名
+## Các tên bài được bổ sung đầy đủ
 
-有 5 条原来在备注里是缩写形式（只有作者、年份、期刊），挪进来源栏要补题名。**没有凭记忆写**，逐条用 Crossref 按 DOI 取回：
+Có 5 mục trước đây trong Ghi chú ở dạng viết tắt (chỉ có tác giả, năm, tạp chí), chuyển vào cột Nguồn phải bổ sung tên bài. **Không viết theo trí nhớ**, từng mục được lấy về qua Crossref theo DOI:
 
-| DOI | 取回的题名 |
+| DOI | Tên bài lấy về |
 |---|---|
-| 10.1097/QAD.0000000000001145 | Effectiveness and safety of oral HIV preexposure prophylaxis for all populations（AIDS, 2016） |
-| 10.1001/jama.2012.14641 | Multivitamins in the Prevention of Cancer in Men（JAMA, 2012） |
-| 10.1056/NEJMoa1812792 | Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia（NEJM, 2019） |
-| 10.1007/s10508-018-1248-x | Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis（Arch Sex Behav，**Crossref 记的年份是 2018 不是原文写的 2019**，已按 2018 写） |
-| 10.1002/sm2.58 | Viewing Sexual Stimuli Associated with Greater Sexual Responsiveness, Not Erectile Dysfunction（Sexual Medicine, 2015） |
+| 10.1097/QAD.0000000000001145 | Effectiveness and safety of oral HIV preexposure prophylaxis for all populations (AIDS, 2016) |
+| 10.1001/jama.2012.14641 | Multivitamins in the Prevention of Cancer in Men (JAMA, 2012) |
+| 10.1056/NEJMoa1812792 | Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia (NEJM, 2019) |
+| 10.1007/s10508-018-1248-x | Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis (Arch Sex Behav, **năm Crossref ghi là 2018 chứ không phải 2019 như bản gốc viết**, đã viết theo 2018) |
+| 10.1002/sm2.58 | Viewing Sexual Stimuli Associated with Greater Sexual Responsiveness, Not Erectile Dysfunction (Sexual Medicine, 2015) |
 
-## 校验
+## Kiểm tra
 
-- 全书 `- 备注：` 行含 http 的条数：**0**。
-- 删除引文后扫了一遍标点，没有留下双句号、空括号或孤立的「。」。
-- `node tools/check-refs.mjs --check`：454 处引用全部指向正确且带锚点，条数未变。
-- `sync-stats.ps1`：条目 600、A 404、链接 1234，八处统计位一个没动。
+- Số mục có dòng `- Ghi chú: ` chứa http trong toàn sách: **0**.
+- Sau khi xóa trích dẫn đã quét lại một lượt dấu câu, không chừa lại dấu chấm kép, ngoặc rỗng hay dấu “.” mồ côi.
+- `node tools/check-refs.mjs --check`: 454 chỗ trích dẫn đều trỏ đúng và có neo (anchor), số mục không đổi.
+- `sync-stats.ps1`: mục 600, A 404, liên kết 1234, tám vị trí thống kê không động tới chỗ nào.

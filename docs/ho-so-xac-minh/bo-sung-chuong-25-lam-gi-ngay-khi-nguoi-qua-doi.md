@@ -1,53 +1,53 @@
-# 追加：人没了当时怎么办（第 25 节前五条）· 核实记录（2026-09-08）
+# Bổ sung: khi người vừa mất cần làm gì ngay (năm mục đầu của chương 25) · Hồ sơ xác minh (2026-09-08)
 
-任务来源：作者读第 25 节后指出「写的都是问题，没有具体发现尸体应该怎么办、流程」。
+Nguồn gốc nhiệm vụ: sau khi đọc chương 25, tác giả chỉ ra “trong đó toàn nói về các vấn đề, mà không có phần cụ thể là phát hiện ra thi thể thì phải làm gì, trình tự ra sao”.
 
-原有覆盖：第 25 节原本 5 条，全部落在事后——殡葬收费清单、价格违法、中介备案、公积金与社保待遇、死者个人信息权利。从「人没了」到「拿到死亡证明、遗体进殡仪馆、销户」这一段完全空白：全书搜「死亡证明」只在第 25 节第 4 条的材料清单里出现一次，「殡仪馆」「火化」「太平间」「尸检」「注销户口」零命中。
+Phạm vi nội dung sẵn có: chương 25 vốn có 5 mục, toàn bộ rơi vào phần sau sự việc — danh sách thu phí tang lễ, vi phạm giá cả, đăng ký của trung gian môi giới, quyền lợi quỹ tiết kiệm nhà ở và an sinh xã hội, quyền thông tin cá nhân của người đã mất. Đoạn từ “người vừa mất” đến “nhận giấy chứng nhận tử vong, đưa thi thể vào nhà tang lễ, xóa hộ khẩu” hoàn toàn trống: tìm “giấy chứng nhận tử vong” trong toàn bộ sách chỉ xuất hiện một lần trong danh sách tài liệu của chương 25 mục 4, còn “nhà tang lễ”, “hỏa táng”, “nhà xác”, “giải phẫu tử thi”, “xóa hộ khẩu” thì không có kết quả nào.
 
-落点：第 25 节前面新增 5 条，按事情发生的先后排——第 1 条现场与报警、第 2 条死亡证明、第 3 条遗体接运与火化、第 4 条死因异议与尸检、第 5 条注销户口；原第 1 至 5 条顺延为 6 至 10。节首那段加一句说明前五条按时序排、之后按性价比排。第 25 节由 5 条增至 10 条，全书 408 → 413 条（A 255 → 260，B、C 不变；性价比高 206 → 210、一般 130 → 131，极高 72 不变，占比由 18/50/32 变为 17/51/32；争议 42 条、TODO 36 条不变）。README 与 CLAUDE.md 的第 25 节条目清单、README 导读表里那一行问题同步补词。全书没有别的文件按条号引用第 25 节，无需回改引用。
+Chốt vị trí: thêm 5 mục mới ở đầu chương 25, xếp theo trình tự thời gian của sự việc — mục 1 hiện trường và báo cảnh sát, mục 2 giấy chứng nhận tử vong, mục 3 tiếp vận thi thể và hỏa táng, mục 4 phản đối nguyên nhân chết và giải phẫu tử thi, mục 5 xóa hộ khẩu; các mục cũ từ 1 đến 5 lần lượt dồn thành 6 đến 10. Thêm một câu vào đoạn đầu chương nói rằng năm mục đầu xếp theo trình tự thời gian, sau đó xếp theo hiệu quả chi phí. Chương 25 tăng từ 5 mục lên 10 mục, toàn sách 408 → 413 mục (A 255 → 260, B và C không đổi; hiệu quả chi phí cao 206 → 210, bình thường 130 → 131, rất cao 72 không đổi, tỷ lệ từ 18/50/32 thành 17/51/32; 42 mục tranh cãi, 36 chỗ TODO không đổi). Đồng thời bổ sung từ ngữ cho danh sách mục của chương 25 trong README và CLAUDE.md, cùng dòng câu hỏi tương ứng trong bảng dẫn nhập của README. Toàn sách không có file nào khác trích dẫn chương 25 theo số mục, nên không phải sửa lại trích dẫn.
 
-## 第 1 条（现场与报警）
+## Mục 1 (hiện trường và báo cảnh sát)
 
-| 文献 | 复核 | 原文引句 |
+| Tài liệu | Đối chiếu lại | Trích dẫn nguyên văn |
 |---|---|---|
-| 全国人大常委会 (1958). 中华人民共和国户口登记条例（第八条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/mpost_2531969.html>（广东省人民政府门户网站刊登） | 是 | 第八条第二款「公民因意外事故致死或者死因不明，户主、发现人应当立即报告当地公安派出所或者乡、镇人民委员会」 |
-| 国务院 (2026). 殡葬管理条例（国务院令第 824 号，自 2026 年 3 月 30 日起施行）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> | 是 | 第二十三条「自然人正常死亡的，医疗卫生机构应当及时出具死亡证明。涉及公安机关依法处置且未经医疗卫生机构救治的非正常死亡案（事）件的逝者，由公安机关出具死亡证明。」 |
+| Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (1958). Quy chế đăng ký hộ khẩu của nước Cộng hòa Nhân dân Trung Hoa (Điều 8). <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/mpost_2531969.html> (đăng trên cổng thông tin điện tử Chính phủ nhân dân tỉnh Quảng Đông) | Có | Khoản 2 Điều 8: “Công dân chết do tai nạn bất ngờ hoặc nguyên nhân chết không rõ, chủ hộ hoặc người phát hiện phải báo ngay với đồn công an địa phương hoặc ủy ban nhân dân cấp hương, trấn” |
+| Quốc vụ viện (2026). Quy chế quản lý tang lễ (Thông lệnh Quốc vụ viện số 824, có hiệu lực từ ngày 30/3/2026). <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> | Có | Điều 23: “Người chết vì lý do bình thường, cơ quan y tế phải kịp thời cấp giấy chứng nhận tử vong. Người chết trong vụ án (sự việc) chết bất thường thuộc phạm vi cơ quan công an xử lý theo pháp luật mà chưa qua cứu chữa của cơ quan y tế, do cơ quan công an cấp giấy chứng nhận tử vong.” |
 
-定 A：两条都是可逐字核对的法条。收益量级「中」，口径记「自由」——这条防的是现场被破坏后说不清、死亡证明开不出来带来的调查与手续麻烦，不是钱。
+Xếp A: cả hai đều là điều luật có thể đối chiếu từng chữ. Độ lớn lợi ích “trung”, tiêu chí ghi “tự do” — mục này phòng cái phiền phức điều tra và thủ tục phát sinh khi hiện trường bị phá hủy rồi khó nói rõ và khi giấy chứng nhận tử vong không cấp ra được, không phải tiền.
 
-正文里「不要搬运遗体、不要擦洗更衣、不要收走药瓶和字条」是从「非正常死亡由公安出证」这一条推出来的操作口径，属于作者表述，没有单独法条，因此没有单列为收益里的引文。
+Câu “đừng di chuyển thi thể, đừng lau rửa thay đồ, đừng mang đi lọ thuốc và mẩu giấy” trong bài là kết luận vận hành suy ra từ quy định “chết bất thường do công an cấp chứng nhận”, thuộc phần diễn đạt của tác giả, không có điều luật riêng, nên không đưa riêng thành trích dẫn trong phần lợi ích.
 
-## 第 2 条（死亡证明）
+## Mục 2 (giấy chứng nhận tử vong)
 
-| 文献 | 复核 | 原文引句 |
+| Tài liệu | Đối chiếu lại | Trích dẫn nguyên văn |
 |---|---|---|
-| 国家卫生计生委办公厅 (2014). 人口死亡信息登记管理规范（试行）（国卫办规划发〔2014〕68 号）. <https://mzj.sz.gov.cn/szmz/pc/zwgk/jcxxgk/zcfg/byfw/content/post_2952215.html>（深圳市民政局转发） | 是 | 第九条：医疗卫生机构内死亡由「负责救治的医疗卫生机构签发」；家中或其他场所正常死亡「由本辖区社区卫生服务机构或乡镇（街道）卫生院签发」；公安司法机构判断为非正常死亡者，由公安司法部门按现行规定及程序办理 |
-| 国家卫生健康委、公安部、民政部、国家中医药局、国家疾控局 (2026). 关于加强居民死亡医学证明信息登记和电子证照管理工作的通知（国卫规划发〔2026〕5 号，2026 年 2 月 27 日）. <https://wjw.fujian.gov.cn/xxgk/fgwj/gjwj/202602/t20260228_7102810.htm>（福建省卫生健康委员会转发） | 是 | 「《死亡证明》纸质版与电子证照具有同等法律效力」；死因已明确的正常死亡应在死亡发生后一日内签发；遗失可向原签发机构申请补发一次；基本信息有误的凭材料向原签发单位申请重新签发（限一次） |
+| Văn phòng Ủy ban Kế hoạch hóa và Sức khỏe quốc gia (2014). Quy phạm quản lý đăng ký thông tin tử vong dân số (thử hành) (Quốc Vệ Ban Quy Hoa Phát [2014] số 68). <https://mzj.sz.gov.cn/szmz/pc/zwgk/jcxxgk/zcfg/byfw/content/post_2952215.html> (do Cục Dân chính thành phố Thâm Quyến chuyển phát) | Có | Điều 9: chết trong cơ sở y tế do “cơ sở y tế chịu trách nhiệm cứu chữa cấp”; chết bình thường tại nhà hoặc nơi khác “do cơ sở y tế cộng đồng hoặc viện xá cấp hương, trấn (phố) thuộc địa bàn cấp”; người bị cơ quan công an, tư pháp xác định là chết bất thường, do ngành công an, tư pháp xử lý theo quy định và trình tự hiện hành |
+| Ủy ban Sức khỏe quốc gia, Bộ Công an, Bộ Dân chính, Cục Y học cổ truyền quốc gia, Cục Phòng chống dịch quốc gia (2026). Thông báo về tăng cường đăng ký thông tin chứng nhận tử vong y học của cư dân và quản lý chứng thư điện tử (Quốc Vệ Quy Hoa Phát [2026] số 5, ngày 27/2/2026). <https://wjw.fujian.gov.cn/xxgk/fgwj/gjwj/202602/t20260228_7102810.htm> (do Ủy ban Sức khỏe tỉnh Phúc Kiến chuyển phát) | Có | “Bản giấy “Giấy chứng nhận tử vong” và chứng thư điện tử có hiệu lực pháp lý như nhau”; chết bình thường mà nguyên nhân đã rõ phải cấp trong vòng một ngày kể từ khi chết; làm mất có thể xin cơ quan cấp gốc cấp lại một lần; thông tin cơ bản sai thì xuất trình tài liệu xin cơ quan cấp gốc cấp phát lại (giới hạn một lần) |
 
-定 A：两份都是可核对的部委文件。口径记「时间」、收益量级记「中」——这里没有金额也没有死亡率，套不上机械阈值，按判断定：死亡证明是销户、火化、公积金、社保、保险、继承的共同前置，缺它或信息有误要在多个窗口之间反复重跑，量级高于「一次性」。
+Xếp A: cả hai đều là văn bản bộ ngành có thể đối chiếu được. Tiêu chí ghi “thời gian”, độ lớn lợi ích ghi “trung” — ở đây không có số tiền cũng không có tỷ lệ tử vong, không úp được ngưỡng máy móc, chấm theo phán đoán: giấy chứng nhận tử vong là điều kiện tiền đề chung của xóa hộ khẩu, hỏa táng, quỹ tiết kiệm nhà ở, an sinh xã hội, bảo hiểm, thừa kế; thiếu nó hoặc thông tin sai thì phải chạy đi chạy lại qua nhiều ô cửa, độ lớn cao hơn “một lần duy nhất”.
 
-未写进正文的内容：《死亡证》四联分别交给谁。规范只写「四联（后三联一致）」的格式要求，没有逐联指定收取单位，各地做法不一，因此正文只写用途不写联次。
+Phần chưa viết vào bài: bốn liên của “Giấy chứng nhận tử vong” giao cho ai. Quy phạm chỉ quy định yêu cầu định dạng “bốn liên (ba liên sau giống nhau)”, không chỉ định đơn vị nhận của từng liên, các nơi làm không giống nhau, nên bài chỉ viết công dụng, không viết số liên.
 
-## 第 3 条（遗体接运、存放与火化）
+## Mục 3 (tiếp vận thi thể, lưu giữ và hỏa táng)
 
-| 文献 | 复核 | 原文引句 |
+| Tài liệu | Đối chiếu lại | Trích dẫn nguyên văn |
 |---|---|---|
-| 国务院 (2026). 殡葬管理条例（国务院令第 824 号）. <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> | 是 | 第二十四条「医疗卫生机构的太平间不得外包，不得开展殡仪服务，可以为遗体暂时停放提供便利服务」；第二十五条「遗体接运、存放、防腐、整容、火化服务，由殡仪馆专门负责提供」；第二十七条「殡仪馆存放遗体一般不超过 3 日，需要延期存放的，丧属或者遗体移交方应当在殡仪馆办理延期存放手续」；第二十八条「殡仪馆应当凭死亡证明和火化确认书火化遗体，并出具火化证明」；第二十九条「在实行火葬的地区，遗体应当就地、就近在殡仪馆火化」；第八条 省级政府在已划定的火葬区与土葬区基础上「稳步扩大实行火葬地区的范围」；第九条「尊重少数民族的丧葬习俗；自愿改革丧葬习俗的，他人不得干涉」；第六十条 将应当火化的遗体土葬，或在公墓、农村公益性墓地及依法实施生态安葬区域以外埋葬遗体、建造坟墓的，由县级以上民政部门责令限期改正 |
+| Quốc vụ viện (2026). Quy chế quản lý tang lễ (Thông lệnh Quốc vụ viện số 824). <https://www.gov.cn/zhengce/zhengceku/202601/content_7054169.htm> | Có | Điều 24: “Nhà xác của cơ sở y tế không được khoán ngoài, không được kinh doanh dịch vụ tang lễ, chỉ có thể cung cấp dịch vụ thuận tiện cho việc tạm đặt thi thể”; Điều 25: “Dịch vụ tiếp vận thi thể, lưu giữ, ướp chống phân hủy, chỉnh trang thi thể, hỏa táng do nhà tang lễ chuyên trách cung cấp”; Điều 27: “Nhà tang lễ lưu giữ thi thể thường không quá 3 ngày, nếu cần gia hạn lưu giữ, người thân của người mất hoặc bên bàn giao thi thể phải làm thủ tục gia hạn lưu giữ tại nhà tang lễ”; Điều 28: “Nhà tang lễ phải hỏa táng thi thể dựa trên giấy chứng nhận tử vong và giấy xác nhận hỏa táng, và cấp giấy chứng nhận hỏa táng”; Điều 29: “Ở khu vực thực hiện hỏa táng, thi thể phải được hỏa táng tại nhà tang lễ ngay tại chỗ hoặc gần nhất”; Điều 8: trên cơ sở khu hỏa táng và khu đất táng đã được phân định, chính quyền cấp tỉnh “vững bước mở rộng phạm vi khu vực thực hiện hỏa táng”; Điều 9: “Tôn trọng tập tục tang lễ của dân tộc thiểu số; người tự nguyện cải cách tập tục tang lễ thì người khác không được can thiệp”; Điều 60: người đem thi thể lẽ ra phải hỏa táng đi đất táng, hoặc chôn thi thể, xây mộ ngoài nghĩa trang công cộng, nghĩa trang công ích nông thôn và khu vực an táng sinh thái được thực hiện theo pháp luật, sẽ bị ngành dân chính từ cấp huyện trở lên ra lệnh sửa trong thời hạn |
 
-定 A。收益量级「中」，口径金钱：防的是太平间外包和「一条龙」在接运环节的加价，与第 6、7 条同一量级。
+Xếp A. Độ lớn lợi ích “trung”, tiêu chí tiền: phòng cái đội giá ở khâu tiếp vận thi thể do nhà xác bị khoán ngoài và các dịch vụ “trọn gói một trạm” gây ra, cùng độ lớn với mục 6, 7.
 
-## 第 4 条（死因异议与尸检）
+## Mục 4 (phản đối nguyên nhân chết và giải phẫu tử thi)
 
-| 文献 | 复核 | 原文引句 |
+| Tài liệu | Đối chiếu lại | Trích dẫn nguyên văn |
 |---|---|---|
-| 国务院 (2018). 医疗纠纷预防和处理条例（国务院令第 701 号）. <https://www.gov.cn/zhengce/content/2018-08/31/content_5318057.htm> | 是 | 第二十六条「患者死亡，医患双方对死因有异议的，应当在患者死亡后 48 小时内进行尸检；具备尸体冻存条件的，可以延长至 7 日」「尸检应当经死者近亲属同意并签字，拒绝签字的，视为死者近亲属不同意进行尸检」「不同意或者拖延尸检，超过规定时间，影响对死因判定的，由不同意或者拖延的一方承担责任」；第二十四条 封存、启封病历资料「应当在医患双方在场的情况下进行」 |
+| Quốc vụ viện (2018). Quy chế phòng ngừa và xử lý tranh chấp y tế (Thông lệnh Quốc vụ viện số 701). <https://www.gov.cn/zhengce/content/2018-08/31/content_5318057.htm> | Có | Điều 26: “Bệnh nhân chết, hai bên bệnh nhân và bệnh viện có ý kiến khác nhau về nguyên nhân chết thì phải tiến hành giải phẫu tử thi trong vòng 48 giờ sau khi bệnh nhân chết; nếu đủ điều kiện đông lạnh thi thể, có thể kéo dài đến 7 ngày” “Việc giải phẫu tử thi phải được người thân gần nhất của người chết đồng ý và ký tên; người từ chối ký tên thì coi như người thân gần nhất không đồng ý tiến hành giải phẫu tử thi” “Không đồng ý hoặc làm chậm giải phẫu tử thi, quá thời hạn quy định, ảnh hưởng đến việc xác định nguyên nhân chết, thì bên không đồng ý hoặc bên làm chậm phải chịu trách nhiệm”; Điều 24: việc niêm phong, mở niêm phong hồ sơ bệnh án “phải tiến hành khi có mặt cả hai bên bệnh nhân và bệnh viện” |
 
-定 A。收益量级「大」：死因判定直接决定医疗损害赔偿能不能主张，金额可到万元级以上；毅力记「些」，因为难点在于家属在那个时候还想得起来提。尸检费用如何预付与承担本次没有取得可逐字核对的条文，正文不写。
+Xếp A. Độ lớn lợi ích “lớn”: việc xác định nguyên nhân chết quyết định trực tiếp có đòi được bồi thường thiệt hại y tế hay không, số tiền có thể lên tới cấp vạn trở lên; ý chí ghi “chút”, vì cái khó là người thân lúc ấy còn nhớ ra mà nêu ra vấn đề. Phí giải phẫu tử thi tạm ứng và gánh chịu như thế nào, lần này chưa lấy được điều luật đối chiếu từng chữ được, nên bài không viết.
 
-## 第 5 条（注销户口）
+## Mục 5 (xóa hộ khẩu)
 
-| 文献 | 复核 | 原文引句 |
+| Tài liệu | Đối chiếu lại | Trích dẫn nguyên văn |
 |---|---|---|
-| 全国人大常委会 (1958). 中华人民共和国户口登记条例（第八条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/mpost_2531969.html>（广东省人民政府门户网站刊登） | 是 | 第八条第一款「公民死亡，城市在葬前，农村在一个月以内，由户主、亲属、抚养人或者邻居向户口登记机关申报死亡登记，注销户口。公民如果在暂住地死亡，由暂住地户口登记机关通知常住地户口登记机关注销户口。」 |
+| Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (1958). Quy chế đăng ký hộ khẩu của nước Cộng hòa Nhân dân Trung Hoa (Điều 8). <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/mpost_2531969.html> (đăng trên cổng thông tin điện tử Chính phủ nhân dân tỉnh Quảng Đông) | Có | Khoản 1 Điều 8: “Công dân chết, ở thành phố trước khi an táng, ở nông thôn trong vòng một tháng, chủ hộ, người thân, người nuôi dưỡng hoặc hàng xóm khai báo đăng ký cái chết với cơ quan đăng ký hộ khẩu và xóa hộ khẩu. Công dân nếu chết tại nơi tạm trú, cơ quan đăng ký hộ khẩu nơi tạm trú thông báo cho cơ quan đăng ký hộ khẩu nơi cư trú thường xuyên xóa hộ khẩu.” |
 
-定 A。口径「时间」、收益量级「小」：只有一次性的跑腿节省，性价比档因此落在「一般」。养老金冒领要退还这一点是常识性后果，没有单独引文，写在备注里不作为收益。
+Xếp A. Tiêu chí “thời gian”, độ lớn lợi ích “nhỏ”: chỉ có tiết kiệm công sức chạy đi lại một lần duy nhất, nên hạng hiệu quả chi phí rơi vào “bình thường”. Việc lãnh trộm lương hưu phải hoàn trả là hậu quả theo lẽ thường, không có trích dẫn riêng, chỉ viết trong ghi chú chứ không tính vào lợi ích.

@@ -1,48 +1,48 @@
-# 第 5 节追加：处置效应与暴涨暴跌期的主动交易（2026-09-22）
+# Bổ sung vào chương 5: hiệu ứng xử lý và giao dịch chủ động trong giai đoạn giá tăng vọt giảm sâu (2026-09-22)
 
-任务来源：GitHub issue #24（wangchao732）。原文是「劝大家别炒 A 股，90% 的散户被套进去。套进去了又不肯割肉，短时间 1 年想出来几乎不可能。还想着越低越补，即伤命又伤财」。
+Nguồn gốc nhiệm vụ: GitHub issue #24 (wangchao732). Nguyên văn: “khuyên mọi người đừng chơi chứng khoán A, 90% nhà đầu tư nhỏ lẻ bị nhốt vào trong. Bị nhốt rồi lại không nỡ cắt lỗ, muốn ra trong thời gian ngắn 1 năm gần như bất khả. Còn nghĩ càng xuống càng mua bù, vừa hại mạng vừa hại tiền”.
 
-原有覆盖：第 5 节已经有一组投资条目——第 15 条（不频繁交易股票，Barber-Odean 2000，换手最高组年化 11.4% 对市场 17.9%）、第 16 条（不借钱不加杠杆）、第 17 条（宽基指数基金替代主动基金）、第 18 条（同类基金选费率低的）、第 19 条（不押单一标的）、第 27 条（先存应急金）。也就是说「别频繁买卖、别借钱、别押一只」这三件事已经写了。
+Phạm vi nội dung sẵn có: chương 5 đã có một nhóm mục đầu tư — mục 15 (không giao dịch cổ phiếu thường xuyên, Barber-Odean 2000, nhóm turnover cao nhất đạt 11.4% hàng năm so với thị trường 17.9%), mục 16 (không vay tiền, không dùng đòn bẩy), mục 17 (quỹ chỉ số rộng thay quỹ chủ động), mục 18 (trong cùng loại quỹ chọn quỹ có phí thấp), mục 19 (không dồn vào một tài sản duy nhất), mục 27 (trước hết tích quỹ khẩn cấp). Nghĩa là ba việc “đừng mua bán thường xuyên, đừng vay tiền, đừng dồn một con” đã được viết.
 
-issue 里真正没被覆盖的是两件：① **卖出决策的偏差**（赚了就卖、亏了死扛、还往下补仓），全书零覆盖；② **暴涨暴跌期的主动交易账**，第 15 条讲的是长期换手成本，没有讲「行情疯的时候动手」这一段，而且它引的是美国 1990 年代数据，没有中国的量。
+Thứ issue thực sự chưa được bao phủ là hai việc: (1) **sai lệch trong quyết định bán** (có lãi là bán, lỗ thì ôm chết, còn mua bù xuống dưới), toàn sách chưa nhắc đến; (2) **bản kê giao dịch chủ động trong giai đoạn giá tăng vọt giảm sâu**, mục 15 nói về chi phí turnover dài hạn, không nói khâu “ra tay khi thị trường phát cuồng”, hơn nữa nó dẫn số liệu Mỹ thập niên 1990, không có con số của Trung Quốc.
 
-落点：第 5 节节末新增第 37、38 条，不插在第 15 到 19 条的投资簇中间。理由是插入会让第 20 到 36 条整体顺延，全书指向第 5 节的 7 处跨节引用和本节十几处自引都要跟着改，而按 CLAUDE.md 的口径这类顺延撞歪对照表 diff 也不一定看得出来。节末追加零风险，检索页本来就按性价比重排，读者不靠纸面顺序找条目。第 36 条（散装食品）也是这么追加的。
+Chốt vị trí: thêm mục 37, 38 ở cuối chương 5, không chèn vào giữa cụm đầu tư mục 15 đến 19. Lý do là chèn vào sẽ khiến mục 20 đến 36 dồn xuống hàng loạt, 7 chỗ trích dẫn xuyên chương trỏ đến chương 5 trong toàn sách và hơn chục chỗ tự trích trong chương đều phải sửa theo, mà theo tiêu chí của CLAUDE.md thì loại dồn lệch làm hỏng bảng đối chiếu này, diff cũng chưa chắc nhìn ra. Thêm ở cuối chương không có rủi ro gì, trang tra cứu vốn đã xếp lại theo hiệu quả chi phí, bạn đọc không tìm mục theo thứ tự trên giấy. Mục 36 (thực phẩm rời) cũng được thêm theo kiểu như vậy.
 
-## 没有采纳 issue 的结论口径
+## Không theo khuôn kết luận của issue
 
-**不写「别炒 A 股」。** 按 CLAUDE.md「只拆账不给结论」和「判断一条只给禁止不给出路之前先确认当事人是不是真的没得选」两条：第 17 条已经给了「拿钱进股市」的低成本走法（宽基指数基金），再写一条「一律别买」会和它直接冲突。所以这两条写的都是动作层面的差别——同一笔钱、同一段行情，卖出规则怎么定、行情最热时动手多少，而不是「进不进场」。
+**Không viết “đừng chơi chứng khoán A”.** Theo hai nguyên tắc của CLAUDE.md “chỉ mổ xẻ con số, không ban kết luận” và “trước khi phán một điều chỉ cấm mà không cho lối thoát, phải xác nhận trước là đương sự quả thật không còn lựa chọn nào khác”: mục 17 đã chỉ ra lối đi chi phí thấp của “mang tiền vào thị trường chứng khoán” (quỹ chỉ số rộng), viết thêm một điều “nhất loạt đừng mua” sẽ xung đột trực tiếp với nó. Vậy nên hai mục này viết đều là khác biệt ở tầng động tác — cùng một khoản tiền, cùng một đoạn thị trường, quy tắc bán định thế nào, khi thị trường nóng nhất ra tay bao nhiêu — chứ không phải “có vào hay không vào”.
 
-**不写「90% 的散户亏钱」。** 这个数字在网上流传很广，但查不到可逐字核对的官方统计：上交所、深交所的统计年鉴和投资者状况调查报告没有给出「亏损账户占比」这一项的公开时间序列，本轮也没有找到可引的原始文献。按项目规则「不确定的数字宁可不写」，第 38 条备注里明说了这个数字不用，并给出能核对的替代——同一批账户里账户最小的 85% 相对「一直持有不动」的亏损额。
+**Không viết “90% nhà đầu tư nhỏ lẻ thua lỗ”.** Con số này lan tràn trên mạng, nhưng không tra được thống kê chính thức nào đối chiếu từng chữ được: niên giám thống kê và báo cáo khảo sát tình hình nhà đầu tư của Sở Giao dịch Chứng khoán Thượng Hải, Sở Giao dịch Chứng khoán Thâm Quyến không công bố chuỗi thời gian công khai của chỉ tiêu “tỷ lệ tài khoản lỗ”, lượt này cũng không tìm được tài liệu gốc có thể dẫn. Theo quy tắc dự án “con số không chắc chắn thì thà không viết”, ghi chú của mục 38 nói rõ không dùng con số này, và đưa ra cái thay thế kiểm chứng được — số tiền lỗ của 85% tài khoản nhỏ nhất trong cùng một loạt tài khoản so với “giữ nguyên không đụng đến”.
 
-**「1 年想出来几乎不可能」没写。** 这是回本时间的问题，需要按买入点分布算持有期收益，本轮没有找到可引的原始测算，不凭印象写。
+**“Muốn ra trong 1 năm gần như bất khả” không viết.** Đây là chuyện thời gian hòa vốn, phải tính lợi suất nắm giữ theo phân bố điểm mua vào, lượt này không tìm được phép tính gốc có thể dẫn, không viết theo ấn tượng.
 
-## 逐条来源
+## Nguồn từng mục
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Ý chính nguyên văn |
 |---|---|---|
-| <https://doi.org/10.1111/0022-1082.00072>（Odean T, 1998, The Journal of Finance 53(5):1775-1798；全文 PDF 取自作者主页 faculty.haas.berkeley.edu/odean/Papers current versions/AreInvestorsReluctant.pdf，pdftotext 逐字核对） | 是 | 数据为一家折扣券商 10,000 个账户 1987–1993 年全部交易记录。Table I：全年 PGR = 0.148，PLR = 0.098，差 −0.050，t = −35（13,883 realized gains / 79,658 paper gains / 11,930 realized losses / 110,348 paper losses）。正文：「the ratio of PGR to PLR for the entire year is a little over 1.5, indicating that a stock that is up in value is more than 50 percent more likely to be sold from day to day than a stock that is down」。加仓侧：「For the entire sample PLPA = 0.135 and PGPA = 0.094」，t = 19。后续表现：「For winners that are sold, the average excess return over the following year is 3.4 percent more than it is for losers that are not sold」（超额收益相对 CRSP 市值加权指数）。算例：卖 1000 美元的亏损股而非盈利股，「the investor's return is about 4.4 percent higher over the next year」，其中含提前抵税折现约 10 美元、后续持股收益差 34 美元，边际税率假设 15% |
-| <https://doi.org/10.1016/j.jmoneco.2022.01.001>（An L, Lou D, Shi D, 2022, Journal of Monetary Economics 126:134-153）；数字按作者公开工作论文稿逐字核对：<https://personal.lse.ac.uk/loud/AnLouShi.pdf>（2021 年 10 月稿） | 是 | 上交所逐日账户数据，「cover the entire investor population of roughly 40M accounts」，「nearly 90% of the trading volume is contributed by retail accounts」。主样本 2014 年 7 月至 2015 年 12 月共 18 个月，上证综指「climbed more than 150%… to its peak at 5166.35 on June 12th 2015, before crashing 40% by the end of December 2015」。按期初账户市值以 50 万、300 万、1000 万元分四档，最低档占 85%、最高档占 0.5%。结果：「the bottom 85% households lose 250B RMB due to active trading (i.e., relative to a buy-and-hold strategy)… while the top 0.5% gain 254B RMB」；期初持仓市值分别为 880B 和 808B RMB，故「the cumulative loss… amounts to 28% of their initial wealth in equities」、最高档「a gain of 31%」（摘要口径写作 30%）。对照期 2012 年 1 月至 2014 年 6 月，任意 18 个月子期最高档收益「1-3% of the initial equity wealth」。换手：「households churn their positions once every three weeks (or nearly 18 times a year)」 |
+| <https://doi.org/10.1111/0022-1082.00072> (Odean T, 1998, The Journal of Finance 53(5):1775-1798; toàn văn PDF lấy từ trang cá nhân của tác giả faculty.haas.berkeley.edu/odean/Papers current versions/AreInvestorsReluctant.pdf, đối chiếu từng chữ bằng pdftotext) | Có | Dữ liệu là toàn bộ hồ sơ giao dịch 1987–1993 của 10,000 tài khoản tại một công ty môi giới chiết khấu. Table I: cả năm PGR = 0.148, PLR = 0.098, chênh −0.050, t = −35 (13,883 realized gains / 79,658 paper gains / 11,930 realized losses / 110,348 paper losses). Phần chính: “the ratio of PGR to PLR for the entire year is a little over 1.5, indicating that a stock that is up in value is more than 50 percent more likely to be sold from day to day than a stock that is down”. Phía cộng vị thế: “For the entire sample PLPA = 0.135 and PGPA = 0.094”, t = 19. Biểu hiện về sau: “For winners that are sold, the average excess return over the following year is 3.4 percent more than it is for losers that are not sold” (lợi suất vượt tính so với chỉ số CRSP trọng số theo vốn hóa thị trường). Ví dụ tính: bán cổ phiếu lỗ 1.000 đô la thay vì cổ phiếu lãi, “the investor's return is about 4.4 percent higher over the next year”, trong đó gồm khoảng 10 đô la chiết khấu từ việc khấu trừ thuế sớm và 34 đô la chênh lợi suất nắm giữ về sau, giả định thuế suất biên 15% |
+| <https://doi.org/10.1016/j.jmoneco.2022.01.001> (An L, Lou D, Shi D, 2022, Journal of Monetary Economics 126:134-153); các con số đối chiếu từng chữ theo bản working paper công khai của tác giả: <https://personal.lse.ac.uk/loud/AnLouShi.pdf> (bản tháng 10/2021) | Có | Dữ liệu tài khoản theo ngày của Sở Giao dịch Chứng khoán Thượng Hải, “cover the entire investor population of roughly 40M accounts”, “nearly 90% of the trading volume is contributed by retail accounts”. Mẫu chính 18 tháng, từ tháng 7/2014 đến tháng 12/2015, chỉ số tổng hợp Thượng Hải “climbed more than 150%… to its peak at 5166.35 on June 12th 2015, before crashing 40% by the end of December 2015”. Theo vốn hóa tài khoản đầu kỳ chia bốn bậc với 500.000 yên, 3 triệu yên, 10 triệu yên, bậc thấp nhất chiếm 85%, bậc cao nhất chiếm 0.5%. Kết quả: “the bottom 85% households lose 250B RMB due to active trading (i.e., relative to a buy-and-hold strategy)… while the top 0.5% gain 254B RMB”; vốn hóa danh mục đầu kỳ lần lượt là 880B và 808B RMB, nên “the cumulative loss… amounts to 28% of their initial wealth in equities”, bậc cao nhất “a gain of 31%” (tóm tắt viết gộp là 30%). Giai đoạn đối chiếu từ tháng 1/2012 đến tháng 6/2014, lợi suất của bậc cao nhất trong mọi kỳ con 18 tháng là “1-3% of the initial equity wealth”. Turnover: “households churn their positions once every three weeks (or nearly 18 times a year)” |
 
-## 定级与量级
+## Xếp mức và độ lớn
 
-**两条都定 A。** Odean 1998 给出比例、差值与 t 值，且全文可逐字核对；An-Lou-Shi 用的是交易所全量行政数据，给出绝对金额与占期初市值的百分比。两条都不是荟萃分析，但按项目口径「大型队列 + 可量化数字」够 A。
+**Hai mục đều xếp A.** Odean 1998 đưa ra tỷ lệ, chênh lệch và giá trị t, và toàn văn đối chiếu từng chữ được; An-Lou-Shi dùng dữ liệu hành chính toàn lượng của sở giao dịch, đưa ra số tiền tuyệt đối và phần trăm so với vốn hóa đầu kỳ. Hai mục đều không phải phân tích tổng hợp, nhưng theo tiêu chí dự án “cohort lớn + con số lượng hóa được” thì đủ A.
 
-**来源栏为什么带工作论文链接。** 期刊正式版在 ScienceDirect，本机取不到正文（此前记录已注明 tandfonline/Wiley 一类出版商站点被挡，本轮实测 Wiley 是 Cloudflare 质询、Springer 该 DOI 404）。Crossref 与 Semantic Scholar 都没有这篇的摘要。所以条目里的数字是按作者本人公开的 2021 年 10 月工作论文稿逐字核的，来源栏两个链接都给出，并写明数字按后者核对。正式版摘要把两侧统一写成「30% of either group's initial equity wealth」，工作论文正文分开写 28% 和 31%，条目取后者并同时给出「各约三成」。
+**Vì sao cột Nguồn kèm liên kết bản working paper.** Bản chính thức của tạp chí nằm trên ScienceDirect, máy này không lấy được nội dung (bản ghi trước đây đã ghi rõ các trang nhà xuất bản kiểu tandfonline/Wiley bị chặn, lượt này kiểm tra thực tế Wiley ra câu hỏi Cloudflare, Springer DOI này báo 404). Crossref và Semantic Scholar đều không có tóm tắt của bài này. Vì thế các con số trong mục được đối chiếu từng chữ theo bản working paper tháng 10/2021 do chính tác giả công bố, cột Nguồn cho cả hai liên kết, và ghi rõ con số đối chiếu theo bản sau. Tóm tắt bản chính thức gộp hai phía viết chung là “30% of either group's initial equity wealth”, phần chính của working paper viết riêng 28% và 31%, mục lấy bản sau và đồng thời cho thêm “mỗi bên chừng ba phần mười”.
 
-**第 37 条收益定「中」。** 金钱口径按金额阈值套：可核对的量是「此后一年高 3.4 个百分点」和算例里的 4.4%，落到十万元级的账户上是数千元一年，属「数百到数千」这一档。没有定「大」，是因为原文没有给出累计金额；第 15 条定「大」是因为那篇给的是年化 6.5 个百分点的长期缺口。
+**Lợi ích của mục 37 chấm “trung”.** Tiêu chí tiền úp theo ngưỡng số tiền: lượng kiểm chứng được là “cao hơn 3.4 điểm phần trăm trong một năm sau đó” và 4.4% trong ví dụ tính, rơi vào tài khoản cấp 100.000 yên thì là vài nghìn yên một năm, thuộc bậc “vài trăm đến vài nghìn”. Không chấm “lớn”, vì nguyên văn không cho số tiền cộng dồn; mục 15 chấm “lớn” vì bài ấy cho khoảng hụt dài hạn 6.5 điểm phần trăm hàng năm.
 
-**第 38 条收益定「大」。** 原文给的是「相当于本组期初股票市值的 28%」，十万元级账户对应万元级损失，落在「万元级」这一档。
+**Lợi ích của mục 38 chấm “lớn”.** Nguyên văn cho là “tương đương 28% vốn hóa cổ phiếu đầu kỳ của nhóm này”, tài khoản cấp 100.000 yên ứng với mức thiệt hại cấp 10.000 yên, rơi vào bậc “cấp vạn”.
 
-**毅力都定「些」。** 和同簇的第 15、16 条保持一致：这两条要改的是一个决策习惯，不是每天都要对抗的长期惯性。
+**Ý chí đều chấm “chút”.** Giữ nhất quán với mục 15, 16 cùng cụm: cái hai mục này phải đổi là một thói quen ra quyết định, chứ không phải quán tính dài hạn phải chống đỡ mỗi ngày.
 
-## 写法上的三个决定
+## Ba quyết định về cách viết
 
-**第 37 条把「补仓摊平成本」正面承认对了一半。** 直接说「补仓是错的」会被读者当成算术错误反驳（多买确实拉低平均成本）。备注写成「算术上没错，错的是把它当翻身的办法」，再点出它真实的效果是加大单一标的仓位，接到第 19 条上去。
+**Mục 37 công nhận thẳng rằng “mua bù để hạ giá vốn trung bình” đúng một nửa.** Nói thẳng “mua bù là sai” sẽ bị bạn đọc phản bác là sai số học (mua nhiều quả thật hạ giá vốn bình quân). Ghi chú viết là “về số học thì không sai, sai là lấy nó làm cách để đổi đời”, rồi chỉ ra hiệu quả thật của nó là phình vị thế của một tài sản duy nhất, nối sang mục 19.
 
-**抵税那一段标明是美国税制。** 4.4% 里含提前实现亏损的抵税收益，这一部分在中国不成立。备注只写「中国不照搬，其余部分仍然成立」，没有去写中国的税制细节——那需要单独引财税文件，不是这条的题目。
+**Đoạn khấu trừ thuế được ghi rõ là chế độ thuế Mỹ.** Trong 4.4% có phần lợi ích khấu trừ thuế từ việc thực hiện lỗ sớm, phần này không đứng ở Trung Quốc. Ghi chú chỉ viết “Trung Quốc không đem nguyên si sang áp dụng, phần còn lại vẫn đứng vững”, không đi viết chi tiết chế độ thuế Trung Quốc — chuyện đó cần dẫn văn bản tài chính - thuế riêng, không phải đề tài của mục này.
 
-**第 38 条的「损失」口径写在正文里。** 原文的 250B 是相对 buy-and-hold 的主动交易损益，不是账面浮亏，两者差别很大。收益栏专门加了一句「这里的『损失』比的是一直持有不动」，否则读者会把它当成「跌掉了 2500 亿」。
+**Khuôn từ “thiệt hại” của mục 38 viết ngay trong bài.** Con số 250B trong nguyên văn là lãi lỗ giao dịch chủ động so với buy-and-hold, không phải lỗ nổi trên sổ sách, hai cái chênh nhau rất xa. Cột Lợi ích thêm riêng một câu “‘thiệt hại’ ở đây so với việc giữ nguyên không đụng đến”, nếu không bạn đọc sẽ hiểu thành “bốc hơi 250 tỷ”.
 
-## 同步
+## Đồng bộ
 
-引用检查基线 545 处，新增 3 处（第 37 条引第 15、19 条，第 38 条引第 15 条），预期 548 处。`tools/sync-stats.ps1` 已跑，README、index.html、tools/og.html 与 og.png 同步。
+Kiểm tra trích dẫn: mức nền 545 chỗ, thêm 3 chỗ mới (mục 37 dẫn mục 15, 19; mục 38 dẫn mục 15), dự kiến 548 chỗ. Đã chạy `tools/sync-stats.ps1`, README, index.html, tools/og.html và og.png đã đồng bộ.

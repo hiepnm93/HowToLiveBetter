@@ -1,92 +1,92 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 34. 家里的常备药别吃出事
+# 34. Thuốc trong nhà, đừng uống ra chuyện
 
-退烧药、止痛药、感冒药、胃药、止泻药，很多在药店就能自己买。不用处方能买，不等于怎么吃都行。这一节不讲每种病该吃什么药，只挑一个动作就能避开重后果的几件事。
+Thuốc hạ sốt, thuốc giảm đau, thuốc cảm, thuốc dạ dày, thuốc cầm tiêu chảy — nhiều loại tự ra hiệu thuốc là mua được. Mua được không cần toa không có nghĩa là uống thế nào cũng được. Chương này không bàn từng bệnh thì nên uống thuốc gì, chỉ chọn ra vài việc mà chỉ cần một hành động là tránh được hậu quả nặng.
 
-所有条目按死亡率口径算，包括肝衰竭、胃出血、新生儿肾衰竭这类健康终点。收益大多是「少出一次严重事故」，研究给不出「做了能少几成」的数字，收益量级是按后果轻重判断的，每条备注里写了凭什么定。
+Toàn bộ các mục đều tính theo thước đo tuổi thọ (tỷ lệ tử vong), bao gồm cả những điểm cuối sức khỏe như suy gan, xuất huyết dạ dày, suy thận ở trẻ sơ sinh. Lợi ích phần lớn là “bớt đi một lần tai nạn nghiêm trọng”; nghiên cứu cho không ra con số “làm rồi giảm được mấy phần”, nên mức độ lợi ích được đánh giá theo hậu quả nặng nhẹ, căn cứ để định được ghi trong phần Ghi chú của từng mục.
 
-已经写在别处的，这里只指路。误服了药或清洁剂先做什么，见第 13 节第 20 条（误服）。慢性病的药按医嘱吃满，见第 16 节第 1 条（药按医嘱吃满）。网上买处方药要先过处方审核，见第 28 节第 6 条（减肥药就去医院拿处方）。
+Điều đã viết ở chỗ khác, chương này chỉ dẫn đường. Uống nhầm thuốc hoặc chất tẩy rửa thì làm gì trước tiên, xem chương 13 mục 20 (uống nhầm). Thuốc bệnh mãn tính phải uống đủ theo đơn bác sĩ, xem chương 16 mục 1 (uống đủ thuốc theo toa). Mua thuốc kê đơn trên mạng phải qua kiểm tra đơn thuốc trước, xem chương 28 mục 6 (muốn thuốc giảm cân thì đến bệnh viện lấy toa).
 
-本节条目的受益人是你自己和家人，属于最高的两档。
+Người thụ hưởng của các mục trong chương này là chính bạn và người thân trong gia đình, thuộc hai mức cao nhất.
 
-### 1. 同时吃两种感冒药或止痛药之前，先看成分表，对乙酰氨基酚只能占一种
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：不花钱。看一眼每盒药的成分表，一两分钟。
-- 说人话：很多感冒药里都掺了对乙酰氨基酚，两盒一起吃就是吃了双份，过量会伤肝。在美国，它造成的急性肝衰竭病人里，近三成没等到换肝就死了。国内说明书建议一天最多吃 2 克，吃药期间也别喝酒。
-- 收益：美国 22 家医院用 6 年时间连续登记了 662 例急性肝衰竭。其中 275 例（42%）是对乙酰氨基酚造成的，吞下的剂量中位数是 24 克。这 275 人里，131 人（48%）是不小心吃多的，不是故意。不小心吃多的人里，38% 同时吃了两种以上含这个成分的药。这 275 人里，27% 没等到换肝就死了，8% 做了肝移植。国家药监局 2020 年要求非处方药说明书写明：过量使用会引起严重肝损伤，建议一日最大量不超过 2 克。说明书还要写明，尽量避免和含对乙酰氨基酚或其他解热镇痛药的药品合用。美国法规要求这类非处方药在警示第一条写明三种伤肝情形：超过一天最大量，和其他含对乙酰氨基酚的药同吃，用药期间每天喝 3 杯以上的酒。
-- 证据等级：B
-- 来源：Larson AM, Polson J, Fontana RJ, et al.; Acute Liver Failure Study Group (2005). Acetaminophen-induced acute liver failure: results of a United States multicenter, prospective study. Hepatology, 42(6):1364-1372. <https://doi.org/10.1002/hep.20948>；国家药监局关于修订对乙酰氨基酚常释及缓释制剂说明书的公告（2020年第15号）及附件2《对乙酰氨基酚常释制剂非处方药说明书修订要求》（湖南省药品监督管理局转载）. <http://mpa.hunan.gov.cn/mpa/xxgk/tzgg/wjtz/202003/t20200311_11809335.html>；21 CFR 201.326(a)(1)(iii)(A) Liver warning. <https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.326>
-- 备注：对乙酰氨基酚也叫扑热息痛。复方感冒药的通用名里带「氨酚」两个字的，比如氨酚伪麻、氨咖黄敏，就含这个成分。拿不准就把几盒药都拿给药店的药师看。定 B 是因为美国那组数字是病例登记，没有对照组，算不出看了成分表能少出多少事。收益定「大」是按后果定的：急性肝衰竭里有近三成直接死亡。
+### 1. Trước khi uống cùng lúc hai loại thuốc cảm hoặc thuốc giảm đau, hãy xem bảng thành phần trước; acetaminophen chỉ được có trong một loại
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Nhìn một lượt bảng thành phần của mỗi hộp thuốc, một hai phút.
+- Hiểu nhanh: Nhiều loại thuốc cảm đều pha thêm acetaminophen; uống hai hộp cùng lúc là uống gấp đôi, quá liều sẽ hại gan. Ở Mỹ, trong số bệnh nhân suy gan cấp do nó gây ra, gần 30% chết trước khi kịp ghép gan. Hướng dẫn dùng thuốc ở Trung Quốc khuyên mỗi ngày tối đa 2 gam, và không uống rượu trong thời gian đang dùng thuốc.
+- Lợi ích: 22 bệnh viện ở Mỹ trong 6 năm đăng ký liên tục 662 ca suy gan cấp. Trong đó 275 ca (42%) do acetaminophen gây ra, liều trung vị khi nuốt vào là 24 gam. Trong 275 người này, 131 người (48%) lỡ tay uống quá liều, không phải cố ý. Trong số người lỡ uống quá liều, 38% uống đồng thời từ hai loại thuốc có chứa thành phần này trở lên. Trong 275 người này, 27% chết trước khi kịp ghép gan, 8% được ghép gan. Năm 2020, Cục Quản lý Dược phẩm Quốc gia yêu cầu hướng dẫn sử dụng thuốc không kê đơn ghi rõ: dùng quá liều gây tổn thương gan nghiêm trọng, khuyên lượng tối đa trong một ngày không quá 2 gam. Hướng dẫn sử dụng còn phải ghi: hạn chế tối đa việc dùng chung với thuốc chứa acetaminophen hoặc các thuốc hạ sốt giảm đau khác. Luật Mỹ yêu cầu loại thuốc không kê đơn này ghi ở dòng cảnh báo đầu tiên ba tình huống hại gan: vượt quá liều tối đa một ngày, uống chung với thuốc khác chứa acetaminophen, và uống từ 3 cốc rượu trở lên mỗi ngày trong thời gian dùng thuốc.
+- Mức bằng chứng: B
+- Nguồn: Larson AM, Polson J, Fontana RJ, et al.; Acute Liver Failure Study Group (2005). Acetaminophen-induced acute liver failure: results of a United States multicenter, prospective study. Hepatology, 42(6):1364-1372. <https://doi.org/10.1002/hep.20948>; Thông báo của Cục Quản lý Dược phẩm Quốc gia về việc sửa đổi hướng dẫn sử dụng của các chế phẩm acetaminophen giải phóng nhanh và giải phóng kéo dài (Thông báo số 15 năm 2020) kèm Phụ lục 2 “Yêu cầu sửa đổi hướng dẫn sử dụng thuốc không kê đơn dạng acetaminophen giải phóng nhanh” (do Cục Quản lý Dược phẩm tỉnh Hồ Nam đăng lại). <http://mpa.hunan.gov.cn/mpa/xxgk/tzgg/wjtz/202003/t20200311_11809335.html>; 21 CFR 201.326(a)(1)(iii)(A) Liver warning. <https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.326>
+- Ghi chú: Acetaminophen còn gọi là paracetamol. Thuốc cảm phối hợp mà tên chung có cụm “an phen” (viết tắt chỉ acetaminophen), ví dụ Anfen Weima, Anka Huangmin, là có chứa thành phần này. Không chắc thì mang mấy hộp thuốc ra cho dược sĩ ở hiệu thuốc xem. Định mức B vì dãy số của Mỹ là đăng ký ca bệnh, không có nhóm chứng, tính không ra xem bảng thành phần giúp tránh được bao nhiêu sự cố. Định lợi ích “lớn” là dựa theo hậu quả: gần 30% số ca suy gan cấp tử vong trực tiếp.
 
-### 2. 孩子发烧不用阿司匹林、尼美舒利和安乃近，含安乃近的感冒药也不给未成年人吃
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：不花钱。买退烧药时看一眼通用名和成分表。
-- 说人话：孩子退烧，这三种药都别用。阿司匹林和瑞氏综合征有关，这种病伤脑伤肝，美国统计里约三成病孩死亡，警告发出后病例少了九成多。尼美舒利 12 岁以下禁用，安乃近 18 岁以下禁用。
-- 收益：瑞氏综合征会引起脑病和肝脏脂肪变性，通常出现在流感或水痘之后。美国 1981 到 1997 年的全国监测里，18 岁以下报告了 1207 例。82% 的病孩血里测得到水杨酸，这是阿司匹林这类药的成分。总病死率 31%。1980 年开始发布水杨酸类药的警告。那一年报告了 555 例，是高峰，1987 年起每年不超过 36 例。国家食药监局 2011 年规定，尼美舒利口服制剂禁止用于 12 岁以下儿童。国家药监局 2020 年规定安乃近片禁用于 18 岁以下青少年儿童。含安乃近的复方青蒿安乃近片、重感灵片和重感灵胶囊同样禁用于 18 岁以下。
-- 证据等级：B
-- 来源：Belay ED, Bresee JS, Holman RC, Khan AS, Shahriari A, Schonberger LB (1999). Reye's syndrome in the United States from 1981 through 1997. New England Journal of Medicine, 340(18):1377-1382. <https://doi.org/10.1056/NEJM199905063401801>；关于加强尼美舒利口服制剂使用管理的通知（国食药监安〔2011〕209号）. <https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/20110515145101552.html>；国家药监局关于修订安乃近相关品种说明书的公告（2020年第34号）及附件1至3. <https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypshmshxdgg/20200317171201660.html>
-- 备注：安乃近对成年人也不是首选药。说明书写明它可能引起粒细胞缺乏、再生障碍性贫血和过敏性休克，只在病情急重、又没有别的有效药时短期用。重感灵听名字像普通感冒药，里面就有安乃近。孩子该用什么退烧药、按体重吃多少，问儿科医生或药师。不满 3 个月的孩子发烧直接去医院，见第 20 节第 8 条（38 ℃ 就直接去医院）。定 B 是因为瑞氏综合征的数字来自监测报告，病例减少和警告发布是前后关系，不是对照试验。收益定「大」，是因为警告之后病例从每年 555 例降到 36 例以下。
+### 2. Trẻ bị sốt không dùng aspirin, nimesulid và metamizol; thuốc cảm chứa metamizol cũng không cho người dưới 18 tuổi
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Khi mua thuốc hạ sốt, nhìn một lượt tên chung và bảng thành phần.
+- Hiểu nhanh: Hạ sốt cho trẻ, cả ba loại thuốc này đừng dùng. Aspirin liên quan đến hội chứng Reye, bệnh này hại não hại gan, theo thống kê Mỹ khoảng 30% trẻ mắc tử vong; sau khi phát cảnh báo, số ca giảm hơn 90%. Nimesulid cấm dùng cho trẻ dưới 12 tuổi, metamizol cấm dùng cho người dưới 18 tuổi.
+- Lợi ích: Hội chứng Reye gây bệnh não và gan nhiễm mỡ, thường xuất hiện sau cúm hoặc thủy đậu. Trong giám sát toàn quốc của Mỹ từ 1981 đến 1997, đã báo cáo 1.207 ca ở người dưới 18 tuổi. 82% số trẻ bệnh có salicylat trong máu — đây là thành phần của nhóm thuốc aspirin. Tỷ lệ tử vong chung 31%. Từ năm 1980 bắt đầu phát cảnh báo về nhóm thuốc salicylat. Năm đó báo cáo 555 ca, là đỉnh cao; từ 1987 trở đi mỗi năm không quá 36 ca. Năm 2011, Cục Quản lý Thực phẩm và Dược phẩm Quốc gia quy định các chế phẩm nimesulid đường uống cấm dùng cho trẻ dưới 12 tuổi. Năm 2020, Cục Quản lý Dược phẩm Quốc gia quy định viên metamizol cấm dùng cho thanh thiếu niên và trẻ em dưới 18 tuổi. Các thuốc có chứa metamizol như viên Qinghao Annaijin phối hợp, viên Chongganling và viên nang Chongganling cũng bị cấm dùng ở người dưới 18 tuổi.
+- Mức bằng chứng: B
+- Nguồn: Belay ED, Bresee JS, Holman RC, Khan AS, Shahriari A, Schonberger LB (1999). Reye's syndrome in the United States from 1981 through 1997. New England Journal of Medicine, 340(18):1377-1382. <https://doi.org/10.1056/NEJM199905063401801>; Thông báo về việc tăng cường quản lý sử dụng các chế phẩm nimesulid đường uống (văn bản số 209 năm 2011). <https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/20110515145101552.html>; Thông báo của Cục Quản lý Dược phẩm Quốc gia về việc sửa đổi hướng dẫn sử dụng các dạng thuốc liên quan đến metamizol (Thông báo số 34 năm 2020) kèm Phụ lục 1 đến 3. <https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypshmshxdgg/20200317171201660.html>
+- Ghi chú: Metamizol cũng không phải lựa chọn đầu tiên cho người trưởng thành. Hướng dẫn sử dụng ghi rõ nó có thể gây thiếu hạch bạch cầu hạt, thiếu máu bất sản và sốc phản vệ, chỉ dùng ngắn hạn khi bệnh cấp tính nặng mà không có thuốc hiệu quả nào khác. Chongganling nghe tên thì như thuốc cảm thông thường, nhưng bên trong lại có metamizol. Trẻ nên dùng thuốc hạ sốt nào, uống bao nhiêu theo cân nặng, hãy hỏi bác sĩ nhi khoa hoặc dược sĩ. Trẻ dưới 3 tháng tuổi bị sốt thì đi thẳng bệnh viện, xem chương 20 mục 8 (sốt 38 ℃ thì đi thẳng bệnh viện). Định mức B vì số liệu hội chứng Reye đến từ báo cáo giám sát, việc giảm ca bệnh và việc phát cảnh báo chỉ là quan hệ trước sau, không phải thử nghiệm đối chứng. Định lợi ích “lớn” vì sau cảnh báo, số ca từ 555 ca mỗi năm giảm xuống dưới 36 ca.
 
-### 3. 60 岁以上、胃出过血、在吃抗凝药或激素的人，吃布洛芬这类止痛药之前先问医生
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：不花钱。问一次医生或药师。
-- 说人话：布洛芬、萘普生、阿司匹林这类止痛药会伤胃。在大剂量的试验里，吃布洛芬的人胃出血、穿孔的风险是不吃的约 4 倍。年纪大、胃出过血、同时吃抗凝药或激素、每天喝酒的人，风险更高。
-- 收益：这类药叫非甾体抗炎药，常见的有布洛芬、萘普生、双氯芬酸。一项荟萃分析汇总了 280 项这类药对安慰剂的随机试验，共 124513 人。和安慰剂比，上消化道穿孔、梗阻或出血的风险：布洛芬 RR 3.97（95% CI 2.22–7.10，约 4 倍），萘普生 4.22（2.71–6.56），双氯芬酸 1.89（1.16–3.09）。所有这类药都让心力衰竭的风险大约翻倍。美国法规要求这类非处方药写明胃出血警示。警示列出风险更高的六种人：60 岁以上，有过胃溃疡或出血，在吃抗凝药或激素，同时吃别的这类药，用药期间每天喝 3 杯以上的酒，吃得比说明书多或久。
-- 证据等级：A
-- 来源：Coxib and traditional NSAID Trialists' (CNT) Collaboration; Bhala N, Emberson J, Merhi A, et al. (2013). Vascular and upper gastrointestinal effects of non-steroidal anti-inflammatory drugs: meta-analyses of individual participant data from randomised trials. Lancet, 382(9894):769-779. <https://doi.org/10.1016/S0140-6736(13)60900-9>；21 CFR 201.326(a)(2)(iii)(A) Stomach bleeding warning. <https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.326>
-- 备注：论文结论讲的是大剂量用法。偶尔吃一两天、按说明书剂量吃的风险，这篇没有单独给数字。很多复方感冒药里也有这类成分，和止痛药一起吃就重复了，先看成分表。医生让你长期吃小剂量阿司匹林防血栓的，别自己停，也别自己再加一种止痛药。
+### 3. Người trên 60 tuổi, từng xuất huyết dạ dày, đang dùng thuốc chống đông hoặc steroid, hãy hỏi bác sĩ trước khi uống ibuprofen và các thuốc giảm đau cùng nhóm
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Hỏi bác sĩ hoặc dược sĩ một lần.
+- Hiểu nhanh: Ibuprofen, naproxen, aspirin và các thuốc giảm đau cùng nhóm đều hại dạ dày. Trong các thử nghiệm liều cao, nguy cơ xuất huyết và thủng dạ dày của người uống ibuprofen cao gấp khoảng 4 lần so với người không uống. Người già, từng xuất huyết dạ dày, đang đồng thời dùng thuốc chống đông hoặc steroid, uống rượu mỗi ngày thì nguy cơ còn cao hơn.
+- Lợi ích: Nhóm thuốc này gọi là thuốc chống viêm không steroid (NSAID), thường gặp có ibuprofen, naproxen, diclofenac. Một phân tích gộp tổng hợp 280 thử nghiệm ngẫu nhiên so các thuốc này với giả dược, tổng cộng 124.513 người. So với giả dược, nguy cơ thủng, tắc nghẽn hoặc xuất huyết đường tiêu hóa trên: ibuprofen RR 3.97 (95% CI 2.22–7.10, khoảng 4 lần), naproxen 4.22 (2.71–6.56), diclofenac 1.89 (1.16–3.09). Tất cả các thuốc nhóm này đều làm nguy cơ suy tim tăng khoảng gấp đôi. Luật Mỹ yêu cầu thuốc không kê đơn nhóm này ghi cảnh báo xuất huyết dạ dày. Cảnh báo liệt kê sáu nhóm người có nguy cơ cao hơn: trên 60 tuổi; từng bị loét dạ dày hoặc xuất huyết; đang dùng thuốc chống đông hoặc steroid; đang dùng đồng thời thuốc khác cùng nhóm; uống từ 3 cốc rượu trở lên mỗi ngày trong thời gian dùng thuốc; dùng nhiều hơn hoặc lâu hơn hướng dẫn sử dụng.
+- Mức bằng chứng: A
+- Nguồn: Coxib and traditional NSAID Trialists' (CNT) Collaboration; Bhala N, Emberson J, Merhi A, et al. (2013). Vascular and upper gastrointestinal effects of non-steroidal anti-inflammatory drugs: meta-analyses of individual participant data from randomised trials. Lancet, 382(9894):769-779. <https://doi.org/10.1016/S0140-6736(13)60900-9>; 21 CFR 201.326(a)(2)(iii)(A) Stomach bleeding warning. <https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.326>
+- Ghi chú: Kết luận của bài nghiên cứu nói về cách dùng liều cao. Nguy cơ khi thỉnh thoảng uống một hai ngày, đúng liều theo hướng dẫn sử dụng, bài này không cho con số riêng. Nhiều thuốc cảm phối hợp cũng có thành phần nhóm này, uống chung với thuốc giảm đau là bị lặp, hãy xem bảng thành phần trước. Ai được bác sĩ bảo dùng aspirin liều thấp dài hạn để phòng huyết khối thì đừng tự ngưng, cũng đừng tự thêm một thuốc giảm đau nữa.
 
-### 4. 2 岁以下的孩子感冒，别自己喂复方感冒药和止咳药
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
-- 成本：不花钱，还能省下买药的钱。
-- 说人话：国家药监局要求 14 种儿童复方感冒药加上警示：不建议家长自己给 2 岁以下孩子用，要在医生或药师指导下用。在孩子身上做的试验里，止咳药、抗过敏药效果都不比安慰剂好。
-- 收益：国家药监局 2021 年第 57 号公告修订了 14 个品种的说明书，包括氨酚麻美口服溶液、小儿氨酚黄那敏颗粒、小儿氨酚烷胺颗粒等。新增警示语是「不建议家长或监护人自行给2岁以下婴幼儿使用本品，应在医师或药师的指导下使用」。注意事项加了「应严格按照药品说明书用法用量使用，避免用药过量」。还加了「应避免合并使用含有相同或相似活性成份的抗感冒药」。一篇 Cochrane 系统综述纳入 29 项随机对照试验，其中 10 项在儿童身上做。儿童试验里，这几类药都不比安慰剂好：止咳药，抗组胺药（抗过敏成分），抗组胺药加减充血剂（通鼻子的成分），止咳药加支气管扩张剂。21 项研究报告了不良反应，含抗组胺药和右美沙芬的制剂不良反应更多。
-- 证据等级：B
-- 来源：国家药监局关于修订氨酚麻美口服溶液等14个品种药品说明书的公告（2021年第57号）及附件. <https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypshmshxdgg/20210423105404141.html>；Smith SM, Schroeder K, Fahey T (2014). Over-the-counter (OTC) medications for acute cough in children and adults in community settings. Cochrane Database of Systematic Reviews, (11):CD001831. <https://doi.org/10.1002/14651858.CD001831.pub5>
-- 备注：这 14 种里很多名字带「氨酚」，也含对乙酰氨基酚，再和退烧药一起吃就重复了，见本节第 1 条（对乙酰氨基酚）。那篇综述里有一项试验发现蜂蜜比安慰剂好，但不满 1 岁不能喂蜂蜜，见第 20 节第 6 条（蜂蜜）。定 B 是因为综述里每类药的试验都少，作者没有合并出数字。收益定「中」是判断：这类药对小孩没有证实的好处，风险主要是过量和成分重复。
+### 4. Trẻ dưới 2 tuổi bị cảm, đừng tự cho uống thuốc cảm phối hợp và thuốc chống ho
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền, còn tiết kiệm được tiền mua thuốc.
+- Hiểu nhanh: Cục Quản lý Dược phẩm Quốc gia yêu cầu 14 loại thuốc cảm phối hợp cho trẻ em bổ sung cảnh báo: không khuyến khích phụ huynh tự dùng cho trẻ dưới 2 tuổi, phải dùng dưới hướng dẫn của bác sĩ hoặc dược sĩ. Trong các thử nghiệm trên trẻ em, thuốc chống ho và thuốc chống dị ứng đều không hiệu quả hơn giả dược.
+- Lợi ích: Thông báo số 57 năm 2021 của Cục Quản lý Dược phẩm Quốc gia sửa đổi hướng dẫn sử dụng của 14 dạng thuốc, trong đó có dung dịch uống Anfen Mamei, bột pha Xiaoer Anfen Huangnamin, bột pha Xiaoer Anfen Wan'an. Câu cảnh báo bổ sung là “Không khuyến khích cha mẹ hoặc người giám hộ tự dùng sản phẩm này cho trẻ dưới 2 tuổi, nên dùng dưới sự hướng dẫn của bác sĩ hoặc dược sĩ”. Phần thận trọng bổ sung “Cần sử dụng nghiêm ngặt theo cách dùng và liều lượng trong hướng dẫn sử dụng thuốc, tránh dùng quá liều”. Còn thêm “Cần tránh dùng đồng thời với các thuốc trị cảm chứa hoạt chất giống hoặc tương tự”. Một tổng quan hệ thống Cochrane đưa vào 29 thử nghiệm đối chứng ngẫu nhiên, trong đó 10 thử nghiệm làm trên trẻ em. Trong các thử nghiệm ở trẻ em, các nhóm thuốc sau đều không tốt hơn giả dược: thuốc chống ho; thuốc kháng histamine (thành phần chống dị ứng); thuốc kháng histamine kết hợp thuốc co mạch giảm sung huyết (thành phần thông mũi); thuốc chống ho kết hợp thuốc giãn phế quản. 21 nghiên cứu báo cáo tác dụng phụ; các chế phẩm chứa kháng histamine và dextromethorphan có nhiều tác dụng phụ hơn.
+- Mức bằng chứng: B
+- Nguồn: Thông báo của Cục Quản lý Dược phẩm Quốc gia về việc sửa đổi hướng dẫn sử dụng của 14 dạng thuốc như dung dịch uống Anfen Mamei (Thông báo số 57 năm 2021) kèm phụ lục. <https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/ggtg/ypggtg/ypshmshxdgg/20210423105404141.html>; Smith SM, Schroeder K, Fahey T (2014). Over-the-counter (OTC) medications for acute cough in children and adults in community settings. Cochrane Database of Systematic Reviews, (11):CD001831. <https://doi.org/10.1002/14651858.CD001831.pub5>
+- Ghi chú: Trong 14 loại này nhiều tên có cụm “an phen”, cũng chứa acetaminophen, uống chung với thuốc hạ sốt nữa là bị lặp, xem mục 1 trong chương này (acetaminophen). Trong tổng quan đó có một thử nghiệm thấy mật ong tốt hơn giả dược, nhưng trẻ dưới 1 tuổi không được cho ăn mật ong, xem chương 20 mục 6 (mật ong). Định mức B vì trong tổng quan, mỗi nhóm thuốc đều có ít thử nghiệm, tác giả không gộp được con số. Định lợi ích “trung bình” là phán đoán: nhóm thuốc này chưa có lợi ích được chứng minh ở trẻ nhỏ, rủi ro chủ yếu là quá liều và trùng thành phần.
 
-### 5. 怀孕 20 周以后，别自己吃布洛芬这类止痛药
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
-- 成本：不花钱。
-- 说人话：怀孕 20 周以后，羊水大部分是胎儿的肾做出来的。这时吃布洛芬这类药，可能伤到胎儿的肾、让羊水变少。美国收到的这类报告里，有新生儿死亡的病例。医生开的小剂量阿司匹林不在此列。
-- 收益：美国食品药品监督管理局（FDA）2020 年 10 月发布安全警示。怀孕约 20 周以后使用非甾体抗炎药，可能引起胎儿肾脏问题，导致羊水过少。警示同时管处方药和非处方药，包括阿司匹林、布洛芬、萘普生、双氯芬酸、塞来昔布。FDA 查了截至 2017 年 7 月的不良事件报告，找到 35 例羊水过少或新生儿肾功能不全，全是严重结局。其中 5 例新生儿死亡，都伴有新生儿肾衰竭。文献里，多数羊水过少在停药后 72 小时到 6 天内恢复。FDA 建议孕妇 20 周以后不要用这类药，除非医生明确这么建议。81 毫克的小剂量阿司匹林由医生开来治孕期特定问题的，不受这条限制。需要止痛退烧时，FDA 提到可以用对乙酰氨基酚等其他药，先问药师或医生。
-- 证据等级：B
-- 来源：U.S. Food and Drug Administration (2020-10-15). FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid. Drug Safety Communication. <https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic>
-- 备注：FDA 提醒，很多治感冒、流感、失眠的非处方药里也含这类成分，要看成分表。美国非处方药标签原来只警告怀孕最后 3 个月，这次把界线提前到了 20 周左右。小剂量阿司匹林防子痫前期，见第 27 节第 5 条（小剂量阿司匹林）。定 B 是因为数字来自不良事件报告，有多少人吃了药却没出事不知道。收益定「中」是判断：结局严重，但发生得少。
+### 5. Từ tuần thai thứ 20 trở đi, đừng tự uống ibuprofen và các thuốc giảm đau cùng nhóm
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền.
+- Hiểu nhanh: Sau tuần thai thứ 20, phần lớn nước ối do thận thai nhi tạo ra. Uống ibuprofen và các thuốc cùng nhóm lúc này có thể hại thận thai nhi, làm nước ối giảm. Trong các báo cáo loại này mà Mỹ tiếp nhận, có cả ca trẻ sơ sinh tử vong. Aspirin liều thấp do bác sĩ kê không nằm trong diện này.
+- Lợi ích: Tháng 10 năm 2020, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) phát cảnh báo an toàn. Dùng NSAID sau khoảng tuần thai thứ 20 có thể gây vấn đề thận ở thai nhi, dẫn đến thiếu nước ối. Cảnh báo áp dụng cho cả thuốc kê đơn và thuốc không kê đơn, bao gồm aspirin, ibuprofen, naproxen, diclofenac, celecoxib. FDA rà soát các báo cáo sự kiện bất lợi đến tháng 7 năm 2017, tìm thấy 35 ca thiếu nước ối hoặc suy giảm chức năng thận ở trẻ sơ sinh, tất cả đều có kết cục nặng. Trong đó 5 ca trẻ sơ sinh tử vong, đều kèm suy thận sơ sinh. Trong y văn, phần lớn trường hợp thiếu nước ối hồi phục trong vòng 72 giờ đến 6 ngày sau khi ngưng thuốc. FDA khuyên phụ nữ mang thai từ tuần 20 trở đi không dùng nhóm thuốc này, trừ khi bác sĩ rõ ràng khuyên dùng như vậy. Aspirin liều thấp 81 miligam do bác sĩ kê để điều trị các vấn đề đặc thù của thai kỳ không bị giới hạn này ràng buộc. Khi cần giảm đau hạ sốt, FDA nhắc có thể dùng acetaminophen và các thuốc khác, nhưng hãy hỏi dược sĩ hoặc bác sĩ trước.
+- Mức bằng chứng: B
+- Nguồn: U.S. Food and Drug Administration (2020-10-15). FDA recommends avoiding use of NSAIDs in pregnancy at 20 weeks or later because they can result in low amniotic fluid. Drug Safety Communication. <https://www.fda.gov/drugs/drug-safety-and-availability/fda-recommends-avoiding-use-nsaids-pregnancy-20-weeks-or-later-because-they-can-result-low-amniotic>
+- Ghi chú: FDA nhắc rằng nhiều thuốc không kê đơn trị cảm, cúm, mất ngủ cũng chứa thành phần nhóm này, phải xem bảng thành phần. Nhãn thuốc không kê đơn ở Mỹ trước đây chỉ cảnh báo 3 tháng cuối thai kỳ, lần này đưa mốc giới hạn lên khoảng tuần 20. Aspirin liều thấp phòng tiền sản giật, xem chương 27 mục 5 (aspirin liều thấp). Định mức B vì con số đến từ báo cáo sự kiện bất lợi, không biết có bao nhiêu người uống thuốc mà không gặp chuyện. Định lợi ích “trung bình” là phán đoán: kết cục nặng, nhưng xảy ra ít.
 
-### 6. 反酸烧心自己买奥美拉唑，最多吃 7 天；吞咽困难、呕血、黑便就直接去医院
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
-- 成本：不花钱。按说明书的天数吃。
-- 说人话：奥美拉唑肠溶片从 2022 年起不用处方就能买，但说明书写明自己吃不超过 7 天，两个月内别再吃。吞咽困难或疼痛、呕血、便血或黑便时不要自己吃，这些可能是严重情况的信号。这药还可能盖住胃癌的症状，耽误诊断。
-- 收益：国家药监局 2022 年第 68 号公告把奥美拉唑肠溶片从处方药转成非处方药，同时发布说明书范本。范本写的适应症是「胃酸过多引起的烧心和反酸症状的短期缓解」。注意事项写明：使用不得超过 7 天，症状没缓解要咨询医师或药师。两个月以内不得再次服用，症状反复要立即就医。吞咽困难或疼痛、呕血、便血或黑便时请勿使用，这些可能是严重情况的征兆。出现明显消瘦、反复呕吐、吞咽困难、呕血或黑便这类报警症状时，要先排除恶性肿瘤，因为治疗可能掩盖症状、延误诊断。55 岁以上出现新的症状或症状有变化，要咨询医生。在吃氯吡格雷的人要避免同时吃奥美拉唑。
-- 证据等级：B
-- 来源：国家药监局关于奥美拉唑肠溶片处方药转换为非处方药的公告（2022年第68号）及附件2《非处方药说明书范本》. <https://www.nmpa.gov.cn/yaopin/ypggtg/20220826171517123.html>
-- 备注：氯吡格雷是放过支架、得过心梗的人常吃的防血栓药。奥美拉唑会让它变弱，在吃的人先问医生。定 B 是因为这些是说明书的规定，没有研究算过照着做能少出多少事。收益定「中」是判断：它防的是把胃出血、胃癌拖晚了，但多数反酸烧心并不严重。
+### 6. Trào ngược, ợ nóng tự mua omeprazole thì uống tối đa 7 ngày; khó nuốt, nôn ra máu, đi ngoài phân đen thì đi thẳng bệnh viện
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Uống theo số ngày ghi trong hướng dẫn sử dụng.
+- Hiểu nhanh: Từ năm 2022, viên omeprazole bao tan không cần toa cũng mua được, nhưng hướng dẫn sử dụng ghi rõ tự uống không quá 7 ngày, hai tháng không uống lại. Khi khó nuốt hoặc đau khi nuốt, nôn ra máu, đi ngoài ra máu hoặc phân đen thì đừng tự uống, đó có thể là tín hiệu của tình trạng nghiêm trọng. Thuốc này còn có thể che lấp triệu chứng ung thư dạ dày, làm chậm chẩn đoán.
+- Lợi ích: Thông báo số 68 năm 2022 của Cục Quản lý Dược phẩm Quốc gia chuyển viên omeprazole bao tan từ thuốc kê đơn sang thuốc không kê đơn, đồng thời ban hành mẫu hướng dẫn sử dụng. Mẫu ghi chỉ định là “giảm ngắn hạn các triệu chứng ợ nóng và trào ngược do thừa axit dạ dày”. Phần thận trọng ghi rõ: dùng không quá 7 ngày, triệu chứng không giảm phải hỏi ý kiến bác sĩ hoặc dược sĩ. Trong vòng hai tháng không được dùng lại, triệu chứng tái diễn phải đi khám ngay. Không dùng khi khó nuốt hoặc đau khi nuốt, nôn ra máu, đi ngoài ra máu hoặc phân đen, đây có thể là dấu hiệu của tình trạng nghiêm trọng. Khi xuất hiện các triệu chứng báo động như sụt cân rõ rệt, nôn nhiều lần, khó nuốt, nôn ra máu hoặc phân đen, phải loại trừ u ác tính trước, vì điều trị có thể che lấp triệu chứng, làm chậm chẩn đoán. Từ 55 tuổi trở lên mà xuất hiện triệu chứng mới hoặc triệu chứng thay đổi, cần hỏi ý kiến bác sĩ. Người đang dùng clopidogrel cần tránh uống omeprazole cùng lúc.
+- Mức bằng chứng: B
+- Nguồn: Thông báo của Cục Quản lý Dược phẩm Quốc gia về việc chuyển viên omeprazole bao tan từ thuốc kê đơn sang thuốc không kê đơn (Thông báo số 68 năm 2022) kèm Phụ lục 2 “Mẫu hướng dẫn sử dụng thuốc không kê đơn”. <https://www.nmpa.gov.cn/yaopin/ypggtg/20220826171517123.html>
+- Ghi chú: Clopidogrel là thuốc phòng huyết khối mà người đã đặt stent, từng bị nhồi máu cơ tim thường dùng. Omeprazole làm thuốc này yếu đi, ai đang dùng thì hỏi bác sĩ trước. Định mức B vì đây là quy định trong hướng dẫn sử dụng, chưa có nghiên cứu nào tính xem làm theo giúp tránh được bao nhiêu chuyện. Định lợi ích “trung bình” là phán đoán: nó phòng việc để chậm xuất huyết dạ dày, ung thư dạ dày, nhưng phần lớn trào ngược ợ nóng không nghiêm trọng.
 
-### 7. 普通感冒别找医生要抗生素
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
-- 成本：不花钱，还能省下药钱。
-- 说人话：感冒吃抗生素，好得不比不吃快。成年人吃了，副作用的风险是不吃的两倍多。流脓鼻涕不到 10 天的，吃抗生素也没有确定的好处。
-- 收益：一篇 Cochrane 系统综述汇总了 6 项随机试验、1147 人。感冒吃抗生素和吃安慰剂比，没好或症状持续的比例没有明显差别（RR 0.83，95% CI 0.60–1.14，差别不显著）。不良反应的风险是安慰剂组的 1.8 倍（95% CI 1.01–3.21）。其中成人 2.62 倍（1.32–5.18），儿童没有增加（0.91，0.51–1.63）。流脓鼻涕不到 10 天的急性脓性鼻炎，吃抗生素也没有明确好处（RR 0.73，0.47–1.13）。不良反应却多了（RR 1.46，1.10–1.94，高约 46%）。作者结论是：这两种情况都不推荐常规用抗生素。
-- 证据等级：A
-- 来源：Kenealy T, Arroll B (2025). Antibiotics for the common cold and acute purulent rhinitis. Cochrane Database of Systematic Reviews, 11:CD000247. <https://doi.org/10.1002/14651858.CD000247.pub4>
-- 备注：这一版是 2025 年重新发布的，摘要写明文献检索截至 2013 年。抗生素在国内是处方药，药店要凭处方卖，家里剩的抗生素也别自己拿来吃。收益定「中」是判断：它防的是不良反应，不是死亡。
+### 7. Cảm thông thường đừng xin bác sĩ kê kháng sinh
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền, còn tiết kiệm được tiền thuốc.
+- Hiểu nhanh: Bị cảm mà uống kháng sinh, khỏi không nhanh hơn không uống. Ở người lớn, nguy cơ tác dụng phụ gấp hơn hai lần so với không uống. Chảy mũi mủ chưa đến 10 ngày thì uống kháng sinh cũng chưa chắc có lợi ích rõ ràng.
+- Lợi ích: Một tổng quan hệ thống Cochrane tổng hợp 6 thử nghiệm ngẫu nhiên với 1.147 người. Uống kháng sinh so với giả dược khi bị cảm: tỷ lệ không khỏi hoặc triệu chứng kéo dài không khác biệt rõ rệt (RR 0.83, 95% CI 0.60–1.14, khác biệt không đáng kể). Nguy cơ tác dụng phụ gấp 1.8 lần nhóm giả dược (95% CI 1.01–3.21). Trong đó người lớn gấp 2.62 lần (1.32–5.18), trẻ em không tăng (0.91, 0.51–1.63). Viêm mũi mủ cấp, chảy mũi mủ chưa đến 10 ngày, uống kháng sinh cũng không có lợi ích rõ ràng (RR 0.73, 0.47–1.13). Tác dụng phụ thì lại nhiều hơn (RR 1.46, 1.10–1.94, cao khoảng 46%). Kết luận của tác giả: cả hai tình huống này đều không khuyến khích dùng kháng sinh thường quy.
+- Mức bằng chứng: A
+- Nguồn: Kenealy T, Arroll B (2025). Antibiotics for the common cold and acute purulent rhinitis. Cochrane Database of Systematic Reviews, 11:CD000247. <https://doi.org/10.1002/14651858.CD000247.pub4>
+- Ghi chú: Phiên bản này được phát hành lại năm 2025, phần tóm tắt ghi rõ việc tra cứu tài liệu đến năm 2013. Kháng sinh ở Trung Quốc là thuốc kê đơn, hiệu thuốc phải bán theo toa; kháng sinh còn dư trong nhà cũng đừng tự đem ra uống. Định lợi ích “trung bình” là phán đoán: nó phòng tác dụng phụ, không phải phòng tử vong.
 
-### 8. 拉肚子先喝口服补液盐补水，5 岁以下的孩子不给止泻药
-<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=中 口径=死亡率 -->
-- 成本：一盒口服补液盐几块到十几块钱，家里备一盒。
-- 说人话：拉肚子最要紧的是补水，不是止泻。按说明书兑水喝口服补液盐，别拿果汁饮料代替，太甜反而让人更缺水。5 岁以下的孩子不给洛哌丁胺这类止泻药，严重的会肠梗阻，可能致命。
-- 收益：世界卫生组织的腹泻治疗手册写明，「止泻」药和止吐药对儿童急性或迁延性腹泻没有实际益处。它们不能预防脱水，也不能改善营养。有些有危险的、有时致命的副作用，绝不能给 5 岁以下儿童用。洛哌丁胺这类减慢肠蠕动的药，可能引起严重的麻痹性肠梗阻，可以致命，还可能拖长感染。手册还写明，糖太多的饮料会把身体里的水吸进肠子，造成高钠性脱水，比如软饮料和市售果汁饮料。世卫手册推荐的是低渗配方，总渗透压 245 mOsm/L。和旧配方比，它让计划外的静脉输液少了 33%。一篇 Cochrane 综述汇总 8 项试验，结果相近（OR 0.59，95% CI 0.45–0.79，少约四成）。
-- 证据等级：A
-- 来源：World Health Organization (2005). The treatment of diarrhoea: a manual for physicians and other senior health workers, 4th revision. <https://iris.who.int/handle/10665/43209>；Hahn S, Kim S, Garner P (2002). Reduced osmolarity oral rehydration solution for treating dehydration caused by acute diarrhoea in children. Cochrane Database of Systematic Reviews, (1):CD002847. <https://doi.org/10.1002/14651858.CD002847>
-- 备注：买的时候看说明书上的渗透压，选低渗配方。手册写明，孩子大便带血多半是细菌性痢疾，要去看医生用抗生素，不能只在家补水。收益定「中」是判断：手里的数字比的是两种补液盐，不是喝和不喝。
+### 8. Bị tiêu chảy thì uống oresol bù nước trước; trẻ dưới 5 tuổi không cho thuốc cầm tiêu chảy
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
+- Chi phí: Một hộp oresol vài yên đến hơn chục yên, nên sẵn một hộp trong nhà.
+- Hiểu nhanh: Bị tiêu chảy, việc cấp thiết nhất là bù nước, không phải cầm tiêu chảy. Pha oresol với nước theo hướng dẫn sử dụng mà uống, đừng thay bằng nước trái cây hay nước ngọt, quá ngọt ngược lại làm người ta càng mất nước. Trẻ dưới 5 tuổi không cho loperamide và các thuốc cầm tiêu chảy cùng loại, nặng thì gây tắc ruột, có thể tử vong.
+- Lợi ích: Cẩm nang điều trị tiêu chảy của Tổ chức Y tế Thế giới ghi rõ: thuốc “cầm tiêu chảy” và thuốc chống nôn không có lợi ích thực tế với tiêu chảy cấp hoặc kéo dài ở trẻ em. Chúng không phòng được mất nước, cũng không cải thiện dinh dưỡng. Một số loại có tác dụng phụ nguy hiểm, đôi khi gây chết người, tuyệt đối không dùng cho trẻ dưới 5 tuổi. Nhóm thuốc làm chậm nhu động ruột như loperamide có thể gây liệt tắc ruột nghiêm trọng, có thể gây chết người, còn có thể kéo dài nhiễm trùng. Cẩm nang cũng ghi rõ: đồ uống quá ngọt sẽ hút nước trong cơ thể vào ruột, gây mất nước tăng natri, ví dụ nước ngọt và nước trái cây đóng chai bán sẵn. Cẩm nang của WHO khuyến nghị công thức nhược trương, áp suất thẩm thấu toàn phần 245 mOsm/L. So với công thức cũ, nó giúp giảm 33% số lần truyền tĩnh mạch ngoài kế hoạch. Một tổng quan Cochrane tổng hợp 8 thử nghiệm, kết quả tương tự (OR 0.59, 95% CI 0.45–0.79, giảm khoảng 40%).
+- Mức bằng chứng: A
+- Nguồn: World Health Organization (2005). The treatment of diarrhoea: a manual for physicians and other senior health workers, 4th revision. <https://iris.who.int/handle/10665/43209>; Hahn S, Kim S, Garner P (2002). Reduced osmolarity oral rehydration solution for treating dehydration caused by acute diarrhoea in children. Cochrane Database of Systematic Reviews, (1):CD002847. <https://doi.org/10.1002/14651858.CD002847>
+- Ghi chú: Khi mua, xem áp suất thẩm thấu ghi trên hướng dẫn sử dụng, chọn công thức nhược trương. Cẩm nang ghi rõ: trẻ đi ngoài ra máu nhiều khả năng là kiết lỵ do vi khuẩn, phải đi khám để dùng kháng sinh, không thể chỉ bù nước ở nhà. Định lợi ích “trung bình” là phán đoán: con số trong tay so hai loại dung dịch bù nước với nhau, không phải so uống với không uống.
 
-### 9. 止痛药一个月别吃超过 15 天，复方止痛药别超过 10 天，不然头痛可能就是药吃出来的
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=死亡率 -->
-- 成本：不花钱。要记吃药的天数，还要忍住不随手吃。
-- 说人话：头痛老犯、就天天吃止痛药，可能越吃越痛。国际头痛分类把这叫药物过度使用性头痛。普通止痛药一个月吃 15 天以上，复方止痛药 10 天以上，连着超过 3 个月，就够得上。多数人停掉吃多的药以后会好转。
-- 收益：国际头痛学会的《国际头痛疾病分类》第 3 版给了诊断标准。原本有头痛病的人，每月头痛 15 天以上，同时规律过量使用治头痛的药超过 3 个月。对乙酰氨基酚、阿司匹林、布洛芬这类非阿片止痛药，过量的门槛是每月 15 天及以上。复方止痛药的门槛是每月 10 天及以上。复方止痛药指两类以上有止痛作用的药合在一起，或者加了咖啡因这类辅助成分，比如对乙酰氨基酚加可待因。几种非阿片止痛药轮着吃，天数合起来算。分类说明写明，多个国家的流行病学证据显示，每月头痛 15 天以上的人里，超过一半属于这种头痛。多数病人停掉过量的药后会好转，预防头痛的治疗也更起作用。
-- 证据等级：B
-- 来源：Headache Classification Committee of the International Headache Society (2018). The International Classification of Headache Disorders, 3rd edition. Cephalalgia, 38(1):1-211. <https://doi.org/10.1177/0333102417738202>；ICHD-3 在线版 8.2 Medication-overuse headache（含 8.2.3、8.2.5）. <https://ichd-3.org/8-headache-attributed-to-a-substance-or-its-withdrawal/8-2-medication-overuse-headache-moh/>
-- 备注：药名里带「咖」字的止痛片，一般加了咖啡因，按复方算 10 天。一个月里头痛的天数越来越多，就去神经内科看，别只靠加药。定 B 是因为分类标准给的是诊断门槛，不是对照试验。收益定「中」是判断：它换回的是少头痛的日子，不涉及死亡。
+### 9. Thuốc giảm đau đừng uống quá 15 ngày mỗi tháng, thuốc giảm đau phối hợp đừng quá 10 ngày, nếu không đau đầu có thể chính là do thuốc mà ra
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Phải ghi nhớ số ngày uống thuốc, còn phải kìm được tay không cứ đau là uống.
+- Hiểu nhanh: Đau đầu hay tái phát mà ngày nào cũng uống thuốc giảm đau, có thể càng uống càng đau. Phân loại đau đầu quốc tế gọi đây là đau đầu do lạm dụng thuốc. Thuốc giảm đau thông thường uống trên 15 ngày mỗi tháng, thuốc giảm đau phối hợp trên 10 ngày, kéo dài quá 3 tháng là đủ mức này. Phần lớn người sẽ đỡ sau khi ngưng loại thuốc đang bị lạm dụng.
+- Lợi ích: “Phân loại Rối loạn đau đầu Quốc tế” lần thứ 3 của Hội Đau đầu Quốc tế đưa ra tiêu chuẩn chẩn đoán: người vốn có bệnh đau đầu, đau đầu trên 15 ngày mỗi tháng, đồng thời dùng quá mức một cách thường quy các thuốc trị đau đầu quá 3 tháng. Với các thuốc giảm đau không opioid như acetaminophen, aspirin, ibuprofen, ngưỡng lạm dụng là từ 15 ngày mỗi tháng trở lên. Với thuốc giảm đau phối hợp, ngưỡng là từ 10 ngày mỗi tháng trở lên. Thuốc giảm đau phối hợp là từ hai loại thuốc có tác dụng giảm đau trở lên gộp lại, hoặc thêm thành phần hỗ trợ như caffeine, ví dụ acetaminophen cộng codeine. Uống luân phiên mấy loại thuốc giảm đau không opioid thì cộng dồn số ngày lại tính. Phần giải thích của bản phân loại ghi rõ: bằng chứng dịch tễ học ở nhiều nước cho thấy trong số người đau đầu trên 15 ngày mỗi tháng, hơn một nửa thuộc dạng đau đầu này. Phần lớn người bệnh đỡ sau khi ngưng thuốc bị lạm dụng, và điều trị dự phòng đau đầu cũng hiệu quả hơn.
+- Mức bằng chứng: B
+- Nguồn: Headache Classification Committee of the International Headache Society (2018). The International Classification of Headache Disorders, 3rd edition. Cephalalgia, 38(1):1-211. <https://doi.org/10.1177/0333102417738202>; ICHD-3 bản trực tuyến 8.2 Medication-overuse headache (bao gồm 8.2.3, 8.2.5). <https://ichd-3.org/8-headache-attributed-to-a-substance-or-its-withdrawal/8-2-medication-overuse-headache-moh/>
+- Ghi chú: Viên giảm đau mà tên có chữ “ka” thường là đã thêm caffeine, tính theo thuốc phối hợp với ngưỡng 10 ngày. Nếu số ngày đau đầu trong tháng cứ nhiều dần lên, hãy đi khám chuyên khoa thần kinh, đừng chỉ trông chờ vào tăng thuốc. Định mức B vì tiêu chuẩn phân loại cho ra ngưỡng chẩn đoán, không phải thử nghiệm đối chứng. Định lợi ích “trung bình” là phán đoán: thứ đổi lại là những ngày ít đau đầu hơn, không dính đến tử vong.

@@ -1,71 +1,71 @@
-# 做平台要办哪些证：对照表与选服务器的决策表
+# Làm nền tảng cần những giấy tờ gì: bảng đối chiếu và bảng quyết định chọn máy chủ
 
-这篇长文对应 README 第 26 节。这里只放三张表和几段最容易搞错的说明。条目正文和来源都在 README 里。公司怎么注册、怎么报税，见第 12 节（创业与做生意）。受雇的技术人员别踩的那些线，见第 11 节（程序员和技术人）。
+Bài dài này tương ứng với chương 26 trong README. Ở đây chỉ đặt ba bảng và vài đoạn giải thích dễ nhầm nhất. Phần nội dung các mục và nguồn đều nằm trong README. Công ty đăng ký thế nào, nộp thuế ra sao, xem chương 12 (Khởi nghiệp và kinh doanh). Những ràng buộc mà người làm kỹ thuật đi thuê đừng dính vào, xem chương 11 (Ràng buộc cho lập trình viên và người làm kỹ thuật).
 
-## 一、先判断你做的是哪种业务
+## 1. Trước hết hãy xác định bạn đang làm loại hình kinh doanh nào
 
-一个站点常常同时沾上好几类业务。沾上几类，就得办几张证，不能只挑一张办。
+Một website thường cùng lúc dính vào mấy loại hình kinh doanh. Dính vào mấy loại thì phải xin bấy nhiêu giấy phép, không thể chỉ chọn một cái để xin.
 
-| 你在做的事 | 对应业务类别 | 要什么 | 主要依据 |
+| Việc bạn đang làm | Loại hình kinh doanh tương ứng | Cần gì | Căn cứ chính |
 |---|---|---|---|
-| 不收钱的信息站、个人博客、公司官网 | 非经营性互联网信息服务 | ICP 备案。它不是许可证，是开站前向主管部门报个到 | 互联网信息服务管理办法第四条 |
-| 向用户收钱的会员、增值服务、付费内容 | 经营性互联网信息服务 | 增值电信业务经营许可（信息服务业务）。管的是你向用户收钱这件事 | 同上第三、四、七条 |
-| 给买卖双方牵线、处理交易和订单 | 在线数据处理与交易处理业务 | 增值电信业务经营许可（B21）。管的是你替买卖双方处理交易 | 电信业务分类目录（2015 年版）B21 |
-| 有主播出镜的直播、游戏直播 | 网络表演 | 网络文化经营许可证，经营范围含网络表演。没有它，站上不能让主播出镜 | 网络表演经营活动管理办法第四条 |
-| 自己做视频节目，或者把别处的节目汇在一起，或者让用户往站上传视频 | 互联网视听节目服务 | 信息网络传播视听节目许可证。管的是站上播视频节目 | 互联网视听节目服务管理规定第七、八条 |
-| 在直播里带货卖东西 | 网络直播营销 | 该办的证照按上面几行办。另外还要核验商家、留存记录 | 网络直播营销管理办法（试行）第八条 |
-| 做新闻资讯 | 互联网新闻信息服务 | 互联网新闻信息服务许可证。没有它，站上不能发新闻 | 互联网直播服务管理规定第五条 |
-| 自建机房卖主机、卖带宽 | 互联网数据中心业务、互联网接入服务业务 | 增值电信业务经营许可（B11、B14）。管的是你把机房和带宽卖给别人 | 电信业务分类目录（2015 年版）B11、B14 |
+| Trang thông tin không thu tiền, blog cá nhân, website công ty | Dịch vụ thông tin internet phi kinh doanh | Đăng ký ICP. Đây không phải giấy phép, chỉ là khai báo với cơ quan chủ quản trước khi mở trang | Biện pháp quản lý dịch vụ thông tin internet, Điều 4 |
+| Hội viên, dịch vụ gia tăng, nội dung trả phí thu tiền của người dùng | Dịch vụ thông tin internet kinh doanh | Giấy phép kinh doanh nghiệp vụ viễn thông gia tăng (nghiệp vụ dịch vụ thông tin). Quản việc bạn thu tiền của người dùng | Cùng văn bản trên, Điều 3, 4 và 7 |
+| Kết nối hai bên mua bán, xử lý giao dịch và đơn hàng | Nghiệp vụ xử lý dữ liệu trực tuyến và xử lý giao dịch | Giấy phép kinh doanh nghiệp vụ viễn thông gia tăng (B21). Quản việc bạn thay hai bên mua bán xử lý giao dịch | Danh mục phân loại nghiệp vụ viễn thông (bản 2015), B21 |
+| Phát trực tiếp có streamer xuất hiện trên sóng, phát trực tiếp trò chơi | Biểu diễn trên mạng | Giấy phép kinh doanh văn hóa mạng, phạm vi kinh doanh có bao gồm biểu diễn mạng. Không có nó, trang không được để streamer xuất hiện | Biện pháp quản lý hoạt động kinh doanh biểu diễn trên mạng, Điều 4 |
+| Tự làm chương trình video, hoặc tập hợp chương trình của nơi khác lại, hoặc cho người dùng tải video lên trang | Dịch vụ chương trình nghe nhìn qua internet | Giấy phép truyền bá chương trình nghe nhìn qua mạng thông tin. Quản việc trang phát chương trình video | Quy định quản lý dịch vụ chương trình nghe nhìn qua internet, Điều 7 và 8 |
+| Bán hàng qua phiên phát trực tiếp | Marketing qua phát trực tiếp trên mạng | Giấy tờ cần xin cứ theo mấy dòng ở trên. Ngoài ra còn phải thẩm tra người bán, lưu giữ hồ sơ | Biện pháp quản lý marketing phát trực tiếp trên mạng (thử hành), Điều 8 |
+| Làm tin tức, thông tin thời sự | Dịch vụ thông tin thời sự qua internet | Giấy phép dịch vụ thông tin thời sự qua internet. Không có nó, trang không được đăng tin tức | Quy định quản lý dịch vụ phát trực tiếp qua internet, Điều 5 |
+| Tự xây trung tâm dữ liệu để bán máy chủ, bán băng thông | Nghiệp vụ trung tâm dữ liệu internet, nghiệp vụ dịch vụ truy nhập internet | Giấy phép kinh doanh nghiệp vụ viễn thông gia tăng (B11, B14). Quản việc bạn bán trung tâm dữ liệu và băng thông cho người khác | Danh mục phân loại nghiệp vụ viễn thông (bản 2015), B11 và B14 |
 
-哪种直播对应哪张证，七部门 2021 年那份指导意见说得最直白：「开展经营性网络表演活动的直播平台须持有《网络文化经营许可证》并进行ICP备案；开展网络视听节目服务的直播平台须持有《信息网络传播视听节目许可证》（或在全国网络视听平台信息登记管理系统中完成登记）并进行ICP备案；开展互联网新闻信息服务的直播平台须持有《互联网新闻信息服务许可证》。」
+Loại phát trực tiếp nào ứng với giấy phép nào, văn bản ý kiến chỉ đạo do 7 bộ ngành ban hành năm 2021 nói rõ nhất: “Nền tảng phát trực tiếp triển khai hoạt động biểu diễn trên mạng có tính kinh doanh phải có ‘Giấy phép kinh doanh văn hóa mạng’ và làm đăng ký ICP; nền tảng phát trực tiếp triển khai dịch vụ chương trình nghe nhìn trên mạng phải có ‘Giấy phép truyền bá chương trình nghe nhìn qua mạng thông tin’ (hoặc hoàn thành đăng ký trong Hệ thống quản lý đăng ký thông tin nền tảng nghe nhìn trực tuyến toàn quốc) và làm đăng ký ICP; nền tảng phát trực tiếp triển khai dịch vụ thông tin thời sự qua internet phải có ‘Giấy phép dịch vụ thông tin thời sự qua internet’.”
 
-直播分三种。有主播表演的，办《网络文化经营许可证》。做网络视听节目的，办《信息网络传播视听节目许可证》，或者在全国网络视听平台信息登记管理系统里完成登记。做新闻的，办《互联网新闻信息服务许可证》。前两种还都要做 ICP 备案。
+Phát trực tiếp chia ba loại. Có streamer biểu diễn thì xin “Giấy phép kinh doanh văn hóa mạng”. Làm chương trình nghe nhìn trên mạng thì xin “Giấy phép truyền bá chương trình nghe nhìn qua mạng thông tin”, hoặc hoàn thành đăng ký trong Hệ thống quản lý đăng ký thông tin nền tảng nghe nhìn trực tuyến toàn quốc. Làm tin tức thì xin “Giấy phép dịch vụ thông tin thời sự qua internet”. Hai loại đầu còn đều phải làm đăng ký ICP.
 
-### 三个容易搞错的点
+### Ba điểm dễ nhầm
 
-**个人身份办不了增值电信许可。** 申请条件第一项就写着「经营者为依法设立的公司」。你得先有一家公司，个人拿身份证去申请办不下来。只在本省经营的，公司注册资本不能低于 100 万元；跨省经营的，不能低于 1000 万元。材料交上去后，审查期限是 60 日，证的有效期 5 年。想做收费的业务，就得先把公司开起来。怎么开公司见第 12 节（创业与做生意）。
+**Danh tính cá nhân thì không xin được giấy phép viễn thông gia tăng.** Điều kiện xin, điều thứ nhất đã ghi rõ “người kinh doanh là công ty được thành lập hợp pháp”. Bạn phải có một công ty trước đã, cá nhân mang chứng minh thư đi xin là không xong. Chỉ kinh doanh trong phạm vi tỉnh mình thì vốn đăng ký công ty không được thấp hơn 1.000.000 yên; kinh doanh xuyên tỉnh thì không được thấp hơn 10.000.000 yên. Sau khi nộp hồ sơ, thời hạn thẩm định là 60 ngày, giấy phép có hiệu lực 5 năm. Muốn làm nghiệp vụ thu phí thì phải mở công ty trước đã. Cách mở công ty, xem chương 12 (Khởi nghiệp và kinh doanh).
 
-**视听节目那张证，民营公司基本拿不到。** 申请条件写的是「具备法人资格，为国有独资或国有控股单位」。意思是这张证只发给国家出资或者国家控股的单位。所以个人创业者做长视频、做自制节目，拿不到这张证。想做直播，要办的是网络文化经营许可证。
+**Giấy phép chương trình nghe nhìn thì công ty dân doanh căn bản không xin được.** Điều kiện xin được ghi là “có tư cách pháp nhân, là đơn vị quốc doanh toàn phần hoặc do nhà nước nắm cổ phần chi phối”. Nghĩa là giấy phép này chỉ cấp cho đơn vị do nhà nước cấp vốn hoặc do nhà nước kiểm soát. Vì vậy cá nhân khởi nghiệp làm video dài, làm chương trình tự sản xuất, không xin được giấy phép này. Muốn làm phát trực tiếp, thứ cần xin là giấy phép kinh doanh văn hóa mạng.
 
-**没有哪份官方文件明说「电商平台必须办 EDI」。** EDI 指的就是上表里 B21 那一类许可，正式名称叫在线数据处理与交易处理业务。工信部的办事指南只说一句「按照业务界定申请相应的电信业务经营许可」。工信部还单独答复过两回：网约车平台只需做网站备案，权益类和大宗商品交易平台也只需做网站备案。所以这里只照抄 B21 的定义原文，你这门生意该不该办，要你和当地的通信管理局来判断。动手办之前，先给属地通管局打一次电话问清楚。
+**Không có văn bản chính thức nào nói rõ “nền tảng thương mại điện tử bắt buộc phải xin EDI”.** EDI chính là loại giấy phép B21 trong bảng trên, tên chính thức là nghiệp vụ xử lý dữ liệu trực tuyến và xử lý giao dịch. Cẩm nang thủ tục của Bộ Công nghiệp và Công nghệ thông tin chỉ nói một câu “theo phạm vi nghiệp vụ mà xin giấy phép kinh doanh nghiệp vụ viễn thông tương ứng”. Bộ này còn có hai lần trả lời riêng: nền tảng xe gọi theo cuộc chỉ cần làm đăng ký website, các nền tảng giao dịch quyền lợi và hàng hóa đại cương cũng chỉ cần làm đăng ký website. Vì vậy ở đây chỉ chép nguyên văn định nghĩa của B21, còn môn kinh doanh của bạn có phải xin hay không, phải do bạn và Cục Quản lý Viễn thông địa phương phán đoán. Trước khi bắt tay vào làm, hãy gọi điện một lần cho Cục Quản lý Viễn thông quản lý địa bàn để hỏi cho rõ.
 
-## 二、平台自己的日常义务
+## 2. Nghĩa vụ hằng ngày của bản thân nền tảng
 
-拿到证，只是允许你开张。下面这些是开张以后天天要做的事。做不到会罚多少钱，写在第 26 节各条里。
+Có giấy phép, chỉ là được phép khai trương. Những thứ dưới đây là việc phải làm mỗi ngày sau khi khai trương. Làm không đạt bị phạt bao nhiêu tiền, được viết trong từng mục của chương 26.
 
-| 义务 | 硬指标 | 出处 |
+| Nghĩa vụ | Chỉ tiêu cứng | Nguồn trích |
 |---|---|---|
-| 核对并登记在你平台上开店的商家 | 至少每六个月重新核对更新一次 | 网络交易监督管理办法第二十四条 |
-| 把商家的身份信息报上去 | 每年 1 月和 7 月报给市场监管部门 | 同上第二十五条 |
-| 把跟税有关的信息报上去 | 每个季度结束后的下一个月内报给税务机关 | 互联网平台企业涉税信息报送规定第四条 |
-| 留存交易信息 | 从交易完成那天起不少于三年 | 电子商务法第三十一条 |
-| 留存直播内容和日志 | 六十日 | 互联网直播服务管理规定第十六条 |
-| 留存网络表演的视频 | 不少于六十日 | 网络表演经营活动管理办法第十三条 |
-| 留存网络日志 | 不少于六个月 | 网络安全法第二十三条第三项 |
-| 处理侵权通知 | 把商家的声明转给投诉方。转过去满十五日还没有下文，就恢复 | 电子商务法第四十三条 |
-| 设投诉举报入口 | 放在显眼的位置，点起来方便 | 网络信息内容生态治理规定第十六条 |
+| Đối chiếu và đăng ký những người bán mở cửa hàng trên nền tảng của bạn | Ít nhất cứ sáu tháng đối chiếu, cập nhật lại một lần | Biện pháp giám sát quản lý giao dịch trên mạng, Điều 24 |
+| Báo lên thông tin danh tính của người bán | Tháng 1 và tháng 7 hằng năm báo cho cơ quan giám sát quản lý thị trường | Cùng văn bản trên, Điều 25 |
+| Báo lên những thông tin liên quan đến thuế | Trong tháng ngay sau khi mỗi quý kết thúc, báo cho cơ quan thuế | Quy định về báo cáo thông tin liên quan đến thuế của doanh nghiệp nền tảng internet, Điều 4 |
+| Lưu giữ thông tin giao dịch | Kể từ ngày giao dịch hoàn thành, không ít hơn 3 năm | Luật Thương mại điện tử, Điều 31 |
+| Lưu giữ nội dung phát trực tiếp và nhật ký | 60 ngày | Quy định quản lý dịch vụ phát trực tiếp qua internet, Điều 16 |
+| Lưu giữ video biểu diễn trên mạng | Không ít hơn 60 ngày | Biện pháp quản lý hoạt động kinh doanh biểu diễn trên mạng, Điều 13 |
+| Lưu giữ nhật ký mạng | Không ít hơn 6 tháng | Luật An toàn mạng, Điều 23 khoản 3 |
+| Xử lý thông báo xâm phạm quyền | Chuyển bản tuyên bố của người bán cho bên khiếu nại. Chuyển đi đã đủ 15 ngày mà vẫn chưa có động tĩnh gì thì khôi phục | Luật Thương mại điện tử, Điều 43 |
+| Lập kênh tiếp nhận khiếu nại, tố giác | Đặt ở vị trí dễ thấy, bấm vào tiện lợi | Quy định quản trị hệ sinh thái nội dung thông tin trên mạng, Điều 16 |
 
-留存期限有四套，各算各的。交易信息存三年，直播内容存六十日，网络日志存六个月。平台上商家的身份信息，从他退出平台那天算起存三年。做存储方案时按最长的那条设计，别按最短的。
+Thời hạn lưu giữ có bốn bộ, mỗi bộ tính riêng. Thông tin giao dịch lưu 3 năm, nội dung phát trực tiếp lưu 60 ngày, nhật ký mạng lưu 6 tháng. Thông tin danh tính của người bán trên nền tảng, tính từ ngày họ rút khỏi nền tảng, lưu 3 năm. Khi làm phương án lưu trữ, hãy thiết kế theo khoản dài nhất, đừng theo ngắn nhất.
 
-## 三、选服务器：三档怎么挑
+## 3. Chọn máy chủ: ba mức chọn thế nào
 
-先回答下面几个问题，再去比价格。
+Trả lời mấy câu hỏi dưới đây trước, rồi hãy so giá.
 
-| 问题 | 如果答案是 | 那就 |
+| Câu hỏi | Nếu câu trả lời là | Thì |
 |---|---|---|
-| 站点停一天你受不受得了 | 受得了 | 最便宜的 VPS（虚拟服务器）就够用 |
-| 有没有用户注册、交易、上传 | 有 | 用主流云厂商的云主机。挑能随时备份整机、也能临时加配置的 |
-| 有没有专人管服务器 | 没有 | 别把整台机器托管在机房 |
-| 带宽或硬件是不是最大头的开销 | 是，而且有专人管 | 这时才考虑把整台机器托管在机房 |
+| Trang ngừng hoạt động một ngày bạn chịu nổi không | Chịu nổi | VPS (máy chủ ảo) rẻ nhất là đủ dùng |
+| Có đăng ký người dùng, giao dịch, tải lên không | Có | Dùng máy chủ đám mây của nhà cung cấp đám mây chính thống. Chọn loại có thể sao lưu cả máy bất cứ lúc nào, cũng có thể tạm thời nâng cấu hình |
+| Có người chuyên trách quản máy chủ không | Không | Đừng đem cả máy ký gửi tại trung tâm dữ liệu |
+| Băng thông hay phần cứng có là khoản chi lớn nhất không | Có, và lại có người chuyên trách quản | Lúc đó mới cân nhắc đem cả máy ký gửi tại trung tâm dữ liệu |
 
-**小服务商不是不能用，是用之前要先查证。** 把机器托管在机房、给别人提供上网接入，这两件事本身就要许可证。它们属于增值电信业务。查法是打开工信部的电信业务市场综合管理信息系统 tsm.miit.gov.cn，按公司全称查一次。查不到证的，直接排除。价格能便宜一半的那种，风险通常是三样：机器卖超了、老板跑路、上游被封。真出了事，服务商有证的，你还能投诉到通信管理局；没证的，你连找谁申诉都不知道。
+**Nhà cung cấp nhỏ không phải là không dùng được, mà là trước khi dùng phải tra giấy phép trước.** Đem máy ký gửi tại trung tâm dữ liệu, cung cấp truy nhập mạng cho người khác, hai việc này tự thân đều cần giấy phép. Chúng thuộc nghiệp vụ viễn thông gia tăng. Cách tra là mở Hệ thống quản lý tổng hợp thị trường nghiệp vụ viễn thông của Bộ Công nghiệp và Công nghệ thông tin tại tsm.miit.gov.cn, tra một lần theo tên đầy đủ của công ty. Tra không thấy giấy phép thì loại ngay. Loại giá rẻ được một nửa, rủi ro thường là ba thứ: máy bị bán vượt công suất, ông chủ bỏ trốn, đường lên phía trên bị khóa. Thật sự có chuyện thì nhà cung cấp có giấy phép, bạn còn khiếu nại lên Cục Quản lý Viễn thông được; không giấy phép, bạn còn chẳng biết tìm ai để phản ánh.
 
-**放境内还是放境外。** 服务器放在境内，就要做备案。接入商不许给没备案的站点提供接入。放到境外，确实能绕开备案。但你的用户在境内，收的钱也在境内。第 26 节第 5 到第 10 条写的那些平台义务，一条都少不了。放境外还要多担一层数据出境的成本。把境内用户的个人信息传到境外的机器上，这就叫出境。出境要满足个人信息保护法第三十八条列的四项条件之一。还要单独取得本人同意，不能混在一揽子协议里让人一起点了。涉及多少人，按「自当年 1 月 1 日起累计」算。不满 10 万人的，下面三条路都不用走。10 万到 100 万人的，要么签标准合同，要么去做认证。100 万人以上的，要申报安全评估。
+**Đặt trong nước hay đặt ở nước ngoài.** Máy chủ đặt trong nước thì phải làm đăng ký. Nhà cung cấp truy nhập không được cấp truy nhập cho trang chưa đăng ký. Đặt ở nước ngoài thì quả thật lách được đăng ký. Nhưng người dùng của bạn ở trong nước, tiền thu về cũng ở trong nước. Những nghĩa vụ nền tảng được viết ở chương 26 mục 5 đến mục 10, một mục cũng không thiếu được. Đặt ở nước ngoài còn phải gánh thêm một lớp chi phí chuyển dữ liệu ra nước ngoài. Đưa thông tin cá nhân của người dùng trong nước truyền lên máy chủ ở nước ngoài, đây gọi là chuyển dữ liệu ra nước ngoài. Việc này phải thỏa mãn một trong bốn điều kiện liệt kê tại Điều 38 Luật Bảo vệ thông tin cá nhân. Còn phải riêng rẽ có được sự đồng ý của chính người đó, không được gộp vào một gói thỏa thuận cho người ta bấm chung một thể. Liên quan đến bao nhiêu người, tính theo “cộng dồn kể từ ngày 1 tháng 1 của năm đó”. Dưới 100.000 người, con đường nào trong ba con đường dưới đây cũng không phải đi. Từ 100.000 đến 1.000.000 người, hoặc ký hợp đồng chuẩn, hoặc làm chứng nhận. Trên 1.000.000 người, phải khai báo đánh giá an toàn.
 
-**备份。** 备份至少放在两个地方，而且别把两份都放在同一家服务商的同一个区域。这一条没有法规依据，纯属经验。
+**Sao lưu.** Bản sao lưu để ít nhất ở hai nơi, và đừng để cả hai bản tại cùng một vùng của cùng một nhà cung cấp. Mục này không có căn cứ pháp quy, thuần túy là kinh nghiệm.
 
-## 四、这份材料的边界
+## 4. Giới hạn của tài liệu này
 
-- 上面写到的所有条款，都以本书 README 第 26 节的来源栏为准。那里有文号、条号和链接。
-- 这类规章改得很快。本节内容是 2026 年 9 月核实的。真要引用之前，请自己再打开一次原文页。尤其要看两处：网络安全法从 2026 年 1 月 1 日起条号有调整；直播打赏的未成年人规则 2026 年 4 月改成按年龄分档。
-- 有几处没能拿到原文，已经在 [核实记录](核实记录/追加-第26节做平台.md) 里一一写明。一处是电商平台到底必不必须办 EDI，官方有没有明文。另一处是把无证经营网络文化或视听服务直接按非法经营罪处理的那份司法解释。
+- Mọi điều khoản viết ở trên, đều lấy cột nguồn ở chương 26 của README trong sách này làm chuẩn. Ở đó có số văn bản, số điều và liên kết.
+- Loại quy phạm này sửa đổi rất nhanh. Nội dung mục này được kiểm chứng vào tháng 9 năm 2026. Trước khi thật sự trích dẫn, hãy tự mở lại trang gốc một lần nữa. Đặc biệt chú ý hai chỗ: Luật An toàn mạng từ ngày 1 tháng 1 năm 2026 có điều chỉnh số hiệu điều khoản; quy định về quà tặng (tip) của người chưa thành niên khi xem phát trực tiếp, tháng 4 năm 2026 đã đổi thành phân tầng theo độ tuổi.
+- Có vài chỗ chưa lấy được nguyên văn, đã được ghi rõ từng chỗ trong [hồ sơ xác minh](ho-so-xac-minh/bo-sung-chuong-26-lam-nen-tang.md). Một chỗ là nền tảng thương mại điện tử rốt cuộc có bắt buộc phải xin EDI hay không, phía chính thức có văn bản rõ ràng hay không. Chỗ kia là bản giải thích tư pháp xử lý thẳng tội kinh doanh trái phép đối với hành vi kinh doanh văn hóa mạng hoặc dịch vụ nghe nhìn không có giấy phép.

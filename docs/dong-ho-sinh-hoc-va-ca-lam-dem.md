@@ -1,149 +1,149 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 身体怎么认时间，夜班又为什么伤人
+# Cơ thể nhận biết thời gian thế nào, và vì sao làm ca đêm gây hại
 
-这是第 2 节第 40 条（上夜班干得越久心血管风险越高）的长文版。正文那一条只算账，这篇讲背后的道理。
+Đây là bản dài của chương 2 mục 40 (làm ca đêm càng lâu, nguy cơ tim mạch càng cao). Mục tương ứng trong phần chính chỉ tính bài toán, bài này nói rõ đạo lý đằng sau.
 
-要回答的问题是：身体真能知道现在几点吗？如果能，为什么上夜班不是「多熬几次就习惯了」？
+Câu hỏi cần trả lời là: cơ thể có thực sự biết bây giờ là mấy giờ không? Nếu có, tại sao làm ca đêm không phải là “chịu đựng thêm vài lần là sẽ quen”?
 
-## 一、身体里真有一个走时的器官
+## 1. Trong cơ thể thật sự có một cơ quan chạy giờ
 
-人脑的下丘脑里有一小团神经元，叫视交叉上核，大约两万个细胞。它是全身的主钟。
+Trong vùng dưới đồi của não người có một túi nhỏ tế bào thần kinh, gọi là nhân trên giao thị, chừng 20.000 tế bào. Nó là chiếc đồng hồ chính của toàn cơ thể.
 
-它走时靠的是一组「钟基因」互相抑制。两个叫 CLOCK 和 BMAL1 的蛋白开启另外两个基因 PER 和 CRY 的转录。PER 和 CRY 的蛋白积累起来之后，回过头把开启它们的那对蛋白关掉。等这些蛋白降解完，循环重新开始。跑完一圈大约 24 小时。
+Nó chạy giờ nhờ một nhóm “gen đồng hồ” ức chế lẫn nhau. Hai protein tên là CLOCK và BMAL1 bật quá trình phiên mã của hai gen khác là PER và CRY. Khi protein của PER và CRY tích lũy đủ, chúng quay lại tắt cặp protein đã bật mình ra. Chờ các protein này phân hủy hết, chu kỳ bắt đầu lại. Chạy hết một vòng mất khoảng 24 giờ.
 
-所以这个钟不靠观察外界来推算时间。把人关进完全没有光、没有钟表、也没有社会线索的房间里，这套节律照样继续走。只是周期不正好 24 小时，会一天天慢慢漂。2017 年的诺贝尔生理学或医学奖，发给的就是发现这套分子机制的三位研究者。
+Vì vậy chiếc đồng hồ này không dựa vào quan sát bên ngoài để suy tính thời gian. Nhốt con người vào căn phòng không hề có ánh sáng, không có đồng hồ, cũng không có tín hiệu xã hội, bộ nhịp điệu này vẫn tiếp tục chạy. Chỉ là chu kỳ không đúng 24 giờ, sẽ trôi dần từng ngày. Giải Nobel Sinh lý hoặc Y học năm 2017 được trao chính cho ba nhà nghiên cứu đã phát hiện cơ chế phân tử này.
 
-## 二、这个钟靠光对表，走的不是「看东西」那条线路
+## 2. Chiếc đồng hồ này canh giờ bằng ánh sáng, không đi tuyến đường “nhìn đồ vật”
 
-视网膜上除了负责成像的细胞，还有一类专门的感光细胞。它们含有一种叫黑视素的色素，不参与看清东西，只把光的强弱直接送进视交叉上核。
+Trên võ mạng, ngoài các tế bào phụ trách tạo ảnh, còn có một loại tế bào cảm quang chuyên trách. Chúng chứa một loại sắc tố gọi là melanopsin, không tham gia việc nhìn rõ đồ vật, chỉ đưa cường độ mạnh yếu của ánh sáng thẳng vào nhân trên giao thị.
 
-所以光能不能校准生物钟，和眼睛看不看得见东西没有直接关系。有些完全看不见东西的盲人，生物钟仍然能被光校准。
+Vì vậy ánh sáng có hiệu chỉnh được đồng hồ sinh học hay không, không liên quan trực tiếp đến việc mắt có nhìn thấy gì không. Một số người mù hoàn toàn không nhìn thấy gì, đồng hồ sinh học vẫn có thể được ánh sáng hiệu chỉnh.
 
-这也是第 3 节第 2 条（固定起床时间，周末也一样）要配合早上见光的原因。
+Đây cũng là lý do chương 3 mục 2 (cố định giờ thức dậy, cuối tuần cũng vậy) phải đi kèm với việc gặp ánh sáng vào buổi sáng.
 
-## 三、关键在于：钟不止一个
+## 3. Mấu chốt nằm ở chỗ: đồng hồ không chỉ có một
 
-肝脏、肠道、心脏、脂肪组织，各有自己的一套外周钟。
+Gan, ruột, tim, mô mỡ, mỗi nơi có một bộ đồng hồ ngoại vi của riêng mình.
 
-主钟靠光对表。**外周钟很大程度上靠「你什么时候吃东西」对表。**
+Đồng hồ chính chỉnh giờ bằng ánh sáng. **Đồng hồ ngoại vi phần lớn chỉnh giờ bằng “bạn ăn vào lúc nào”.**
 
-在正常作息下，这两样是同步的。你白天见光、白天吃饭，主钟和外周钟指向同一个时间。所以你平时根本察觉不到它们是分开的两套东西。
+Trong chế độ sinh hoạt bình thường, hai cái này đồng bộ. Bạn gặp ánh sáng ban ngày, ăn uống ban ngày, đồng hồ chính và đồng hồ ngoại vi chỉ vào cùng một thời điểm. Vì vậy ngày thường bạn căn bản không nhận ra chúng là hai bộ tách biệt.
 
-## 四、夜班的问题不是「熬」，是两个钟被拆开了
+## 4. Vấn đề của ca đêm không phải là “thức trắng”, mà là hai chiếc đồng hồ bị tách rời
 
-上夜班的人，白天还是会见到光，还是过着白天的社会生活。所以主钟基本仍然锁在外界的昼夜周期上。
+Người làm ca đêm, ban ngày vẫn gặp ánh sáng, vẫn sống cuộc sống xã hội ban ngày. Vì vậy đồng hồ chính về cơ bản vẫn khóa vào chu kỳ ngày đêm của bên ngoài.
 
-可是你在生物学意义的深夜进食、干活、调动代谢。外周钟被拉向另一边。
+Nhưng bạn lại ăn uống, làm việc, huy động chuyển hóa vào lúc nửa đêm theo nghĩa sinh học. Đồng hồ ngoại vi bị kéo về phía bên kia.
 
-这种状态叫昼夜节律错位。问题不在于你少睡了几个小时，而在于全身的钟互相对不上。
+Trạng thái này gọi là lệch nhịp ngày đêm. Vấn đề không nằm ở chỗ bạn ngủ ít đi mấy tiếng, mà nằm ở chỗ các đồng hồ toàn thân không khớp với nhau.
 
-## 五、而且你适应不了
+## 5. Và bạn không thể nào thích nghi được
 
-有人会想，长期固定上夜班总能适应吧。
+Sẽ có người nghĩ, cứ lâu dài cố định làm ca đêm thì rốt cuộc sẽ quen thôi.
 
-有一篇综述汇总了六项研究，用褪黑素的分泌节律去测长期固定上夜班的人。褪黑素节律是判断内源生物钟状态最可靠的指标。
+Có một bài tổng quan gộp sáu nghiên cứu, dùng nhịp tiết melatonin để đo những người lâu dài cố định làm ca đêm. Nhịp melatonin là chỉ tiêu đáng tin nhất để phán đoán trạng thái đồng hồ sinh học nội sinh.
 
-结果是：只有不到 3% 的人实现了「完全」适应。达到「相当程度」适应的，不到四分之一。
+Kết quả là: chỉ chưa đến 3% người đạt được thích nghi “hoàn toàn”. Đạt mức thích nghi “khá đáng” thì chưa đến một phần tư.
 
-干了多少年都一样。原因就在上一段：你白天还是要见光、还是要过白天的社会生活，这些线索一直在把主钟拉回去。
+Làm bao nhiêu năm cũng vậy. Nguyên nhân nằm ngay ở đoạn trên: ban ngày bạn vẫn phải gặp ánh sáng, vẫn phải sống cuộc sống xã hội ban ngày, những tín hiệu này luôn kéo đồng hồ chính trở về.
 
-来源：Folkard S (2008). Do permanent night workers show circadian adjustment? A review based on the endogenous melatonin rhythm. Chronobiology International. <https://doi.org/10.1080/07420520802106835>
+Nguồn: Folkard S (2008). Do permanent night workers show circadian adjustment? A review based on the endogenous melatonin rhythm. Chronobiology International. <https://doi.org/10.1080/07420520802106835>
 
-## 六、怎么知道是错位本身在害人，不是单纯少睡
+## 6. Làm sao biết chính sự lệch nhịp đang gây hại, chứ không đơn thuần là ngủ ít
 
-这是整件事最值得问的一层。上夜班的人少睡、吃得乱、压力大、抽烟多，这些都可能是真正的原因。
+Đây là tầng đáng hỏi nhất trong cả câu chuyện. Người làm ca đêm ngủ ít, ăn uống bừa bãi, áp lực lớn, hút thuốc nhiều, tất cả những thứ này đều có thể là nguyên nhân thật.
 
-好在这件事能在实验室里单独做出来。
+May là chuyện này có thể làm riêng được trong phòng thí nghiệm.
 
-Scheer 等人 2009 年的研究：10 名成年人在实验室住 10 天。研究者人为把「一天」设成 28 小时，逼着他们的吃饭和睡觉在生物钟的各个时刻都走一遍。**每天四餐，热量固定。**
+Nghiên cứu của Scheer và cộng sự năm 2009: 10 người trưởng thành sống trong phòng thí nghiệm 10 ngày. Nhà nghiên cứu cố ý đặt “một ngày” thành 28 giờ, ép việc ăn uống và ngủ nghỉ của họ đi qua đủ các thời điểm trên đồng hồ sinh học. **Mỗi ngày bốn bữa, nhiệt lượng cố định.**
 
-当行为和生物钟错开大约 12 小时时，结果是：
+Khi hành vi và đồng hồ sinh học lệch nhau khoảng 12 giờ, kết quả là:
 
-- 瘦素降了 17%（瘦素是让人觉得饱的激素）
-- 血糖升了 6%，而且是在胰岛素已经升了 22% 的情况下
-- 皮质醇的日节律完全倒转
-- 平均动脉压升了 3%
-- 睡眠效率降了 20%
+- Leptin giảm 17% (leptin là hormone khiến người ta cảm thấy no)
+- Đường huyết tăng 6%, và đó là trong tình huống insulin đã tăng 22%
+- Nhịp ngày đêm của cortisol đảo lộn hoàn toàn
+- Huyết áp động mạch trung bình tăng 3%
+- Hiệu suất ngủ giảm 20%
 
-最要紧的一条：8 个有足够数据的人里，有 3 个人的餐后血糖进入了糖尿病前期的范围，前后只用了 10 天。
+Điều đáng lo nhất: trong 8 người có đủ dữ liệu, có 3 người đường huyết sau ăn rơi vào vùng tiền đái tháo đường, trước sau chỉ mất 10 ngày.
 
-因为热量是固定的，实验又在实验室里控制，所以这些变化不能推给「少睡」或者「吃多了」。**光是错位就足以引起这些变化。**
+Vì nhiệt lượng được cố định, thí nghiệm lại được kiểm soát trong phòng thí nghiệm, nên những thay đổi này không thể đổ cho “ngủ ít” hay “ăn nhiều”. **Chỉ riêng sự lệch nhịp đã đủ gây ra những thay đổi này.**
 
-来源：Scheer FA, Hilton MF, Mantzoros CS, Shea SA (2009). Adverse metabolic and cardiovascular consequences of circadian misalignment. PNAS, 106(11), 4453-4458. <https://doi.org/10.1073/pnas.0808180106>
+Nguồn: Scheer FA, Hilton MF, Mantzoros CS, Shea SA (2009). Adverse metabolic and cardiovascular consequences of circadian misalignment. PNAS, 106(11), 4453-4458. <https://doi.org/10.1073/pnas.0808180106>
 
-## 七、能改的第一样：把吃饭挪到白天
+## 7. Thứ đầu tiên có thể thay đổi: chuyển giờ ăn sang ban ngày
 
-既然外周钟靠进食时间对表，那就有一个能试的方向：夜班照上，但不在夜里吃。
+Vì đồng hồ ngoại vi chỉnh giờ bằng thời điểm ăn, vậy có một hướng có thể thử: ca đêm cứ làm, nhưng không ăn ban đêm.
 
-有一项随机对照试验做了这件事（注册号 NCT02291952）。20 名健康人模拟夜班，随机分成两组。一组按夜班工人的常见习惯，夜里和白天都吃。另一组只在白天吃。
+Có một thử nghiệm đối chứng ngẫu nhiên đã làm việc này (số đăng ký NCT02291952). 20 người khỏe mạnh giả lập ca đêm, chia ngẫu nhiên thành hai nhóm. Nhóm một theo thói quen thường thấy của công nhân ca đêm, ăn cả ban đêm lẫn ban ngày. Nhóm kia chỉ ăn ban ngày.
 
-主结局那篇报告说：夜里吃的那组，中枢节律和外周的血糖节律错开了，糖耐量变差；只在白天吃的那组没有出现这两样。
+Bài báo về kết cục chính nói: nhóm ăn ban đêm, nhịp trung ương và nhịp đường huyết ngoại vi bị lệch nhau, khả năng dung nạp glucose xấu đi; nhóm chỉ ăn ban ngày không xuất hiện hai điều đó.
 
-心血管那篇（同一试验的二次分析）说：夜里吃的那组，心脏迷走调节指标 pNN50 掉了 25.7%，RMSSD 掉了 14.3%，反映交感与迷走平衡的 LF/HF 升了 5.5%，促血栓因子 PAI-1 升了 23.9%。只在白天吃的那组，这些变化没有出现。
+Bài về tim mạch (phân tích thứ cấp của cùng thử nghiệm) nói: nhóm ăn ban đêm, chỉ tiêu điều hòa phế vị của tim pNN50 tụt 25.7%, RMSSD tụt 14.3%, LF/HF phản ánh sự cân bằng giữa giao cảm và phế vị tăng 5.5%, yếu tố thúc đẩy hình thành huyết khối PAI-1 tăng 23.9%. Nhóm chỉ ăn ban ngày, những thay đổi này không xuất hiện.
 
-**但这只有 20 个人，而且是模拟夜班，不是真的夜班工人。**
+**Nhưng đây chỉ có 20 người, và là giả lập ca đêm, chứ không phải công nhân ca đêm thật.**
 
-一篇专门找这类随机试验的系统综述，检索六个数据库之后只找到 4 项试验。结果也不整齐：有的试验看到空腹胰岛素和胰岛素抵抗改善，有的没看到；高密度脂蛋白那一项四项试验都没看到变化；餐后血糖那一项，夜间禁食 10.75 小时的做法确实比夜里吃饭加夜宵的做法更好。综述作者自己说，试验太少，推广不开。
+Một tổng quan hệ thống chuyên tìm loại thử nghiệm ngẫu nhiên này, sau khi rà soát sáu cơ sở dữ liệu chỉ tìm được 4 thử nghiệm. Kết quả cũng không đều: có thử nghiệm thấy insulin lúc đói và kháng insulin cải thiện, có thử nghiệm không thấy; phần lipoprotein tỷ trọng cao thì cả bốn thử nghiệm đều không thấy thay đổi; phần đường huyết sau ăn, cách nhịn ăn ban đêm 10.75 giờ quả thật tốt hơn cách ăn đêm kèm bữa khuya. Tác giả tổng quan tự nói, thử nghiệm quá ít, chưa thể phổ biến kết luận.
 
-所以现在能讲的只有这么多：**夜班时把进食尽量集中在白天，有随机试验支持，但证据还很薄。** 它不花钱、也不难做，愿意试就试。还有第二样能试的，在下一节：用光把生物钟整个搬过去。
+Vậy bây giờ có thể nói chỉ có nhiều đó: **khi làm ca đêm, dồn việc ăn vào ban ngày càng nhiều càng tốt, có thử nghiệm ngẫu nhiên ủng hộ, nhưng bằng chứng còn rất mỏng.** Việc này không tốn tiền, cũng không khó làm, muốn thử thì thử. Còn có thứ thứ hai có thể thử, ở mục tiếp theo: dùng ánh sáng dời cả đồng hồ sinh học sang phía bên kia.
 
-来源：Chellappa SL 等 (2021). Daytime eating prevents internal circadian misalignment and glucose intolerance in night work. Science Advances. <https://doi.org/10.1126/sciadv.abg9910>；Chellappa SL 等 (2025). Daytime eating during simulated night work mitigates changes in cardiovascular risk factors: secondary analyses of a randomized controlled trial. Nature Communications. <https://doi.org/10.1038/s41467-025-57846-y>；Wulandari F 等 (2026). Cardiometabolic status among shift workers under meal time regulation: A systematic review of randomized controlled trials. Nutrition and Health. <https://doi.org/10.1177/02601060261464874>
+Nguồn: Chellappa SL và cộng sự (2021). Daytime eating prevents internal circadian misalignment and glucose intolerance in night work. Science Advances. <https://doi.org/10.1126/sciadv.abg9910>; Chellappa SL và cộng sự (2025). Daytime eating during simulated night work mitigates changes in cardiovascular risk factors: secondary analyses of a randomized controlled trial. Nature Communications. <https://doi.org/10.1038/s41467-025-57846-y>; Wulandari F và cộng sự (2026). Cardiometabolic status among shift workers under meal time regulation: A systematic review of randomized controlled trials. Nutrition and Health. <https://doi.org/10.1177/02601060261464874>
 
-## 八、能不能把钟搬过去
+## 8. Có thể dời cả chiếc đồng hồ sang bên kia được không
 
-前面说的都是「错位有害」。那反过来，把钟整个搬到夜班这边，行不行？
+Những gì nói ở trên đều là “lệch nhịp thì có hại”. Vậy ngược lại, dời cả chiếc đồng hồ sang phía ca đêm, có được không?
 
-**理论上行，而且做出来过。但对光的要求比多数人想的高一个数量级。**
+**Về lý thuyết là được, và đã từng làm ra rồi. Nhưng yêu cầu về ánh sáng cao hơn mức đa số người tưởng một bậc độ lớn.**
 
-Czeisler 等人 1990 年的研究：8 名年轻男性上一周夜班，比较两种条件。
+Nghiên cứu của Czeisler và cộng sự năm 1990: 8 nam thanh niên làm ca đêm một tuần, so sánh hai điều kiện.
 
-对照条件下，夜里是普通室内照明，大约 150 勒克斯。勒克斯是照度单位，普通日光灯的房间差不多就是一两百。结果是连上六个晚上，体温最低点仍然落在凌晨 3 点半前后。体温最低点是判断生物钟指向哪里的标准指标。这说明生物钟纹丝不动。
+Ở điều kiện đối chứng, ban đêm là chiếu sáng trong nhà thông thường, khoảng 150 lux. Lux là đơn vị cường độ chiếu sáng, phòng có đèn huỳnh quang thông thường cũng cỡ một, hai trăm. Kết quả là làm liên tục sáu đêm, điểm thấp nhất của thân nhiệt vẫn rơi vào quanh 3 giờ sáng. Điểm thấp nhất của thân nhiệt là chỉ tiêu chuẩn để phán đoán đồng hồ sinh học đang chỉ về đâu. Điều này cho thấy đồng hồ sinh học không nhúc nhích gì.
 
-治疗条件下，夜里给 7000 到 12000 勒克斯的强光，白天睡在近乎全黑的环境里。四天之后，体温最低点移到了下午近 3 点。等于整个倒了过来。
+Ở điều kiện trị liệu, ban đêm cho ánh sáng mạnh 7000 đến 12000 lux, ban ngày ngủ trong môi trường gần như tối hoàn toàn. Sau bốn ngày, điểm thấp nhất của thân nhiệt dịch đến gần 3 giờ chiều. Tương đương đảo ngược toàn bộ.
 
-来源：Czeisler CA, Johnson MP, Duffy JF, Brown EN, Ronda JM, Kronauer RE (1990). Exposure to bright light and darkness to treat physiologic maladaptation to night work. New England Journal of Medicine, 322(18), 1253-1259. <https://doi.org/10.1056/NEJM199005033221801>
+Nguồn: Czeisler CA, Johnson MP, Duffy JF, Brown EN, Ronda JM, Kronauer RE (1990). Exposure to bright light and darkness to treat physiologic maladaptation to night work. New England Journal of Medicine, 322(18), 1253-1259. <https://doi.org/10.1056/NEJM199005033221801>
 
-### 三样缺一不可
+### Ba thứ thiếu một thứ cũng không được
 
-**第一，夜里的光要够亮。** 开着普通日光灯上班，等于上面那个「什么也没发生」的对照组。要起作用得用专门的光疗灯箱。
+**Một, ánh sáng ban đêm phải đủ sáng.** Mở đèn huỳnh quang thông thường mà làm việc, tương đương nhóm đối chứng “chẳng có gì xảy ra” ở trên. Muốn có tác dụng phải dùng hộp đèn trị liệu chuyên dụng.
 
-**第二，白天睡觉要严格遮光。** 遮光窗帘加眼罩。上面那个实验是「夜里强光」和「白天近乎全黑」两样一起做的，不是二选一。
+**Hai, ban ngày ngủ phải che kín ánh sáng nghiêm ngặt.** Rèm chống sáng cộng bịt mắt. Thí nghiệm trên là làm cùng lúc hai thứ “đêm sáng mạnh” và “ngày gần như tối đen”, không phải chọn một trong hai.
 
-**第三，下班路上要戴墨镜。** 这一样最容易漏，漏掉基本等于白做。
+**Ba, trên đường tan ca phải đeo kính râm.** Thứ này dễ bị bỏ sót nhất, bỏ sót thì gần như bằng công cốc.
 
-第三样为什么这么要紧，要看光的作用方式：同样的光，落在不同时刻，推动生物钟的方向是相反的。在体温最低点**之前**见光，钟往后推；在**之后**见光，钟往前拉。
+Vì sao thứ ba quan trọng đến vậy, phải nhìn vào kiểu ánh sáng tác động: cùng một ánh sáng, rơi vào thời điểm khác nhau, hướng đẩy đồng hồ sinh học là ngược nhau. Gặp ánh sáng **trước** điểm thấp nhất của thân nhiệt, đồng hồ bị đẩy lùi về sau; gặp ánh sáng **sau** đó, đồng hồ bị kéo tiến về trước.
 
-你夜班结束往家走，正好在体温最低点之后。**这段晨光干的事，和你整夜坐在灯箱前干的事方向正相反。**
+Bạn kết thúc ca đêm đi về nhà, chính là lúc sau điểm thấp nhất của thân nhiệt. **Khoảng sáng sớm này làm việc gì, thì ngược hướng hoàn toàn với việc bạn ngồi cả đêm trước hộp đèn.**
 
-### 实验室做得到，日子里做不到
+### Phòng thí nghiệm làm được, cuộc sống thường ngày thì không
 
-实验室里那几个人一周不出门。现实中你休息日要过白天的生活，接孩子、陪家人、办事。过一次，钟就被拉回去。这就是第五节那个数字的来源：不到 3% 的长期固定夜班工人能完全适应。
+Trong phòng thí nghiệm mấy người đó cả tuần không ra ngoài. Thực tế thì ngày nghỉ bạn phải sống cuộc sống ban ngày, đón con, cạnh người thân, lo chuyện. Sống một lần, đồng hồ bị kéo trở về. Đây chính là nguồn gốc của con số ở mục 5: chưa đến 3% công nhân ca đêm cố định lâu dài có thể thích nghi hoàn toàn.
 
-所以真实世界里通常不追求完全倒过来，而是只搬一部分，让钟停在「上班时够清醒、休息日也不至于全毁」的中间位置。
+Vì vậy trong thế giới thật thường không theo đuổi đảo ngược hoàn toàn, mà chỉ dời một phần, để đồng hồ dừng ở vị trí giữa “đủ tỉnh táo khi làm việc, ngày nghỉ cũng không hỏng hết”.
 
-### 现实里能拿到多少
+### Thực tế có thể đạt được bao nhiêu
 
-一篇汇总 11 项研究的荟萃分析：光疗让倒班工人的总睡眠时间多约 32.5 分钟，睡眠效率提高约 2.91。有效剂量是 900 到 6000 勒克斯、每晚至少 1 小时。
+Một phân tích gộp tổng hợp 11 nghiên cứu: trị liệu ánh sáng giúp thời gian ngủ tổng của công nhân làm ca tăng thêm khoảng 32.5 phút, hiệu suất ngủ tăng khoảng 2.91. Liều hiệu quả là 900 đến 6000 lux, mỗi đêm ít nhất 1 giờ.
 
-另一项实验室研究用间歇强光。治疗组的褪黑素分泌和安排的睡眠时段重叠了 4.90 小时，对照组只有 2.62 小时（P=0.002）。对照组在最后一个夜班出现的认知成绩下滑，在治疗组被压住了。作者在结论里明说，这套办法还需要在真正的夜班工人身上验证。
+Một nghiên cứu phòng thí nghiệm khác dùng ánh sáng mạnh gián đoạn. Nhóm trị liệu, melatonin tiết ra trùng với khung giờ ngủ được xếp lịch 4.90 giờ, nhóm đối chứng chỉ 2.62 giờ (P=0.002). Sự sụt giảm kết quả nhận thức xuất hiện ở nhóm đối chứng trong đêm ca cuối cùng, đã bị dập tắt ở nhóm trị liệu. Tác giả nói rõ trong kết luận, bộ cách này còn cần được kiểm chứng trên chính những công nhân ca đêm thật.
 
-来源：Zhao C, Li N, Miao W, He Y, Lin Y (2025). A systematic review and meta-analysis on light therapy for sleep disorders in shift workers. Scientific Reports. <https://doi.org/10.1038/s41598-024-83789-3>；Lammers-van der Holst HM 等 (2021). Efficacy of intermittent exposure to bright light for treating maladaptation to night work on a counterclockwise shift work rotation. Scandinavian Journal of Work, Environment & Health. <https://doi.org/10.5271/sjweh.3953>
+Nguồn: Zhao C, Li N, Miao W, He Y, Lin Y (2025). A systematic review and meta-analysis on light therapy for sleep disorders in shift workers. Scientific Reports. <https://doi.org/10.1038/s41598-024-83789-3>; Lammers-van der Holst HM và cộng sự (2021). Efficacy of intermittent exposure to bright light for treating maladaptation to night work on a counterclockwise shift work rotation. Scandinavian Journal of Work, Environment & Health. <https://doi.org/10.5271/sjweh.3953>
 
-### 一件没人测过的事
+### Một chuyện chưa ai đo thử
 
-「把钟搬对了，心血管风险会不会跟着降」——**没有试验测过**。
+“Dời đồng hồ cho đúng rồi, nguy cơ tim mạch có theo đó giảm xuống không” — **chưa có thử nghiệm nào đo**.
 
-已经知道的是错位有害，那是第六节那项实验做出来的。但这不等于反过来「搬对了就安全」。而且休息日又把钟搬回去，这样来回折腾是好是坏，同样没有人测过。
+Đã biết là lệch nhịp thì có hại, đó là cái mà thí nghiệm ở mục 6 làm ra. Nhưng điều này không có nghĩa là ngược lại “dời đúng thì an toàn”. Hơn nữa ngày nghỉ lại dời đồng hồ trở về, đung đưa qua lại như vậy là tốt hay xấu, cũng chẳng ai đo cả.
 
-上面两条对策的终点，一条到代谢和心血管指标，一条到睡眠，都没有走到发病和死亡。
+Điểm dừng của hai đối sách ở trên, một cái dừng ở chỉ tiêu chuyển hóa và tim mạch, một cái dừng ở giấc ngủ, đều chưa đi đến phát bệnh và tử vong.
 
-## 九、这篇不讲的
+## 9. Những điều bài này không nói
 
-夜班到底让心血管风险高多少、按年数怎么算，在第 2 节第 40 条（上夜班干得越久心血管风险越高）。
+Ca đêm rốt cuộc làm nguy cơ tim mạch cao bao nhiêu, tính theo số năm thế nào, ở chương 2 mục 40 (làm ca đêm càng lâu, nguy cơ tim mạch càng cao).
 
-熬夜之后怎么把觉补回来，在第 2 节第 39 条（熬夜之后第二天晚上就补觉）。
+Thức khuya xong bổ giấc ngủ thế nào, ở chương 2 mục 39 (thức khuya xong thì ngủ bù ngay tối hôm sau).
 
-夜间睡多久、作息规不规律，在第 2 节第 13 条（每晚睡 7 小时左右，作息固定）。
+Đêm ngủ bao lâu, sinh hoạt có đều đặn không, ở chương 2 mục 13 (mỗi đêm ngủ khoảng 7 giờ, sinh hoạt cố định).
 
-早上见光和固定起床，在第 3 节第 2 条（固定起床时间，周末也一样）。
+Buổi sáng gặp ánh sáng và thức dậy cố định, ở chương 3 mục 2 (cố định giờ thức dậy, cuối tuần cũng vậy).

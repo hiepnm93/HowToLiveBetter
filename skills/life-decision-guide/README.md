@@ -1,47 +1,47 @@
-# 人生决策 skill（life-decision-guide）
+# Skill ra quyết định cuộc sống (life-decision-guide)
 
-让 AI 助手照《高性价比人生指南》回答具体问题：该不该做、值不值、怎么选、出事了先做什么、能领哪笔钱、这么干犯不犯法。
+Cho AI assistant trả lời các câu hỏi cụ thể theo “Cẩm nang sống hiệu quả”: có nên làm không, có đáng không, chọn thế nào, gặp chuyện thì việc đầu tiên làm gì, có thể nhận khoản tiền nào, làm thế này có phạm pháp không.
 
-它做的事只有一件：**先把相关条目从正文里查出来，再照书的算账方式排序回答**，每条注明出自第几节第几条。查不到就说查不到，不凭记忆编数字。
+Nó chỉ làm đúng một việc: **tra các mục liên quan từ nội dung chính ra trước, rồi trả lời có xếp hạng theo cách tính toán của sách**, mỗi mục đều ghi rõ trích từ chương mấy mục mấy. Tra không thấy thì nói thẳng là không thấy, không bịa số liệu theo trí nhớ.
 
-规则全在 [SKILL.md](SKILL.md) 里，两个工具共用同一个文件，不维护两份。
+Toàn bộ quy tắc nằm trong [SKILL.md](SKILL.md), hai công cụ dùng chung một file, không giữ hai bản.
 
-## 装到 Claude Code
+## Cài vào Claude Code
 
-在本仓库里开 Claude Code，不用装——`.claude/skills/life-decision-guide/` 已经指向这份规则。
+Mở Claude Code ngay trong repo này thì không cần cài — `.claude/skills/life-decision-guide/` đã trỏ sẵn tới bản quy tắc này.
 
-想在任何目录下都能用，复制到个人 skill 目录：
-
-```bash
-mkdir -p ~/.claude/skills/life-decision-guide && curl -fsSL -o ~/.claude/skills/life-decision-guide/SKILL.md "https://raw.githubusercontent.com/eternity4719/HowToLiveBetter/main/skills/life-decision-guide/SKILL.md"
-```
-
-之后直接问「每天通勤两小时值不值」「朋友让我替他担保，签不签」就会触发；也可以显式说「用 life-decision-guide 回答」。
-
-## 装到 Codex
-
-在本仓库里开 Codex，不用装——根目录的 `AGENTS.md` 已经把它指出来了。
-
-想在任何目录下都能用，复制到 Codex 的个人 skill 目录 `~/.agents/skills`：
+Muốn dùng được ở bất kỳ thư mục nào, sao chép vào thư mục skill cá nhân:
 
 ```bash
-mkdir -p ~/.agents/skills/life-decision-guide && curl -fsSL -o ~/.agents/skills/life-decision-guide/SKILL.md "https://raw.githubusercontent.com/eternity4719/HowToLiveBetter/main/skills/life-decision-guide/SKILL.md"
+mkdir -p ~/.claude/skills/life-decision-guide && curl -fsSL -o ~/.claude/skills/life-decision-guide/SKILL.md "https://raw.githubusercontent.com/hiepnm93/HowToLiveBetter/main/skills/life-decision-guide/SKILL.md"
 ```
 
-之后直接问问题就会按描述自动触发，也可以输入 `$life-decision-guide` 显式调用。注意是 `$` 不是 `/`，新版 Codex 输入 `/life-decision-guide` 会报 `Unrecognized command`。没出现就重启一次 Codex。
+Sau đó chỉ cần hỏi thẳng kiểu “Mỗi ngày đi làm mất hai tiếng đi lại có đáng không”, “Bạn bè nhờ mình đứng ra bảo lãnh thay, có nên ký không” là sẽ tự kích hoạt; cũng có thể nói rõ “dùng life-decision-guide để trả lời”.
 
-旧版 Codex 还没有 skill，只能用自定义提示词：把文件放到 `~/.codex/prompts/life-decision-guide.md`，再用 `/life-decision-guide` 调用。Codex 已宣布弃用这套写法（[openai/codex#10848](https://github.com/openai/codex/issues/10848)），新版用上面的 skill 装法。
+## Cài vào Codex
 
-## 正文从哪来
+Mở Codex ngay trong repo này thì không cần cài — `AGENTS.md` ở thư mục gốc đã chỉ ra nó rồi.
 
-本地有这个仓库就读本地的 `book/`；没有就现取：
+Muốn dùng được ở bất kỳ thư mục nào, sao chép vào thư mục skill cá nhân của Codex là `~/.agents/skills`:
 
 ```bash
-git clone --depth 1 https://github.com/eternity4719/HowToLiveBetter.git "${TMPDIR:-/tmp}/hltb"
+mkdir -p ~/.agents/skills/life-decision-guide && curl -fsSL -o ~/.agents/skills/life-decision-guide/SKILL.md "https://raw.githubusercontent.com/hiepnm93/HowToLiveBetter/main/skills/life-decision-guide/SKILL.md"
 ```
 
-整本 1.3 MB，浅克隆一次几秒。取不到网络就如实说取不到，不替代正文。
+Sau đó chỉ cần hỏi thẳng câu hỏi là nó sẽ tự kích hoạt theo phần mô tả, cũng có thể gõ `$life-decision-guide` để gọi tường minh. Lưu ý là `$` chứ không phải `/`, Codex bản mới gõ `/life-decision-guide` sẽ báo `Unrecognized command`. Nếu chưa thấy xuất hiện thì khởi động lại Codex một lần.
 
-## 改动须知
+Codex bản cũ chưa có skill, chỉ dùng được lời nhắc tùy chỉnh: đặt file vào `~/.codex/prompts/life-decision-guide.md`, rồi gọi bằng `/life-decision-guide`. Codex đã tuyên bố ngừng hỗ trợ phương pháp này ([openai/codex#10848](https://github.com/openai/codex/issues/10848)), bản mới hãy dùng cách cài skill ở trên.
 
-SKILL.md 里不留任何会跟着正文漂的清单和数值：节的清单去读 README 的「这本书想回答的问题」表，性价比档的算法去读 `index.html` 里的 `COST_W` 和 `e.ratio` 两行。所以增删节、改档位规则都不用动这个目录。
+## Nội dung chính lấy từ đâu
+
+Có repo này sẵn trên máy thì đọc `book/` tại chỗ; không có thì lấy ngay:
+
+```bash
+git clone --depth 1 https://github.com/hiepnm93/HowToLiveBetter.git "${TMPDIR:-/tmp}/hltb"
+```
+
+Cả bộ nặng 1.3 MB, shallow clone một lần chỉ mất vài giây. Không lấy được mạng thì nói thật là không lấy được, không thay thế nội dung chính bằng thứ khác.
+
+## Lưu ý khi chỉnh sửa
+
+Trong SKILL.md không để lại bất kỳ danh sách hay con số nào sẽ trôi theo nội dung chính: muốn có danh sách các chương thì đọc bảng “Sách này trả lời những câu hỏi nào” trong README, muốn biết thuật toán phân mức hiệu quả chi phí thì đọc hai dòng `COST_W` và `e.ratio` trong `index.html`. Vì vậy thêm bớt chương hay sửa quy tắc phân mức đều không cần đụng đến thư mục này.

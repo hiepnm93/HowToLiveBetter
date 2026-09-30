@@ -1,113 +1,113 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 20. 刚出生的孩子怎么带
+# 20. Chăm sóc trẻ sơ sinh
 
-口径：婴儿死亡率与金钱。这一节只收关系到孩子能不能活下来、或者你要花多少钱的事，而且只收差别足够大、又有硬证据的。怎么哄、怎么带这些育儿细节，本书不写。出生之前和出院当天要办的事，见第 27 节。
+Trục đo: tử vong trẻ nhũ nhi và tiền bạc. Chương này chỉ thu những chuyện liên quan đến việc con sống được hay không, hoặc bạn phải tốn bao nhiêu tiền, và chỉ thu những mục có mức chênh đủ lớn lại có bằng chứng cứng. Những chi tiết nuôi con như dỗ nín, chăm sóc hằng ngày, sách này không viết. Việc cần làm trước khi sinh và trong ngày xuất viện, xem chương 27.
 
-### 1. 让孩子仰着睡，睡硬的平面，同房不同床，床上不放任何软东西
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=死亡率 -->
-- 成本：不花钱。床垫要换成硬的，几百元。难在要顶住长辈的说法，一直按这个来
-- 说人话：让孩子脸朝上躺着睡，睡在硬的平面上。大人和孩子睡同一间房，但不睡同一张床。床上不放枕头、被子、床围、毛绒玩具和定型枕。斜着的摇篮和婴儿椅只能坐，不能当床睡。光美国每年就有约 3500 个婴儿死在睡眠里。
-- 收益：美国每年约 3500 名婴儿死于睡眠相关原因。这里面包括婴儿猝死综合征、死因不明和在床上意外憋住。美国儿科学会给的安全睡眠环境是「仰卧位；使用坚实、不倾斜的睡眠表面；同房不同床；避免柔软的寝具和过热」。还有几件事也能降低风险：母乳喂养、别让孩子接触尼古丁和酒精、按时接种疫苗、使用安抚奶嘴
-- 证据等级：A
-- 来源：Moon RY, Carlin RF, Hand I, Task Force on Sudden Infant Death Syndrome and the Committee on Fetus and Newborn (2022). Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics, 150(1), e2022057990. <https://doi.org/10.1542/peds.2022-057990>
-- 备注：「床上不放任何软东西」是指枕头、被子、床围、毛绒玩具、定型枕全都不放。看起来很安全的哺乳枕也不放。斜着的摇篮和婴儿椅不能当睡觉的地方。这一节里，这件事的差别最大，也最需要顶住长辈的压力
+### 1. Cho trẻ nằm ngửa khi ngủ, ngủ trên mặt phẳng cứng, cùng phòng khác giường, trên giường không đặt bất kỳ vật mềm nào
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Đệm phải đổi thành loại cứng, vài trăm yên. Khó ở chỗ phải chống đỡ được cách nói của người lớn trong nhà, cứ theo thế này mãi.
+- Hiểu nhanh: Cho trẻ nằm ngửa, mặt hướng lên khi ngủ, ngủ trên mặt phẳng cứng. Người lớn và trẻ ngủ cùng một phòng, nhưng không ngủ cùng một giường. Trên giường không đặt gối, chăn, vây giường, đồ chơi nhồi bông và gối định hình. Nôi nghiêng và ghế ngồi cho trẻ chỉ được ngồi, không được làm chỗ ngủ. Riêng Mỹ mỗi năm đã có khoảng 3.500 trẻ nhũ nhi chết trong lúc ngủ.
+- Lợi ích: Mỹ mỗi năm khoảng 3.500 trẻ nhũ nhi tử vong vì các nguyên nhân liên quan đến giấc ngủ. Trong đó gồm hội chứng đột tử ở nhũ nhi, tử vong không rõ nguyên nhân và bị nghẹt thở bất ngờ trên giường. Môi trường ngủ an toàn mà Viện Nhi khoa Hoa Kỳ đưa ra là “nằm ngửa; dùng bề mặt ngủ chắc chắn, không nghiêng; cùng phòng khác giường; tránh chăn ga mềm và quá nóng”. Còn mấy việc khác cũng làm giảm rủi ro: nuôi con bằng sữa mẹ, để trẻ tránh xa nicotin và rượu, tiêm chủng đầy đủ đúng lịch, dùng núm vú giả
+- Mức bằng chứng: A
+- Nguồn: Moon RY, Carlin RF, Hand I, Task Force on Sudden Infant Death Syndrome and the Committee on Fetus and Newborn (2022). Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics, 150(1), e2022057990. <https://doi.org/10.1542/peds.2022-057990>
+- Ghi chú: “Trên giường không đặt bất kỳ vật mềm nào” nghĩa là gối, chăn, vây giường, đồ chơi nhồi bông, gối định hình đều không đặt. Cả gối bú nhìn qua có vẻ rất an toàn cũng không đặt. Nôi nghiêng và ghế ngồi cho trẻ không thể làm chỗ ngủ. Trong chương này, chuyện này có mức chênh lớn nhất, cũng là chuyện cần chống đỡ áp lực từ người lớn trong nhà nhất.
 
-### 2. 出生后 24 小时内打上乙肝疫苗第一针
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：不花钱。乙肝疫苗属于免疫规划疫苗，本来就免费。孩子出生当天在医院就打了，不用另外跑
-- 说人话：孩子出生后 24 小时之内要打上第一针乙肝疫苗。在婴儿期和幼儿期感染乙肝的人里，约有 95% 会转成慢性肝炎。成年以后才感染的，绝大多数能自己好。所以这一针越早打越有用。妈妈乙肝表面抗原是阳性的，孩子还要同时打乙肝免疫球蛋白。
-- 收益：世界卫生组织的说法是：「所有婴儿都应在出生后尽早（24 小时内）接种乙肝疫苗。」原因是「婴儿期和幼儿期感染约有 95% 会发展为慢性肝炎」。成年后感染的绝大多数能自愈（不用治也会好）
-- 证据等级：A
-- 来源：World Health Organization. Hepatitis B fact sheet. <https://www.who.int/news-room/fact-sheets/detail/hepatitis-b>
-- 备注：妈妈的乙肝表面抗原是阳性的，孩子出生后还要同时打一针乙肝免疫球蛋白。这件事产检的时候就要查清楚，别等生完再问。妈妈自己要做的筛查见第 1 节
+### 2. Trong 24 giờ sau sinh phải tiêm mũi vắc-xin viêm gan B đầu tiên
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Vắc-xin viêm gan B thuộc chương trình miễn dịch quy hoạch, vốn đã miễn phí. Ngày trẻ sinh, ở bệnh viện đã tiêm luôn rồi, không phải chạy thêm.
+- Hiểu nhanh: Trong vòng 24 giờ sau khi trẻ chào đời phải tiêm được mũi vắc-xin viêm gan B đầu tiên. Trong số những người nhiễm viêm gan B ở giai đoạn nhũ nhi – trẻ nhỏ, khoảng 95% sẽ chuyển thành viêm gan mạn tính. Nhiễm sau khi đã trưởng thành, đại đa số tự khỏi được. Nên mũi này càng tiêm sớm càng có tác dụng. Kháng nguyên bề mặt viêm gan B của mẹ dương tính, trẻ còn phải tiêm đồng thời globulin miễn dịch viêm gan B.
+- Lợi ích: Tổ chức Y tế Thế giới nói: “Tất cả trẻ nhũ nhi nên được tiêm vắc-xin viêm gan B càng sớm càng tốt sau khi sinh (trong vòng 24 giờ).” Lý do là “khoảng 95% số nhiễm ở giai đoạn nhũ nhi – trẻ nhỏ sẽ tiến triển thành viêm gan mạn tính”. Nhiễm sau tuổi trưởng thành, đại đa số tự khỏi (không chữa cũng khỏi)
+- Mức bằng chứng: A
+- Nguồn: World Health Organization. Hepatitis B fact sheet. <https://www.who.int/news-room/fact-sheets/detail/hepatitis-b>
+- Ghi chú: Kháng nguyên bề mặt viêm gan B của mẹ dương tính, sau sinh trẻ phải tiêm đồng thời một mũi globulin miễn dịch viêm gan B. Chuyện này lúc khám thai phải hỏi rõ, đừng đợi sinh xong mới hỏi. Sàng lọc mà mẹ cần làm xem chương 1.
 
-### 3. 按国家免疫规划把该打的疫苗打齐，全程免费，错过了只补没打完的剂次
-<!-- 成本标签: 钱=0 时间=中 毅力=否 收益=大 口径=死亡率 -->
-- 成本：不花钱。法律写明「接种单位接种免疫规划疫苗不得收取任何费用」。要按月龄跑几趟接种门诊。预防接种证收好，别弄丢
-- 说人话：国家免疫规划里的疫苗全程免费，接种单位不能收钱。孩子入托、入学都要查预防接种证，漏打的会被查出来补上。错过了只补没打完的那几剂，不用从头再打，换了厂家也能接着打。湿疹、荨麻疹、过敏性鼻炎、哮喘只要病情稳定，新生儿黄疸也一样，都能正常打。
-- 收益：孩子入托、入学的时候，托幼机构和学校要查验预防接种证。发现没按规定接种免疫规划疫苗的，要报告接种单位，并且配合督促监护人补种。所以漏打的疫苗拖不过去，入学时一定会被查出来。现在执行的是 2026 年版程序。人乳头瘤病毒（HPV）疫苗已经纳入国家免疫规划。百白破疫苗的起始接种年龄从 3 月龄改成 2 月龄，一共 5 剂，分别在 2 月龄、4 月龄、6 月龄、18 月龄和 6 周岁各打 1 剂。西藏、青海、新疆和新疆生产建设兵团的适龄儿童，2026 年 3 月起也常规接种乙脑疫苗。几种疫苗可以同一天打：现阶段国家免疫规划疫苗都可以按免疫程序或补种原则同时接种。两种及以上打针的疫苗要打在不同部位，「严禁将两种或多种疫苗混合吸入同一支注射器内接种」。没在同一天打的，两种及以上打针的减毒活疫苗之间要间隔不小于 28 天。灭活疫苗、口服的减毒活疫苗和其他疫苗之间的间隔不作限制。不满 18 周岁的补种原则是尽早补种，「只需补种未完成的剂次，无需重新开始全程接种」，同一种疫苗换厂家可以接着打（全国，2026 年版程序）
-- 证据等级：A
-- 来源：全国人大常委会 (2019). 疫苗管理法（第四十八、四十九条）. <http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html>（云南省卫生健康委员会转载）；国家疾病预防控制局、国家卫生健康委 (2026). 《国家免疫规划疫苗儿童免疫程序及说明（2026 年版）》解读问答. <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html>
-- 备注：最常见的误会是「孩子体质不好，先别打」。官方说法是：所谓「过敏性体质」、家里人有过敏的病、孩子以前对食物或药物过敏过，都不是不能打的理由。特应性皮炎（湿疹）、荨麻疹、过敏性鼻炎、支气管哮喘，只要病情稳定就能正常打。正在吃抗过敏药，或者在用吸入型激素，也能打。新生儿的生理性黄疸、母乳性黄疸也能正常打。真正不能打的只有两种：以前打同一种疫苗出现过急性的严重过敏反应，或者对疫苗里已知的某种成分严重过敏。有免疫缺陷的孩子，以及正在化疗放疗、正在用免疫抑制剂的孩子，要一个个单独评估，去接种门诊说明情况再定。乙肝第一针见第 2 条。自费的非免疫规划疫苗要另收疫苗费和接种服务费，和这条说的免费无关。
+### 3. Tiêm đủ các vắc-xin theo chương trình miễn dịch quy hoạch quốc gia, hoàn toàn miễn phí; lỡ hẹn chỉ tiêm bù những mũi chưa xong
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Luật ghi rõ “cơ sở tiêm chủng khi tiêm vắc-xin miễn dịch quy hoạch không được thu bất kỳ khoản phí nào”. Phải chạy mấy chuyến cơ sở tiêm chủng theo tháng tuổi. Sổ tiêm chủng cất kỹ, đừng làm mất.
+- Hiểu nhanh: Vắc-xin trong chương trình miễn dịch quy hoạch quốc gia miễn phí suốt toàn bộ quá trình, cơ sở tiêm chủng không được thu tiền. Khi trẻ vào nhà trẻ, vào trường đều phải kiểm tra sổ tiêm chủng, mũi bị bỏ sót sẽ bị soi ra và bắt tiêm bù. Lỡ hẹn chỉ tiêm bù mấy mũi chưa xong, không phải tiêm lại từ đầu, đổi nhà sản xuất vẫn tiêm tiếp được. Chàm, mày đay, viêm mũi dị ứng, hen suyễn chỉ cần bệnh ổn định là tiêm bình thường; vàng da ở trẻ sơ sinh cũng vậy, đều tiêm được bình thường.
+- Lợi ích: Khi trẻ vào nhà trẻ, vào trường, cơ sở mầm non và nhà trường phải kiểm tra sổ tiêm chủng. Phát hiện trẻ chưa được tiêm vắc-xin miễn dịch quy hoạch theo quy định, phải báo cơ sở tiêm chủng, và phối hợp thúc giục người giám hộ tiêm bù. Nên mũi đã bỏ sót trốn không qua, đến khi nhập học nhất định sẽ bị soi ra. Hiện nay thi hành là chương trình bản 2026. Vắc-xin virus papilloma ở người (HPV) đã được đưa vào chương trình miễn dịch quy hoạch quốc gia. Tuổi bắt đầu tiêm vắc-xin bạch hầu – ho gà – uốn ván đổi từ 3 tháng tuổi thành 2 tháng tuổi, tổng cộng 5 mũi, lần lượt tiêm 1 mũi ở 2 tháng, 4 tháng, 6 tháng, 18 tháng và 6 tuổi. Trẻ trong độ tuổi tại Tây Tạng, Thanh Hải, Tân Cương và Binh đoàn Sản xuất – Xây dựng Tân Cương, từ tháng 3/2026 cũng tiêm thường quy vắc-xin viêm não Nhật Bản. Vài loại vắc-xin có thể tiêm cùng một ngày: vắc-xin miễn dịch quy hoạch quốc gia ở giai đoạn hiện nay đều có thể tiêm cùng lúc theo chương trình miễn dịch hoặc nguyên tắc tiêm bù. Hai loại vắc-xin tiêm trở lên phải tiêm ở các vị trí khác nhau, “nghiêm cấm hút hai hoặc nhiều loại vắc-xin trộn lẫn vào cùng một ống tiêm để tiêm”. Nếu không tiêm cùng ngày, giữa hai loại vắc-xin sống giảm độc lực tiêm trở lên phải cách nhau không dưới 28 ngày. Khoảng cách giữa vắc-xin bất hoạt, vắc-xin sống giảm độc lực uống và các vắc-xin khác không bị hạn chế. Nguyên tắc tiêm bù cho người dưới 18 tuổi là tiêm bù càng sớm càng tốt, “chỉ cần tiêm bù những mũi chưa hoàn thành, không cần bắt đầu lại toàn bộ quá trình từ đầu”, cùng một loại vắc-xin đổi nhà sản xuất có thể tiêm tiếp (toàn quốc, bản chương trình 2026)
+- Mức bằng chứng: A
+- Nguồn: Quốc hội nhân dân toàn quốc (2019). Luật Quản lý vắc-xin (điều 48, 49). <http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html> (Ủy ban Y tế tỉnh Vân Nam đăng lại); Cục Phòng, chống bệnh Quốc gia, Ủy ban Y tế Quốc gia (2026). Hỏi – đáp giải đọc “Chương trình miễn dịch trẻ em và giải thích vắc-xin thuộc chương trình miễn dịch quy hoạch quốc gia (bản 2026)”. <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html>
+- Ghi chú: Cách hiểu sai phổ biến nhất là “bé thể trạng kém, khoan đã đừng tiêm”. Nói của cơ quan chính thức: cái gọi là “cơ địa dị ứng”, nhà có người mắc bệnh dị ứng, bé trước đây từng dị ứng với thức ăn hoặc thuốc, đều không phải là lý do không tiêm được. Viêm da cơ địa (chàm), mày đay, viêm mũi dị ứng, hen phế quản, chỉ cần bệnh ổn định là tiêm bình thường. Đang uống thuốc chống dị ứng, hoặc đang dùng corticoid dạng hít, cũng tiêm được. Vàng da sinh lý ở trẻ sơ sinh, vàng da do sữa mẹ cũng tiêm bình thường được. Thật sự không tiêm được chỉ có hai loại: trước đây tiêm cùng loại vắc-xin đó đã xảy ra phản vệ cấp tính nặng, hoặc dị ứng nặng với một thành phần đã biết nào đó trong vắc-xin. Trẻ có khiếm khuyết miễn dịch, và trẻ đang hóa trị, xạ trị, đang dùng thuốc ức chế miễn dịch, phải đánh giá riêng từng em, đến cơ sở tiêm chủng nói rõ hoàn cảnh rồi mới quyết. Mũi đầu viêm gan B xem mục 2. Vắc-xin tự nguyện ngoài chương trình miễn dịch quy hoạch phải thu thêm tiền vắc-xin và phí dịch vụ tiêm chủng, không dính dáng đến chuyện miễn phí mà mục này nói.
 
-### 4. 前 6 个月只喂母乳，连水都不用喂，6 个月起加辅食并继续母乳
-<!-- 成本标签: 钱=0 时间=多 毅力=是 收益=中 口径=死亡率 -->
-- 成本：不花钱，还省下奶粉钱。费的是时间，喂奶每天都要占掉不少。难在要一直喂下去，前 6 个月不能断
-- 说人话：孩子出生后第一个小时里就开始喂奶。前 6 个月只喂母乳，连水都不用喂。满 6 个月起加辅食，每天要有含铁多的动物性食物，母乳接着喂到 2 岁或更久。母乳不够或者不能喂，就用配方奶，不用自责。喂什么对孩子安危的影响，远没有睡姿大。
-- 收益：世界卫生组织的建议是「在出生后第一个小时内开始母乳喂养」。前 6 个月「纯母乳喂养，即不提供其他任何食物或液体，包括水」。然后「从 6 月龄起开始添加安全充足的辅食，同时继续母乳喂养到 2 岁或以上」。国家卫健委的服务指南也提倡 0 至 6 月龄纯母乳喂养。这份指南还要求满 6 月龄起「每天的辅食必须包含含铁丰富的动物性食物」
-- 证据等级：A
-- 来源：World Health Organization. Breastfeeding. <https://www.who.int/health-topics/breastfeeding>；国家卫生健康委办公厅 (2024). 婴幼儿营养喂养评估服务指南（试行）（国卫办妇幼函〔2024〕452 号）. <https://www.gov.cn/zhengce/zhengceku/202502/content_7002872.htm>
-- 备注：母乳不够，或者身体不允许喂，就用配方奶。喂母乳还是喂配方奶，差距远小于安全睡眠那条。加辅食的次数：6 至 8 月龄每天 1 到 2 次，9 至 12 月龄每天 2 到 3 次。每天吃的东西，至少要覆盖七类里的四类。孩子有重度湿疹或鸡蛋过敏时，花生要不要躲着，见本节第 12 条（别躲着花生）。
+### 4. 6 tháng đầu chỉ cho bú sữa mẹ, đến nước cũng không cần; từ tháng thứ 6 thêm thức ăn dặm và tiếp tục bú mẹ
+<!-- Nhan chi phi: tien=0 thoi-gian=nhieu y-luc=co loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền, còn tiết kiệm được tiền sữa bột. Tốn là thời gian, cho bú mỗi ngày chiếm mất không ít. Khó ở chỗ phải bú dai dẳng, 6 tháng đầu không ngắt quãng.
+- Hiểu nhanh: Trong giờ đầu tiên sau khi trẻ chào đời đã bắt đầu cho bú. 6 tháng đầu chỉ bú sữa mẹ, đến nước cũng không cần cho. Đầy 6 tháng trở đi thêm thức ăn dặm, mỗi ngày phải có thực phẩm nguồn gốc động vật giàu sắt, sữa mẹ tiếp tục bú đến 2 tuổi hoặc lâu hơn. Sữa mẹ không đủ hoặc không cho bú được thì dùng sữa công thức, không cần tự trách. Cho con ăn gì ảnh hưởng đến an nguy của trẻ xa xa chưa bằng tư thế ngủ.
+- Lợi ích: Khuyến nghị của Tổ chức Y tế Thế giới là “bắt đầu nuôi con bằng sữa mẹ trong giờ đầu tiên sau khi sinh”. 6 tháng đầu “bú mẹ hoàn toàn, nghĩa là không cung cấp bất kỳ thức ăn hay chất lỏng nào khác, kể cả nước”. Sau đó “từ 6 tháng tuổi bắt đầu thêm thức ăn dặm an toàn, đủ dưỡng, đồng thời tiếp tục bú mẹ đến 2 tuổi hoặc hơn”. Hướng dẫn dịch vụ của Ủy ban Y tế Quốc gia cũng đề cao bú mẹ hoàn toàn cho trẻ 0 đến 6 tháng tuổi. Hướng dẫn này còn yêu cầu từ khi đầy 6 tháng tuổi “thức ăn dặm mỗi ngày phải bao gồm thực phẩm nguồn gốc động vật giàu sắt”
+- Mức bằng chứng: A
+- Nguồn: World Health Organization. Breastfeeding. <https://www.who.int/health-topics/breastfeeding>; Văn phòng Ủy ban Y tế Quốc gia (2024). Hướng dẫn dịch vụ đánh giá dinh dưỡng, nuôi ăn của trẻ nhũ nhi – nhi đồng (thí điểm) (công văn số 452/2024). <https://www.gov.cn/zhengce/zhengceku/202502/content_7002872.htm>
+- Ghi chú: Sữa mẹ không đủ, hoặc cơ thể không cho phép, thì dùng sữa công thức. Bú mẹ hay sữa công thức, khoảng chênh nhỏ hơn mục ngủ an toàn nhiều. Số bữa ăn dặm: 6 đến 8 tháng tuổi mỗi ngày 1 đến 2 bữa, 9 đến 12 tháng tuổi mỗi ngày 2 đến 3 bữa. Thực phẩm ăn mỗi ngày, ít nhất phải phủ được 4 trong 7 nhóm. Trẻ có chàm nặng hoặc dị ứng trứng thì có nên né đậu phộng hay không, xem mục 12 trong chương này (đừng né đậu phộng).
 
-### 5. 冲奶粉用 70 ℃ 以上的水，冲好放凉再喂，喝剩的倒掉
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=死亡率 -->
-- 成本：不花钱。每次多等几分钟把奶放凉。难在孩子饿得哭的时候，也要等水温降下来再冲
-- 说人话：奶粉不是无菌的，可能带一种叫阪崎克罗诺杆菌的细菌。新生儿一旦感染，报告的病死率在四成到八成之间。冲的时候先把热水倒进奶瓶，等水温降到约 73.8 ℃ 再放奶粉。这时奶液还在 70 ℃ 以上，能把这种菌杀到原来的十万分之一以下。冲好放凉再喂，喝剩的倒掉。
-- 收益：奶粉不是无菌的，可能带阪崎克罗诺杆菌。新生儿感染后的病死率，报告为 40% 到 80%。实验研究显示：先把热水倒进奶瓶，等水温降到约 73.8 ℃ 再加奶粉，绝大多数情况下奶液温度还在 70 ℃ 以上。这样可以让这种菌减少 5 个对数级以上，降到原来的十万分之一以下
-- 证据等级：A
-- 来源：Beary MA, Daly SE, Baker J, Snyder AB (2025). Assessing Hot Water Reconstitution Instructions and Labeling of Powdered Infant Formula to Ensure Cronobacter spp. Reduction. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.2025.100571>；Sima WG, Legesse T, Girma S, et al. (2025). Emerging microbial risks: Cronobacter sakazakii in powdered infant formula for infants under six months of age in Ethiopia. BMC Microbiology, 26, 307. <https://doi.org/10.1186/s12866-025-04380-y>；World Health Organization & FAO (2007). Safe preparation, storage and handling of powdered infant formula: guidelines. <https://www.who.int/publications/i/item/9789241595414>
-- 备注：70 ℃ 这个门槛来自公共卫生指南。Beary 等人的原话是「针对高危婴儿照护者的公共卫生指南建议用加热到至少 70 ℃（158 ℉）的水冲调配方奶粉以灭活微生物」。早产儿、体重偏低的孩子和不满 2 个月的孩子风险最高。别用保温杯里放了一天的水来冲。也别把冲好的奶搁在室温下，等着下一顿再喂
+### 5. Pha sữa bột dùng nước trên 70 ℃, pha xong để nguội rồi mới cho bú, sữa thừa đổ bỏ
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Mỗi lần chờ thêm vài phút cho sữa nguội. Khó ở chỗ con đói quấy khóc cũng vẫn phải chờ nước hạ nhiệt rồi mới pha.
+- Hiểu nhanh: Sữa bột không phải là vô trùng, có thể mang theo một loại vi khuẩn tên Cronobacter sakazakii. Trẻ sơ sinh một khi nhiễm phải, tỷ lệ tử vong được báo cáo nằm giữa 40% và 80%. Khi pha, trước hết rót nước nóng vào bình, đợi nước hạ xuống khoảng 73,8 ℃ rồi mới cho sữa bột vào. Lúc này sữa vẫn còn trên 70 ℃, có thể giết loại vi khuẩn này xuống dưới một phần một trăm nghìn so với ban đầu. Pha xong để nguội rồi mới cho bú, sữa thừa thì đổ bỏ.
+- Lợi ích: Sữa bột không vô trùng, có thể mang Cronobacter sakazakii. Tỷ lệ tử vong sau nhiễm ở trẻ sơ sinh được báo cáo là 40% đến 80%. Nghiên cứu thực nghiệm cho thấy: rót nước nóng vào bình trước, đợi nước hạ xuống khoảng 73,8 ℃ rồi mới thêm sữa bột, trong đại đa số trường hợp sữa vẫn còn trên 70 ℃. Làm vậy có thể giảm loại vi khuẩn này trên 5 bậc logarit, xuống dưới một phần một trăm nghìn so với ban đầu
+- Mức bằng chứng: A
+- Nguồn: Beary MA, Daly SE, Baker J, Snyder AB (2025). Assessing Hot Water Reconstitution Instructions and Labeling of Powdered Infant Formula to Ensure Cronobacter spp. Reduction. Journal of Food Protection, 88(9), 100571. <https://doi.org/10.1016/j.jfp.2025.100571>; Sima WG, Legesse T, Girma S, et al. (2025). Emerging microbial risks: Cronobacter sakazakii in powdered infant formula for infants under six months of age in Ethiopia. BMC Microbiology, 26, 307. <https://doi.org/10.1186/s12866-025-04380-y>; World Health Organization & FAO (2007). Safe preparation, storage and handling of powdered infant formula: guidelines. <https://www.who.int/publications/i/item/9789241595414>
+- Ghi chú: Ngưỡng 70 ℃ này đến từ hướng dẫn y tế công cộng. Nguyên văn của Beary và cộng sự là “Hướng dẫn y tế công cộng dành cho người chăm sóc trẻ nhũ nhi nguy cơ cao khuyến nghị dùng nước đun nóng ít nhất 70 ℃ (158 ℉) để pha sữa công thức nhằm bất hoạt vi sinh vật”. Trẻ đẻ non, trẻ cân nặng thấp và trẻ dưới 2 tháng tuổi có nguy cơ cao nhất. Đừng dùng nước trong bình giữ nhiệt đã để một ngày để pha. Cũng đừng để sữa đã pha ở nhiệt độ phòng chờ bữa sau.
 
-### 6. 不满 1 岁不喂蜂蜜
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
-- 成本：不花钱
-- 说人话：孩子不满 1 岁，不要喂蜂蜜。蜂蜜水、拌进辅食里的蜂蜜、含蜂蜜的糕点，都算。蜂蜜里可能带有引起肉毒中毒的细菌。大人肚子里的菌群能压住它，婴儿压不住。自家做的腌菜和发酵食品，也是同样的道理。
-- 收益：美国疾控中心的说法是「不要给 1 岁以下的儿童喂蜂蜜」，因为「蜂蜜可能含有引起肉毒中毒的细菌」。成年人的肠道菌群能压住这种芽孢（这种细菌的休眠状态），婴儿压不住
-- 证据等级：A
-- 来源：US CDC. Preventing Botulism. <https://www.cdc.gov/botulism/prevention/index.html>
-- 备注：不能喂的包括蜂蜜水、拌了蜂蜜的辅食、含蜂蜜的糕点。同样的道理，自家做的腌菜和发酵食品，也不要给婴儿吃
+### 6. Dưới 1 tuổi không cho ăn mật ong
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền.
+- Hiểu nhanh: Trẻ chưa đầy 1 tuổi, đừng cho ăn mật ong. Nước mật ong, mật ong trộn vào thức ăn dặm, bánh kẹo có mật ong, đều tính. Mật ong có thể mang theo vi khuẩn gây ngộ độc botulinum. Hệ vi khuẩn trong bụng người lớn trấn được nó, trẻ nhũ nhi thì không. Dưa muối và thực phẩm lên men tự làm ở nhà cũng cùng một lý.
+- Lợi ích: Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ nói “không cho trẻ dưới 1 tuổi ăn mật ong”, vì “mật ong có thể chứa vi khuẩn gây ngộ độc botulinum”. Hệ vi khuẩn đường ruột của người lớn trấn được loại bào tử này (trạng thái ngủ đông của vi khuẩn), trẻ nhũ nhi thì không
+- Mức bằng chứng: A
+- Nguồn: US CDC. Preventing Botulism. <https://www.cdc.gov/botulism/prevention/index.html>
+- Ghi chú: Không cho ăn gồm nước mật ong, thức ăn dặm trộn mật ong, bánh kẹo có mật ong. Cùng một lý, dưa muối và thực phẩm lên men tự làm ở nhà cũng không nên cho trẻ nhũ nhi ăn.
 
-### 7. 出生时的维生素 K 针一定要打
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：0 元到几十元。这笔钱通常已经包含在住院生孩子的费用里，不用另外交
-- 说人话：新生儿身体里存的维生素 K 很少，不补可能出血，晚出现的那种常常是脑子里出血。在没普遍打这一针的地方，每 10 万个新生儿有 478 个出这种血。打了这一针，估计能少掉七成八以上。国内正规医院会常规打，在家生或在不正规机构生的，要主动问一句打了没有。
-- 收益：新生儿体内存的维生素 K 很少。不补充可能出现维生素 K 缺乏性出血，晚出现的那一种常常表现为颅内出血（脑子里出血）。比利时的共识建议是「出生时肌肉注射 1 或 2 毫克维生素 K 一次」。在没有系统提供预防的地区，维生素 K 缺乏性出血的发生率是每 10 万人 478 例，这个数字来自塔什干的 4.2 万名新生儿。作者估计，做了预防可以使发生率下降「高于 78.5%」
-- 证据等级：B
-- 来源：Fiesack S, Smits A, Rayyan M, et al. (2021). Nutrients, 13(11), 4109. <https://doi.org/10.3390/nu13114109>；Tursunov D, Yoshida Y, Yrysov K, et al. (2018). Nagoya Journal of Medical Science, 80(1), 11. <https://doi.org/10.18999/nagjms.80.1.11>
-- 备注：在中国的正规医院生孩子，医院会常规打这一针，不用自己操心。在家生的，或者在不正规机构生的，要主动去确认。口服的效果不如打针，这里说的打针是打进肌肉里
+### 7. Mũi vitamin K lúc sinh nhất định phải tiêm
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Từ 0 đến vài chục yên. Khoản này thông thường đã nằm trong chi phí nằm viện sinh con, không phải trả thêm.
+- Hiểu nhanh: Cơ thể trẻ sơ sinh trữ rất ít vitamin K, không bổ sung có thể xuất huyết; loại xuất hiện muộn thường là chảy máu trong não. Ở những nơi chưa phổ biến mũi tiêm này, cứ 100.000 trẻ sơ sinh có 478 em bị xuất huyết như vậy. Tiêm mũi này, ước tính giảm được trên 78%. Bệnh viện chính quy trong nước sẽ tiêm thường quy; sinh ở nhà hoặc ở cơ sở không chính quy thì phải chủ động hỏi một câu đã tiêm chưa.
+- Lợi ích: Trong cơ thể trẻ sơ sinh trữ rất ít vitamin K. Không bổ sung có thể xuất hiện xuất huyết do thiếu vitamin K; loại xuất hiện muộn thường biểu hiện là xuất huyết trong não (chảy máu trong hộp sọ). Đồng thuận của Bỉ khuyến nghị “tiêm bắp 1 hoặc 2 mg vitamin K một lần lúc sinh”. Ở vùng chưa cung cấp dự phòng một cách hệ thống, tỷ lệ xuất huyết do thiếu vitamin K là 478 ca trên 100.000 người; con số này đến từ 42.000 trẻ sơ sinh ở Tashkent. Tác giả ước tính, làm dự phòng có thể làm tỷ lệ này giảm “cao hơn 78,5%”
+- Mức bằng chứng: B
+- Nguồn: Fiesack S, Smits A, Rayyan M, et al. (2021). Nutrients, 13(11), 4109. <https://doi.org/10.3390/nu13114109>; Tursunov D, Yoshida Y, Yrysov K, et al. (2018). Nagoya Journal of Medical Science, 80(1), 11. <https://doi.org/10.18999/nagjms.80.1.11>
+- Ghi chú: Sinh ở bệnh viện chính quy tại Trung Quốc, bệnh viện sẽ tiêm thường quy mũi này, không cần bạn lo. Sinh ở nhà, hoặc sinh ở cơ sở không chính quy, phải chủ động đi xác nhận. Uống hiệu quả không bằng tiêm; chỗ này nói tiêm là tiêm vào bắp thịt.
 
-### 8. 不满 3 个月的婴儿体温到 38 ℃ 就直接去医院，不在家观察
-<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：挂号加检查几百元
-- 说人话：孩子不满 3 个月，体温到 38 ℃ 就直接去医院。不要在家观察，也不要先喂退烧药再等等看。这个月龄的孩子就算得的是严重细菌感染，也可能只表现为发热。所以「看着精神还行」不能当成在家等的理由。出生不满 8 天的孩子，连指南都没覆盖，更要马上去。
-- 收益：美国儿科学会为 8 至 60 日龄、看上去状态还可以的足月婴儿制定了专门指南。这份指南把发热定义为「体温 ≥38.0 ℃」。它按 8 至 21 日龄、22 至 28 日龄、29 至 60 日龄分成三档，各给一条处理路径。不满 8 日龄的婴儿甚至不在这份指南的范围里，意思是这个阶段更要立即就医
-- 证据等级：A
-- 来源：Pantell RH, Roberts KB, Adams WG, et al. (2021). Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics, 148(2), e2021052228. <https://doi.org/10.1542/peds.2021-052228>
-- 备注：这个月龄的孩子，得了严重细菌感染也可能只表现为发热。所以看着「精神还行」，不能作为在家观察的理由。也别自己先喂退烧药，再等等看
+### 8. Trẻ nhũ nhi dưới 3 tháng thân nhiệt lên 38 ℃ thì đi viện ngay, không ở nhà quan sát
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Tiền đăng ký khám cộng chi phí xét nghiệm vài trăm yên.
+- Hiểu nhanh: Trẻ dưới 3 tháng, thân nhiệt lên 38 ℃ thì đi viện ngay. Đừng để ở nhà quan sát, cũng đừng cho uống thuốc hạ sốt trước rồi đợi xem. Trẻ tháng tuổi này dù mắc nhiễm khuẩn nặng cũng có thể chỉ biểu hiện là sốt. Nên “nhìn qua tinh thần còn ổn” không thể lấy làm lý do để chờ ở nhà. Trẻ sinh chưa đầy 8 ngày, đến hướng dẫn cũng không phủ tới, càng phải đi ngay.
+- Lợi ích: Viện Nhi khoa Hoa Kỳ ban hành hướng dẫn riêng cho trẻ sinh đủ tháng từ 8 đến 60 ngày tuổi nhìn qua trạng thái vẫn khá ổn. Hướng dẫn này định nghĩa sốt là “thân nhiệt ≥38,0 ℃”. Hướng dẫn chia thành ba nhóm theo 8 đến 21 ngày tuổi, 22 đến 28 ngày tuổi, 29 đến 60 ngày tuổi, mỗi nhóm một lộ trình xử lý. Trẻ nhũ nhi dưới 8 ngày tuổi thậm chí không nằm trong phạm vi của hướng dẫn này, nghĩa là giai đoạn này càng phải đi khám ngay
+- Mức bằng chứng: A
+- Nguồn: Pantell RH, Roberts KB, Adams WG, et al. (2021). Evaluation and Management of Well-Appearing Febrile Infants 8 to 60 Days Old. Pediatrics, 148(2), e2021052228. <https://doi.org/10.1542/peds.2021-052228>
+- Ghi chú: Trẻ tháng tuổi này, mắc nhiễm khuẩn nặng cũng có thể chỉ biểu hiện là sốt. Nên nhìn qua “tinh thần còn ổn” không thể làm lý do để quan sát ở nhà. Cũng đừng tự cho uống thuốc hạ sốt trước rồi đợi xem.
 
-### 9. 无论多累多气都不要摇晃婴儿
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=死亡率 -->
-- 成本：不花钱。难在自己太累、太气的时候要停住手
-- 说人话：婴儿的头大，脖子没力气。用力摇晃会让他脑子里、眼睛里出血，可能要了他的命，也可能留下一辈子的残疾。哄睡时轻轻晃不算，危险的是控制不住的猛晃。快压不住火时，把孩子放回婴儿床，人走开几分钟，让他哭一会儿比抱着晃安全。
-- 收益：婴儿头部占比大，颈部肌肉弱。剧烈摇晃会造成颅内出血和视网膜出血（脑子里和眼睛里出血），可能致死，也可能留下终身残疾。哄睡时的轻柔摇动不算，危险的是失控的剧烈晃动。医学上把摇晃、撞击造成的这类伤叫「虐待性头部外伤」。它是 2 岁以下孩子头部外伤致死的首要原因。美国 1999 到 2014 年，它造成近 2250 名 5 岁以下孩子死亡
-- 证据等级：B
-- 来源：Spies EL, Klevens J (2016). Fatal Abusive Head Trauma Among Children Aged <5 Years — United States, 1999–2014. MMWR 65(20):505-509. <https://doi.org/10.15585/mmwr.mm6520a1>；Choudhary AK 等 (2018). Consensus statement on abusive head trauma in infants and young children. Pediatric Radiology 48(8):1048-1065. <https://doi.org/10.1007/s00247-018-4149-1>
-- 备注：真的到了要失控的那一刻，先把孩子放回婴儿床里，人走开几分钟。让他哭一会儿，比抱在手上晃安全得多。一个人带孩子、长期睡不够的人，最要记住这一点。自己的情绪怎么处理，见第 3 节
+### 9. Dù mệt thế nào, tức thế nào cũng đừng lắc trẻ nhũ nhi
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Khó ở chỗ khi mình quá mệt, quá tức thì phải kịp dừng tay.
+- Hiểu nhanh: Đầu trẻ nhũ nhi to, cổ không có sức. Lắc mạnh sẽ làm bé xuất huyết trong não, trong mắt, có thể lấy mất mạng bé, cũng có thể để lại khuyết tật cả đời. Nhẹ nhàng đưa khi dỗ ngủ thì không tính; nguy hiểm là những cú giật mạnh không kiểm soát nổi. Gần không kiềm nổi cơn nóng giận, đặt trẻ trở lại cũi, người đi khỏi vài phút, để bé khóc một lúc an toàn hơn là ôm vào lòng lắc.
+- Lợi ích: Đầu trẻ nhũ nhi chiếm tỷ lệ lớn, cơ cổ yếu. Lắc dữ dội gây xuất huyết trong não và xuất huyết võng mạc (chảy máu trong não và trong mắt), có thể dẫn đến tử vong, cũng có thể để lại khuyết tật suốt đời. Cú đưa nhẹ nhàng khi dỗ ngủ không tính; nguy hiểm là cú lắc dữ dội mất kiểm soát. Y học gọi loại tổn thương do lắc, do va đập này là “chấn thương đầu do ngược đãi”. Đây là nguyên nhân tử vong hàng đầu do chấn thương đầu ở trẻ dưới 2 tuổi. Ở Mỹ từ 1999 đến 2014, nó khiến gần 2.250 trẻ dưới 5 tuổi tử vong
+- Mức bằng chứng: B
+- Nguồn: Spies EL, Klevens J (2016). Fatal Abusive Head Trauma Among Children Aged <5 Years — United States, 1999–2014. MMWR 65(20):505-509. <https://doi.org/10.15585/mmwr.mm6520a1>; Choudhary AK và cs (2018). Consensus statement on abusive head trauma in infants and young children. Pediatric Radiology 48(8):1048-1065. <https://doi.org/10.1007/s00247-018-4149-1>
+- Ghi chú: Thật sự đến khoảnh khắc sắp mất kiểm soát, trước hết đặt trẻ vào cũi, người đi khỏi vài phút. Để bé khóc một lúc an toàn hơn nhiều so với ôm trên tay lắc. Người một mình chăm con, người lâu ngày thiếu ngủ, nhất định phải nhớ điều này. Cách xử lý cảm xúc của mình, xem chương 3.
 
-### 10. 尿布不看牌子看三件事：合不合身、换得勤不勤、有没有被抽检通报过
-<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：每月两三百到上千元不等，看你用什么档次的
-- 说人话：没有哪个官方机构排过「哪个牌子最好」。能查的只有两样：市场监管总局的产品质量抽检通报，和监管部门对具体事件的调查。贵的不等于安全，进口的不等于合格。先买小包装试一周，看孩子有没有红屁股和勒痕，合适再囤。
-- 收益：没有任何官方机构发布过「哪个牌子最好」的排名，所以本书不给品牌推荐。能核查的信息只有两类。一类是国家市场监督管理总局的产品质量抽检通报。另一类是监管部门对具体事件的调查。2026 年 6 月「婴幼儿纸尿裤甲酰胺问题」引起关注之后，市场监管总局牵头成立了联合调查组去核查
-- 证据等级：C
-- 来源：市场监管总局 (2026-06-22). 市场监管总局牵头成立联合调查组核查「婴幼儿纸尿裤甲酰胺问题」：「针对媒体反映的"婴幼儿纸尿裤甲酰胺问题"，市场监管总局、工业和信息化部、国家卫生健康委、国家疾控局高度重视，成立联合调查组，核查婴幼儿纸尿裤甲酰胺有关问题，并依法依规处理。有关情况将及时公布。」. <https://www.samr.gov.cn/xw/zj/art/2026/art_78c0425db7604b27bd7a3f36ba319975.html>；中国政府网转载. <https://www.gov.cn/zhengce/202606/content_7072931.htm>
-- 备注：联合调查组成立时只说「有关情况将及时公布」。TODO（待核实：调查结论。截至 2026 年 9 月 30 日，市场监管总局官网和近年的国家监督抽查通报里都没找到纸尿裤的结论）。实际怎么买：贵的不等于安全，进口的不等于合格。先买小包装试一周，看孩子有没有红屁股和勒痕，合适再囤。红屁股主要是换得不够勤、不透气造成的，和牌子的关系没有想象中大。查抽检通报的方法见第 5 节
+### 10. Tã không xét thương hiệu mà xét ba điều: có vừa không, thay có thường xuyên không, có từng bị thông báo kiểm tra lấy mẫu chưa
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Mỗi tháng vài trăm đến hơn nghìn yên không đợi nhau, tùy bạn dùng phân khúc nào.
+- Hiểu nhanh: Không có cơ quan chính thức nào xếp hạng “thương hiệu nào tốt nhất”. Tra được chỉ có hai thứ: thông báo kiểm tra lấy mẫu chất lượng sản phẩm của Tổng cục Giám sát Quản lý Thị trường, và cuộc điều tra của cơ quan giám sát đối với từng sự việc cụ thể. Đắt không có nghĩa là an toàn, hàng nhập không có nghĩa là đạt chuẩn. Trước mua gói nhỏ thử một tuần, xem con có hăm đỏ và vết hằn không, hợp mới mua kho.
+- Lợi ích: Không có bất kỳ cơ quan chính thức nào công bố bảng xếp hạng “thương hiệu nào tốt nhất”, nên sách này không giới thiệu nhãn hàng. Thông tin có thể kiểm chứng chỉ có hai loại. Một loại là thông báo kiểm tra lấy mẫu chất lượng sản phẩm của Tổng cục Giám sát Quản lý Thị trường quốc gia. Loại khác là cuộc điều tra của cơ quan giám sát đối với từng sự việc cụ thể. Tháng 6/2026 “vấn đề formamide trong tã dán cho trẻ nhũ nhi – nhi đồng” gây chú ý, sau đó Tổng cục Giám sát Quản lý Thị trường đứng đầu lập tổ điều tra liên hợp đi xác minh
+- Mức bằng chứng: C
+- Nguồn: Tổng cục Giám sát Quản lý Thị trường (22/6/2026). Tổng cục Giám sát Quản lý Thị trường đứng đầu lập tổ điều tra liên hợp xác minh “vấn đề formamide trong tã dán trẻ nhũ nhi – nhi đồng”: “Về ‘vấn đề formamide trong tã dán trẻ nhũ nhi – nhi đồng’ mà báo chí phản ánh, Tổng cục Giám sát Quản lý Thị trường, Bộ Công nghiệp và Công nghệ thông tin, Ủy ban Y tế Quốc gia, Cục Phòng, chống bệnh Quốc gia coi trọng cao độ, lập tổ điều tra liên hợp, xác minh các vấn đề liên quan đến formamide trong tã dán trẻ nhũ nhi – nhi đồng, và xử lý theo pháp luật, theo quy định. Tình hình liên quan sẽ được công bố kịp thời.”. <https://www.samr.gov.cn/xw/zj/art/2026/art_78c0425db7604b27bd7a3f36ba319975.html>; Cổng Chính phủ Trung Quốc đăng lại. <https://www.gov.cn/zhengce/202606/content_7072931.htm>
+- Ghi chú: Khi lập tổ điều tra liên hợp chỉ nói “tình hình liên quan sẽ được công bố kịp thời”. TODO (chờ kiểm chứng: kết luận điều tra. Tính đến 30/9/2026, website của Tổng cục Giám sát Quản lý Thị trường và các thông báo kiểm tra giám sát quốc gia những năm gần đây đều không tìm thấy kết luận về tã dán). Thực tế mua thế nào: đắt không có nghĩa là an toàn, hàng nhập không có nghĩa là đạt chuẩn. Trước mua gói nhỏ thử một tuần, xem con có hăm đỏ và vết hằn không, hợp mới mua kho. Hăm đỏ chủ yếu do thay không đủ thường xuyên, không thông thoáng gây ra, quan hệ với thương hiệu không lớn như người ta tưởng. Cách tra thông báo kiểm tra lấy mẫu xem chương 5.
 
-### 11. 大件按「借、买二手、买新」的顺序考虑，别一次性配齐
-<!-- 成本标签: 钱=少 时间=少 毅力=些 收益=中 口径=金钱 -->
-- 成本：不用额外花钱，省下来的钱通常以千元计。难在忍住不一次性把东西配齐
-- 说人话：婴儿车、婴儿床、抱被、玩具用的时间都短，二手货很多。先问人借，借不到买二手，再不行才买新的，通常能省下上千元。安全座椅和床垫别买二手，座椅撞过以后的损伤眼睛看不出来。月子会所、早教课这类大钱，先冷静 24 小时再定。
-- 收益：婴儿车、婴儿床、抱被、玩具的使用期都很短，二手市场上供给远大于需求。真正不能省、也不建议买二手的是两样：安全座椅和床垫。安全座椅撞过之后的结构损伤，肉眼看不出来
-- 证据等级：C
-- 来源：作者经验，无直接文献；安全座椅的证据见第 1 节，冲动消费见第 5 节
-- 备注：月子会所、早教课、婴儿游泳馆这几类，本书不推荐也不否定。但它们都是可花可不花的一笔大钱，适用第 5 节讲的 24 小时冷静期
+### 11. Đồ lớn cân nhắc theo thứ tự “mượn, mua cũ, mua mới”, đừng mua sắm đủ bộ một lần
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=chut loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn thêm tiền, tiền tiết kiệm được thường tính theo hàng nghìn yên. Khó ở chỗ nhịn không mua sắm đủ bộ một lần.
+- Hiểu nhanh: Xe đẩy em bé, cũi, chăn quấn, đồ chơi dùng thời gian đều ngắn, hàng cũ rất nhiều. Trước hỏi mượn, mượn không được thì mua cũ, vẫn không được mới mua mới, thông thường tiết kiệm được hơn nghìn yên. Ghế an toàn và đệm đừng mua cũ: tổn hại của ghế sau khi va chạm mắt thường không nhìn ra. Những khoản tiền lớn như trung tâm chăm sóc sau sinh, lớp giáo dục sớm, trước hết giữ mình 24 giờ rồi mới quyết.
+- Lợi ích: Thời gian dùng của xe đẩy em bé, cũi, chăn quấn, đồ chơi đều rất ngắn, nguồn cung trên thị trường đồ cũ vượt xa nhu cầu. Thật sự không thể tiết kiệm và cũng không khuyến nghị mua cũ chỉ có hai thứ: ghế an toàn và đệm. Tổn thương kết cấu của ghế an toàn sau khi va chạm, mắt thường không nhìn ra
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm tác giả, không có tài liệu trực tiếp; bằng chứng về ghế an toàn xem chương 1, tiêu dùng bốc đồng xem chương 5
+- Ghi chú: Trung tâm chăm sóc sau sinh, lớp giáo dục sớm, hồ bơi cho trẻ sơ sinh, mấy loại này sách này không khuyến khích cũng không phủ nhận. Nhưng chúng đều là khoản tiền lớn có thể tiêu được cũng có thể không, áp dụng thời gian giữ mình 24 giờ mà chương 5 nói.
 
-### 12. 孩子有严重湿疹或鸡蛋过敏，别躲着花生，按医生指导早点加上，但绝不能喂整粒
-<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：一罐花生酱几十元。每周喂几次，顺手就做。加之前要带孩子看一次医生，做个评估。
-- 说人话：有重度湿疹或鸡蛋过敏的婴儿，从 4 到 11 个月起定期吃花生，到 5 岁时花生过敏的只有 1.9%，完全躲开的是 13.7%。皮试已经有点反应的孩子，吃的是 10.6%，躲的是 35.3%。加之前先带孩子看医生。绝不能喂整粒花生，会噎住气管。
-- 收益：英国 LEAP 随机试验。640 名婴儿入组，条件是有重度湿疹、鸡蛋过敏，或者两样都有。入组时 4 到 11 个月大。随机分成两组，一组定期吃花生制品，一组完全回避，到 60 个月大时看花生过敏率。入组时花生皮试阴性的 530 人里，回避组 13.7% 过敏，吃的组 1.9%（P<0.001）。入组时皮试已经弱阳性的 98 人里，回避组 35.3%，吃的组 10.6%（P=0.004）。两组的严重不良事件没有差别。
-- 证据等级：A
-- 来源：Du Toit G, Roberts G, Sayre PH, 等 (2015). Randomized trial of peanut consumption in infants at risk for peanut allergy. New England Journal of Medicine, 372(9), 803-813. <https://doi.org/10.1056/NEJMoa1414850>；国家卫生健康委办公厅 (2020). 婴幼儿喂养健康教育核心信息. <https://www.gov.cn/zhengce/zhengceku/2020-08/01/content_5531915.htm>；Perkin MR 等 (2016). Randomized Trial of Introduction of Allergenic Foods in Breast-Fed Infants. New England Journal of Medicine, 374(18), 1733-1743. <https://doi.org/10.1056/NEJMoa1514210>（备注里那项一般婴儿试验 EAT）
-- 备注：**形式只能是花生酱调稀或者花生粉拌进辅食，绝不能给整粒花生。**卫健委的喂养核心信息写得很明白：「整粒花生、坚果、果冻等食物易吸入气管，引起窒息，婴幼儿应当避免食用」。噎住了怎么办见第 13 节第 26 条（有人噎住说不出话）。适用的只是高危孩子：有重度湿疹，或者已经对鸡蛋过敏的那些。**加之前必须先看医生做评估，不要自己在家试**：LEAP 试验入组前给每个孩子做了皮试，皮试反应大于 4 毫米的孩子被排除在试验之外，没让他们吃。一般孩子的证据弱得多。另一项 1162 名普通母乳喂养婴儿的试验里，按分组算，早引入组食物过敏 5.6%、常规组 7.1%，差别不显著（P=0.32）；只有在真正做到了的那部分孩子里才显著（2.4% 对 7.3%）。这种算法容易把效果说大，作者自己说按分组算没能证出效力，但也说明早引入是安全的。中国的官方喂养文件目前对「该早引入还是该回避易过敏食物」没有说法，所以这条按国际试验证据写。时间点上也要注意：LEAP 从 4 月龄起，而中国是满 6 月龄开始加辅食，见本节第 4 条（前 6 个月只喂母乳）。高危孩子几月龄开始、怎么开始，听医生的。
+### 12. Trẻ có chàm nặng hoặc dị ứng trứng, đừng né đậu phộng; theo hướng dẫn của bác sĩ thêm vào sớm, nhưng tuyệt đối không cho ăn hạt nguyên
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Một hũ bơ đậu phộng vài chục yên. Mỗi tuần cho ăn vài lần, tiện tay là làm được. Trước khi thêm vào phải đưa trẻ đi khám bác sĩ một lần, làm đánh giá.
+- Hiểu nhanh: Trẻ nhũ nhi có chàm nặng hoặc dị ứng trứng, từ 4 đến 11 tháng tuổi trở đi ăn đậu phộng đều đặn, đến 5 tuổi bị dị ứng đậu phộng chỉ có 1,9%; né hoàn toàn là 13,7%. Trẻ test da đã có phản ứng chút ít, nhóm ăn là 10,6%, nhóm né là 35,3%. Trước khi thêm vào, trước tiên đưa trẻ đi khám bác sĩ. Tuyệt đối không cho ăn hạt đậu phộng nguyên hạt, sẽ nghẹn khí quản.
+- Lợi ích: Thử nghiệm ngẫu nhiên LEAP của Anh. 640 trẻ nhũ nhi tham gia, điều kiện là có chàm nặng, dị ứng trứng, hoặc cả hai. Khi tham gia trẻ 4 đến 11 tháng tuổi. Chia ngẫu nhiên thành hai nhóm, một nhóm định kỳ ăn sản phẩm từ đậu phộng, một nhóm né hoàn toàn, đến khi 60 tháng tuổi xem tỷ lệ dị ứng đậu phộng. Trong 530 trẻ test da đậu phộng âm tính khi tham gia, nhóm né 13,7% dị ứng, nhóm ăn 1,9% (P<0,001). Trong 98 trẻ test da đã dương tính yếu khi tham gia, nhóm né 35,3%, nhóm ăn 10,6% (P=0,004). Sự kiện bất lợi nghiêm trọng của hai nhóm không có khác biệt.
+- Mức bằng chứng: A
+- Nguồn: Du Toit G, Roberts G, Sayre PH, và cs (2015). Randomized trial of peanut consumption in infants at risk for peanut allergy. New England Journal of Medicine, 372(9), 803-813. <https://doi.org/10.1056/NEJMoa1414850>; Văn phòng Ủy ban Y tế Quốc gia (2020). Thông tin cốt lõi giáo dục sức khỏe nuôi ăn trẻ nhũ nhi – nhi đồng. <https://www.gov.cn/zhengce/zhengceku/2020-08/01/content_5531915.htm>; Perkin MR và cs (2016). Randomized Trial of Introduction of Allergenic Foods in Breast-Fed Infants. New England Journal of Medicine, 374(18), 1733-1743. <https://doi.org/10.1056/NEJMoa1514210> (thử nghiệm EAT trên trẻ nhũ nhi thông thường trong phần ghi chú)
+- Ghi chú: **Dạng thức chỉ có thể là bơ đậu phộng pha loãng hoặc bột đậu phộng trộn vào thức ăn dặm, tuyệt đối không cho hạt đậu phộng nguyên hạt.** Thông tin cốt lõi nuôi ăn của Ủy ban Y tế Quốc gia viết rất rõ: “Hạt đậu phộng nguyên hạt, quả hạch, thạch rau câu và các thực phẩm khác dễ hít vào khí quản gây ngạt thở, trẻ nhũ nhi – nhi đồng nên tránh”. Nghẹn rồi làm sao xem chương 13 mục 26 (có người nghẹn không nói được). Đối tượng áp dụng chỉ là trẻ nguy cơ cao: những em có chàm nặng, hoặc đã dị ứng trứng. **Trước khi thêm vào nhất định phải đi khám để đánh giá trước, đừng tự thử ở nhà**: thử nghiệm LEAP trước khi nhận vào nhóm đã làm test da cho từng trẻ; trẻ có phản ứng test da trên 4 mm bị loại khỏi thử nghiệm, không cho chúng ăn. Bằng chứng cho trẻ thông thường yếu hơn nhiều. Trong một thử nghiệm khác với 1.162 trẻ nhũ nhi bú mẹ thông thường, tính theo nhóm phân bổ, nhóm đưa vào sớm dị ứng thức ăn 5,6%, nhóm thường quy 7,1%, khác biệt không có ý nghĩa thống kê (P=0,32); chỉ trong phần trẻ thực sự làm được mới có ý nghĩa (2,4% so với 7,3%). Cách tính này dễ nói quá hiệu quả; chính tác giả nói tính theo nhóm không chứng minh được hiệu lực, nhưng cũng cho thấy đưa vào sớm là an toàn. Văn bản chính thức của Trung Quốc về nuôi ăn hiện nay chưa có ý kiến về “nên đưa vào sớm hay nên né thực phẩm dễ dị ứng”, nên mục này viết theo bằng chứng thử nghiệm quốc tế. Về thời điểm cũng phải chú ý: LEAP bắt đầu từ 4 tháng tuổi, còn Trung Quốc là đầy 6 tháng tuổi mới bắt đầu thêm thức ăn dặm, xem mục 4 trong chương này (6 tháng đầu chỉ bú mẹ). Trẻ nguy cơ cao từ tháng tuổi mấy bắt đầu, bắt đầu thế nào, nghe bác sĩ.

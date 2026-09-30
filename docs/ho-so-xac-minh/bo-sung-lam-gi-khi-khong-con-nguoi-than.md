@@ -1,41 +1,41 @@
-# 追加：没有亲人也没有朋友时「别一个人待着」怎么落地 · 核实记录（2026-09-18）
+# Bổ sung: khi không có người thân cũng không có bạn bè, thực hiện “đừng ở một mình” thế nào · Hồ sơ xác minh (2026-09-18)
 
-任务来源：用户对第 29 节第 1 条提问——「亲人刚走的那几天别一个人待着，如果没有亲人，也没有朋友，怎么做到呢」。
+Nguồn nhiệm vụ: người dùng hỏi về chương 29 mục 1 — “Vài ngày đầu sau khi người thân vừa mất thì đừng ở một mình; vậy nếu không có người thân mà cũng không có bạn bè thì làm thế nào?”
 
-这是第三次出现同一类问题（前两次是「只给禁止不给出路」和「免责条款越界」）：条目给的动作默认读者身边有一个可用的人。全节扫下来有四处这样的默认：
+Đây là lần thứ ba xuất hiện cùng một loại vấn đề (hai lần trước là “chỉ đưa ra điều cấm mà không chỉ đường thoát” và “điều khoản miễn trừ trách nhiệm vượt giới hạn”): hành động mà mục đưa ra mặc định bên cạnh người đọc luôn có một người dùng được. Quét toàn chương có bốn chỗ mặc định như thế:
 
-| 条目 | 默认了「有人」的地方 |
+| Mục | Chỗ mặc định “có người” |
 |---|---|
-| 第 1 条（丧亲头几天） | 「别独处」「药盒交给别人管」 |
-| 第 2 条（重病诊断第一周） | 「拿报告那天带个人一起去」 |
-| 第 5 条（丧偶后半年） | 「找一个具体的人（子女、兄弟姐妹、朋友）定期上门或打电话」 |
-| 第 12 条（大决定往后推） | 「先讲给一个跟这件事没有利益关系的人听」 |
+| mục 1 (vài ngày đầu sau khi mất người thân) | “Đừng ở một mình”, “giao hộp thuốc cho người khác quản giúp” |
+| mục 2 (tuần đầu sau khi được chẩn đoán bệnh nặng) | “Ngày nhận kết quả thì rủ theo một người cùng đi” |
+| mục 5 (nửa năm sau khi mất vợ/chồng) | “Tìm một người cụ thể (con cái, anh chị em ruột, bạn bè) ghé nhà hoặc gọi điện định kỳ” |
+| mục 12 (hoãn các quyết định lớn lại) | “Trước tiên kể cho một người không dính lợi ích với chuyện này nghe” |
 
-落点：第 29 节**新增第 6 条**（插在丧偶照看窗口之后），原第 6 到 12 条顺次改为第 7 到 13 条；节内引用（原第 8 条标题与说人话、备注里的「第 7 条」）同步改为「第 8 条」，「本节第 4 条」两处不受影响。上面四条各补一句指向新条目的出口，第 12 条同时给出无人可讲时的替代（打 12356 讲，或写下来隔三天再读）。
+Điểm chạm: chương 29 **thêm mục mới là mục 6** (chèn vào sau cửa sổ chăm sóc sau tang vợ/tang chồng), mục 6 đến 12 cũ lần lượt đổi thành mục 7 đến 13; các tham chiếu trong chương (tiêu đề và phần Hiểu nhanh của mục 8 cũ, “mục 7” trong ghi chú) đồng bộ đổi thành “mục 8”, hai chỗ “mục 4 trong chương này” không bị ảnh hưởng. Bốn mục nêu trên, mỗi mục bổ sung một câu lối thoát trỏ tới mục mới; mục 12 đồng thời đưa phương án thay thế cho trường hợp không có ai để kể (gọi 12356 để kể, hoặc viết ra rồi ba ngày sau đọc lại).
 
-## 新增条目的写法
+## Cách viết của mục bổ sung
 
-把「有人陪」拆成两件可分别替代的事，是这条的骨架：
+Tách “có người bên cạnh” thành hai việc có thể thay thế riêng từng việc — đó là khung xương của mục này:
 
-1. **出事时有人发现你**——这一半必须换人，换成三样东西：给一个邻居或物业备用钥匙／门锁临时密码并告知「我这几天一个人」；到居委会说明独居、问能不能上探访关爱名单和本地有没有免费的智能呼叫器、智能水表；手机设紧急联络人与医疗急救卡、不静音不关机。
-2. **有人盯着吃药吃饭**——这一半本来就只能靠自己，换成写下来的清单加闹钟，不靠记性。
+1. **Khi có chuyện xảy ra phải có người phát hiện bạn** — nửa này bắt buộc phải đổi người thành vật, đổi thành ba thứ: đưa cho một người hàng xóm hoặc ban quản lý chìa khóa dự phòng/mã tạm thời của khóa cửa và báo trước “vài ngày này tôi ở một mình”; đến ủy ban cư dân khu khai rõ mình sống một mình, hỏi có thể đưa vào danh sách thăm hỏi quan tâm không và địa phương có chuông gọi thông minh, đồng hồ nước thông minh miễn phí không; trên điện thoại cài người liên hệ khẩn cấp và thẻ cấp cứu y tế, không tắt tiếng, không tắt máy.
+2. **Có người trông chừng việc uống thuốc, ăn cơm** — nửa này vốn chỉ có thể dựa vào chính mình, đổi thành danh sách viết ra kèm chuông báo thức, không dựa vào trí nhớ.
 
-## 来源核实
+## Xác minh nguồn
 
-- **Udell JA, et al. (2012). Living alone and cardiovascular risk in outpatients at risk of or with atherothrombosis. Arch Intern Med. <https://doi.org/10.1001/archinternmed.2012.2782>**：Europe PMC 取到 core 记录与全文摘要，逐字核对。44,573 人、8,594（19%）独居、4 年全因死亡 14.1% 对 11.1%、心血管死亡 8.6% 对 6.8%（log-rank P<.01）、交互 P=.03、45–65 岁 7.7% 对 5.7% HR 1.24（1.01–1.51）、66–80 岁 13.2% 对 12.3% HR 1.12（1.01–1.26）、>80 岁 24.6% 对 28.4% HR 0.92（0.79–1.06）均出自摘要原文；结论句里作者自己写「although this observation warrants confirmation」，备注据此写「原文自己也写这个结果有待确认」。
-- **民政部等十部门 (2022). 关于开展特殊困难老年人探访关爱服务的指导意见（民发〔2022〕73 号）. <https://www.gov.cn/zhengce/zhengceku/2022-10/13/content_5718017.htm>**：gov.cn 政策文件库命中，抓全文逐字核对。服务对象「独居、空巢、留守、失能、重残、计划生育特殊家庭等老年人」、方式「定期上门入户、电话视频、远程监测」、摸底排查主体（乡镇街道 + 村居民委员会协助）、「接受探访关爱服务的意愿」、2025 年底「确保特殊困难老年人月探访率达到 100%」、「对失能的特殊困难老年人，每月探访关爱不少于一次」、智能呼叫系统／智能电水表／健康监测产品／养老监护装置与「一旦监测异常，能够及时预警，并同步向紧急联系人发送提示信息」、「应当第一时间协助拨打紧急求助电话」均为原文表述。十部门即民政部、中央政法委、中央文明办、教育部、财政部、住房城乡建设部、农业农村部、国家卫生健康委、中国残联、全国老龄办。
-- 复用书内已核实的三处，不新增来源：第 13 节第 1 条（院外心脏骤停 79.2% 发生在家中、旁观者按压 16.1% 对 3.9%）、第 22 节第 10 条（独居死亡比值比 1.32）、本节第 11 条引的 25 部门 2026 年方案（网格员与社工「及时发现家庭变故、失业、失学等心理危机风险」）。
+- **Udell JA, et al. (2012). Living alone and cardiovascular risk in outpatients at risk of or with atherothrombosis. Arch Intern Med. <https://doi.org/10.1001/archinternmed.2012.2782>**: đã lấy bản ghi core và tóm tắt toàn văn từ Europe PMC, đối chiếu từng chữ. 44,573 người, 8,594 (19%) sống một mình, tử vong mọi nguyên nhân 4 năm 14.1% so với 11.1%, tử vong tim mạch 8.6% so với 6.8% (log-rank P<.01), tương tác P=.03, nhóm 45–65 tuổi 7.7% so với 5.7% HR 1.24 (1.01–1.51), nhóm 66–80 tuổi 13.2% so với 12.3% HR 1.12 (1.01–1.26), nhóm >80 tuổi 24.6% so với 28.4% HR 0.92 (0.79–1.06) đều lấy từ nguyên văn phần tóm tắt; trong câu kết luận tác giả tự viết “although this observation warrants confirmation”, ghi chú theo đó viết “nguyên văn bản thân nó cũng ghi rõ kết quả này còn chờ xác nhận”.
+- **Mười bộ ngành do Bộ Dân chính đứng đầu (2022). Ý kiến chỉ đạo về triển khai dịch vụ thăm hỏi, quan tâm đối với người cao tuổi thuộc diện khó khăn đặc biệt (văn bản Dân Phát số 73 năm 2022). <https://www.gov.cn/zhengce/zhengceku/2022-10/13/content_5718017.htm>**: trúng trong kho văn bản chính sách gov.cn, đã tải toàn văn đối chiếu từng chữ. Đối tượng phục vụ “người cao tuổi sống một mình, thuộc hộ trống, ở lại quê, mất khả năng tự chăm sóc, tàn tật nặng, gia đình đặc biệt của kế hoạch hóa gia đình…”; phương thức “định kỳ đến tận nhà, điện thoại và video, giám sát từ xa”; chủ thể rà soát nắm tình hình cơ sở (cấp hương, trấn và nhai đạo, có ủy ban dân cư thôn, xã hỗ trợ); “nguyện vọng được nhận dịch vụ thăm hỏi quan tâm”; đến cuối 2025 “bảo đảm tỷ lệ thăm hỏi hằng tháng của người cao tuổi khó khăn đặc biệt đạt 100%”; “đối với người cao tuổi khó khăn đặc biệt mất khả năng tự chăm sóc, thăm hỏi quan tâm mỗi tháng không dưới một lần”; hệ thống gọi thông minh/đồng hồ điện và nước thông minh/sản phẩm giám sát sức khỏe/thiết bị giám sát dưỡng lão cùng “một khi giám sát thấy bất thường thì kịp thời cảnh báo, và đồng thời gửi thông báo cho người liên hệ khẩn cấp”; “phải ngay lập tức hỗ trợ gọi điện thoại cầu cứu khẩn cấp” — đều là diễn đạt nguyên văn của văn bản. Mười bộ ngành gồm: Bộ Dân chính, Ủy ban Chính pháp Trung ương, Văn phòng Ủy ban Chỉ đạo Xây dựng văn minh Trung ương, Bộ Giáo dục, Bộ Tài chính, Bộ Nhà ở và Xây dựng đô thị - nông thôn, Bộ Nông nghiệp và Nông thôn, Ủy ban Y tế và Sức khỏe Quốc gia, Liên đoàn Người khuyết tật Trung Quốc, Văn phòng Công tác người cao tuổi Toàn quốc.
+- Tái dùng ba chỗ đã xác minh trong sách, không thêm nguồn mới: chương 13 mục 1 (79.2% ca ngừng tim ngoài bệnh viện xảy ra tại nhà, người qua đường ép ngực 16.1% so với 3.9%), chương 22 mục 10 (tỷ số chênh tử vong của người sống một mình 1.32), phương án năm 2026 của 25 bộ ngành được dẫn tại mục 11 trong chương này (người lưới địa bàn và nhân viên công tác xã hội “phát hiện kịp thời các rủi ro khủng hoảng tâm lý như biến cố gia đình, mất việc làm, bỏ học”).
 
-未取得／未采用：想再找一条「独居者急性心梗或卒中就诊延迟更长」的原始文献，Europe PMC 本轮持续 502/503，未取到；因此正文不写就诊延迟这层机制，只写「没人在场就没人按压」这条能从第 13 节数据直接推出的因果链。
+Không lấy được/không dùng: định tìm thêm một tài liệu gốc về “người sống một mình chậm đi khám lâu hơn khi nhồi máu cơ tim cấp hoặc đột quỵ”, nhưng Europe PMC suốt đợt này trả 502/503, không lấy được; vì thế phần nội dung không viết tầng cơ chế chậm đi khám, chỉ viết chuỗi nhân quả “không có ai ở cạnh thì không có ai ép ngực” — thứ có thể suy trực tiếp từ số liệu chương 13.
 
-## 证据等级与收益量级的定法
+## Cách định mức bằng chứng và cỡ lợi ích
 
-- **证据等级 B**：独居与死亡率的关联是观察性的，反向因果（身体差、条件差的人更可能独居）去不掉；探访关爱那份文件只覆盖老年人，不满 60 岁的读者没有对应的专门制度，只能指 25 部门方案里网格员的主动发现要求。做法本身（钥匙、名单、紧急联络）没有对照试验。
-- **收益量级「中」不按阈值机械套**：机械套会取 HR 1.24 或 4 年死亡 14.1% 对 11.1%（相对高约两成七），落进「大」。但本条的做法并不消除独居本身，只替代其中「被发现」那一部分，独居与死亡率的整体关联量级不能直接当作这条的收益，故定「中」。
-- 成本标签：钱=0（居委会登记与热线免费，智能装置多地为独居老人免费安装，不作为必需项）时间=少 毅力=些（要主动开口说「我一个人住」）收益=中 口径=死亡率。
+- **Mức bằng chứng B**: mối liên hệ giữa sống một mình và tử vong mang tính quan sát, nhân quả ngược (người thể trạng kém, điều kiện kém càng dễ sống một mình) không gỡ được; văn bản thăm hỏi quan tâm kia chỉ che phủ người cao tuổi, người đọc dưới 60 tuổi không có chế độ riêng tương ứng, chỉ có thể trỏ tới yêu cầu chủ động phát hiện của người lưới địa bàn trong phương án 25 bộ ngành. Bản thân cách làm (chìa khóa, danh sách, liên hệ khẩn cấp) không có thí nghiệm đối chứng.
+- **Cỡ lợi ích “trung” không áp theo ngưỡng một cách máy móc**: áp máy móc sẽ lấy HR 1.24 hoặc tử vong 4 năm 14.1% so với 11.1% (cao tương đối khoảng 27%), rơi vào “lớn”. Nhưng cách làm của mục này không xóa bỏ việc sống một mình, chỉ thay thế phần “được phát hiện” trong đó, nên độ lớn của mối liên hệ tổng thể giữa sống một mình và tử vong không thể tính thẳng thành lợi ích của mục này, vì vậy định là “trung”.
+- Thẻ chi phí: tien=0 (đăng ký ở ủy ban cư dân và đường dây nóng miễn phí, thiết bị thông minh nhiều nơi lắp đặt miễn phí cho người già sống một mình, không tính là hạng mục bắt buộc) thoi-gian=it y-luc=chut (phải chủ động mở lời nói “tôi sống một mình”) loi-ich=trung kieu=tu-vong.
 
-## 同步
+## Đồng bộ
 
-- 条目数 +1，B 级 +1，链接 +2（Udell 的 DOI 与 gov.cn 政策链接）。跑 `tools\sync-stats.ps1` 回写 README、index.html、tools/og.html 并重出 og.png。
-- 手工改动：本项目 CLAUDE.md 第 29 节目录简介（加新条目、口径表述由「末三条为金钱」改为「谈花钱与待遇的四条为金钱」）、README 第 29 节导读同句、节首导语（加口径说明与指向第 6 条的一句）。
-- 旧的核实记录里出现的「第 29 节第 8 条」「第 29 节第 12 条」指的是重编号前的条目，对应现在的第 9 条和第 13 条，历史记录不回改。
+- Số mục +1, mức B +1, liên kết +2 (DOI của Udell và liên kết chính sách gov.cn). Chạy `tools\sync-stats.ps1` ghi ngược README, index.html, tools/og.html và xuất lại og.png.
+- Thay đổi thủ công: phần giới thiệu mục lục của chương 29 trong CLAUDE.md của dự án (thêm mục mới, phần nói về tiêu chí đổi từ “ba mục cuối là tiền bạc” thành “bốn mục nói về chi tiêu và đãi ngộ là tiền bạc”), cùng câu đó trong phần dẫn chương 29 của README, và lời dẫn đầu chương (thêm lời giải thích tiêu chí và một câu trỏ tới mục 6).
+- “Chương 29 mục 8”, “chương 29 mục 12” xuất hiện trong hồ sơ xác minh cũ là chỉ các mục trước khi đánh số lại, ứng với mục 9 và mục 13 hiện nay; hồ sơ lịch sử không sửa lại.

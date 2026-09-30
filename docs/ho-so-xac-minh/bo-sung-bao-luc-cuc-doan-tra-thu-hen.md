@@ -1,69 +1,69 @@
-# 追加：泄愤式极端暴力四条 · 核实记录（2026-09-08）
+# Bổ sung: bốn mục về bạo lực cực đoan mang tính xả giận · Hồ sơ xác minh (2026-09-08)
 
-任务来源：读者提的——「最近国内暴力事件很多，不计后果的，有被欠薪直接找上门杀老板的，还有随机开车撞路人的，还有机长带着全飞机自杀的，这些都是一时冲动，害人害己，完全 0 收益，只是为了泄愤」。
+Nguồn nhiệm vụ: do độc giả nêu ra — “Gần đây sự kiện bạo lực ở Trung Quốc nhiều, loại không tính hậu quả: có người bị nợ lương đâm thẳng tận cửa giết ông chủ, có người lái xe tùy hứng tông người đi đường, còn có phi công trưởng mang cả máy bay đi tự sát; đây đều là nhất thời xung động, hại người hại mình, hoàn toàn 0 lợi ích, chỉ để xả giận”.
 
-原有覆盖：第 8 节第 9 条只写到「起了冲突先报警不动手」，止于治安处罚和轻伤害那一档，往上没有；第 9 节第 18 条算的是打架的账，也只到故意伤害。全书搜「报复」「泄愤」「以危险方法危害公共安全」，只有第 9 节高空抛物条里出现过一次罪名，没有一条讲「不要动手杀人」这一侧。心理危机这一侧全书只有自伤方向：第 1 节第 25 条（自杀念头、限制致死手段、12356）和第 3 节第 19 条（情绪低落先做什么），没有「想伤害别人」这一侧，也没有「身边人流露出这种念头时能做什么」。
+Mức che phủ cũ: chương 8 mục 9 chỉ viết đến “khi xảy ra xung đột thì báo cảnh sát trước, không ra tay”, dừng ở bậc xử phạt hành chính về an ninh trật tự và thương tích nhẹ, không lên trên; chương 9 mục 18 tính sổ chuyện đánh nhau, cũng chỉ đến tội cố ý gây thương tích. Tìm “trả thù”, “xả giận”, “làm phương hại an toàn công cộng bằng phương pháp nguy hiểm” trong toàn sách, tội danh chỉ xuất hiện một lần trong mục ném đồ từ trên cao xuống ở chương 9, không có mục nào nói về phía “đừng ra tay giết người”. Phía khủng hoảng tâm lý, toàn sách chỉ có hướng tự hại: chương 1 mục 25 (ý niệm tự sát, hạn chế phương tiện gây chết người, 12356) và chương 3 mục 19 (tâm trạng sa sút thì làm gì trước), không có phía “muốn làm hại người khác”, cũng không có “khi người bên cạnh lộ ra ý niệm này thì có thể làm gì”.
 
-落点：第 8 节新增 4 条（第 10 到 13 条，插在冲突条之后，从有具体怨恨对象、到无差别、到自己的冲动、到身边人的冲动，四条递进），原第 10 至 24 条顺延为 14 至 28。跨节引用同步改：第 9 节两处（第 12→16、第 22→26 条）、第 10 节一处（12→16）、第 12 节两处（12→16、22→26）、第 17 节一处（11→15）、第 19 节一处（13→17）、第 22 节一处（23→27）；第 9 节第 18 条备注加一句指向第 8 节第 11 到 14 条。
+Điểm chạm: chương 8 thêm 4 mục (mục 10 đến 13, chèn sau mục xung đột, đi từ có đối tượng oán hận cụ thể, đến vô chọn, đến xung động của chính mình, đến xung động của người bên cạnh, bốn mục tăng dần), mục 10 đến 24 cũ lần lượt thành 14 đến 28. Tham chiếu chéo giữa các chương đồng bộ đổi: chương 9 hai chỗ (mục 12→16, mục 22→26), chương 10 một chỗ (12→16), chương 12 hai chỗ (12→16, 22→26), chương 17 một chỗ (11→15), chương 19 một chỗ (13→17), chương 22 một chỗ (23→27); ghi chú của chương 9 mục 18 thêm một câu trỏ tới chương 8 mục 11 đến 14.
 
-关于「机长带着全飞机自杀」：这类扩大性自杀对中国读者可操作的落点不在航空业规章（两人在驾驶舱之类是公司和局方的事），而在「身边人知道却没说」，所以写成第 13 条的证据，不单列条目。
+Về “phi công trưởng mang cả máy bay đi tự sát”: với độc giả Trung Quốc, điểm chạm khả thi của loại tự sát mở rộng này không nằm ở quy định ngành hàng không (kiểu hai người trong buồng lái là chuyện của công ty và cơ quan quản lý), mà nằm ở “người bên cạnh biết nhưng không nói”, nên viết thành bằng chứng của mục 13, không lập mục riêng.
 
-## 第 8 节第 11 条（有具体怨恨对象：走投诉、仲裁、起诉）
+## Chương 8 mục 11 (có đối tượng oán hận cụ thể: đi khiếu nại, trọng tài, kiện tụng)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> | 是 | 刑法第二百三十二条：「故意杀人的，处死刑、无期徒刑或者十年以上有期徒刑；情节较轻的，处三年以上十年以下有期徒刑。」 |
-| <http://www.news.cn/20241117/65a18fddb453469ebe91c78eda669893/c.html> | 是 | 新华社转宜兴警方通报：「16 日 18 时 30 分许，宜兴无锡工艺职业技术学院发生一起持刀伤人案件」，「共造成 8 人死亡、17 人受伤，犯罪嫌疑人被当场抓获」；「犯罪嫌疑人徐某金（男，21 岁，该学院 2024 届毕业生）」「因考试不合格未拿到毕业证书以及对实习报酬不满遂回校发泄行凶」 |
-| <https://www.spp.gov.cn/spp/zdgz/202501/t20250120_680197.shtml> | 是 | 徐加金 2024 年 12 月 17 日由无锡市中级人民法院以故意杀人罪判处死刑、剥夺政治权利终身；最高人民法院经复核认为其「故意非法剥夺他人生命，犯罪情节特别恶劣，犯罪后果特别严重，罪行极其严重」，依法核准死刑；2025 年 1 月 20 日执行，无锡市人民检察院派员临场监督 |
-| <https://www.gov.cn/yaowen/liebiao/202503/content_7013680.htm> | 是 | 最高人民法院 2025 年工作报告：「对挑战法律和道德底线的罪大恶极者，坚决依法从严从重从快惩处，对驾车冲撞行人的樊维秋、校园持刀行凶的徐加金等判处死刑」 |
-| <https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/szrs/tjgb/202506/W020250616518526345602.pdf> | 沿用 | 2024 年劳动监察查处 13.7 万件、为 65.4 万人追回工资 86.5 亿元，998 人因拒不支付劳动报酬罪获刑——这组数字是第 7 节第 2 条已核实过的，本条只引用并指回去，本次未重新打开（本机 mohrss 常年不可达） |
+| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> | Có | Điều 232 Bộ luật Hình sự: “Người cố ý giết người, xử tử hình, tù chung thân hoặc tù có thời hạn trên mười năm; tình tiết nhẹ hơn, xử tù có thời hạn từ ba năm đến dưới mười năm.” |
+| <http://www.news.cn/20241117/65a18fddb453469ebe91c78eda669893/c.html> | Có | Thông tin của cảnh sát Nghi Hưng do Tân Hoa Xã chuyển: “Khoảng 18 giờ 30 phút ngày 16, tại Học viện Nghề nghệ thuật Vô Tích Nghi Hưng xảy ra một vụ cầm dao gây thương tích”, “gây tổng cộng 8 người chết, 17 người bị thương, nghi phạm bị bắt tại hiện trường”; “nghi phạm Từ Mỗ Kim (nam, 21 tuổi, cử nhân khóa 2024 của học viện này)” “do thi không đạt không nhận được bằng tốt nghiệp cùng bất mãn với thù lao thực tập nên quay về trường xả giận ra tay” |
+| <https://www.spp.gov.cn/spp/zdgz/202501/t20250120_680197.shtml> | Có | Từ Gia Kim ngày 17 tháng 12 năm 2024 bị Tòa án nhân dân trung cấp thành phố Vô Tích tuyên án tử hình về tội cố ý giết người, tước quyền chính trị trọn đời; Tòa án nhân dân tối cao sau thẩm lại cho rằng hắn “cố ý trái pháp luật tước đoạt sinh mạng người khác, tình tiết phạm tội đặc biệt tồi tệ, hậu quả phạm tội đặc biệt nghiêm trọng, tội cực kỳ nghiêm trọng”, chuẩn y án tử hình theo pháp luật; thi hành ngày 20 tháng 1 năm 2025, Viện kiểm sát nhân dân thành phố Vô Tích cử cán bộ giám sát tại hiện trường |
+| <https://www.gov.cn/yaowen/liebiao/202503/content_7013680.htm> | Có | Báo cáo công tác năm 2025 của Tòa án nhân dân tối cao: “Đối với kẻ tội ác tày trời thách thức giới hạn của pháp luật và đạo đức, kiên quyết trừng trị nghiêm khắc, nặng, nhanh theo pháp luật; tuyên án tử hình đối với Phàn Duy Thu lái xe tông người đi đường, Từ Gia Kim cầm dao sát hại trong trường học v.v.” |
+| <https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/szrs/tjgb/202506/W020250616518526345602.pdf> | Dùng lại | Năm 2024 thanh tra lao động xử lý 137.000 vụ, đòi lại 8,65 tỷ yên tiền lương cho 654.000 người, 998 người bị kết án về tội từ chối chi trả thù lao lao động — nhóm số này đã được xác minh tại chương 7 mục 2, mục này chỉ trích dẫn và trỏ về đó, lần này không mở lại (máy này vốn không truy cập được mohrss) |
 
-定 A：法条和判决都可逐字核对，伤亡人数与动机出自警方通报的新华社通稿。收益量级「大」（口径自由，避免的是死刑），成本记 钱=0 时间=中 毅力=是——时间是跑监察和仲裁的几个月，毅力是这几个月里忍住不动手。
+Định A: điều luật và bản án đều đối chiếu được từng chữ, số người chết bị thương và động cơ lấy từ thông cáo cảnh sát do Tân Hoa Xã đăng. Cỡ lợi ích “lớn” (tiêu chí tự do, thứ tránh được là án tử), chi phí ghi tien=0 thoi-gian=trung y-luc=co — thời gian là vài tháng chạy thanh tra và trọng tài, ý chí là trong mấy tháng đó kiềm chế không ra tay.
 
-正文里刻意写了两句不带数字的判断：一是「他不满的是学校和那笔报酬，捅的是同学，那笔钱一分没到手」，这是从通报事实直接得出的；二是「法定路径最坏的结果是钱要不回来，报复的结果是钱照样要不回来，外加自己抵命」，前半句沿用第 7 节第 2 条备注里已经写明的「结案不等于到账」。刑事附带民事赔偿的实际执行到位率没有官方统计，正文因此不写赔偿这一层。
+Trong phần nội dung cố ý viết hai câu phán đoán không mang số: một là “thứ nó bất mãn là nhà trường và khoản thù lao đó, nhưng đâm lại là bạn học, còn khoản tiền đó đến một xu cũng không tới tay” — suy trực tiếp từ sự kiện trong thông cáo; hai là “hậu quả xấu nhất của con đường pháp định là không đòi được tiền, hậu quả của trả thù là tiền vẫn không đòi được, cộng thêm phải đền mạng” — nửa đầu dùng lại “kết án xong không có nghĩa là tiền về tài khoản” đã viết rõ trong ghi chú của chương 7 mục 2. Tỷ lệ thực thi thực tế của phần bồi thường dân sự kèm theo vụ án hình sự không có thống kê chính thức, nên phần nội dung không viết tầng bồi thường.
 
-实习报酬的救济路径与劳动仲裁不同（在校生实习一般不认定劳动关系），这点写进备注，避免读者按第 7 节第 2 条去仲裁委碰壁；具体依据未在本轮核实，故只作提示不给条款。
+Con đường cứu giúp cho thù lao thực tập khác với trọng tài lao động (sinh viên đang học đi thực tập thường không được công nhận quan hệ lao động), điểm này ghi vào ghi chú, tránh để độc giả theo chương 7 mục 2 mà đến ủy ban trọng tài đâm đầu vào tường; căn cứ cụ thể chưa được xác minh trong đợt này, nên chỉ nhắc mà không đưa điều khoản.
 
-## 第 8 节第 12 条（无差别泄愤：以危险方法危害公共安全）
+## Chương 8 mục 12 (xả giận vô chọn: làm phương hại an toàn công cộng bằng phương pháp nguy hiểm)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> | 是 | 刑法第一百一十四条：「放火、决水、爆炸以及投放毒害性、放射性、传染病病原体等物质或者以其他危险方法危害公共安全，尚未造成严重后果的，处三年以上十年以下有期徒刑。」第一百一十五条：「放火、决水、爆炸以及投放毒害性、放射性、传染病病原体等物质或者以其他危险方法致人重伤、死亡或者使公私财产遭受重大损失的，处十年以上有期徒刑、无期徒刑或者死刑。」 |
-| <http://www.news.cn/20241112/29c6af4f6ee4455b92832f3c2b13a93a/c.html> | 是 | 新华社转珠海市公安局通报：2024 年 11 月 11 日「19 时 48 分许，珠海市体育中心内」，造成「35 人经抢救无效死亡、43 人受伤住院治疗」；嫌疑人「樊某（男，62 岁，离异）」，「案件系樊某对其离婚后财产分割结果不满而引发」 |
-| <https://www.spp.gov.cn/spp/zdgz/202412/t20241227_677757.shtml> | 是 | 一审判决认定「被告人樊维秋因婚姻破裂、生活失意，且不满离婚财产分割结果，遂决意通过驾车冲撞人群方式发泄私愤」，「犯罪动机极其卑劣，犯罪性质极其恶劣，犯罪手段特别残忍，犯罪后果特别严重，社会危害极大」，以以危险方法危害公共安全罪判处死刑、剥夺政治权利终身 |
-| <https://www.spp.gov.cn/spp/zdgz/202501/t20250120_680196.shtml> | 是 | 经广东省高级人民法院复核、最高人民法院核准，2025 年 1 月 20 日由珠海市中级人民法院执行死刑，珠海市人民检察院派员临场监督 |
-| <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml> | 是 | 治安管理处罚法（2025 年修订）第二十九条第三项：「扬言实施放火、爆炸、投放危险物质等危害公共安全犯罪行为扰乱公共秩序的」，处五日以上十日以下拘留，可以并处一千元以下罚款，情节较轻的处五日以下拘留或者一千元以下罚款；第五十条第一项：「写恐吓信或者以其他方法威胁他人人身安全的」，处五日以下拘留或者一千元以下罚款，情节较重的处五日以上十日以下拘留，可以并处一千元以下罚款 |
+| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> | Có | Điều 114 Bộ luật Hình sự: “Hành vi đốt phá, phá đê gây lũ, nổ và thả chất độc hại, chất phóng xạ, mầm bệnh truyền nhiễm v.v. hoặc dùng phương pháp nguy hiểm khác làm phương hại an toàn công cộng, chưa gây hậu quả nghiêm trọng, phạt tù có thời hạn từ ba năm đến dưới mười năm.” Điều 115: “Hành vi đốt phá, phá đê gây lũ, nổ và thả chất độc hại, chất phóng xạ, mầm bệnh truyền nhiễm v.v. hoặc dùng phương pháp nguy hiểm khác gây thương tích nặng, chết người hoặc gây thiệt hại lớn cho tài sản công và tư, phạt tù có thời hạn trên mười năm, tù chung thân hoặc tử hình.” |
+| <http://www.news.cn/20241112/29c6af4f6ee4455b92832f3c2b13a93a/c.html> | Có | Thông tin của Cục Công an thành phố Chu Hải do Tân Hoa Xã chuyển: ngày 11 tháng 11 năm 2024 “khoảng 19 giờ 48 phút, trong Trung tâm thể dục thể thao thành phố Chu Hải”, gây “35 người tử vong sau cấp cứu không hiệu quả, 43 người bị thương nhập viện điều trị”; nghi phạm “Phàn Mỗ (nam, 62 tuổi, ly hôn)”, “vụ án xuất phát từ việc Phàn Mỗ bất mãn với kết quả phân chia tài sản sau ly hôn” |
+| <https://www.spp.gov.cn/spp/zdgz/202412/t20241227_677757.shtml> | Có | Bản án sơ thẩm xác định “bị cáo Phàn Duy Thu do hôn nhân tan vỡ, cuộc sống thất ý, lại bất mãn với kết quả phân chia tài sản sau ly hôn nên nhất quyết dùng cách lái xe tông vào đám đông để xả tư giận”, “động cơ phạm tội cực kỳ đê hèn, tính chất phạm tội cực kỳ ác liệt, thủ đoạn phạm tội đặc biệt tàn nhẫn, hậu quả phạm tội đặc biệt nghiêm trọng, tác hại xã hội vô cùng lớn”, tuyên án tử hình về tội làm phương hại an toàn công cộng bằng phương pháp nguy hiểm, tước quyền chính trị trọn đời |
+| <https://www.spp.gov.cn/spp/zdgz/202501/t20250120_680196.shtml> | Có | Sau khi Tòa án nhân dân cấp cao tỉnh Quảng Đông thẩm lại và Tòa án nhân dân tối cao chuẩn y, ngày 20 tháng 1 năm 2025 Tòa án nhân dân trung cấp thành phố Chu Hải thi hành án tử hình, Viện kiểm sát nhân dân thành phố Chu Hải cử cán bộ giám sát tại hiện trường |
+| <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml> | Có | Luật Xử phạt vi phạm hành chính về quản lý an ninh trật tự (sửa đổi năm 2025) Điều 29 khoản 3: “Hăm dọa thực hiện hành vi phạm tội đốt phá, nổ, thả chất nguy hiểm v.v. làm phương hại an toàn công cộng, gây rối trật tự công cộng”, phạt giam từ năm ngày đến dưới mười ngày, có thể kèm phạt tiền tới dưới 1.000 yên, tình tiết nhẹ hơn phạt giam dưới năm ngày hoặc phạt tiền tới dưới 1.000 yên; Điều 50 khoản 1: “Viết thư đe dọa hoặc dùng phương thức khác đe dọa an toàn thân thể người khác”, phạt giam dưới năm ngày hoặc phạt tiền tới dưới 1.000 yên, tình tiết nặng hơn phạt giam từ năm ngày đến dưới mười ngày, có thể kèm phạt tiền tới dưới 1.000 yên |
 
-定 A。伤亡数字取警方通报（最高检的宣判通稿只写「重大伤亡后果」，不给数字），动机表述取法院认定原文。
+Định A. Số người chết bị thương lấy từ thông cáo cảnh sát (thông cáo tuyên án của Viện kiểm sát tối cao chỉ viết “hậu quả thương vong nghiêm trọng”, không cho số), diễn đạt động cơ lấy từ nguyên văn phần nhận định của tòa án.
 
-「扬言本身就已经违法」放在备注而不是收益栏：它是这条的下限而不是主线，且这两条要到 2026 年 1 月 1 日才施行，正文已标注。
+“Chỉ riêng hăm dọa đã là vi phạm pháp” đặt ở ghi chú chứ không đặt ở cột lợi ích: đó là giới hạn dưới của mục này chứ không phải tuyến chính, hơn nữa hai khoản này đến ngày 1 tháng 1 năm 2026 mới có hiệu lực, phần nội dung đã ghi chú.
 
-## 第 8 节第 13 条（自己冒出伤人念头时怎么办）
+## Chương 8 mục 13 (tự mình thoáng qua ý niệm làm hại người thì làm gì)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <https://doi.org/10.4088/JCP.07m03904> | 是 | Deisenhammer EA 等 (2009). J Clin Psychiatry 70(1):19-24。82 名自杀未遂后三日内接受访谈的住院患者中，「47.6%（N = 39）报告从当次第一次出现自杀想法到实施的间隔不超过 10 分钟」；间隔更长的患者自杀意图评分更高 |
-| <https://doi.org/10.1016/S2215-0366(16)30030-X> | 沿用 | Zalsman G 等 (2016). Lancet Psychiatry。限制致死手段的证据持续增强，镇痛药管控相关自杀下降 43%，跳楼热点加防护后下降 86%（79% 到 91%）——第 1 节第 25 条已核实并引用，本条沿用同一组数字 |
-| <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm> | 沿用 | 12356 全国统一心理援助热线，每日接听不少于 18 小时，2025 年 5 月 1 日起——第 1 节第 25 条已核实 |
+| <https://doi.org/10.4088/JCP.07m03904> | Có | Deisenhammer EA et al. (2009). J Clin Psychiatry 70(1):19-24. Trong 82 bệnh nhân nội trú được phỏng vấn trong ba ngày sau khi tự sát không thành, “47.6% (N = 39) báo cáo khoảng cách từ lần đầu ý niệm tự sát xuất hiện trong lần đó đến khi thực hiện không quá 10 phút”; bệnh nhân có khoảng cách dài hơn có điểm ý định tự sát cao hơn |
+| <https://doi.org/10.1016/S2215-0366(16)30030-X> | Dùng lại | Zalsman G et al. (2016). Lancet Psychiatry. Bằng chứng cho việc hạn chế phương tiện gây chết người ngày càng vững chắc: kiểm soát thuốc giảm đau làm giảm 43% tự sát liên quan, điểm nóng nhảy lầu sau khi lắp bảo vệ giảm 86% (79% đến 91%) — chương 1 mục 25 đã xác minh và trích dẫn, mục này dùng lại cùng nhóm số |
+| <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm> | Dùng lại | 12356 đường dây nóng hỗ trợ tâm lý thống nhất toàn quốc, tiếp nghe mỗi ngày không dưới 18 giờ, từ ngày 1 tháng 5 năm 2025 — chương 1 mục 25 đã xác minh |
 
-定 B，理由写在正文备注里：这两项证据都出自自杀研究，往「想伤害别人的冲动」上外推没有直接文献；Deisenhammer 那项只有 82 人、单中心、回顾性自述。
+Định B, lý do ghi trong ghi chú của phần nội dung: hai bằng chứng này đều xuất phát từ nghiên cứu tự sát, ngoại suy sang “xung động muốn làm hại người khác” không có tài liệu trực tiếp; nghiên cứu của Deisenhammer chỉ có 82 người, đơn trung tâm, tự thuật hồi cứu.
 
-找过但没有采用的：把「愤怒发作后两小时内心梗、卒中风险升高」的荟萃分析（Mostofsky 等）拿来当收益，口径是死亡率，和本条的自由口径不同，按全书规则不做跨口径混写，故不引。
+Đã tìm nhưng không dùng: định đem phân tích tổng hợp về “trong hai giờ sau cơn giận dữ, nguy cơ nhồi máu cơ tim, đột quỵ tăng lên” (Mostofsky et al.) ra làm lợi ích, nhưng tiêu chí của nó là tử vong, khác tiêu chí tự do của mục này, theo quy tắc toàn sách không trộn chéo tiêu chí, nên không trích.
 
-## 第 8 节第 14 条（身边人流露出这种念头时怎么办）
+## Chương 8 mục 14 (khi người bên cạnh lộ ra ý niệm này thì làm gì)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/guoqing/2021-10/29/content_5647635.htm> | 是 | 精神卫生法第二十八条第二款：「疑似精神障碍患者发生伤害自身、危害他人安全的行为，或者有伤害自身、危害他人安全的危险的，其近亲属、所在单位、当地公安机关应当立即采取措施予以制止，并将其送往医疗机构进行精神障碍诊断。」同条第三款：「医疗机构接到送诊的疑似精神障碍患者，不得拒绝为其作出诊断。」第二十九条：医疗机构接到依照第二十八条第二款送诊的，「应当将其留院，立即指派精神科执业医师进行诊断，并及时出具诊断结论」。第三十条：「精神障碍的住院治疗实行自愿原则」，但诊断结论、病情评估表明为严重精神障碍患者并「已经发生危害他人安全的行为，或者有危害他人安全的危险的」，应当实施住院治疗。第三十五条：再次诊断结论或者鉴定报告不能确定为严重精神障碍患者，或者患者不需要住院治疗的，「医疗机构不得对其实施住院治疗」 |
-| <https://bea.aero/uploads/tx_elydbrapports/BEA2015-0125.en-LR.pdf> | 是 | 法国 BEA 最终报告 BEA2015-0125.en，德翼 9525 航班（Airbus A320-211，D-AIPX，2015 年 3 月 24 日，Prads-Haute-Bléone），报告页首标题为「Deliberate flight into terrain」，机上为「Captain (PM), co-pilot (PF), 4 cabin crew, 144 passengers」共 150 人，后果为「Crew and passengers fatally injured, aeroplane destroyed」；副驾驶 2008 年 8 月至 2009 年 7 月有一次重度抑郁发作，2014 年 12 月起再次出现「could be consistent with a psychotic depressive episode」的症状，2015 年 3 月 10 日医生诊断可能存在精神病性障碍并建议住院精神科治疗；结论段：「No action could have been taken by the authorities and/or his employer to prevent him from flying on the day of the accident, because they were informed by neither the co-pilot himself, nor by anybody else, such as a physician, a colleague, or family member.」 |
-| <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml> | 是 | 同上一条，扬言与恐吓的罚则 |
+| <https://www.gov.cn/guoqing/2021-10/29/content_5647635.htm> | Có | Luật Sức khỏe tinh thần Điều 28 khoản 2: “Người nghi mắc rối loạn tâm thần có hành vi làm hại bản thân, đe dọa an toàn người khác, hoặc có nguy cơ làm hại bản thân, đe dọa an toàn người khác, thì thân nhân gần, đơn vị công tác, cơ quan công an địa phương phải lập tức có biện pháp ngăn chặn, và đưa đến cơ sở y tế để chẩn đoán rối loạn tâm thần.” Khoản 3 cùng điều: “Cơ sở y tế tiếp nhận người nghi mắc rối loạn tâm thần được đưa đến khám, không được từ chối làm chẩn đoán cho họ.” Điều 29: cơ sở y tế tiếp nhận người được đưa đến khám theo Điều 28 khoản 2 thì “phải giữ họ lại viện, lập tức cử bác sĩ hành nghề tâm thần tiến hành chẩn đoán, và kịp thời đưa ra kết luận chẩn đoán”. Điều 30: “Điều trị nội trú rối loạn tâm thần thực hiện nguyên tắc tự nguyện”, nhưng nếu kết luận chẩn đoán, đánh giá bệnh tình cho thấy là người mắc rối loạn tâm thần nặng và “đã có hành vi đe dọa an toàn người khác, hoặc có nguy cơ đe dọa an toàn người khác” thì phải thực hiện điều trị nội trú. Điều 35: nếu kết luận chẩn đoán lại hoặc báo cáo giám định không thể xác định là người mắc rối loạn tâm thần nặng, hoặc người bệnh không cần điều trị nội trú, thì “cơ sở y tế không được thực hiện điều trị nội trú với họ” |
+| <https://bea.aero/uploads/tx_elydbrapports/BEA2015-0125.en-LR.pdf> | Có | Báo cáo cuối cùng của BEA Pháp BEA2015-0125.en, chuyến Germanwings 9525 (Airbus A320-211, D-AIPX, 24 tháng 3 năm 2015, Prads-Haute-Bléone), tiêu đề đầu trang báo cáo là “Deliberate flight into terrain”, trên máy bay có “Captain (PM), co-pilot (PF), 4 cabin crew, 144 passengers” tổng cộng 150 người, hậu quả là “Crew and passengers fatally injured, aeroplane destroyed”; cơ phó từ tháng 8 năm 2008 đến tháng 7 năm 2009 có một cơn trầm cảm nặng, từ tháng 12 năm 2014 lại xuất hiện các triệu chứng “could be consistent with a psychotic depressive episode”, ngày 10 tháng 3 năm 2015 bác sĩ chẩn đoán có thể tồn tại rối loạn loạn thần và khuyến nghị nhập viện điều trị tâm thần; đoạn kết luận: “No action could have been taken by the authorities and/or his employer to prevent him from flying on the day of the accident, because they were informed by neither the co-pilot himself, nor by anybody else, such as a physician, a colleague, or family member.” |
+| <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml> | Có | Như dòng trên, quy tắc xử phạt hăm dọa và đe dọa |
 
-定 A（法条可逐字核对，BEA 报告是官方事故调查机构的最终报告）。150 人是报告里机组与乘客人数相加得出，报告本身没有单独写这个总数，正文因此把构成列了出来。
+Định A (điều luật đối chiếu được từng chữ, báo cáo BEA là báo cáo cuối cùng của cơ quan điều tra tai nạn chính thức). Con số 150 là cộng số phi hành đoàn và hành khách trong báo cáo ra, bản báo cáo không viết riêng tổng này, phần nội dung vì thế liệt kê cấu thành ra.
 
-这条最需要防的是误读，所以备注里写死了三条边界：只针对真实危险信号不是气话、不能拿来把不听话的家人送进医院、法律同时规定再次诊断不能确定为严重精神障碍患者的不得住院。拿不准怎么办给了两个出口：先打 12356 问，或者报 110 让警察到场。
+Điều này cần phòng nhất là đọc nhầm, nên trong ghi chú chốt cứng ba ranh giới: chỉ nhằm tín hiệu nguy hiểm thật chứ không phải lời nói lúc giận; không thể dùng để đưa người nhà không nghe lời vào viện; pháp luật đồng thời quy định nếu chẩn đoán lại không xác định được là người mắc rối loạn tâm thần nặng thì không được nội trú. Phần không chắc thì làm gì cho hai lối thoát: trước hết gọi 12356 hỏi, hoặc báo 110 cho cảnh sát tới hiện trường.
 
-成本记 钱=少（挂号与诊查费）时间=中（陪着跑一趟医院）毅力=些，性价比档因此落在「一般」——这条本来就不是顺手能做的事。
+Chi phí ghi tien=it (lệ đăng ký khám và phí thăm khám) thoi-gian=trung (đi cùng chạy một vòng bệnh viện) y-luc=chut, mức hiệu quả chi phí vì thế rơi vào “trung bình” — bản thân mục này vốn không phải chuyện tiện tay làm được.
 
-## 统计
+## Thống kê
 
-本轮开工时全书 396 条，中途第 13 节那批（后循环卒中、主动脉夹层、霹雳样头痛、中暑补液，提交 9a9e801）先落地把它推到 400 条，但那次提交没同步统计口径，所以本次一并对齐到实际值：404 条，A 255、B 101、C 48，争议 42、TODO 36；性价比极高 72 条、高 203 条、一般 129 条；来源与备注行里的链接 787 条。README 徽章、导读段、第 8 节目录说明、index.html 的五处 description 与 numberOfPages、tools/og.html 三个数字同步改，og.png 用 tools/og.html 里记的 Chrome 命令重出。
+Khi đợt này bắt đầu toàn sách có 396 mục, giữa chừng lô ở chương 13 (đột quỵ tuần hoàn sau, bóc tách động mạch chủ, đau đầu như sét đánh, bù dịch khi say nắng, commit 9a9e801) đổ trước đẩy lên 400 mục, nhưng commit đó không đồng bộ tiêu chí thống kê, nên lần này thống nhất căn lại theo giá trị thực: 404 mục, A 255, B 101, C 48, tranh cãi 42, TODO 36; hiệu quả chi phí rất cao 72 mục, cao 203 mục, trung bình 129 mục; liên kết trong dòng Nguồn và Ghi chú 787 cái. Badge README, đoạn dẫn nhập, phần mô tả mục lục của chương 8, năm chỗ description và numberOfPages trong index.html, ba con số trong tools/og.html đồng bộ sửa, og.png xuất lại bằng lệnh Chrome ghi trong tools/og.html.

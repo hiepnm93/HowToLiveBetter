@@ -1,99 +1,99 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 32. 出国留学：身份、打工、保险和回国认证
+# 32. Du học
 
-本节算钱和人身自由两笔账，不讨论该不该出国，也不比较学校好坏。下面四件事不知道就要吃亏：签证身份怎么才算没断、打工时数的上限在哪、哪几笔保险和费用是必须交的、回国以后这张文凭能不能被认。
+Chương này tính hai sổ sách: tiền bạc và tự do thân xác; không bàn nên hay không nên đi du học, cũng không so sánh trường nào tốt hơn. Bốn việc dưới đây mà không biết thì sẽ thiệt thòi: tư cách visa thế nào mới tính là không bị gián đoạn, trần số giờ làm thêm nằm ở đâu, những khoản bảo hiểm và phí nào bắt buộc phải nộp, và khi về nước tấm bằng này có được công nhận hay không.
 
-覆盖美国、加拿大、英国、澳大利亚四个国家，数字一国一国列。来源是各国移民局和中国教育部的官方网页。**各国的留学政策改得很勤，比中国的法规还勤。本节所有数字的截至日期是 2026 年 9 月。出发前和每次续签前，都照来源栏的链接自己再查一遍。**
+Nội dung bao gồm bốn nước: Hoa Kỳ, Canada, Anh và Úc, số liệu liệt kê lần lượt từng nước. Nguồn là các trang web chính thức của cơ quan di trú từng nước và Bộ Giáo dục Trung Quốc. **Chính sách du học các nước thay đổi rất thường xuyên, còn dày hơn cả quy định pháp luật của Trung Quốc. Mọi con số trong chương này có thời điểm cập nhật là tháng 9 năm 2026. Trước khi xuất phát và trước mỗi lần gia hạn visa, hãy tự tra lại một lượt theo các liên kết ở phần Nguồn.**
 
-人在境外出了事怎么找使领馆、12308 能管什么、境外医疗和转运保险怎么买，见第 21 节。读书还是打工那道账，见第 23 节。账号被盗见第 14 节，电信诈骗见第 8 节。这些都不重复写。
+Ra sự cố ở nước ngoài thì tìm đại sứ quán – lãnh sự quán thế nào, 12308 quản được việc gì, mua bảo hiểm y tế và vận chuyển y tế ở nước ngoài ra sao, xem chương 21. Bài toán đi học hay đi làm, xem chương 23. Tài khoản bị đánh cắp xem chương 14, lừa đảo qua viễn thông xem chương 8. Những phần đó không nhắc lại ở đây.
 
-### 1. 交学费之前先查学校在不在留服中心的认证院校名单里
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。在留服中心的「认证院校查询」里输一次学校名，几分钟就查完
-- 说人话：回国以后，这张文凭要用来考公、进国企、落户、评职称，就得先过一道认证。认证由教育部留学服务中心做。学校不在能认证的名单里，学费和时间就白花了，文凭在国内用不上。查名单不花钱，查完再交学费。
-- 收益：中国（教育部）留学服务中心有一个认证院校查询入口。你可以按国家查，也可以按学校名字查。查的是这所学校发的学历学位在不在认证范围里。另外，教育部教育涉外监管信息网还公布中外合作办学和境外办学的监管信息
-- 证据等级：A
-- 来源：中国（教育部）留学服务中心. 认证院校查询. <http://yxcx.cscse.edu.cn/>；教育部教育涉外监管信息网. <https://jsj.moe.gov.cn/>
-- 备注：中介嘴上说「教育部认可」不算数，以你自己上网查到的结果为准。名单会变，入学时在名单里，毕业时不一定还在，所以读书期间每年复查一次。中外合作办学的项目另有一套认证注册的制度。2008 年以后入学的，可以凭姓名和身份证号，在涉外监管信息网查自己的注册序号。
+### 1. Trước khi nộp học phí, hãy tra xem trường có nằm trong danh sách các trường được thẩm định của Trung tâm Dịch vụ Lưu học sinh hay không
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Nhập tên trường một lần trong mục “Tra cứu trường được thẩm định” của Trung tâm Dịch vụ Lưu học sinh, vài phút là xong
+- Hiểu nhanh: Về nước sau, tấm bằng này dùng để thi công chức, vào doanh nghiệp nhà nước, đăng ký thường trú, xét chức danh nghề nghiệp thì trước hết phải qua một bước thẩm định. Việc thẩm định do Trung tâm Dịch vụ Lưu học sinh thuộc Bộ Giáo dục thực hiện. Trường không nằm trong danh sách được thẩm định thì học phí và thời gian coi như đổ sông đổ bể, bằng cấp không dùng được trong nước. Tra danh sách không tốn tiền, hãy tra xong rồi mới nộp học phí.
+- Lợi ích: Trung tâm Dịch vụ Lưu học sinh (Bộ Giáo dục, Trung Quốc) có một cổng tra cứu trường được thẩm định. Bạn có thể tra theo quốc gia, cũng có thể tra theo tên trường. Cái tra được là học vị, bằng cấp do trường này cấp có nằm trong phạm vi được thẩm định hay không. Ngoài ra, Cổng thông tin giám sát giáo dục có yếu tố nước ngoài của Bộ Giáo dục còn công bố thông tin giám sát các chương trình hợp tác đào tạo Trung – nước ngoài và các cơ sở giáo dục ở nước ngoài
+- Mức bằng chứng: A
+- Nguồn: Trung tâm Dịch vụ Lưu học sinh (Bộ Giáo dục Trung Quốc). Tra cứu trường được thẩm định. <http://yxcx.cscse.edu.cn/>; Cổng thông tin giám sát giáo dục có yếu tố nước ngoài của Bộ Giáo dục. <https://jsj.moe.gov.cn/>
+- Ghi chú: Môi giới nói miệng “Bộ Giáo dục công nhận” thì không đáng tin, phải lấy kết quả bạn tự tra trên mạng làm chuẩn. Danh sách sẽ thay đổi: lúc nhập học có trong danh sách, chưa chắc lúc tốt nghiệp vẫn còn, nên trong thời gian học mỗi năm tra lại một lần. Chương trình hợp tác đào tạo Trung – nước ngoài có một chế độ thẩm định – đăng ký riêng. Người nhập học từ năm 2008 trở đi có thể tra số đăng ký của mình trên Cổng thông tin giám sát giáo dục có yếu tố nước ngoài bằng họ tên và số định danh cá nhân.
 
-### 2. 盯住美国 F-1 新规的官司：「最长四年、读完 30 天内走」原定 2026 年 9 月 15 日生效，前一天被法院暂停，眼下仍是「读完为止」
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=自由 -->
-- 成本：不花钱。把 I-20 上的项目结束日期抄进日历，提前 90 天提醒一次。I-20 是学校发给你的留学资格证明。另外每学期看一次学校国际学生办公室的通知，看这场官司有没有新进展
-- 说人话：美国原本要把 F-1 改成最长四年、读完 30 天内走。生效前一天，联邦法院把它暂停了。所以眼下还是老规矩：读多久算多久，读完有 60 天准备走人。暂停不是废除，政府还能上诉，规矩随时可能再变。
-- 收益：国土安全部 2026 年 7 月 17 日公布了一项规则，原定 2026 年 9 月 15 日生效。内容是 F-1 学生不再按「读完为止」入境，改成固定期限，最长四年，到期要另外申请延期。读完或者实习结束后，只留 30 天准备离境。2026 年 9 月 14 日，马萨诸塞州联邦地区法院的 Saylor 法官依《行政程序法》第 705 条，推迟了这项规则的生效。暂停管全国，管整份规则。法院没有撤销这项规则，撤销的请求被驳回，但允许以后再提。案子还在继续审。按法院这道命令，F、J、I 三类签证的人仍按「读完为止」入境，60 天离境宽限期照旧，也不需要另外申请延期
-- 证据等级：A
-- 来源：DHS (2026). Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors（2026-07-17 公布，原定 2026-09-15 生效）. <https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant>；Presidents' Alliance on Higher Education and Immigration v. U.S. Department of Homeland Security, No. 1:26-cv-13799-FDS (D. Mass. Sept. 14, 2026)，法院案卷. <https://www.courtlistener.com/docket/74661796/presidents-alliance-on-higher-education-and-immigration-v-united-states/>；Yale Office of International Students & Scholars (2026-09-14). Important Update: Court Action on the D/S Rule. <https://oiss.yale.edu/news/important-update-court-action-on-the-ds-rule>；AILA (2026). One Day Before Taking Effect, Federal Court Postpones the F, J, and I Fixed Admission Period Rule. <https://www.aila.org/blog/think-immigration-one-day-before-taking-effect-federal-court-postpones-the-f-j-and-i-fixed-admission-period-rule>；8 CFR 214.2(f). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>
-- 备注：本条截至 2026 年 9 月 25 日。政府可以向第一巡回上诉法院上诉，国土安全部也可以改好规则重新发布。所以要读好几年的人，别假定老规矩会一直不变。法院定了 2026 年 10 月 2 日再开庭听双方汇报进展，过了那天再看一次学校的通知。新规如果以后生效，要延期就得在期限到期之前另外申请，不会自动续上。老规矩下，提前不读了的，离境期限和读完的不一样，先问学校国际学生办公室。J 签证在同一份规则里，细节和 F-1 不一样，按自己的签证类别去查。
+### 2. Theo dõi vụ kiện về quy định mới F-1 của Hoa Kỳ: “tối đa bốn năm, rời nước trong vòng 30 ngày kể từ khi học xong” vốn dự định có hiệu lực ngày 15 tháng 9 năm 2026, bị tòa án đình chỉ vào ngày trước đó, hiện tại vẫn là “học đến khi xong”
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-do -->
+- Chi phí: Không tốn tiền. Chép ngày kết thúc chương trình ghi trên I-20 vào lịch, đặt lời nhắc trước 90 ngày. I-20 là giấy chứng nhận tư cách du học do nhà trường cấp cho bạn. Ngoài ra mỗi học kỳ xem một lần thông báo của văn phòng sinh viên quốc tế của trường, xem vụ kiện này có diễn biến mới không
+- Hiểu nhanh: Hoa Kỳ vốn định sửa F-1 thành tối đa bốn năm, rời nước trong vòng 30 ngày kể từ khi học xong. Một ngày trước ngày hiệu lực, tòa liên bang đã đình chỉ quy định này. Nên hiện tại vẫn theo luật cũ: học bao lâu tính bấy lâu, sau khi học xong có 60 ngày chuẩn bị ra đi. Đình chỉ không phải bãi bỏ, chính phủ vẫn có thể kháng cáo, quy tắc có thể lại đổi bất cứ lúc nào.
+- Lợi ích: Bộ An ninh Nội địa ngày 17 tháng 7 năm 2026 công bố một quy tắc, vốn dự định có hiệu lực ngày 15 tháng 9 năm 2026. Nội dung: du học sinh F-1 không còn nhập cảnh theo kiểu “học đến khi xong”, mà chuyển sang thời hạn cố định, tối đa bốn năm, hết hạn phải nộp đơn gia hạn riêng. Sau khi học xong hoặc kết thúc thực tập, chỉ được ở lại 30 ngày chuẩn bị xuất cảnh. Ngày 14 tháng 9 năm 2026, thẩm phán Saylor của Tòa án Liên bang Quận Massachusetts dựa vào Điều 705 của Đạo luật Thủ tục hành chính để hoãn hiệu lực của quy tắc này. Lệnh đình chỉ có hiệu lực trên toàn quốc, áp dụng cho toàn bộ quy tắc. Tòa không hủy bỏ quy tắc; đơn yêu cầu hủy bị bác, nhưng cho phép nộp lại sau. Vụ kiện vẫn đang được xét xử. Theo lệnh này của tòa, người mang ba loại visa F, J, I vẫn nhập cảnh theo “học đến khi xong”, thời hạn ân hạn 60 ngày rời nước giữ nguyên, cũng không cần nộp đơn gia hạn riêng
+- Mức bằng chứng: A
+- Nguồn: DHS (2026). Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors (công bố 2026-07-17, dự định hiệu lực 2026-09-15). <https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant>; Presidents' Alliance on Higher Education and Immigration v. U.S. Department of Homeland Security, No. 1:26-cv-13799-FDS (D. Mass. Sept. 14, 2026), hồ sơ vụ án tại tòa. <https://www.courtlistener.com/docket/74661796/presidents-alliance-on-higher-education-and-immigration-v-united-states/>; Yale Office of International Students & Scholars (2026-09-14). Important Update: Court Action on the D/S Rule. <https://oiss.yale.edu/news/important-update-court-action-on-the-ds-rule>; AILA (2026). One Day Before Taking Effect, Federal Court Postpones the F, J, and I Fixed Admission Period Rule. <https://www.aila.org/blog/think-immigration-one-day-before-taking-effect-federal-court-postpones-the-f-j-and-i-fixed-admission-period-rule>; 8 CFR 214.2(f). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>
+- Ghi chú: Mục này cập nhật đến ngày 25 tháng 9 năm 2026. Chính phủ có thể kháng cáo lên Tòa Phúc thẩm Mạch thứ Nhất, Bộ An ninh Nội địa cũng có thể sửa lại quy tắc rồi ban hành lại. Vì vậy ai học nhiều năm đừng mặc định luật cũ sẽ mãi không đổi. Tòa đã định ngày 2 tháng 10 năm 2026 mở phiên làm việc để nghe hai bên báo cáo tiến độ, qua ngày đó nên xem lại thông báo của trường một lần nữa. Nếu quy định mới sau này có hiệu lực, muốn gia hạn phải nộp đơn riêng trước khi thời hạn hết, không tự động được nối tiếp. Theo luật cũ, ai bỏ học sớm thì thời hạn rời nước khác với người học xong, hãy hỏi trước văn phòng sinh viên quốc tế của trường. Visa J nằm trong cùng quy tắc đó, chi tiết khác với F-1, hãy tra theo loại visa của chính mình.
 
-### 3. 打工时数是美加英澳四国都写死的红线，超一小时就是违反签证条件
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=自由 -->
-- 成本：不花钱。自己按周把工时记下来。难在雇主会说「多干几个小时没人查」，这话不能信
-- 说人话：四个国家都给学生签证的打工时间定了上限。超了就是违反签证条件，可能被取消签证、被遣返，以后再申请也会被追问。上限是：美国每周 20 小时，英国读学位每周 20 小时、学位以下 10 小时，加拿大每周 24 小时，澳大利亚每两周 48 小时。打两份工要合起来算。
-- 收益：美国的 F-1 学生，校内打工在学期中每周不得超过 20 小时。经批准的校外兼职同样是每周 20 小时。假期可以全职。依据是美国联邦移民法规 8 CFR 214.2(f)(9)。英国的学生签证，读学位及以上课程的，学期内每周 20 小时，学位以下的每周 10 小时。非全日制课程一律不得打工。还不得自雇（自己给自己干活），也不得做职业运动员或者演艺工作。依据是英国移民规则里管学生的那一部分，附录 Student ST26.1、ST26.5。加拿大符合条件的全日制学生，校外打工每周最多 24 小时，依据是加拿大移民法实施条例 IRPR 第 186(v) 条。澳大利亚的学生签证，课程进行期间每两周最多 48 小时。研究型硕士、博士和他们的家属不受这个限制
-- 证据等级：A
-- 来源：8 CFR 214.2(f)(9). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>；UK Home Office. Immigration Rules Appendix Student（ST26.1、ST26.5）. <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>；IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>；Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>
-- 备注：美国的校外打工必须先获批。申请打工许可的 I-765 还在审的时候，就不能开工。加拿大的旧许可上印的是每周 20 小时，只要还符合条件，实际可以做到 24 小时，以现行规定为准。英国不许自雇那条管得很宽：接私活、开网店、做自由职业都算。
+### 3. Số giờ làm thêm là giới hạn cứng mà cả bốn nước Mỹ, Canada, Anh, Úc đều ghi rõ; vượt một giờ thôi đã là vi phạm điều kiện visa
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tu-do -->
+- Chi phí: Không tốn tiền. Tự ghi lại số giờ làm theo tuần. Khó ở chỗ chủ thuê sẽ nói “làm thêm vài giờ chẳng ai kiểm tra”, câu đó không được tin
+- Hiểu nhanh: Cả bốn nước đều đặt trần số giờ làm thêm cho visa du học sinh. Vượt trần là vi phạm điều kiện visa, có thể bị hủy visa, bị trục xuất, và những lần xin visa sau cũng bị truy hỏi. Trần cụ thể: Hoa Kỳ 20 giờ mỗi tuần; Anh 20 giờ mỗi tuần với chương trình bậc degree trở lên, 10 giờ với dưới degree; Canada 24 giờ mỗi tuần; Úc 48 giờ mỗi hai tuần. Làm hai việc thì cộng gộp chung một mực tính.
+- Lợi ích: Ở Hoa Kỳ, du học sinh F-1 làm việc trong trường trong học kỳ không được quá 20 giờ mỗi tuần. Việc làm bán thời gian ngoài trường được phê duyệt cũng tối đa 20 giờ mỗi tuần. Kỳ nghỉ có thể làm toàn thời gian. Căn cứ là quy định di trú liên bang Hoa Kỳ 8 CFR 214.2(f)(9). Visa du học sinh Anh: học chương trình bậc degree trở lên thì trong học kỳ 20 giờ mỗi tuần, dưới degree thì 10 giờ mỗi tuần. Khóa học không toàn thời gian thì nhất luật không được làm thêm. Cũng không được tự làm chủ (tự làm việc cho chính mình), không được làm vận động viên chuyên nghiệp hay việc trong ngành diễn xuất – giải trí. Căn cứ là phần quy định về du học sinh trong Luật Di trú Anh, Phụ lục Student, điểm ST26.1, ST26.5. Canada: sinh viên toàn thời gian đủ điều kiện được làm thêm ngoài trường tối đa 24 giờ mỗi tuần, căn cứ Điều 186(v) của quy định thi hành Luật Di trú và Bảo vệ Người tị nạn Canada (IRPR). Úc: visa du học sinh, trong thời gian khóa học diễn ra tối đa 48 giờ mỗi hai tuần. Thạc sĩ nghiên cứu, tiến sĩ và người thân đi kèm của họ không thuộc giới hạn này
+- Mức bằng chứng: A
+- Nguồn: 8 CFR 214.2(f)(9). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>; UK Home Office. Immigration Rules Appendix Student (ST26.1, ST26.5). <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>; IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>; Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>
+- Ghi chú: Ở Hoa Kỳ, làm thêm ngoài trường phải được phê duyệt trước. Khi đơn xin giấy phép làm việc I-765 còn đang được xét duyệt thì chưa được bắt đầu làm. Giấy phép cũ của Canada in trên đó là 20 giờ mỗi tuần, nhưng nếu vẫn đủ điều kiện thì thực tế được làm đến 24 giờ, lấy quy định hiện hành làm chuẩn. Điều cấm tự làm chủ của Anh áp dụng rất rộng: nhận việc ngoài, mở cửa hàng trực tuyến, làm tự do đều tính.
 
-### 4. 身份的根是「全日制在读」：休学、退学、转学空档期一律不能打工
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=自由 -->
-- 成本：不花钱。停课、休学、换学校之前，先找学校的国际学生办公室，问清楚自己的身份状态
-- 说人话：能不能打工，看你是不是正在全日制上学。一旦休学、退学、被开除，或者转学期间没在上课，打工资格当场就没了。这时候接着干，就是非法打工。很多人以为签证没到期就没事，其实身份早断了。
-- 收益：加拿大明文规定，在获批的休学期间不得校外打工。转学期间没有在学习的，也不得校外打工。要等恢复学业以后，才能重新开始工作。美国的校内打工资格只给 SEVIS 里身份为 Active 的 F-1 学生。SEVIS 是美国的留学生身份档案系统，Active 是在读有效。这些学生还要维持全日制课业。英国的打工许可按课程类型给，非全日制课程不得打工
-- 证据等级：A
-- 来源：IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>；U.S. Department of Homeland Security, Study in the States. Working in the United States. <https://studyinthestates.dhs.gov/students/work/working-in-the-united-states>；UK Home Office. Immigration Rules Appendix Student（ST26.1）. <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>
-- 备注：课业压力大，想减课之前先问清楚：减到多少就不算全日制了。这一条比打工更早出事。被学校开除、或者项目被终止的，身份通常当天就断。别等学校发正式信再行动。
+### 4. Gốc rễ của tư cách là “đang học toàn thời gian”: nghỉ tạm dừng, thôi học, hay khoảng trống khi chuyển trường thì nhất luật không được làm thêm
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-do -->
+- Chi phí: Không tốn tiền. Trước khi nghỉ học tạm thời, thôi học hay đổi trường, hãy tìm văn phòng sinh viên quốc tế của trường hỏi rõ tình trạng tư cách của mình
+- Hiểu nhanh: Được hay không được làm thêm, quyết định bởi việc bạn có đang học toàn thời gian hay không. Một khi nghỉ tạm dừng, thôi học, bị đuổi học, hay trong khoảng chuyển trường mà không đi học, tư cách làm thêm mất ngay lập tức. Lúc đó mà tiếp tục làm là làm việc bất hợp pháp. Nhiều người tưởng visa chưa hết hạn là không sao, thực ra tư cách đã đứt từ lâu.
+- Lợi ích: Canada quy định rõ ràng: trong thời gian nghỉ học được phê duyệt không được làm thêm ngoài trường. Trong khoảng chuyển trường mà không đang học thì cũng không được làm thêm ngoài trường. Phải đợi khôi phục việc học rồi mới được đi làm lại. Hoa Kỳ chỉ trao tư cách làm việc trong trường cho du học sinh F-1 có tình trạng Active trong SEVIS. SEVIS là hệ thống hồ sơ tư cách du học sinh của Hoa Kỳ, Active nghĩa là đang học còn hiệu lực. Các sinh viên này còn phải duy trì khóa học toàn thời gian. Anh cấp giấy phép làm thêm theo loại khóa học, khóa không toàn thời gian không được làm thêm
+- Mức bằng chứng: A
+- Nguồn: IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>; U.S. Department of Homeland Security, Study in the States. Working in the United States. <https://studyinthestates.dhs.gov/students/work/working-in-the-united-states>; UK Home Office. Immigration Rules Appendix Student (ST26.1). <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>
+- Ghi chú: Áp lực học hành lớn, muốn giảm môn thì hỏi rõ trước: giảm xuống dưới bao nhiêu thì không còn tính là toàn thời gian. Chuyện này nổ ra sớm hơn chuyện làm thêm. Bị trường đuổi học, hoặc chương trình bị chấm dứt, tư cách thường đứt ngay trong ngày. Đừng đợi trường gửi thư chính thức rồi mới hành động.
 
-### 5. 美国：搬家后 10 天内必须报新地址
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
-- 成本：不花钱。在线提交一次改址，十分钟
-- 说人话：在美国换了住的地方，法律要求 10 天之内通知移民局。不报不是小事。一来它本身违法，二来移民局寄给你的信会寄丢。
-- 收益：美国联邦移民法规 8 CFR 265.1 规定，按法律要登记的外国人，地址变了以后 10 日内要报告。报给 USCIS（美国移民局），按它要求的办法报，既报地址变了这件事，也报新地址
-- 证据等级：A
-- 来源：8 CFR 265.1. <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-265/section-265.1>；USCIS. AR-11, Alien's Change of Address Card. <https://www.uscis.gov/ar-11>
-- 备注：报了移民局，学校那边的 SEVIS 记录（你的留学生身份档案）还要另外更新。其余三个国家也都要求换了地址就通知移民局或者学校。期限和办法各国不同，按你所在国移民局的网页办。
+### 5. Hoa Kỳ: sau khi chuyển nhà phải báo địa chỉ mới trong vòng 10 ngày
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-do -->
+- Chi phí: Không tốn tiền. Nộp đơn đổi địa chỉ trực tuyến một lần, mười phút
+- Hiểu nhanh: Ở Hoa Kỳ, đổi chỗ ở thì pháp luật yêu cầu thông báo cho cơ quan di trú trong vòng 10 ngày. Không báo không phải chuyện nhỏ. Một là bản thân nó đã vi phạm pháp luật, hai là thư cơ quan di trú gửi cho bạn sẽ thất lạc.
+- Lợi ích: Quy định di trú liên bang Hoa Kỳ 8 CFR 265.1 quy định: người nước ngoài có nghĩa vụ đăng ký theo pháp luật, sau khi địa chỉ thay đổi phải báo trong vòng 10 ngày. Báo cho USCIS (Cơ quan Di trú và Nhập tịch Hoa Kỳ), theo cách thức USCIS yêu cầu, báo cả việc địa chỉ đã đổi lẫn địa chỉ mới
+- Mức bằng chứng: A
+- Nguồn: 8 CFR 265.1. <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-265/section-265.1>; USCIS. AR-11, Alien's Change of Address Card. <https://www.uscis.gov/ar-11>
+- Ghi chú: Báo xong cơ quan di trú, hồ sơ SEVIS phía trường (hồ sơ tư cách du học sinh của bạn) còn phải cập nhật riêng. Ba nước còn lại cũng đều yêu cầu đổi địa chỉ là phải thông báo cho cơ quan di trú hoặc trường. Thời hạn và cách thức mỗi nước một kiểu, hãy làm theo trang web của cơ quan di trú nước bạn đang ở.
 
-### 6. 出发前和在读期间，看一眼教育部的留学预警
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
-- 成本：不花钱。出发前看一次，以后每学期看一次
-- 说人话：教育部会对某个国家或者地区专门发预警，说那里近期的治安或者政策对中国留学生不利。这是官方公开发布的风险提示，白纸黑字能查到，比中介的说法可靠。看一眼不花钱。
-- 收益：教育部通过教育涉外监管信息网发布留学预警。2025 年一共发了 4 号。第 1 号提示美国有关州通过的高等教育法案里含有涉华消极条款（2025-04-09）。第 2 号和第 3 号两次提示菲律宾针对中国公民的案件多发、留学环境不佳（2025-07-18、2025-08-30）。第 4 号提示日本治安形势和留学环境不佳，建议谨慎规划赴日留学（2025-11-16）
-- 证据等级：A
-- 来源：教育部教育涉外监管信息网. 预警信息. <https://jsj.moe.gov.cn/>；教育部发布 2025 年第 4 号留学预警. <https://jsj.moe.gov.cn/n2/2/2/2060.shtml>；第 1 号. <https://jsj.moe.gov.cn/n2/2/2/2001.shtml>
-- 备注：预警不是禁令，也不是说不能去，它给你一个掂量当地风险的官方依据。预警名单随形势变，本节不长期跟着更新，以网站上当期的页面为准。境外人身安全和领事保护见第 21 节。
+### 6. Trước khi xuất phát và trong thời gian đi học, hãy xem qua cảnh báo du học của Bộ Giáo dục
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-do -->
+- Chi phí: Không tốn tiền. Xem một lần trước khi đi, sau đó mỗi học kỳ xem một lần
+- Hiểu nhanh: Bộ Giáo dục sẽ phát cảnh báo riêng cho một quốc gia hoặc khu vực, nói rằng an ninh trật tự hoặc chính sách nơi đó thời gian gần đây bất lợi cho du học sinh Trung Quốc. Đây là cảnh báo rủi ro do cơ quan chính thức công bố công khai, ghi rõ ràng tra cứu được, đáng tin hơn lời môi giới. Xem một phát không tốn tiền.
+- Lợi ích: Bộ Giáo dục phát cảnh báo du học qua Cổng thông tin giám sát giáo dục có yếu tố nước ngoài. Năm 2025 phát tổng cộng 4 số. Số 1 lưu ý các đạo luật giáo dục đại học mà một số bang Hoa Kỳ thông qua có chứa điều khoản tiêu cực liên quan đến Trung Quốc (2025-04-09). Số 2 và số 3 hai lần lưu ý tình trạng các vụ việc nhắm vào công dân Trung Quốc tại Philippines xảy ra nhiều, môi trường du học không tốt (2025-07-18, 2025-08-30). Số 4 lưu ý tình hình an ninh trật tự và môi trường du học của Nhật Bản không tốt, khuyến nghị thận trọng khi tính chuyện du học Nhật (2025-11-16)
+- Mức bằng chứng: A
+- Nguồn: Cổng thông tin giám sát giáo dục có yếu tố nước ngoài của Bộ Giáo dục. Thông tin cảnh báo. <https://jsj.moe.gov.cn/>; Bộ Giáo dục phát cảnh báo du học số 4 năm 2025. <https://jsj.moe.gov.cn/n2/2/2/2060.shtml>; Số 1. <https://jsj.moe.gov.cn/n2/2/2/2001.shtml>
+- Ghi chú: Cảnh báo không phải lệnh cấm, cũng không có nghĩa là không được đi; nó cho bạn một căn cứ chính thức để cân nhắc rủi ro tại địa phương. Danh sách cảnh báo thay đổi theo tình hình, chương này không cập nhật theo lâu dài, lấy trang hiện hành trên website làm chuẩn. An toàn tính mạng ở nước ngoài và bảo hộ lãnh sự xem chương 21.
 
-### 7. 澳大利亚：OSHC 必须覆盖全程且中间不能断，落地拿不出保险可能被拒绝入境
-<!-- 成本标签: 钱=多 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：数千到上万元人民币。按签证时长一次性买，读几年买几年
-- 说人话：澳大利亚把留学生医疗保险写进了签证条件，不是可买可不买。保险要盖住整个停留期。续签换保单的时候，中间不能有空档。入境时拿不出保险证明，可能当场被拒绝入境。家里人来陪读，每个人都要单独买一份。
-- 收益：澳大利亚内政部规定，学生签证申请人和他的家属要买海外学生医疗保险（OSHC），而且在澳大利亚停留的全程都要有，不能断。保险要由澳大利亚认可的保险机构提供。符合可以免买的豁免情形的除外。新保险和前一个签证的保险之间不得有空档。入境时拿不出已经投保的证明，可能被拒绝入境。比课程开始时间更早入境的，保险起始日要写实际抵达澳大利亚的那一天
-- 证据等级：A
-- 来源：Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>
-- 备注：学校代办的，要问清楚保险公司名称、保单起止日期和保单号，签证申请里要填这些。买短了会让续签出问题，宁可买到毕业以后再多留一点。
+### 7. Úc: OSHC phải bao trùm toàn bộ thời gian và không được đứt quãng ở giữa; nhập cảnh mà không xuất trình được bảo hiểm có thể bị từ chối nhập cảnh
+<!-- Nhan chi phi: tien=nhieu thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Vài nghìn đến trên 10.000 yên Nhân dân tệ. Mua một lần theo thời hạn visa, học mấy năm mua bấy nhiêu năm
+- Hiểu nhanh: Úc đưa bảo hiểm y tế cho du học sinh vào điều kiện visa, không phải muốn mua mới mua. Bảo hiểm phải phủ kín toàn bộ thời gian lưu trú. Khi gia hạn visa đổi hợp đồng bảo hiểm, giữa hai hợp đồng không được có khoảng trống. Nhập cảnh mà không xuất trình được bằng chứng bảo hiểm, có thể bị từ chối nhập cảnh ngay tại chỗ. Người nhà sang ở kèm chăm sóc, mỗi người phải mua riêng một hợp đồng.
+- Lợi ích: Bộ Nội vụ Úc quy định: người xin visa du học sinh và người thân đi kèm phải mua bảo hiểm y tế cho du học sinh nước ngoài (OSHC), và phải có suốt toàn bộ thời gian lưu trú tại Úc, không được gián đoạn. Bảo hiểm phải do hãng bảo hiểm được Úc công nhận cung cấp; trừ trường hợp thuộc diện miễn mua được miễn trừ. Giữa hợp đồng bảo hiểm mới và hợp đồng của visa trước không được có khoảng trống. Nhập cảnh mà không xuất trình được chứng từ đã tham gia bảo hiểm, có thể bị từ chối nhập cảnh. Ai nhập cảnh sớm hơn ngày khai giảng, ngày bắt đầu bảo hiểm phải ghi là ngày thực tế đặt chân đến Úc
+- Mức bằng chứng: A
+- Nguồn: Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>
+- Ghi chú: Trường làm thay thì phải hỏi rõ tên hãng bảo hiểm, ngày bắt đầu – ngày kết thúc hợp đồng và số hợp đồng, hồ sơ xin visa phải điền những thông tin này. Mua ngắn quá sẽ làm chuyện gia hạn visa có vấn đề, thà mua dư thêm một chút sau khi tốt nghiệp còn hơn.
 
-### 8. 英国：签证费之外还有一笔按年收的医疗附加费，学生每年 776 英镑，申请时一次付清
-<!-- 成本标签: 钱=多 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：签证费 558 英镑。医疗附加费每年 776 英镑。两笔都在申请时一次交清
-- 说人话：去英国要交的钱不止签证费。还要按签证年数预交医疗附加费，交了才能用英国的国民医疗服务。两年的签证就是一次交 1552 英镑。再加上签证费，出发前这一笔要一次交清，做预算别漏了。
-- 收益：英国学生签证的费用是 558 英镑。在英国境外申请、在境内延期或者转换，都是这个数。另外还有医疗附加费，交了才能用英国的国民医疗服务，按签证年数在申请时一次预交。学生本人和他的家属是每年 776 英镑，比如 2 年的签证就是 1552 英镑。其他类别的申请人是每年 1035 英镑。签证超过 6 个月、不足 1 年的，按整年收取
-- 证据等级：A
-- 来源：UK Government. Student visa. <https://www.gov.uk/student-visa>；UK Government. Pay for UK healthcare as part of your immigration application. <https://www.gov.uk/healthcare-immigration-application>
-- 备注：金额和汇率都会变，按来源里那两个页面上的当期数字算。读学位课程、年满 18 岁的，一般最长能待 5 年，学位以下的是 2 年。按这个年数估算要交多少附加费。
+### 8. Anh: ngoài phí visa còn có một khoản phụ phí y tế thu theo năm, sinh viên 776 bảng mỗi năm, nộp một lần lúc làm hồ sơ
+<!-- Nhan chi phi: tien=nhieu thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Phí visa 558 bảng Anh. Phụ phí y tế 776 bảng Anh mỗi năm. Cả hai đều nộp một lần lúc nộp hồ sơ
+- Hiểu nhanh: Đi Anh thì tiền phải nộp không chỉ có phí visa. Còn phải trả trước phụ phí y tế theo số năm visa, trả rồi mới được dùng dịch vụ y tế quốc gia của Anh. Visa hai năm là trả một lần 1552 bảng. Cộng thêm phí visa, khoản này phải thanh toán một lần trước khi đi, làm ngân sách đừng quên.
+- Lợi ích: Phí visa du học sinh Anh là 558 bảng Anh. Xin từ bên ngoài Anh, hay gia hạn, chuyển đổi diện trong nước đều là con số đó. Ngoài ra còn có phụ phí y tế, nộp rồi mới được dùng dịch vụ y tế quốc gia của Anh, trả trước một lần theo số năm visa lúc nộp hồ sơ. Bản thân sinh viên và người thân đi kèm là 776 bảng Anh mỗi năm, ví dụ visa 2 năm là 1552 bảng Anh. Người nộp thuộc các diện khác là 1035 bảng Anh mỗi năm. Visa trên 6 tháng, dưới 1 năm thì thu trọn một năm
+- Mức bằng chứng: A
+- Nguồn: UK Government. Student visa. <https://www.gov.uk/student-visa>; UK Government. Pay for UK healthcare as part of your immigration application. <https://www.gov.uk/healthcare-immigration-application>
+- Ghi chú: Số tiền và tỷ giá đều đổi, hãy tính theo số liệu hiện hành trên hai trang trong phần Nguồn. Học chương trình cấp bằng, đủ 18 tuổi, thông thường ở lại tối đa 5 năm; dưới bậc degree là 2 năm. Nhân số năm này để ước tính phụ phí phải nộp.
 
-### 9. 回国前留出认证时间：留服认证要 10 到 20 个工作日
-<!-- 成本标签: 钱=少 时间=中 毅力=否 收益=中 口径=时间 -->
-- 成本：线上申请，线上缴费。准备材料加上审核，按工作日算，前后一个月上下
-- 说人话：国外的学历回国要用，得先做学历学位认证。光是审核就要 10 到 20 个工作日。赶上求职季，或者材料被退回来，还要更久。秋招、考公报名、落户都有截止日期，别等到要用了才开始办。
-- 收益：国（境）外学历学位认证在中国（教育部）留学服务中心的网上服务大厅办。流程是四步：注册并实名认证，在线提交申请和材料，在线缴费，等评估和审核。公布的认证工作时限是 10 至 20 个工作日。工作日不含周末和节假日，这段是留服中心审核用的时间
-- 证据等级：A
-- 来源：中国（教育部）留学服务中心. 网上服务大厅·学历学位认证. <http://zwfw.cscse.edu.cn/>
-- 备注：要交的材料有这几样：文凭证书，护照或者通行证，居留卡或者签证签注，证件照片，授权声明。出国期间的出入境记录由系统自己调取，所以在外期间的签证页别丢。留服中心网站上还会发公告，说哪些认证书作废、暂停受理哪所学校的认证申请。办之前先看一眼有没有涉及自己的学校。
+### 9. Chừa sẵn thời gian thẩm định trước khi về nước: thẩm định của Trung tâm Dịch vụ Lưu học sinh mất 10 đến 20 ngày làm việc
+<!-- Nhan chi phi: tien=it thoi-gian=trung y-luc=khong loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Nộp đơn trực tuyến, đóng phí trực tuyến. Chuẩn bị hồ sơ cộng xét duyệt, tính theo ngày làm việc, tổng cộng chừng một tháng
+- Hiểu nhanh: Bằng cấp nước ngoài muốn dùng ở trong nước, phải làm thẩm định học vị – bằng cấp trước. Riêng xét duyệt đã mất 10 đến 20 ngày làm việc. Đụng mùa tuyển dụng, hoặc hồ sơ bị trả lại, còn lâu hơn nữa. Mùa tuyển dụng nhân sự thu, thời hạn đăng ký thi công chức, thủ tục đăng ký thường trú đều có thời hạn chót, đừng đợi đến lúc cần dùng mới bắt đầu làm.
+- Lợi ích: Thẩm định học vị – bằng cấp lấy ở nước ngoài làm tại sảnh dịch vụ trực tuyến của Trung tâm Dịch vụ Lưu học sinh (Bộ Giáo dục, Trung Quốc). Quy trình bốn bước: đăng ký và xác thực danh tính, nộp đơn và hồ sơ trực tuyến, đóng phí trực tuyến, chờ đánh giá và xét duyệt. Thời hạn công bố cho việc thẩm định là 10 đến 20 ngày làm việc. Ngày làm việc không tính cuối tuần và ngày lễ, khoảng thời gian này là thời gian Trung tâm Dịch vụ Lưu học sinh dùng để xét duyệt
+- Mức bằng chứng: A
+- Nguồn: Trung tâm Dịch vụ Lưu học sinh (Bộ Giáo dục Trung Quốc). Sảnh dịch vụ trực tuyến – thẩm định học vị, bằng cấp. <http://zwfw.cscse.edu.cn/>
+- Ghi chú: Hồ sơ cần nộp gồm mấy thứ này: văn bằng chứng chỉ, hộ chiếu hoặc giấy thông hành, thẻ cư trú hoặc visa, ghi chú nhập cảnh, ảnh thẻ, cam kết ủy quyền. Hồ sơ xuất nhập cảnh trong thời gian ở nước ngoài do hệ thống tự khai thác, nên đừng vứt mất trang visa của thời gian đó. Website của Trung tâm Dịch vụ Lưu học sinh còn đăng thông báo về việc văn bằng thẩm định nào bị hủy bỏ, ngừng nhận hồ sơ thẩm định của trường nào. Trước khi làm, hãy xem thử có dính đến trường của mình không.
 
-### 10. 认证被「加强审查」的学校每年都在加，花钱买文凭这条路已经走不通
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。报名之前，在留服中心的通知公告里搜一次学校名
-- 说人话：留服中心会点名一批国外院校，对它们的学历认证单独加强审查，也会暂停受理个别学校的认证申请。被点名的往往就是宣传里「免语言、免出境、几个月拿硕士」的那种。报名前搜一次学校名，比事后申诉省事得多。
-- 收益：中国（教育部）留学服务中心一直在发公告，对部分国外院校的学历学位认证加强认证审查（对这些学校的文凭单独多查一道）。最新一份是第九号（2025-10-28）。留服中心还发过暂停受理个别境外院校认证申请的公告，也发过提示，说有人借国（境）外学历学位认证实施诈骗
-- 证据等级：A
-- 来源：中国（教育部）留学服务中心. 关于对部分国外院校学历学位认证加强认证审查的公告（九）（2025-10-28）. <https://www.cscse.edu.cn/cscse/sy/tzgg/2025102809225023345/index.html>；中国（教育部）留学服务中心. <https://www.cscse.edu.cn/>
-- 备注：「加强审查」不等于一定认证不了，但会要求你补交更多材料，时间也更长。凡是承诺「包认证」「内部渠道加急」的中介都是骗局，留服中心专门发过防诈骗提示。跨境找人代写论文、代上网课，被查到除了学历作废，还可能影响签证记录。
+### 10. Số trường bị “tăng cường thẩm tra” khi thẩm định ngày càng nhiều theo từng năm; con đường bỏ tiền mua bằng đã hết lối đi
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Trước khi đăng ký, tìm tên trường một lần trong mục thông báo của Trung tâm Dịch vụ Lưu học sinh
+- Hiểu nhanh: Trung tâm Dịch vụ Lưu học sinh sẽ nêu tên một loạt trường nước ngoài, riêng phần thẩm định bằng cấp của các trường này thì tăng cường kiểm tra thêm, và cũng có thể ngừng nhận hồ sơ thẩm định của một số trường nhất định. Bị nêu tên thường chính là kiểu trường quảng cáo “miễn tiếng Anh, không cần xuất cảnh, vài tháng có bằng thạc sĩ”. Trước khi đăng ký tìm tên trường một phát, đỡ hơn nhiều so với kháng nghị sau này.
+- Lợi ích: Trung tâm Dịch vụ Lưu học sinh (Bộ Giáo dục, Trung Quốc) liên tục phát thông báo tăng cường thẩm tra thẩm định đối với học vị – bằng cấp của một số trường nước ngoài (riêng văn bằng của các trường này tra thêm một lượt). Mới nhất là thông báo số 9 (2025-10-28). Trung tâm còn từng phát thông báo ngừng nhận hồ sơ thẩm định của một số trường ở nước ngoài, và từng phát cảnh báo rằng có người lợi dụng thẩm định học vị – bằng cấp nước ngoài để thực hiện lừa đảo
+- Mức bằng chứng: A
+- Nguồn: Trung tâm Dịch vụ Lưu học sinh (Bộ Giáo dục Trung Quốc). Thông báo về tăng cường thẩm tra thẩm định học vị – bằng cấp đối với một số trường nước ngoài (số 9) (2025-10-28). <https://www.cscse.edu.cn/cscse/sy/tzgg/2025102809225023345/index.html>; Trung tâm Dịch vụ Lưu học sinh (Bộ Giáo dục Trung Quốc). <https://www.cscse.edu.cn/>
+- Ghi chú: “Tăng cường thẩm tra” không có nghĩa nhất định không được thẩm định, nhưng sẽ đòi bạn nộp bổ sung nhiều hồ sơ hơn và thời gian cũng dài hơn. Môi giới nào hứa hẹn “bao thẩm định”, “kênh nội bộ chạy nhanh” đều là lừa đảo, Trung tâm Dịch vụ Lưu học sinh từng phát riêng cảnh báo phòng chống lừa đảo. Thuê người xuyên biên giới viết luận hộ, học trực tuyến hộ, bị phát hiện thì ngoài việc văn bằng vô hiệu, còn có thể ảnh hưởng đến hồ sơ visa.

@@ -1,86 +1,86 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 15. 租房与买房
+# 15. Thuê nhà và mua nhà
 
-口径：金钱。租房最容易亏钱的地方是押金和中介。买房最费钱的地方是贷款利息，还有卖方知道、你不知道的那些事。
+Tiêu chí: tiền bạc. Chỗ dễ mất tiền nhất khi thuê nhà là tiền đặt cọc và người môi giới. Chỗ tốn tiền nhất khi mua nhà là tiền lãi vay, cùng những chuyện người bán biết mà bạn không biết.
 
-### 1. 押金的数额、退还时间和扣减情形，必须写进合同
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
-- 成本：不花钱。签合同时多花十分钟。难在要当着房东的面提出来
-- 说人话：押金多少、什么时候退、什么情况下能扣，签字前就要写进合同。合同里没写的扣款理由，房东退租时不能拿来扣你的押金。
-- 收益：行政法规写得很明白：「出租人收取押金的，应当在住房租赁合同中约定押金的数额、返还时间以及扣减押金的情形等事项。除住房租赁合同约定的情形以外，出租人无正当理由不得扣减押金。」三件事要写进合同：押金收多少、什么时候退、什么情况下能扣。合同里没写的理由，房东不能拿来扣你的钱
-- 证据等级：A
-- 来源：国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
-- 备注：退租那天和房东一起拍照录像。水表、电表、燃气表的读数都拍下来，墙面和地面也拍。押金被无故扣了，先找房屋租赁管理部门投诉。金额不大的走小额诉讼，见第 8 节
+### 1. Số tiền đặt cọc, thời gian hoàn trả và các tình huống khấu trừ, bắt buộc phải ghi vào hợp đồng
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Ký hợp đồng bỏ thêm mười phút. Khó là phải nêu ra ngay trước mặt chủ nhà
+- Hiểu nhanh: Tiền cọc bao nhiêu, khi nào trả, trường hợp nào được trừ, trước khi ký phải ghi vào hợp đồng. Lý do trừ tiền không ghi trong hợp đồng, lúc trả nhà chủ nhà không thể đem ra trừ tiền cọc của bạn.
+- Lợi ích: Pháp quy hành chính viết rất rõ: “người cho thuê khi thu tiền đặt cọc, phải trong hợp đồng thuê nhà ở quy định số tiền đặt cọc, thời gian hoàn trả cùng các tình huống khấu trừ tiền đặt cọc. Ngoài các tình huống quy định trong hợp đồng thuê nhà ở, người cho thuê không có lý do chính đáng không được khấu trừ tiền đặt cọc.” Ba việc phải ghi vào hợp đồng: tiền cọc thu bao nhiêu, khi nào trả, trường hợp nào được trừ. Lý do không ghi trong hợp đồng, chủ nhà không thể đem ra trừ tiền của bạn
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2025). Điều lệ Thuê nhà ở (Quốc vụ viện lệnh số 812, thực hiện ngày 15/9/2025) (điều 10). <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
+- Ghi chú: Ngày trả nhà cùng chủ nhà chụp ảnh quay phim cùng nhau. Chỉ số đồng hồ nước, đồng hồ điện, đồng hồ khí đều chụp lại, tường và sàn cũng chụp. Tiền cọc bị trừ vô cớ, trước tìm ngành quản lý thuê nhà khiếu nại. Số tiền không lớn thì đi tố tụng tiểu ngạch, xem chương 8
 
-### 2. 被断水断电、换锁、上门威胁赶人，先报警留证：法规禁止用这些方式逼你腾房
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。打个电话报警，当场就能做
-- 说人话：房东不能靠断水断电、换锁、上门威胁逼你解约或者搬走，法规明令禁止。遇上了先报警。出警记录是你以后要求赔损失的证据。不要自己动手和对方对抗。
-- 收益：行政法规写得很明白：「出租人不得采取暴力、威胁或者其他非法方式迫使承租人解除住房租赁合同或者腾退租赁住房。」腾退就是让你搬走。遇到这类情况先报警，把证据留下。不要自己动手对抗
-- 证据等级：A
-- 来源：国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十二条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
-- 备注：报警是为了留下出警记录，以后要求赔损失时它就是证据。同时通知房屋租赁管理部门
+### 2. Bị cắt nước cắt điện, đổi khóa, đến tận nhà dọa dẫm đuổi đi, trước hết báo công an giữ chứng cứ: pháp quy cấm dùng những cách này ép bạn trả nhà
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Gọi một cuộc điện báo công an, tại chỗ làm được ngay
+- Hiểu nhanh: Chủ nhà không thể dựa vào cắt nước cắt điện, đổi khóa, đến tận nhà dọa dẫm ép bạn hủy hợp đồng hoặc dọn đi, pháp quy lệnh cấm rõ ràng. Gặp phải thì báo công an trước. Hồ sơ công an ra hiện trường xử lý là chứng cứ để sau này bạn đòi bồi thường tổn thất. Đừng tự mình ra tay đối kháng với đối phương.
+- Lợi ích: Pháp quy hành chính viết rất rõ: “người cho thuê không được dùng bạo lực, đe dọa hoặc phương thức phi pháp khác ép người thuê chấm dứt hợp đồng thuê nhà ở hoặc trả lại nhà thuê.” Trả lại nhà là bắt bạn dọn đi. Gặp loại tình huống này báo công an trước, giữ chứng cứ lại. Đừng tự ra tay đối kháng
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2025). Điều lệ Thuê nhà ở (Quốc vụ viện lệnh số 812, thực hiện ngày 15/9/2025) (điều 12). <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
+- Ghi chú: Báo công an là để lại hồ sơ công an ra hiện trường, sau này đòi bồi thường tổn thất nó chính là chứng cứ. Đồng thời báo cho ngành quản lý thuê nhà biết
 
-### 3. 中介不得代收代付租金和押金，钱直接给房东
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。付款前核对收款人，几分钟。难在要顶住中介让你把钱转给它的说法
-- 说人话：按规定，房租和押金不能由中介代收代付，钱直接付给房东。钱在中介手里过一道，就多一次它卷款跑路的机会。真跑了，你租金白交，还会被房东赶走。付款前核对收款人是不是产权证上的名字。
-- 收益：行政法规把「代收、代付住房租金、押金」列为房地产经纪机构的禁止行为，中介不能替房东收你的房租和押金。钱在中介手里过一道，就多一次卷款跑路的机会
-- 证据等级：A
-- 来源：国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第二十五条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
-- 备注：付款前核对收款人是不是产权证上的名字。不是本人的，问清楚，并留一份书面授权。中介只能收牵线撮合的居间服务费
+### 3. Môi giới không được thu hộ, trả hộ tiền thuê và tiền cọc, tiền giao thẳng cho chủ nhà
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Trước khi trả tiền đối chiếu người nhận tiền, vài phút. Khó là phải chống nổi lời môi giới xúi bạn chuyển tiền cho nó
+- Hiểu nhanh: Theo quy định, tiền nhà và tiền cọc không thể do môi giới thu hộ, trả hộ, tiền trả thẳng cho chủ nhà. Tiền qua tay môi giới một lượt, là thêm một cơ hội nó ôm tiền bỏ trốn. Thật bỏ trốn rồi, tiền thuê bạn trả uổng, còn bị chủ nhà đuổi. Trước khi trả tiền, đối chiếu người nhận có phải tên trên giấy chứng nhận quyền sở hữu không.
+- Lợi ích: Pháp quy hành chính liệt “thu hộ, trả hộ tiền thuê nhà ở, tiền cọc” vào hành vi bị cấm của cơ cấu môi giới bất động sản, môi giới không thể thay chủ nhà thu tiền thuê và tiền cọc của bạn. Tiền qua tay môi giới một lượt, là thêm một cơ hội ôm tiền bỏ trốn
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2025). Điều lệ Thuê nhà ở (Quốc vụ viện lệnh số 812, thực hiện ngày 15/9/2025) (điều 25). <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
+- Ghi chú: Trước khi trả tiền đối chiếu người nhận có phải tên trên giấy chứng nhận quyền sở hữu không. Không phải chính chủ, hỏi rõ, và giữ một bản ủy quyền văn bản. Môi giới chỉ được thu phí dịch vụ môi giới bên trung gian
 
-### 4. 租长租公寓先查它的资金监管账户，别图便宜一次性付一年
-<!-- 成本标签: 钱=0 时间=中 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。查一次十几分钟
-- 说人话：一次性付一年，拿到的折扣就那么点。公司一旦倒了，你的押金和剩下十几个月的房租一起没。绑了租金贷更糟：公寓跑了，贷款还是你按月还完。签约前先查它有没有公示资金监管账户。
-- 收益：行政法规要求转租经营的住房租赁企业「设立住房租赁资金监管账户并向社会公示」。转租经营就是企业从房东手里整租下来，再转租给你。一次性付一年拿到的那点折扣，抵不上企业跑路时押金和剩余租金一起没的风险。同时签了租金贷的，风险更大
-- 证据等级：A
-- 来源：国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十九条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
-- 备注：签约时看清有没有绑定贷款。如果是分期 App 把一年的钱一次性给了公寓、你按月还贷，那么公寓跑了你还要接着还。这种合同不签
+### 4. Thuê căn hộ dài hạn tra trước tài khoản giám sát vốn của nó, đừng ham rẻ trả cả năm một lần
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Tra một lần mười mấy phút
+- Hiểu nhanh: Trả cả năm một lần, chiết khấu nhận được có bao nhiêu đâu. Công ty một khi sụp, tiền cọc và tiền thuê của mười mấy tháng còn lại của bạn mất cùng nhau. Dính vay tiền thuê còn thảm hơn: căn hộ bỏ chạy, khoản vay vẫn là bạn trả dần từng tháng. Trước khi ký, tra trước nó có công bố tài khoản giám sát vốn không.
+- Lợi ích: Pháp quy hành chính yêu cầu doanh nghiệp thuê nhà ở kinh doanh tái cho thuê “thiết lập tài khoản giám sát vốn thuê nhà ở và công bố ra xã hội”. Kinh doanh tái cho thuê là doanh nghiệp thuê trọn từ tay chủ nhà, rồi cho thuê lại cho bạn. Mấy phần chiết khấu của việc trả cả năm một lần, không bù nổi rủi ro công ty bỏ chạy thì tiền cọc và tiền thuê còn lại mất cùng lúc. Đồng thời còn ký vay tiền thuê, rủi ro càng lớn
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2025). Điều lệ Thuê nhà ở (Quốc vụ viện lệnh số 812, thực hiện ngày 15/9/2025) (điều 19). <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
+- Ghi chú: Lúc ký nhìn rõ có bị gắn khoản vay không. Nếu là app mua trả góp đưa tiền cả năm một lần cho căn hộ, bạn trả nợ từng tháng, thì căn hộ bỏ chạy bạn vẫn phải trả tiếp. Loại hợp đồng này không ký
 
-### 5. 房子租期内被卖掉，租约继续有效，不用搬
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱
-- 说人话：租期内房子被卖掉，你的租约照样有效。新房东要按原来的合同让你住到期满。不用搬，也不用重新谈价钱。前提是你已经合法住在里面，合同、转账记录、入住时间的证据都留好。
-- 收益：民法典里有一条叫「买卖不破租赁」。法条原话是：租赁物在租赁期限内发生所有权变动的，不影响租赁合同的效力。意思是租期里房子换了主人，已经签好的租约照样有效。新房东要按原合同让你住到期满
-- 证据等级：A
-- 来源：全国人大 (2020). 民法典（第七百二十五条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>
-- 备注：前提是你已经合法住进去了，法条里的说法是合法占有使用。合同、转账记录、入住时间的证据要留好
+### 5. Nhà trong kỳ thuê bị bán đi, hợp đồng thuê vẫn có hiệu lực, không phải dọn
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền
+- Hiểu nhanh: Trong kỳ thuê nhà bị bán, hợp đồng thuê của bạn vẫn có hiệu lực như thường. Chủ nhà mới phải theo hợp đồng cũ cho bạn ở đến hết hạn. Không phải dọn, cũng không phải đàm giá lại. Tiền đề là bạn đã hợp pháp ở bên trong, hợp đồng, hồ sơ chuyển khoản, chứng cứ thời gian vào ở đều giữ tốt.
+- Lợi ích: Bộ luật Dân sự có một điều gọi là “mua bán không phá vỡ hợp đồng thuê”. Lời nguyên văn của điều luật là: tài sản cho thuê trong thời hạn thuê phát sinh thay đổi quyền sở hữu, không ảnh hưởng hiệu lực hợp đồng thuê. Nghĩa là trong kỳ thuê nhà đổi chủ, hợp đồng thuê đã ký vẫn có hiệu lực như thường. Chủ nhà mới phải theo hợp đồng cũ cho bạn ở đến hết hạn
+- Mức bằng chứng: A
+- Nguồn: Đại hội Đại biểu Nhân dân toàn quốc (2020). Bộ luật Dân sự (điều 725). <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>
+- Ghi chú: Tiền đề là bạn đã hợp pháp vào ở, cách nói trong điều luật là chiếm hữu sử dụng hợp pháp. Hợp đồng, hồ sơ chuyển khoản, chứng cứ thời gian vào ở phải giữ tốt
 
-### 6. 签约前核对产权证和抵押情况，所有款项走转账并备注用途
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。查一次半小时
-- 说人话：最常见的两种血本无归，一是租金付给了不是产权人的人，二是房子早就抵押给银行、后来被查封。签约前去不动产登记中心查一次产权和抵押。所有钱走转账，备注写「某某房屋某月租金」，出了纠纷这就是直接证据。
-- 收益：最常见的两种血本无归，一是把租金付给了不是产权人的人，二是房子早就抵押给银行，后来被查封。转账时备注「某某房屋某月租金」，出了纠纷这就是直接证据
-- 证据等级：C
-- 来源：作者经验，无直接文献；证据留存与转账备注同理见第 8 节关于彩礼和借条的两条
-- 备注：产权信息可以去当地不动产登记中心查。签约时让房东本人到场，本人来不了的，要一份授权委托书。二房东转租给你的，要有原房东的书面同意
+### 6. Trước khi ký đối chiếu giấy chứng nhận quyền sở hữu và tình trạng thế chấp, mọi khoản tiền đều chuyển khoản và ghi chú mục đích
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Tra một lần nửa tiếng
+- Hiểu nhanh: Hai kiểu đổ sạch vốn phổ biến nhất, một là tiền thuê trả cho người không phải chủ sở hữu, hai là nhà sớm đã thế chấp cho ngân hàng, sau bị phong tỏa. Trước khi ký đến trung tâm đăng ký bất động sản tra một lượt quyền sở hữu và thế chấp. Mọi tiền đi qua chuyển khoản, ghi chú viết “tiền thuê nhà nhà X tháng mấy”, ra tranh chấp đây chính là chứng cứ trực tiếp.
+- Lợi ích: Hai kiểu đổ sạch vốn phổ biến nhất, một là trả tiền thuê cho người không phải chủ sở hữu, hai là nhà sớm đã thế chấp cho ngân hàng, sau bị phong tỏa. Khi chuyển khoản ghi chú “tiền thuê nhà nhà X tháng mấy”, ra tranh chấp đây chính là chứng cứ trực tiếp
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm của tác giả, không có tài liệu trực tiếp; giữ chứng cứ và ghi chú chuyển khoản cùng nguyên lý, xem hai mục về sính lễ và giấy vay tiền ở chương 8
+- Ghi chú: Thông tin quyền sở hữu có thể đến trung tâm đăng ký bất động sản địa phương tra. Khi ký để chính chủ nhà có mặt, chính chủ không đến được, đòi một giấy ủy quyền. Chủ nhà thứ hai cho thuê lại cho bạn, phải có sự đồng ý văn bản của chủ nhà gốc
 
-### 7. 二手房让中介代收房款的，必须走中介在银行开的交易资金专用存款账户
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。难在要坚持走专用账户，可能得跟中介多争几句
-- 说人话：房款是几十万到几百万，是这本书里单笔金额最大的一件事。中介代收房款的，按规定必须走它在银行开的专用账户，不能微信转给经纪人个人。另外，两家中介合做一单只能收一份佣金，代办贷款、代办过户要单独签合同、事先说清收费。
-- 收益：规章写得很明白：约定由房地产经纪机构代收代付交易资金的，应当通过其在银行开设的客户交易结算资金专用存款账户划转。意思是房款进的是受监管的专用账户，不是中介自己的账户，也不是某个经纪人的私人账户
-- 证据等级：A
-- 来源：住房城乡建设部、国家发展改革委、人力资源社会保障部 (2011). 房地产经纪管理办法（令第 8 号，2016 年第 29 号令修改）第二十四条：「房地产交易当事人约定由房地产经纪机构代收代付交易资金的，应当通过房地产经纪机构在银行开设的客户交易结算资金专用存款账户划转交易资金。」第十八条「房地产经纪服务实行明码标价制度……在经营场所醒目位置标明房地产经纪服务项目、服务内容、收费标准」；第十九条「两家或者两家以上房地产经纪机构合作开展同一宗房地产经纪业务的，只能按照一宗业务收取佣金，不得向委托人增加收费」；第十七条代办贷款、代办房地产登记等其他服务「应当向委托人说明服务内容、收费标准等情况，经委托人同意后，另行签订合同」. <http://www.gov.cn/gongbao/content/2011/content_1918920.htm>
-- 备注：房款是几十万到几百万，是这本书里单笔金额最大的一件事，别用微信转给经纪人。还有两种常见的多收钱。一是两家中介联合做同一单，这种只能收一份佣金。二是代办贷款、代办过户，这属于另外的服务，要单独签合同并事先告知收费。所有款项都走转账并备注用途，见第 6 条（签约前核对产权证和抵押情况）。
+### 7. Mua nhà cũ nhờ môi giới thu hộ tiền nhà, bắt buộc phải qua tài khoản tiền gửi chuyên dùng vốn giao dịch mà môi giới mở ở ngân hàng
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Khó là phải kiên trì đi qua tài khoản chuyên dùng, có thể phải cãi vài câu với môi giới
+- Hiểu nhanh: Tiền nhà là vài trăm nghìn đến vài triệu yên, là sự việc số tiền một lượt lớn nhất trong cuốn sách này. Môi giới thu hộ tiền nhà, theo quy định bắt buộc đi qua tài khoản chuyên dùng nó mở ở ngân hàng, không thể chuyển qua WeChat cho cá nhân người môi giới. Ngoài ra, hai nhà môi giới cùng làm một đơn chỉ được thu một phần hoa hồng, làm hộ vay, làm hộ sang tên phải ký hợp đồng riêng, nói rõ phí trước.
+- Lợi ích: Chế định viết rất rõ: hẹn do cơ cấu môi giới bất động sản thu hộ, trả hộ vốn giao dịch, phải qua tài khoản tiền gửi chuyên dùng vốn quyết toán giao dịch khách hàng mà nó mở ở ngân hàng để chuyển. Nghĩa là tiền nhà đi vào tài khoản chuyên dùng được giám sát, không phải tài khoản của chính môi giới, cũng không phải tài khoản riêng của người môi giới nào đó
+- Mức bằng chứng: A
+- Nguồn: Bộ Nhà ở và Xây dựng đô thị - nông thôn, Ủy ban Phát triển và Cải cách quốc gia, Bộ Tài nguyên nhân lực và Bảo hiểm xã hội (2011). Biện pháp quản lý môi giới bất động sản (lệnh số 8, sửa đổi bằng lệnh số 29 năm 2016) điều 24: “các bên giao dịch bất động sản hẹn do cơ cấu môi giới bất động sản thu hộ, trả hộ vốn giao dịch, phải qua tài khoản tiền gửi chuyên dùng vốn quyết toán giao dịch khách hàng mà cơ cấu môi giới bất động sản mở ở ngân hàng chuyển vốn giao dịch.” điều 18 “dịch vụ môi giới bất động sản thực hiện chế độ niêm yết giá rõ ràng…… tại vị trí nổi bật của nơi kinh doanh ghi rõ hạng mục dịch vụ môi giới bất động sản, nội dung dịch vụ, tiêu chuẩn thu phí”; điều 19 “hai hoặc hơn hai cơ cấu môi giới bất động sản hợp tác triển khai cùng một vụ môi giới bất động sản, chỉ được thu hoa hồng theo một vụ, không được tăng thu phí với bên ủy thác”; điều 17 làm hộ vay, làm hộ đăng ký bất động sản và các dịch vụ khác “phải nói rõ với bên ủy thác nội dung dịch vụ, tiêu chuẩn thu phí và các tình huống, sau khi bên ủy thác đồng ý, ký hợp đồng riêng”. <http://www.gov.cn/gongbao/content/2011/content_1918920.htm>
+- Ghi chú: Tiền nhà là vài trăm nghìn đến vài triệu yên, là sự việc số tiền một lượt lớn nhất trong cuốn sách này, đừng chuyển qua WeChat cho người môi giới. Còn hai kiểu thu nhiều tiền phổ biến. Một là hai nhà môi giới liên doanh làm cùng một đơn, loại này chỉ được thu một phần hoa hồng. Hai là làm hộ vay, làm hộ sang tên, đây thuộc dịch vụ khác, phải ký hợp đồng riêng và báo phí trước. Mọi khoản tiền đều chuyển khoản và ghi chú mục đích, xem mục 6 (trước khi ký đối chiếu giấy chứng nhận quyền sở hữu và tình trạng thế chấp).
 
-### 8. 别租隔断房：最小出租单位是原设计的房间，厨房、卫生间、阳台不得住人
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。代价是同样的预算，要么住得远一点，要么住得小一点
-- 说人话：按规定，最小的出租单位是原来设计好的那间房。厨房、卫生间、阳台和地下储藏室不能住人。这种房被查处之后，你可能要搬走。另外，租期内房东也不能自己说涨租就涨租。
-- 收益：规章写得很明白，最小的出租单位是原设计的房间，不能把一间房再隔成几间分开租。人均租住建筑面积不得低于当地规定的最低标准。厨房、卫生间、阳台和地下储藏室不得出租供人员居住。租期内出租人也不得单方面随意提高租金
-- 证据等级：A
-- 来源：住房和城乡建设部 (2010). 商品房屋租赁管理办法（令第 6 号）第八条：「出租住房的，应当以原设计的房间为最小出租单位，人均租住建筑面积不得低于当地人民政府规定的最低标准。厨房、卫生间、阳台和地下储藏室不得出租供人员居住。」第九条：「出租人应当按照合同约定履行房屋的维修义务并确保房屋和室内设施安全……房屋租赁合同期内，出租人不得单方面随意提高租金水平。」<http://www.gov.cn/gongbao/content/2011/content_1845070.htm>
-- 备注：违规隔断被查处时，搬家的是租客，押金和已经付掉的租金往往拿不回来。安全上也差：隔断墙常常堵住逃生的通道，一屋住很多人还共用一条电线。看房时注意三点：墙是不是后来砌的，房间有没有窗，电表带不带得动这么多人。
+### 8. Đừng thuê nhà ngăn chia trái phép: đơn vị cho thuê nhỏ nhất là phòng theo thiết kế gốc, bếp, nhà vệ sinh, ban công không được ở người
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Cái giá là cùng một ngân sách, hoặc ở xa hơn một chút, hoặc ở chật hơn một chút
+- Hiểu nhanh: Theo quy định, đơn vị cho thuê nhỏ nhất là căn phòng thiết kế sẵn từ đầu. Bếp, nhà vệ sinh, ban công và kho chứa dưới hầm không được ở người. Nhà loại này bị tra xử xong, có thể bạn phải dọn đi. Ngoài ra, trong kỳ thuê chủ nhà cũng không thể muốn tăng giá là tăng giá.
+- Lợi ích: Chế định viết rất rõ, đơn vị cho thuê nhỏ nhất là phòng theo thiết kế gốc, không thể chia một căn phòng ra mấy ngăn cho thuê riêng. Diện tích xây dựng ở thuê bình quân đầu người không được thấp hơn tiêu chuẩn tối thiểu địa phương quy định. Bếp, nhà vệ sinh, ban công và kho chứa dưới hầm không được cho thuê làm chỗ ở cho người. Trong kỳ thuê người cho thuê cũng không được đơn phương tùy tiện nâng tiền thuê
+- Mức bằng chứng: A
+- Nguồn: Bộ Nhà ở và Xây dựng đô thị - nông thôn (2010). Biện pháp quản lý cho thuê nhà hàng hóa (lệnh số 6) điều 8: “cho thuê nhà ở, phải lấy phòng theo thiết kế gốc làm đơn vị cho thuê nhỏ nhất, diện tích xây dựng ở thuê bình quân đầu người không được thấp hơn tiêu chuẩn tối thiểu chính quyền nhân dân địa phương quy định. Bếp, nhà vệ sinh, ban công và kho chứa dưới hầm không được cho thuê làm chỗ ở cho người.” điều 9: “người cho thuê phải theo thỏa thuận hợp đồng thực hiện nghĩa vụ bảo trì nhà và bảo đảm nhà cùng cơ sở vật chất trong nhà an toàn…… trong thời hạn hợp đồng thuê nhà, người cho thuê không được đơn phương tùy tiện nâng mức tiền thuê.” <http://www.gov.cn/gongbao/content/2011/content_1845070.htm>
+- Ghi chú: Ngăn chia trái phép bị tra xử, người dọn đi là người thuê, tiền cọc và tiền thuê đã trả thường không đòi về. An toàn cũng kém: tường ngăn thường chặn lối thoát hiểm, một nhà ở nhiều người còn dùng chung một đường dây điện. Xem nhà chú ý ba điểm: tường có phải xây thêm sau không, phòng có cửa sổ không, đồng hồ điện có gánh nổi nhiều người thế này không.
 
-### 9. 城镇户口想搬去乡下住，只租农房，别买宅基地和宅基地上的房子
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。代价是房子不归你，租期一次最长 20 年，到期要重新和房东谈
-- 说人话：城镇户口的人不能到农村买宅基地、农民的房子或者「小产权房」，国家文件明令禁止。村里人说「写个合同就行」也不行，钱付出去，房子也成不了你的。想在乡下长住，就签租赁合同，一次最长签 20 年，到期再续。
-- 收益：国务院办公厅的文件写得很明白：「城镇居民不得到农村购买宅基地、农民住宅或『小产权房』。」同一份文件还规定，农民卖掉或者租出住房以后，再申请宅基地不予批准。2019 年中央农办和农业农村部的文件又说了一遍：「严禁城镇居民到农村购买宅基地。」同一份文件给出了合法的路：城镇居民可以租农房居住或者经营，租赁合同的期限不得超过二十年，到期双方可以另行约定
-- 证据等级：A
-- 来源：国务院办公厅 (2007). 关于严格执行有关农村集体建设用地法律和政策的通知（国办发〔2007〕71 号）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_2395.htm>；中央农村工作领导小组办公室、农业农村部 (2019). 关于进一步加强农村宅基地管理的通知（中农发〔2019〕11 号）第五、六部分. <https://www.moa.gov.cn/govpublic/NCJJTZ/201909/t20190920_6328397.htm>
-- 备注：宅基地就是村里分给本村村民盖房的地，只能分给本村人。租农房时和出租的农户签书面合同，写清租期、租金、能不能装修改建，以及装修的钱到期怎么算。文件规定租期不超过 20 年，别签「租 50 年」「租 70 年」这类合同，更别一次付清多年租金。文件还禁止下乡用宅基地盖别墅大院和私人会馆，别出钱给村民「合建」。
+### 9. Hộ khẩu thành thị muốn dọn về quê ở, chỉ thuê nhà nông, đừng mua đất ở nông thôn và nhà xây trên đất ấy
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Cái giá là nhà không thuộc về bạn, kỳ thuê một lần tối đa 20 năm, hết hạn phải đàm lại với chủ nhà
+- Hiểu nhanh: Người hộ khẩu thành thị không thể về nông thôn mua đất ở nông thôn, nhà của nông dân hoặc “nhà quyền sở hữu nhỏ”, văn bản nhà nước lệnh cấm rõ ràng. Người trong làng nói “viết hợp đồng là được” cũng không được, tiền đưa ra, nhà cũng không thành của bạn. Muốn ở quê lâu dài, thì ký hợp đồng thuê, một lần tối đa ký 20 năm, hết hạn ký tiếp.
+- Lợi ích: Văn bản Văn phòng Quốc vụ viện viết rất rõ: “cư dân thành thị không được về nông thôn mua đất ở nông thôn, nhà ở của nông dân hoặc ‘nhà quyền sở hữu nhỏ’.” Cùng văn bản đó còn quy định, nông dân sau khi bán đi hoặc cho thuê nhà ở, xin lại đất ở nông thôn không được phê chuẩn. Văn bản năm 2019 của Văn phòng Tổ Lãnh đạo công tác nông nghiệp trung ương cùng Bộ Nông nghiệp và Nông thôn lại nói một lần nữa: “nghiêm cấm cư dân thành thị về nông thôn mua đất ở nông thôn.” Cùng văn bản đó đưa ra con đường hợp pháp: cư dân thành thị có thể thuê nhà nông để ở hoặc kinh doanh, thời hạn hợp đồng thuê không được vượt hai mươi năm, hết hạn hai bên có thể hẹn riêng
+- Mức bằng chứng: A
+- Nguồn: Văn phòng Quốc vụ viện (2007). Thông báo về chấp hành nghiêm luật pháp và chính sách liên quan đất xây dựng thuộc tập thể nông thôn (Quốc ban phát 〔2007〕 số 71). <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_2395.htm>; Văn phòng Tổ Lãnh đạo công tác nông nghiệp trung ương, Bộ Nông nghiệp và Nông thôn (2019). Thông báo về tăng cường hơn nữa quản lý đất ở nông thôn (Trung nông phát 〔2019〕 số 11) phần năm, phần sáu. <https://www.moa.gov.cn/govpublic/NCJJTZ/201909/t20190920_6328397.htm>
+- Ghi chú: Đất ở nông thôn là đất làng chia cho dân bản xây nhà, chỉ được chia cho người trong làng. Thuê nhà nông thì ký hợp đồng văn bản với hộ nông dân cho thuê, ghi rõ kỳ thuê, tiền thuê, có sửa chữa cải tạo được không, và tiền sửa chữa hết hạn tính ra sao. Văn bản quy định kỳ thuê không vượt 20 năm, đừng ký loại hợp đồng “thuê 50 năm” “thuê 70 năm”, càng đừng một lần trả sạch tiền thuê nhiều năm. Văn bản còn cấm xuống nông thôn dùng đất ở nông thôn xây biệt thự sân rộng và hội quán tư nhân, đừng bỏ tiền cùng dân làng “xây chung”.

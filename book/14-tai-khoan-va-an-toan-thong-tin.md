@@ -1,86 +1,86 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 14. 账号与信息安全
+# 14. Tài khoản và an toàn thông tin
 
-口径：金钱与个人信息。账号被别人登进去，丢的先是钱。对方还会用你的账号去骗你通讯录里的人。你的身份也等于被人拿走了。
+Cách tính: tiền bạc và thông tin cá nhân. Tài khoản bị người khác đăng nhập vào, mất trước hết là tiền. Đối phương còn dùng tài khoản của bạn để lừa những người trong danh bạ của bạn. Danh tính của bạn cũng coi như bị người ta lấy mất.
 
-### 1. 邮箱、支付、社交账号都开二次验证，优先用手机弹窗确认，其次才是短信验证码
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。每个账号设置一次，两三分钟就设完。
-- 说人话：二次验证是指登录时除了密码，还要再确认一次是不是本人。用手机上弹个窗、你点一下确认的办法，九成以上的钓鱼盗号都被拦住了。靠回答「上次在哪登的」「备用邮箱是什么」这种老办法，钓鱼盗号只能拦下一成左右。
-- 收益：谷歌统计了 35 万次真实的盗号尝试（也叫账号劫持）。一类是靠设备来验证，比如手机上弹窗让你点确认，或者插一把安全密钥。这一类拦下了「超过 94% 源于钓鱼的劫持尝试和 100% 的自动化劫持尝试」。钓鱼是指骗你在假网站上输密码，自动化是指机器拿泄露的密码批量去试。另一类是靠回答问题来验证，比如问你上次在哪登录、备用邮箱是什么。这一类「只拦下了低至 10% 的钓鱼劫持和 73% 的自动化劫持」
-- 证据等级：A
-- 来源：Doerfler P, Thomas K, Marincenko M, et al. (2019). Evaluating Login Challenges as a Defense Against Account Takeover. The World Wide Web Conference (WWW '19). <https://doi.org/10.1145/3308558.3313481>
-- 备注：同一项研究也发现，这类验证有时会把本人挡在外面。52% 的真用户第一次没登进去，不过最后有 97% 还是进去了。先给邮箱开这个功能，因为别的账号大多能用邮箱找回密码
+### 1. Email, thanh toán, tài khoản mạng xã hội đều bật xác thực hai lớp, ưu tiên dùng xác nhận qua cửa sổ bật lên trên điện thoại, mã xác thực tin nhắn chỉ là lựa chọn tiếp theo
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Mỗi tài khoản cài một lần, hai ba phút là cài xong.
+- Hiểu nhanh: Xác thực hai lớp nghĩa là khi đăng nhập, ngoài mật khẩu còn phải xác nhận thêm một lần nữa là có phải chủ tài khoản không. Dùng cách trên điện thoại bật một cửa sổ, bạn chạm xác nhận, hơn chín phần trăm các vụ lừa đảo giả mạo (phishing) đánh cắp tài khoản đều bị chặn lại. Cách cũ dựa vào trả lời “lần trước đăng nhập ở đâu” “email dự phòng là gì”, lừa đảo giả mạo đánh cắp tài khoản chỉ chặn được chừng một phần mười.
+- Lợi ích: Google thống kê 350.000 lần thử đánh cắp tài khoản thực (còn gọi là chiếm đoạt tài khoản, account takeover). Một nhóm là xác minh bằng thiết bị, như trên điện thoại bật cửa sổ cho bạn chạm xác nhận, hoặc cắm một chìa khóa bảo mật. Nhóm này chặn được “hơn 94% các nỗ lực chiếm đoạt có nguồn gốc phishing và 100% các nỗ lực chiếm đoạt tự động”. Phishing là lừa bạn nhập mật khẩu trên trang web giả, tự động là máy móc lấy mật khẩu bị lộ thử hàng loạt. Nhóm kia là xác minh bằng cách trả lời câu hỏi, như hỏi lần trước bạn đăng nhập ở đâu, email dự phòng là gì. Nhóm này “chỉ chặn được thấp nhất 10% chiếm đoạt qua phishing và 73% chiếm đoạt tự động”
+- Mức bằng chứng: A
+- Nguồn: Doerfler P, Thomas K, Marincenko M, et al. (2019). Evaluating Login Challenges as a Defense Against Account Takeover. The World Wide Web Conference (WWW '19). <https://doi.org/10.1145/3308558.3313481>
+- Ghi chú: Cùng một nghiên cứu cũng phát hiện, loại xác minh này đôi khi lại chặn cả chủ tài khoản ở ngoài. 52% người dùng thật lần đầu không đăng nhập được, nhưng sau đó có 97% vẫn vào được. Bật tính năng này cho email trước, vì phần lớn tài khoản khác đều có thể lấy lại mật khẩu qua email
 
-### 2. 邮箱密码单独一个，不和任何网站重复
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。用密码管理器存着就不用自己记。难的是要改掉一个密码到处用的老习惯。
-- 说人话：别的网站被偷走的密码，会被人拿来直接登你的邮箱。邮箱一旦被人登进去，凡是能用邮箱找回密码的账号，都跟着一起丢。所以邮箱的密码要单独一个，别的地方一律不用。
-- 收益：把别处泄露的账号和密码挨个拿来试着登，这叫撞库，是最省事的攻击方式，你的邮箱也会被这样试。邮箱一旦被人登进去，所有用它找回密码的账号一起丢。美国网络安全和基础设施安全局的建议是：每个账号用一个不同的强密码，至少 16 位，交给密码管理器存
-- 证据等级：C
-- 来源：US CISA. Use Strong Passwords. <https://www.cisa.gov/secure-our-world/use-strong-passwords>
-- 备注：记不住就用浏览器自带的密码管理器。它替你记住每个网站的密码，比到处用同一个密码强得多。别把密码存在微信收藏或者备忘录里
+### 2. Mật khẩu email dùng riêng một cái, không trùng với bất kỳ website nào
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Dùng trình quản lý mật khẩu lưu thì không cần tự nhớ. Khó là phải bỏ được thói quen cũ dùng một mật khẩu cho mọi nơi.
+- Hiểu nhanh: Mật khẩu bị đánh cắp từ website khác, sẽ bị người ta đem đi đăng nhập thẳng vào email của bạn. Email một khi bị đăng nhập vào, mọi tài khoản có thể lấy lại mật khẩu qua email đều mất theo. Nên mật khẩu email phải dùng riêng một cái, chỗ nào cũng không dùng lại.
+- Lợi ích: Lấy các tài khoản, mật khẩu bị lộ ở nơi khác đem đi thử đăng nhập lần lượt, cách này gọi là “dò kho tài khoản” (credential stuffing), là kiểu tấn công tốn công ít nhất, email của bạn cũng bị thử như vậy. Email một khi bị đăng nhập vào, mọi tài khoản dùng nó để lấy lại mật khẩu đều mất theo. Khuyến nghị của Cơ quan An ninh mạng và An toàn Cơ sở hạ tầng Hoa Kỳ: mỗi tài khoản dùng một mật khẩu mạnh khác nhau, ít nhất 16 ký tự, giao cho trình quản lý mật khẩu lưu
+- Mức bằng chứng: C
+- Nguồn: US CISA. Use Strong Passwords. <https://www.cisa.gov/secure-our-world/use-strong-passwords>
+- Ghi chú: Không nhớ được thì dùng trình quản lý mật khẩu có sẵn của trình duyệt. Nó giúp bạn nhớ mật khẩu từng website, hơn hẳn việc khắp nơi dùng chung một mật khẩu. Đừng lưu mật khẩu trong mục lưu của WeChat hay ứng dụng ghi chú
 
-### 3. 手机设锁屏密码，SIM 卡设 PIN 码
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。锁屏密码和 PIN 码各设一次就行。
-- 说人话：SIM 卡就是手机里那张小卡片，短信验证码靠它来收。手机丢了，捡到的人会把这张卡拔下来，插进别的手机收验证码，再挨个重置你的账号。给卡设一个 PIN 码，卡换到别的手机上，一开机就要先输这个码，这条路就断了。
-- 收益：手机丢了以后，捡到的人最快的一条路是把 SIM 卡插到别的手机上，收你的短信验证码。有了验证码，他就能一个个重置你的账号。SIM 卡设了 PIN 码，换到别的手机上开机就要先输密码，捡到的人就没法拿它收验证码
-- 证据等级：C
-- 来源：作者经验，无直接文献
-- 备注：PIN 码在手机设置里的「SIM 卡锁」那一项里设。出厂时的初始码一般是 1234 或者 0000。连着输错三次，就要用运营商给的 PUK 码才能解开。所以设完先把这个码记在纸上
+### 3. Điện thoại đặt mật khẩu màn hình khóa, thẻ SIM đặt mã PIN
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Mật khẩu màn hình khóa và mã PIN mỗi thứ cài một lần là được.
+- Hiểu nhanh: Thẻ SIM là tấm thẻ nhỏ trong điện thoại, mã xác thực tin nhắn dựa vào nó để nhận. Điện thoại mất, người nhặt được sẽ rút tấm thẻ này cắm vào điện thoại khác để nhận mã xác thực, rồi lần lượt đặt lại tài khoản của bạn. Đặt cho thẻ một mã PIN, thẻ sang điện thoại khác, vừa bật máy là phải nhập mã trước, con đường đó bị cắt đứt.
+- Lợi ích: Sau khi điện thoại mất, con đường nhanh nhất của người nhặt được là cắm thẻ SIM vào điện thoại khác, nhận mã xác thực tin nhắn của bạn. Có mã xác thực, hắn có thể lần lượt đặt lại các tài khoản của bạn. Thẻ SIM đã đặt mã PIN, sang điện thoại khác, bật máy phải nhập mật khẩu trước, người nhặt được không thể dùng nó nhận mã xác thực
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm tác giả, không có văn liệu trực tiếp
+- Ghi chú: Mã PIN cài trong phần “khóa SIM” của cài đặt điện thoại. Mã xuất xưởng ban đầu thường là 1234 hoặc 0000. Nhập sai ba lần liên tiếp, phải dùng mã PUK nhà mạng cung cấp mới mở được. Nên sau khi cài xong, ghi mã này ra giấy trước
 
-### 4. 手机丢了按这个顺序做：挂失 SIM 卡、远程锁定、改密码、报警、冻结银行卡
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。整套做下来十几分钟。
-- 说人话：顺序比手快更重要。第一步挂失 SIM 卡，验证码这条命脉就断了。接着远程锁住手机，再用电脑改邮箱和支付密码，然后报警拿回执，最后看情况冻结银行卡。手机不在身上，借别人的手机打运营商客服也能挂失。
-- 收益：顺序比速度更重要。第一步，挂失 SIM 卡，别人就收不到你的验证码了。第二步，远程锁定手机，并清空手机里的内容。第三步，从电脑上改邮箱和支付密码。第四步，报警，拿回执。最后按需要冻结银行卡。美国联邦通信委员会的提示也是：就算觉得只是弄丢了，也要远程锁住。被偷了马上报警，报上型号和 IMEI 串号（手机的身份编号），并马上告诉运营商
-- 证据等级：C
-- 来源：US FCC. Protect Your Smart Device. <https://www.fcc.gov/consumers/guides/protect-your-mobile-device>；步骤顺序是作者经验；补办身份证见第 7 节，冒名贷款见第 8 节关于征信的一条
-- 备注：提前把三家运营商的客服号记下来：移动 10086，联通 10010，电信 10000。自己的手机号是在哪个城市办的，也记一下，客服会问。用别人的手机一样能打客服挂失
+### 4. Điện thoại mất thì làm theo thứ tự này: báo khóa thẻ SIM, khóa từ xa, đổi mật khẩu, báo công an, đóng băng thẻ ngân hàng
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Cả quá trình làm hết mười mấy phút.
+- Hiểu nhanh: Thứ tự quan trọng hơn thao tác nhanh. Bước một báo khóa thẻ SIM, mạch sống của mã xác thực bị cắt. Tiếp theo khóa từ xa điện thoại, rồi dùng máy tính đổi mật khẩu email và thanh toán, sau đó báo công an lấy biên lai, cuối cùng tùy tình hình đóng băng thẻ ngân hàng. Điện thoại không trên người, mượn điện thoại người khác gọi tổng đài nhà mạng cũng báo khóa được.
+- Lợi ích: Thứ tự quan trọng hơn tốc độ. Bước một, báo khóa thẻ SIM, người khác không nhận được mã xác thực của bạn nữa. Bước hai, khóa từ xa điện thoại, và xóa sạch nội dung trong máy. Bước ba, từ máy tính đổi mật khẩu email và thanh toán. Bước bốn, báo công an, lấy biên lai. Cuối cùng tùy nhu cầu đóng băng thẻ ngân hàng. Ủy ban Truyền thông Liên bang Hoa Kỳ cũng nhắc: dù nghĩ là chỉ làm mất, cũng phải khóa từ xa. Bị đánh cắp thì lập tức báo công an, nêu rõ model và số IMEI (số định danh của điện thoại), và ngay lập tức báo cho nhà mạng
+- Mức bằng chứng: C
+- Nguồn: US FCC. Protect Your Smart Device. <https://www.fcc.gov/consumers/guides/protect-your-mobile-device>; thứ tự các bước là kinh nghiệm tác giả; làm lại căn cước công dân xem chương 7, vay mạo danh xem mục nói về hồ sơ tín dụng trong chương 8
+- Ghi chú: Trước đó hãy ghi sẵn số tổng đài của ba nhà mạng: Di động 10086, Liên thông 10010, Viễn thông 10000. Số điện thoại của mình lập ở thành phố nào, cũng ghi lại một dòng, tổng đài sẽ hỏi. Dùng điện thoại của người khác vẫn gọi tổng đài báo khóa được
 
-### 5. 卡被盗刷先挂失冻结再报警，然后要求银行赔：证明「是你自己刷的」是银行的责任
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。发现卡上有不对劲的动静，立刻挂失或者冻结。把报警记录、挂失记录、银行发来的交易通知都留着。卡还在自己身上的，就近做一笔小额查询或者存取，留下记录证明出事的时候真卡在你手上。难的是要忍住别先跟客服争论，先挂失。
-- 说人话：卡被人盗刷，不用你去证明「这不是我刷的」。反过来，是银行要拿出证据证明这笔是你本人刷的，拿不出就得赔你。前提是你一发现就挂失冻结。拖着不挂失，后面多出来的损失要自己承担。
-- 收益：最高法的规定把「谁来拿证据」分开了。你说这是伪卡盗刷或者网络盗刷，要先拿证据。伪卡盗刷就是卡被人复制了一张去刷。这些都能用来证明：已经生效的法律文书、银行卡交易时真卡在哪里、交易发生在哪里。还有账户交易明细、交易通知、报警记录、挂失记录等等。**反过来，发卡银行、非银行支付机构（第三方支付）说这笔是持卡人本人刷的、或者是经他授权刷的，要由它们拿出证据**。你告知银行之后，银行没及时核实，或者没及时提供、保存交易单据和监控录像，证据因此拿不到的，拿不出证据的后果由银行承担。认定成立以后：借记卡（储蓄卡）持卡人，可以要求发卡银行把被盗刷的存款本息付给你，并赔偿损失。信用卡持卡人，可以要求退回被扣走的透支款本息和违约金，并赔偿损失；银行反过来要你还这笔透支款的，法院不予支持。你还可以要求发卡银行及时撤销相应的不良征信记录（全国，2021 年 5 月 25 日起施行）
-- 证据等级：A
-- 来源：最高人民法院 (2021). 关于审理银行卡民事纠纷案件若干问题的规定（第四、五、七、十四、十五条）. <https://www.court.gov.cn/fabu/xiangqing/304771.html>
-- 备注：有两种情形要你自己担责。一是银行卡、密码、验证码这些东西你没保管好，自己有过错（原文是「未尽妥善保管义务具有过错」），错多少担多少。所以密码不告诉别人，验证码不转发给别人（见第 1 条，二次验证优先用手机弹窗确认）。二是没及时挂失，让损失接着扩大，多出来那部分自己承担。所以第一步永远是挂失冻结，别先打客服争论。第三方支付机构也适用这套规则。它的宣传资料里写了「先行赔付」，而且承诺得具体明确的，可以照着要求它先赔。钱是你被人骗着自己转出去的，要走另一套办法，见第 8 节第 2 条（发现被骗立刻打 110 或 96110 要求止付）。
+### 5. Thẻ bị quẹt trộm thì trước hết báo khóa đóng băng rồi báo công an, sau đó yêu cầu ngân hàng đền: việc chứng minh “là chính bạn quẹt” là trách nhiệm của ngân hàng
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Thấy thẻ có động tĩnh bất thường, lập tức báo khóa hoặc đóng băng. Giữ lại hồ sơ báo công an, hồ sơ báo khóa, thông báo giao dịch ngân hàng gửi đến. Thẻ vẫn trên người, hãy làm một giao dịch tra cứu hoặc gửi rút số nhỏ ở gần đó, để lại hồ sơ chứng minh lúc xảy ra chuyện thẻ thật đang trên tay bạn. Khó là phải nhịn đừng tranh luận với tổng đài trước, báo khóa trước đã.
+- Hiểu nhanh: Thẻ bị quẹt trộm, không cần bạn chứng minh “đây không phải tôi quẹt”. Ngược lại, là ngân hàng phải đưa ra chứng cứ chứng minh giao dịch này do chính chủ thẻ quẹt, không đưa ra được thì phải đền cho bạn. Tiền đề là vừa phát hiện bạn đã báo khóa đóng băng. Chần chừ không báo khóa, phần thiệt hại phát sinh thêm sau đó phải tự gánh.
+- Lợi ích: Quy định của tòa án nhân dân tối cao tách bạch “ai phải đưa chứng cứ”. Bạn nói đây là quẹt trộm thẻ giả hoặc quẹt trộm qua mạng, phải đưa chứng cứ trước. Quẹt trộm thẻ giả nghĩa là thẻ bị sao chép một bản đem đi quẹt. Những thứ sau đều dùng làm chứng cứ được: văn bản pháp luật đã có hiệu lực, thẻ thật đang ở đâu lúc giao dịch ngân hàng, giao dịch xảy ra ở đâu. Còn có chi tiết giao dịch tài khoản, thông báo giao dịch, hồ sơ báo công an, hồ sơ báo khóa v.v. **Ngược lại, ngân hàng phát hành thẻ, tổ chức thanh toán phi ngân hàng (thanh toán bên thứ ba) nói giao dịch này do chính chủ thẻ quẹt, hoặc do anh ta cho phép quẹt, thì phải do họ đưa ra chứng cứ**. Bạn đã báo ngân hàng mà ngân hàng không kịp thời đối chiếu, hoặc không kịp thời cung cấp, lưu giữ chứng từ giao dịch và video giám sát khiến chứng cứ không còn lấy được, hậu quả không đưa ra được chứng cứ do ngân hàng gánh. Xác định được sau: chủ thẻ ghi nợ (thẻ tiết kiệm), có thể yêu cầu ngân hàng phát hành trả lại gốc và lãi của số tiền bị quẹt trộm, và bồi thường thiệt hại. Chủ thẻ tín dụng, có thể yêu cầu hoàn lại gốc lãi của khoản vay thấu chi và tiền phạt vi phạm đã bị trừ, và bồi thường thiệt hại; ngân hàng ngược lại đòi bạn khoản vay thấu chi này, tòa án không chấp nhận. Bạn còn có thể yêu cầu ngân hàng phát hành kịp thời xóa bỏ các ghi chép tín dụng xấu tương ứng (toàn quốc, thi hành từ ngày 25/5/2021)
+- Mức bằng chứng: A
+- Nguồn: Tòa án nhân dân tối cao (2021). Quy định một số vấn đề xét xử tranh chấp dân sự về thẻ ngân hàng (điều 4, 5, 7, 14, 15). <https://www.court.gov.cn/fabu/xiangqing/304771.html>
+- Ghi chú: Có hai tình huống bạn phải tự chịu trách nhiệm. Một là thẻ ngân hàng, mật khẩu, mã xác thực những thứ này bạn không giữ tốt, bản thân có lỗi (văn bản gốc là “chưa thực hiện đầy đủ nghĩa vụ bảo quản cẩn thận nên có lỗi”), lỗi bao nhiêu gánh bấy nhiêu. Nên mật khẩu không kể cho ai, mã xác thực không chuyển tiếp cho ai (xem mục 1, xác thực hai lớp ưu tiên xác nhận qua cửa sổ bật lên trên điện thoại). Hai là không kịp báo khóa, để thiệt hại tiếp tục mở rộng, phần phát sinh thêm tự gánh. Nên bước một mãi mãi là báo khóa đóng băng, đừng tranh luận với tổng đài trước. Tổ chức thanh toán bên thứ ba cũng áp dụng bộ quy tắc này. Tài liệu quảng bá của nó viết có “bồi thường trước” (tiền bồi thường trước), và cam kết cụ thể rõ ràng, có thể dựa đó yêu cầu nó bồi thường trước. Tiền là bạn bị lừa mà tự tay chuyển ra, phải đi một bộ cách khác, xem chương 8 mục 2 (phát hiện bị lừa đảo, lập tức gọi 110 hoặc 96110 yêu cầu dừng thanh toán).
 
-### 6. 每隔一段时间看一次账号的登录设备和已授权应用，不用的清掉
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
-- 成本：不花钱。每次看几分钟。难的是没人提醒，要自己记得去看。
-- 说人话：「登录设备」是指现在还能用你账号的那些手机和电脑。盗号的人常常先潜伏一阵再动手。列表里冒出你不认识的设备，或者早就不用的软件还连着你的账号，看到就退出全部登录，再改密码。
-- 收益：被盗号往往不是当场就动手，对方会先潜伏一阵。账号里的登录设备列表，记着现在还能用这个账号的手机和电脑。已授权应用列表，记着你准许它用这个账号登录的别家软件。列表里的陌生设备，和早就不用的第三方软件，是最容易发现的痕迹
-- 证据等级：C
-- 来源：作者经验，无直接文献
-- 备注：微信、支付宝、邮箱、苹果账号和安卓账号里都有这个入口。发现不认识的设备，就点退出全部登录，再改密码
+### 6. Cứ một khoảng thời gian xem một lượt thiết bị đăng nhập và ứng dụng đã được cấp quyền của tài khoản, cái không dùng thì dọn bỏ
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Mỗi lần xem vài phút. Khó là không có ai nhắc, phải tự nhớ ra xem.
+- Hiểu nhanh: “Thiết bị đăng nhập” là những điện thoại, máy tính hiện vẫn dùng được tài khoản của bạn. Kẻ đánh cắp tài khoản thường nằm im một thời gian rồi mới ra tay. Danh sách có nhô ra thiết bị bạn không quen, hoặc phần mềm lâu không dùng vẫn nối với tài khoản của bạn, thấy là thoát đăng nhập toàn bộ, rồi đổi mật khẩu.
+- Lợi ích: Bị đánh cắp tài khoản thường không ra tay ngay tại chỗ, đối phương sẽ nằm im trước một thời gian. Danh sách thiết bị đăng nhập trong tài khoản, ghi lại những điện thoại và máy tính hiện vẫn dùng được tài khoản này. Danh sách ứng dụng đã cấp quyền, ghi lại những phần mềm của hãng khác bạn cho phép dùng tài khoản này để đăng nhập. Thiết bị lạ trong danh sách, và phần mềm bên thứ ba lâu không dùng, là dấu vết dễ phát hiện nhất
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm tác giả, không có văn liệu trực tiếp
+- Ghi chú: WeChat, Alipay, email, tài khoản Apple và tài khoản Android đều có mục này. Thấy thiết bị không quen, bấm thoát đăng nhập toàn bộ, rồi đổi mật khẩu
 
-### 7. 别为了用 App 点「全部同意」：不是必需的信息，你不同意也不能拒绝给你服务
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=自由 -->
-- 成本：不花钱。难的是要忍住不点「全部同意」。
-- 说人话：App 要你的信息，如果不是提供这项服务必须用的，你不同意给，它不能因此不让你用。它能收的，也只限于用得着的那些。地图要你的位置是必须的，手电筒要你的通讯录就不是。
-- 收益：法律明写了两条。一是不得以个人不同意、或者撤回同意为由，拒绝提供产品或者服务；处理这些信息属于提供服务所必需的除外。二是收集应当限于实现处理目的的最小范围，只能收用得着的那些
-- 证据等级：A
-- 来源：全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>：第六条「收集个人信息，应当限于实现处理目的的最小范围，不得过度收集个人信息」；第十六条「个人信息处理者不得以个人不同意处理其个人信息或者撤回同意为由，拒绝提供产品或者服务；处理个人信息属于提供产品或者服务所必需的除外」；第十五条「基于个人同意处理个人信息的，个人有权撤回其同意。个人信息处理者应当提供便捷的撤回同意的方式」
-- 备注：判断标准是这项信息是不是提供这个服务所必需的。地图要位置是必需的，手电筒要通讯录不是。App 装完，先到手机设置里的应用权限页，把不必需的权限关掉。等真用到的时候，再选只这一次允许。
+### 7. Đừng vì dùng App mà bấm “đồng ý tất cả”: thông tin không thuộc loại bắt buộc, bạn không đồng ý thì nó cũng không được từ chối cung cấp dịch vụ cho bạn
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tu-do -->
+- Chi phí: Không tốn tiền. Khó là kìm được không bấm “đồng ý tất cả”.
+- Hiểu nhanh: App muốn thông tin của bạn, nếu không phải thứ bắt buộc dùng để cung cấp dịch vụ này, bạn không đồng ý đưa, nó không được vì thế mà không cho bạn dùng. Thứ nó có thể thu, cũng chỉ giới hạn ở những thứ dùng đến được. Bản đồ muốn vị trí của bạn là bắt buộc, đèn pin muốn danh bạ của bạn thì không phải.
+- Lợi ích: Pháp luật viết rõ hai điều. Một là không được lấy lý do cá nhân không đồng ý, hoặc rút lại sự đồng ý, mà từ chối cung cấp sản phẩm hoặc dịch vụ; trừ việc xử lý những thông tin này thuộc loại bắt buộc để cung cấp dịch vụ. Hai là thu thập phải giới hạn trong phạm vi nhỏ nhất để đạt mục đích xử lý, chỉ được thu những thứ dùng đến được
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội Đại biểu Nhân dân toàn quốc (2021). Luật Bảo vệ thông tin cá nhân. Website Đại hội Đại biểu Nhân dân Trung Quốc. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>: điều 6 “Thu thập thông tin cá nhân, phải giới hạn trong phạm vi nhỏ nhất để đạt mục đích xử lý, không được thu thập thông tin cá nhân quá mức”; điều 16 “Bên xử lý thông tin cá nhân không được lấy lý do cá nhân không đồng ý xử lý thông tin cá nhân của mình hoặc rút lại sự đồng ý, mà từ chối cung cấp sản phẩm hoặc dịch vụ; trừ trường hợp xử lý thông tin cá nhân thuộc loại bắt buộc để cung cấp sản phẩm hoặc dịch vụ”; điều 15 “Xử lý thông tin cá nhân trên cơ sở cá nhân đồng ý, cá nhân có quyền rút lại sự đồng ý của mình. Bên xử lý thông tin cá nhân phải cung cấp cách rút lại sự đồng ý thuận tiện”
+- Ghi chú: Tiêu chuẩn xét đoán là thông tin này có phải bắt buộc để cung cấp dịch vụ này không. Bản đồ muốn vị trí là bắt buộc, đèn pin muốn danh bạ thì không. Cài xong App, trước hết vào trang quyền hạn ứng dụng trong cài đặt điện thoại, tắt những quyền không bắt buộc. Đợi thật sự dùng đến, rồi chọn chỉ cho phép lần này.
 
-### 8. 你有权查看、复制、更正和删除自己的个人信息，被拒绝可以起诉
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=自由 -->
-- 成本：不花钱。只有对方拖着不办，才需要去投诉或者起诉。真打官司就是几个月起步，律师费还要自己出，所以先投诉更划算。难的是对方拖着的时候得反复去催。
-- 说人话：你有权要求企业让你查看、复制、更正和删除自己的信息。服务停了、保存期限到了、你撤回同意的，企业本来就该自己删掉。它拒绝你，必须说明理由；不办，你可以直接去法院告它。注销账号和删除信息是两件事，注销之后还要另外提删除。
-- 收益：有几种情形企业应当主动删除：服务停了、约定的保存期限到了、你撤回同意、当初收集的目的已经达到等等。它没删，你可以要求它删。它拒绝你行使这些权利的，必须说明理由。你可以直接向法院起诉
-- 证据等级：A
-- 来源：全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>：第四十五条「个人有权向个人信息处理者查阅、复制其个人信息……个人请求查阅、复制其个人信息的，个人信息处理者应当及时提供」；第四十六条更正、补充权；第四十七条列了五种应当主动删除的情形，含「（一）处理目的已实现、无法实现或者为实现处理目的不再必要」「（二）个人信息处理者停止提供产品或者服务，或者保存期限已届满」「（三）个人撤回同意」，「个人信息处理者未删除的，个人有权请求删除」；第五十条「个人信息处理者应当建立便捷的个人行使权利的申请受理和处理机制。拒绝个人行使权利的请求的，应当说明理由」「个人可以依法向人民法院提起诉讼」
-- 备注：注销账号和删除个人信息是两件事，注销之后还要单独提出删除。换手机或者卖旧手机之前，先在旧手机上把所有账号退出、解除绑定，再恢复出厂设置。法律给你的是事后的删除权，它不能替你把已经泄露出去的东西收回来。
+### 8. Bạn có quyền xem, sao chép, sửa chữa và xóa thông tin cá nhân của mình, bị từ chối có thể khởi kiện
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tu-do -->
+- Chi phí: Không tốn tiền. Chỉ khi đối phương kéo chê không làm, mới cần đi khiếu nại hoặc khởi kiện. Thật sự ra tòa là tính bằng tháng trở lên, tiền luật sư còn phải tự trả, nên khiếu nại trước vẫn lợi hơn. Khó là khi đối phương kéo chê, phải đi thúc nhiều lần.
+- Hiểu nhanh: Bạn có quyền yêu cầu doanh nghiệp cho bạn xem, sao chép, sửa chữa và xóa thông tin của mình. Dịch vụ dừng, thời hạn lưu giữ hết, bạn rút lại sự đồng ý, doanh nghiệp vốn phải tự xóa. Nó từ chối bạn, phải nêu lý do; không làm, bạn có thể thẳng ra tòa kiện nó. Hủy tài khoản và xóa thông tin là hai chuyện, hủy xong còn phải nêu riêng việc xóa.
+- Lợi ích: Có mấy tình huống doanh nghiệp phải chủ động xóa: dịch vụ dừng, thời hạn lưu giữ đã hẹn hết, bạn rút lại sự đồng ý, mục đích thu thập ban đầu đã đạt v.v. Nó không xóa, bạn có thể yêu cầu nó xóa. Nó từ chối bạn thực hiện các quyền này, phải nêu lý do. Bạn có thể thẳng ra tòa khởi kiện
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội Đại biểu Nhân dân toàn quốc (2021). Luật Bảo vệ thông tin cá nhân. Website Đại hội Đại biểu Nhân dân Trung Quốc. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>: điều 45 “Cá nhân có quyền tra cứu, sao chép thông tin cá nhân của mình từ bên xử lý thông tin cá nhân... Cá nhân yêu cầu tra cứu, sao chép thông tin cá nhân của mình, bên xử lý thông tin cá nhân phải kịp thời cung cấp”; điều 46 quyền sửa chữa, bổ sung; điều 47 liệt kê năm tình huống phải chủ động xóa, gồm “(một) mục đích xử lý đã đạt được, không thể đạt được, hoặc vì mục đích xử lý không còn cần thiết” “(hai) bên xử lý thông tin cá nhân dừng cung cấp sản phẩm hoặc dịch vụ, hoặc thời hạn lưu giữ đã hết” “(ba) cá nhân rút lại sự đồng ý”, “bên xử lý thông tin cá nhân không xóa, cá nhân có quyền yêu cầu xóa”; điều 50 “Bên xử lý thông tin cá nhân phải thiết lập cơ chế tiếp nhận và xử lý thuận tiện cho cá nhân thực hiện quyền. Từ chối yêu cầu của cá nhân thực hiện quyền, phải nêu lý do” “cá nhân có thể theo pháp luật khởi kiện ra tòa án nhân dân”
+- Ghi chú: Hủy tài khoản và xóa thông tin cá nhân là hai chuyện, hủy xong còn phải nêu riêng việc xóa. Đổi điện thoại hoặc bán điện thoại cũ, trước hết trên điện thoại cũ thoát tất cả tài khoản, gỡ liên kết, rồi khôi phục cài đặt gốc. Pháp luật cho bạn là quyền xóa sau sự việc, nó không thu hồi được những thứ đã rò rỉ ra ngoài.
 
-### 9. 刷脸不是必须答应的：有别的办法就不能只让你刷脸，你不同意得给你其他方式
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
-- 成本：不花钱。被要求刷脸时，问一句「有没有别的验证方式」。对方说没有，就要求它提供一个。难的是要当面开口问。
-- 说人话：只要还有别的办法能办成同一件事，对方就不能只让你刷脸。你不同意刷脸，它得给你刷卡、密码或者身份证这类别的办法，也不许拿「那就办不了业务」来逼你。宾馆客房、公共浴室、更衣室、卫生间这些地方，谁都不许装人脸识别设备。
-- 收益：人脸识别技术应用安全管理办法写明：「实现相同目的或者达到同等业务要求，存在其他非人脸识别技术方式的，不得将人脸识别技术作为唯一验证方式。个人不同意通过人脸信息进行身份验证的，应当提供其他合理、便捷的方式。」办法还写明：「任何组织和个人不得以办理业务、提升服务质量等为由，误导、欺诈、胁迫个人接受人脸识别技术验证个人身份。」要是按你同意来处理人脸信息，得取得「在充分知情的前提下自愿、明确作出的单独同意」：单独就这一件事问你，你单独点头才算。你有权撤回同意，处理者要提供便捷的撤回方式。处理不满十四周岁未成年人的人脸信息，应当取得父母或者其他监护人的同意。公共场所安装人脸识别设备，「应当为维护公共安全所必需」，并设置显著提示标识。宾馆客房、公共浴室、公共更衣室、公共卫生间等公共场所中的私密空间内部，任何组织和个人不得安装。人脸信息应当存储于人脸识别设备内，不得通过互联网对外传输。两种情况例外：法律、行政法规另有规定，或者取得了单独同意（全国，2025 年 6 月 1 日起施行）
-- 证据等级：A
-- 来源：国家互联网信息办公室、公安部 (2025). 人脸识别技术应用安全管理办法（第 19 号令，第十条、十二条、十三条，2025 年 6 月 1 日起施行）. <https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm>
-- 备注：最常遇到的是小区门禁、租房平台、健身房、酒店要你录人脸。对方说「系统只支持刷脸」的时候，把办法的原话念给他听。原话是：「实现相同目的或者达到同等业务要求，存在其他非人脸识别技术方式的，不得将人脸识别技术作为唯一验证方式」。然后要求它提供刷卡、密码或者身份证这类别的方式。还是不给的，向当地网信部门反映。国家对刷脸验证身份另有规定的，比如一部分金融和政务场景，按那些规定办。人脸和密码最大的区别是泄露之后改不掉，所以它值得比密码更谨慎。存了 10 万人以上人脸信息的单位，要在 30 个工作日内向省级以上网信部门备案，这也是判断对方正不正规的一个问法。查阅、更正、删除自己个人信息的权利见第 8 条。
+### 9. Quét khuôn mặt không phải bắt buộc phải đồng ý: còn cách khác thì không được chỉ bắt bạn quét khuôn mặt, bạn không đồng ý thì phải cho bạn cách khác
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Bị yêu cầu quét khuôn mặt, hỏi một câu “có cách xác minh nào khác không”. Đối phương nói không có, thì yêu cầu nó cung cấp một cách. Khó là phải mở lời hỏi ngay tại chỗ.
+- Hiểu nhanh: Chỉ cần còn cách khác để làm xong cùng một việc, đối phương không được chỉ bắt bạn quét khuôn mặt. Bạn không đồng ý quét khuôn mặt, nó phải cho bạn cách khác như quẹt thẻ, mật khẩu hoặc căn cước công dân, cũng không được lấy “vậy thì không làm được giao dịch” để ép bạn. Phòng khách sạn, phòng tắm công cộng, phòng thay đồ, nhà vệ sinh những nơi này, ai cũng không được lắp thiết bị nhận diện khuôn mặt.
+- Lợi ích: Biện pháp quản lý an toàn ứng dụng công nghệ nhận diện khuôn mặt viết rõ: “Để đạt cùng mục đích hoặc đạt yêu cầu nghiệp vụ tương đương, nếu tồn tại cách công nghệ khác không phải nhận diện khuôn mặt, không được dùng công nghệ nhận diện khuôn mặt làm cách xác minh duy nhất. Cá nhân không đồng ý xác minh danh tính qua thông tin khuôn mặt, phải cung cấp cách khác hợp lý, thuận tiện.” Biện pháp còn viết rõ: “Bất kỳ tổ chức và cá nhân nào không được lấy lý do làm nghiệp vụ, nâng cao chất lượng dịch vụ v.v. để đánh lừa, lừa dối, ép buộc cá nhân chấp nhận công nghệ nhận diện khuôn mặt xác minh danh tính cá nhân.” Nếu xử lý thông tin khuôn mặt dựa trên sự đồng ý của bạn, phải thu được “sự đồng ý riêng biệt do tự nguyện, rõ ràng trên nền tảng hiểu biết đầy đủ”: riêng hỏi bạn về đúng chuyện này, bạn riêng gật đầu mới tính. Bạn có quyền rút lại sự đồng ý, bên xử lý phải cung cấp cách rút lại thuận tiện. Xử lý thông tin khuôn mặt của người chưa đủ 14 tuổi, phải thu được sự đồng ý của cha mẹ hoặc người giám hộ khác. Lắp thiết bị nhận diện khuôn mặt ở nơi công cộng, “phải vì nhu cầu duy trì an toàn công cộng”, và đặt biển báo hiệu rõ ràng. Trong không gian riêng tư ở những nơi công cộng như phòng khách sạn, phòng tắm công cộng, phòng thay đồ công cộng, nhà vệ sinh công cộng, bất kỳ tổ chức và cá nhân nào không được lắp. Thông tin khuôn mặt phải lưu trong thiết bị nhận diện khuôn mặt, không được truyền ra ngoài qua Internet. Hai trường hợp ngoại lệ: pháp luật, quy chế hành chính có quy định khác, hoặc đã thu được sự đồng ý riêng biệt (toàn quốc, thi hành từ ngày 1/6/2025)
+- Mức bằng chứng: A
+- Nguồn: Văn phòng Thông tin Internet quốc gia, Bộ Công an (2025). Biện pháp quản lý an toàn ứng dụng công nghệ nhận diện khuôn mặt (lệnh số 19, điều 10, 12, 13, thi hành từ ngày 1/6/2025). <https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm>
+- Ghi chú: Hay gặp nhất là cổng khu dân cư, nền tảng cho thuê nhà, phòng gym, khách sạn bắt bạn ghi nhận khuôn mặt. Đối phương nói “hệ thống chỉ hỗ trợ quét khuôn mặt”, hãy đọc nguyên văn biện pháp cho hắn nghe. Nguyên văn là: “Để đạt cùng mục đích hoặc đạt yêu cầu nghiệp vụ tương đương, nếu tồn tại cách công nghệ khác không phải nhận diện khuôn mặt, không được dùng công nghệ nhận diện khuôn mặt làm cách xác minh duy nhất”. Rồi yêu cầu nó cung cấp cách khác như quẹt thẻ, mật khẩu hoặc căn cước công dân. Vẫn không cho, phản ánh với cơ quan thông tin mạng địa phương. Quốc gia có quy định riêng về quét khuôn mặt xác minh danh tính, ví dụ một phần tình huống tài chính và hành chính, thì làm theo quy định đó. Khuôn mặt khác mật khẩu ở chỗ lớn nhất là lộ rồi không đổi lại được, nên nó đáng được cẩn trọng hơn mật khẩu. Đơn vị lưu thông tin khuôn mặt trên 100.000 người, phải báo cáo với cơ quan thông tin mạng cấp tỉnh trở lên trong 30 ngày làm việc, đây cũng là cách hỏi thử xem đối phương có chính quy không. Quyền tra cứu, sửa chữa, xóa thông tin cá nhân của mình xem mục 8.

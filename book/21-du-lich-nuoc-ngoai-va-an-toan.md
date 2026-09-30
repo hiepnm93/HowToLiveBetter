@@ -1,104 +1,104 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 21. 出国、旅行与境外安全
+# 21. Du lịch nước ngoài và an toàn ở nước ngoài
 
-这一节算的是钱和人身自由，有几条还关系到人身安全。到了国外，管你的是所在国的法律，不是中国的。中国使领馆能帮你到哪一步，有明确的界线。
+Chương này tính tiền và tự do thân xác, vài mục còn liên quan đến an toàn tính mạng. Đến nước ngoài, cái quản lý bạn là pháp luật của nước đang ở, không phải của Trung Quốc. Lãnh sự quán, đại sứ quán Trung Quốc giúp bạn được đến đâu, có ranh giới rõ ràng.
 
-### 1. 出发前查一次外交部安全提醒，标了「暂勿前往」的地方就别去
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：不花钱。打开中国领事服务网翻一遍，几分钟就看完。
-- 说人话：外交部把国外的安全风险分成四档，最高的一档叫「暂勿前往」。2026 年 9 月 15 日起，避开高风险的国家和地区写进了行政法规。办证件和出境过关的时候，工作人员还会提醒你，必要时会劝你别去。出发前翻一遍那一页，几分钟的事。
-- 收益：外交部按风险高低公开发布国外安全提醒。从低到高大致是四档：「注意安全」「加强安全防范」「谨慎前往」「暂勿前往」。2026 年 9 月 15 日起施行的新规，把个人的义务也写进了行政法规。原文是：「中国公民应当关注国外安全提醒和旅游目的地安全风险提示，避免前往及驻留高风险国家或者地区」。新规同时要求移民管理机构（办出入境证件和管边检的部门），在办证和出境边检时提醒要去高风险地区的人。这一条的原文是：「对准备前往风险等级为最高级别或者严重危及人身安全案件突发高发的国家或者地区的中国公民，必要时应当劝阻其前往」
-- 证据等级：A
-- 来源：国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第二条）；国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十九、二十一条）；外交部领事司. 安全提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/>
-- 备注：提醒会随局势变动，本书不抄名单，出行前自己查一次那一页。截至 2026 年 9 月 7 日，该栏目里还挂着这几条「暂勿前往」类提醒：斯威士兰（2026-08-25）、巴勒斯坦（2023-10-10）、苏丹（2023-04-17）。另外四条是阿富汗（2023-02-17）、叙利亚（2023-01-04）、秘鲁（2022-12-29）、索马里（2022-11-24）。另外还有针对缅北地区、刚果（金）部分省份的专门提醒。旅行社也有告知义务。跟团之前，你可以要求对方书面说明目的地的风险
+### 1. Trước khi lên đường, tra một lần cảnh báo an toàn của Bộ Ngoại giao; nơi nào gắn nhãn “tạm đừng đến” thì đừng đến
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Mở Trang Dịch vụ Lãnh sự Trung Quốc lật một lượt, vài phút là xem hết.
+- Hiểu nhanh: Bộ Ngoại giao chia rủi ro an toàn ở nước ngoài thành bốn bậc; bậc cao nhất gọi là “tạm đừng đến”. Từ ngày 15 tháng 9 năm 2026, việc tránh các quốc gia và vùng có rủi ro cao được ghi vào quy phạm pháp quy. Khi làm giấy tờ và qua cửa khẩu xuất cảnh, nhân viên còn sẽ nhắc bạn, khi cần sẽ khuyên bạn đừng đi. Trước khi lên đường, lật một lượt trang đó, chuyện vài phút.
+- Lợi ích: Bộ Ngoại giao công bố cảnh báo an toàn nước ngoài theo mức rủi ro cao thấp. Từ thấp đến cao đại khái bốn bậc: “chú ý an toàn”, “tăng cường phòng ngừa an toàn”, “thận trọng khi đến”, “tạm đừng đến”. Quy định mới có hiệu lực từ 15 tháng 9 năm 2026 đưa cả nghĩa vụ của cá nhân vào quy phạm pháp quy. Văn bản gốc là: “Công dân Trung Quốc cần theo dõi cảnh báo an toàn nước ngoài và thông báo rủi ro an toàn của điểm đến du lịch, tránh đến và lưu trú tại các quốc gia hoặc vùng có rủi ro cao”. Quy định mới đồng thời yêu cầu cơ quan quản lý di trú (cơ quan làm giấy tờ xuất nhập cảnh và quản lý kiểm tra biên giới) nhắc nhở người định đến vùng rủi ro cao khi làm giấy tờ và kiểm tra xuất cảnh. Nguyên văn của điều này là: “Đối với công dân Trung Quốc chuẩn bị đến các quốc gia hoặc vùng có mức rủi ro cấp cao nhất hoặc có nhiều vụ việc nghiêm trọng đe dọa an toàn tính mạng đột phát, khi cần thiết phải khuyên ngăn không cho đi”
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2026). Quy định về quản lý xuất cảnh, nhập cảnh (Lệnh Quốc vụ viện số 841). <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm> (Điều 2); Quốc vụ viện (2023). Điều lệ bảo hộ và hỗ trợ lãnh sự (Lệnh Quốc vụ viện số 763). <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm> (Điều 19, 21); Cục Lãnh sự Bộ Ngoại giao. Cảnh báo an toàn. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/>
+- Ghi chú: Cảnh báo sẽ thay đổi theo tình hình; sách này không chép danh sách, trước khi đi tự tra một lượt trang đó. Tính đến ngày 7 tháng 9 năm 2026, trong chuyên mục này còn treo các cảnh báo nhóm “tạm đừng đến” như: Eswatini (Swaziland) (2026-08-25), Palestine (2023-10-10), Sudan (2023-04-17). Bốn cảnh báo khác là Afghanistan (2023-02-17), Syria (2023-01-04), Peru (2022-12-29), Somalia (2022-11-24). Ngoài ra còn có các cảnh báo riêng cho vùng miền bắc Myanmar và một số tỉnh của Congo (Kinshasa). Công ty du lịch cũng có nghĩa vụ thông báo. Trước khi theo đoàn, bạn có thể yêu cầu bên kia giải thích rủi ro của điểm đến bằng văn bản.
 
-### 2. 把 12308 和当地使领馆的领保电话存进手机，再抄一份放钱包，别等出事再找
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
-- 成本：不花钱。存两个号码，再抄一份，几分钟。
-- 说人话：出事时的求助电话就一个。人在国内打 12308，人在国外打 +86-10-12308。这条热线开通以来接了 300 多万通电话。同一时期，外交部和驻外机构办了 50 多万起领事保护案件。
-- 收益：外交部有一条全球领事保护与服务应急热线，24 小时有人接。人在国内拨 12308。人在国外拨 +86-10-12308，或者 +86-10-65612308。这条热线从 2014 年开通到现在，累计接听 300 多万通来电。同一时期，外交部和驻外机构处置各类领事保护案件 50 多万起
-- 证据等级：A
-- 来源：外交部、中国驻缅甸使领馆 (2023). 关于当前缅北地区安全局势的领事提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/202311/t20231109_11176682.shtml>；国务院新闻办 (2023). 国务院政策例行吹风会介绍领事保护与协助有关情况. <https://www.gov.cn/xinwen/2023zccfh/11/index.htm>
-- 备注：驻当地使领馆自己还有一个领保电话，通常比总台更快。出发前在中国领事服务网上按国家查到，和总台号码一起存进手机。手机丢了或者没电，存的号码就用不上了。所以再手抄一份放在钱包里，或者把号码写一份给家里人
+### 2. Lưu 12308 và số điện thoại bảo hộ lãnh sự của lãnh sự quán tại chỗ vào điện thoại, rồi chép một bản bỏ vào ví, đừng đợi có chuyện mới đi tìm
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-do -->
+- Chi phí: Không tốn tiền. Lưu hai số, chép thêm một bản, vài phút.
+- Hiểu nhanh: Đường dây cầu cứu lúc có chuyện chỉ có một. Người ở trong nước gọi 12308; người ở nước ngoài gọi +86-10-12308. Từ khi khai trương đến nay, đường dây nóng này đã nhận hơn 3 triệu cuộc gọi. Cùng giai đoạn, Bộ Ngoại giao và các cơ quan đặt ở nước ngoài đã xử lý hơn 500.000 vụ bảo hộ lãnh sự.
+- Lợi ích: Bộ Ngoại giao có một đường dây nóng khẩn cấp bảo hộ lãnh sự và dịch vụ lãnh sự toàn cầu, có người trực 24 giờ. Người trong nước quay 12308. Người ở nước ngoài quay +86-10-12308, hoặc +86-10-65612308. Đường dây nóng này từ khi mở năm 2014 đến nay tổng cộng đã nhận hơn 3 triệu cuộc gọi. Cùng giai đoạn, Bộ Ngoại giao và các cơ quan đặt tại nước ngoài xử lý hơn 500.000 vụ bảo hộ lãnh sự các loại
+- Mức bằng chứng: A
+- Nguồn: Bộ Ngoại giao, Đại sứ quán – lãnh sự quán Trung Quốc tại Myanmar (2023). Nhắc nhở lãnh sự về tình hình an toàn của vùng miền bắc Myanmar hiện nay. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/202311/t20231109_11176682.shtml>; Văn phòng Thông tin Quốc vụ viện (2023). Hội nghị thao tác chính sách thường kỳ của Quốc vụ viện giới thiệu tình hình liên quan đến bảo hộ và hỗ trợ lãnh sự. <https://www.gov.cn/xinwen/2023zccfh/11/index.htm>
+- Ghi chú: Lãnh sự quán tại nước sở tại còn có một số điện thoại bảo hộ lãnh sự riêng, thường nhanh hơn tổng đài. Trước khi lên đường, tra theo quốc gia trên Trang Dịch vụ Lãnh sự Trung Quốc, lưu cùng số tổng đài vào điện thoại. Điện thoại mất hoặc hết pin, số đã lưu coi như vô dụng. Nên chép tay một bản bỏ vào ví, hoặc viết số điện thoại đưa người nhà một bản.
 
-### 3. 知道领事保护能做什么、不能做什么：能探视，不能捞人，费用还得自己付
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。花几分钟把这条界线读明白。
-- 说人话：你在国外被抓，使领馆能做的是：向当地核实情况、要求依法公正处理、去看你、开庭时旁听。它不能替你改判，也不能把人领走。别人先垫的食宿、交通、医疗费，最后还是你自己付。所以出国前把钱和保险备好，别把「出事了国家会兜底」当成计划。
-- 收益：你被抓时，使领馆能做这么几件事。向所在国有关部门核实情况，要求依法公正处理。条例原文是「按照驻在国法律和我国与驻在国缔结或者共同参加的国际条约对其进行探视或者与其联络，了解其相关需求，要求驻在国有关部门给予该中国公民人道主义待遇和公正待遇」。说白了就是照当地法律和两国签的条约去看你、跟你联络、问你要什么，并要求当地按人道和公正的标准对待你。开庭时使领馆可以旁听，可以要求保障你的诉讼权利。你受了伤或者赶上灾，它能催当地紧急救助，能帮家属处理善后。但费用上条例写得同样清楚：「中国公民、法人、非法人组织在领事保护与协助过程中，得到第三方提供的食宿、交通、医疗等物资和服务的，应当支付应由其自身承担的费用」。别人先垫的食宿、交通、医疗，该你掏的还是你掏
-- 证据等级：A
-- 来源：国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第九、十、十四、二十六条）
-- 备注：使领馆不替你交罚款、不替你付医药费、不替你买机票，也改变不了所在国法院的结论。它能给你的是当地律师、翻译、医疗、殡葬机构的信息，还能帮你联系亲友、帮你找到救济渠道。所以出国前自己把钱和保险准备好，别把「出事了国家会兜底」当成计划
+### 3. Biết bảo hộ lãnh sự làm được gì, không làm được gì: thăm hỏi được, vớt người ra không được, chi phí vẫn phải tự trả
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Mất vài phút đọc rõ ranh giới này.
+- Hiểu nhanh: Bạn bị bắt ở nước ngoài, những thứ lãnh sự quán làm được là: xác minh tình hình với địa phương, yêu cầu xử lý công bằng theo pháp luật, đến thăm bạn, có mặt theo dõi phiên tòa. Nó không thể thay bạn đổi bản án, cũng không thể dẫn người về. Tiền ăn ở, đi lại, chữa bệnh mà người khác ứng trước, cuối cùng vẫn là bạn trả. Nên trước khi ra nước ngoài, chuẩn bị sẵn tiền và bảo hiểm, đừng coi “có chuyện thì nhà nước gánh” làm kế hoạch.
+- Lợi ích: Khi bạn bị bắt, lãnh sự quán làm được mấy việc này. Xác minh tình hình với các ngành liên quan của nước sở tại, yêu cầu xử lý công bằng theo pháp luật. Nguyên văn điều lệ: “theo pháp luật nước sở tại và điều ước quốc tế mà nước ta ký kết hoặc cùng tham gia với nước sở tại, thăm hỏi hoặc liên lạc với họ, tìm hiểu nhu cầu liên quan, yêu cầu các ngành liên quan của nước sở tại dành cho công dân Trung Quốc ấy đãi ngộ nhân đạo và đãi ngộ công bằng”. Nói thẳng là theo pháp luật địa phương và điều ước giữa hai nước, đến thăm bạn, liên lạc với bạn, hỏi bạn cần gì, và yêu cầu địa phương đối xử với bạn theo chuẩn nhân đạo và công bằng. Phiên tòa, lãnh sự quán có thể theo dõi, có thể yêu cầu bảo đảm quyền tố tụng của bạn. Bạn bị thương hoặc gặp tai nạn, nó có thể thúc địa phương cứu trợ khẩn cấp, có thể giúp gia đình lo liệu hậu sự. Nhưng về chi phí, điều lệ viết cũng rõ: “Trong quá trình bảo hộ và hỗ trợ lãnh sự, công dân, pháp nhân, tổ chức phi pháp nhân Trung Quốc được bên thứ ba cung cấp ăn ở, đi lại, chữa bệnh... những vật chất và dịch vụ, thì phải trả phần chi phí đáng lẽ mình gánh”. Ăn ở, đi lại, chữa bệnh mà người khác ứng trước, đáng bạn trả vẫn là bạn trả
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2023). Điều lệ bảo hộ và hỗ trợ lãnh sự (Lệnh Quốc vụ viện số 763). <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm> (Điều 9, 10, 14, 26)
+- Ghi chú: Lãnh sự quán không nộp phạt thay bạn, không trả tiền thuốc thay bạn, không mua vé máy bay thay bạn, cũng không thay đổi được kết luận của tòa án nước sở tại. Thứ nó cho bạn được là thông tin về luật sư địa phương, phiên dịch, y tế, tang lễ; còn có thể giúp liên lạc người thân, giúp tìm kênh xin cứu trợ. Nên trước khi ra nước ngoài, tự chuẩn bị sẵn tiền và bảo hiểm, đừng coi “có chuyện thì nhà nước gánh” làm kế hoạch.
 
-### 4. 买一份含境外医疗和医疗转运的保险，别只买航班延误险
-<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：一份短期的境外旅行险，几十到几百元。
-- 说人话：在国外看病的钱要自己掏。国内医保基本不报，使领馆也不垫。真正能拖垮一个家的不是门诊费，是重伤以后的住院，还有把人运回国，那得靠专机或者医疗护送。买旅行险主要看两个额度：境外医疗费用，紧急医疗转运与送返。
-- 收益：在境外看病的钱要自己出。国内医保在境外基本不报销。领事保护也不垫付这笔钱（见第 3 条，领事保护能做什么、不能做什么，依据是条例第二十六条）。真正会把一个家拖垮的不是门诊费，是重伤以后的住院和医疗转运。把人从境外医院转回国，要用专机或者医疗护送，属于自费项目里最贵的一类。美国疾控中心的说法是，把病人从偏远地方紧急转运到好医院，自己付的话可能要花 10 万美元以上。买保险时优先看两项额度。一是境外医疗费用额度。二是紧急医疗转运与送返额度，管的是出事后转院、把人送回国最多能赔多少
-- 证据等级：C
-- 来源：国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第二十六条）；美国疾病控制与预防中心. Travelers' Health: Travel Insurance：「Medical evacuation insurance covers emergency transportation from a remote area to a high-quality hospital, which could otherwise cost more than $100,000.」. <https://wwwnc.cdc.gov/travel/page/insurance>；其余为作者经验，无直接文献
-- 备注：10 万美元是一个下限说法，不是费用区间。官方或行业公开的费用区间统计没有找到，所以本书不写具体区间。买之前确认三件事。第一，你要去的国家在不在承保范围里。第二，潜水、滑雪、骑摩托这类高风险活动是不是被排除在外。第三，理赔是保险公司直接和医院结账，还是你先垫钱回来再报销。去免签的国家也一样要买
+### 4. Mua một hợp đồng bảo hiểm gồm chữa bệnh ở nước ngoài và vận chuyển y tế, đừng chỉ mua bảo hiểm trễ chuyến bay
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Một hợp đồng bảo hiểm du lịch nước ngoài ngắn hạn, vài chục đến vài trăm yên.
+- Hiểu nhanh: Tiền xem bệnh ở nước ngoài phải tự trả. Bảo hiểm y tế trong nước hầu như không chi trả; lãnh sự quán cũng không ứng. Cái thực sự kéo sập một gia đình không phải tiền khám ngoại trú, mà là nằm viện sau khi bị thương nặng, cùng việc đưa người về nước — phải nhờ chuyên cơ hoặc hộ tống y tế. Mua bảo hiểm du lịch chủ yếu nhìn hai hạn mức: chi phí y tế ở nước ngoài, và vận chuyển y tế khẩn cấp cùng đưa về.
+- Lợi ích: Tiền chữa bệnh ở nước ngoài phải tự ra. Bảo hiểm y tế trong nước ở nước ngoài hầu như không chi trả. Bảo hộ lãnh sự cũng không ứng tiền này (xem mục 3, bảo hộ lãnh sự làm được gì không làm được gì, căn cứ là Điều 26 của điều lệ). Cái thực sự kéo sập một gia đình không phải tiền khám ngoại trú, mà là nằm viện sau bị thương nặng và vận chuyển y tế. Đưa người từ bệnh viện ở nước ngoài về nước, phải dùng chuyên cơ hoặc hộ tống y tế, thuộc nhóm đắt nhất trong các khoản tự trả. CDC Hoa Kỳ nói: đưa bệnh nhân từ nơi hẻo lánh khẩn cấp đến bệnh viện tốt, nếu tự trả có thể mất trên 100.000 đô la Mỹ. Mua bảo hiểm, ưu tiên xem hai hạn mức. Một là hạn mức chi phí y tế ở nước ngoài. Hai là hạn mức vận chuyển y tế khẩn cấp và đưa về, quản việc sau khi có chuyện, chuyển viện và đưa người về nước được bồi thường tối đa bao nhiêu
+- Mức bằng chứng: C
+- Nguồn: Quốc vụ viện (2023). Điều lệ bảo hộ và hỗ trợ lãnh sự (Lệnh Quốc vụ viện số 763). <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm> (Điều 26); Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ. Travelers' Health: Travel Insurance: “Medical evacuation insurance covers emergency transportation from a remote area to a high-quality hospital, which could otherwise cost more than $100,000.”. <https://wwwnc.cdc.gov/travel/page/insurance>; phần còn lại là kinh nghiệm của tác giả, không có tài liệu trực tiếp
+- Ghi chú: Con số 100.000 đô la Mỹ là cách nói ở mức thấp nhất, không phải khoảng chi phí. Thống kê khoảng chi phí công bố của cơ quan chính thức hoặc ngành không tìm thấy, nên sách này không viết khoảng cụ thể. Trước khi mua, xác nhận ba việc. Một, quốc gia bạn định đến có nằm trong phạm vi bảo hiểm không. Hai, các hoạt động rủi ro cao như lặn, trượt tuyết, đi xe máy có bị loại trừ không. Ba, bồi thường là công ty bảo hiểm trả thẳng với bệnh viện, hay bạn ứng trước rồi về lấy lại. Đến quốc gia miễn thị thực cũng vẫn phải mua.
 
-### 5. 「境外高薪招聘」一律当诈骗看，被骗去做电诈回来还要被限制出境
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=自由 -->
-- 成本：不花钱。难的是亲手推掉一份看起来很好的工作。
-- 说人话：月薪高得离谱、不问学历经验、不签正规合同、让你先到边境城市集合、还替你保管护照。这种活去了，人和护照都不在自己手上。出境时材料造假，边检会把你拦下不放行。在境外参与了违法犯罪，回国之后还可能 6 个月到 3 年不准出境。
-- 收益：官方对这类案件的定性很直接。近年出现「上当受骗出境或者虚构事由非法出境从事跨境赌博、电信网络诈骗等违法活动，严重危害人民群众生命和财产安全」。说的是被人骗出去，或者编个理由偷着出去，到那边干赌博和电信诈骗。新规针对这一点两头收紧。出境这头：「申请出境入境、停留居留的事由应当真实、合法」。交假材料或者说假话的，移民管理机构有权不给你发证件、不放你出境。回国这头：「中国公民在境外从事违法犯罪活动，危害国家安全和利益的，可以……决定自回国之日起 6 个月至 3 年以内不准其出境」。因为骗取证件、非法出境入境被行政拘留的，同样是 6 个月至 3 年不准出境
-- 证据等级：A
-- 来源：国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第三、四条）；司法部、公安部、国家移民局 (2026). 就《国务院关于出境入境管理的规定》答记者问. <https://www.gov.cn/zhengce/202608/content_7077270.htm>
-- 备注：识别特征基本固定：月薪远高于同岗位、不要求学历经验、不签正规合同、让你先到边境城市集合、代办签证并保管你的护照。缅北地区已经有专门的领事提醒。真去了，人身自由和护照都不在自己手上，想走也走不了
+### 5. “Tuyển dụng lương cao ở nước ngoài” nhất loạt coi là lừa đảo; bị lừa đi làm lừa đảo qua mạng, về nước còn bị hạn chế xuất cảnh
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tu-do -->
+- Chi phí: Không tốn tiền. Khó là tự tay từ chối một công việc trông có vẻ rất tốt.
+- Hiểu nhanh: Lương tháng cao phi lý, không hỏi bằng cấp kinh nghiệm, không ký hợp đồng chính quy, bắt bạn trước đến thành phố biên giới tập kết, còn giữ hộ chiếu giúp bạn. Loại việc này mà đi, người và hộ chiếu đều không nằm trên tay mình. Khi xuất cảnh, hồ sơ giả thì cửa kiểm tra biên giới sẽ chặn bạn lại không cho đi. Ở nước ngoài đã tham gia vi phạm pháp luật, vi phạm tội phạm, về nước sau còn có thể bị cấm xuất cảnh 6 tháng đến 3 năm.
+- Lợi ích: Cách định tính của chính thức với loại án này rất thẳng. Những năm gần đây xuất hiện hiện tượng “bị lừa xuất cảnh hoặc bịa cớ xuất cảnh trái phép để làm các hoạt động vi phạm như cờ bạc xuyên biên giới, lừa đảo qua mạng viễn thông... gây hại nghiêm trọng đến tính mạng và tài sản của quần chúng”. Nói là bị lừa ra đi, hoặc bịa lý do lén ra đi, sang đó làm cờ bạc và lừa đảo viễn thông. Quy định mới nhắm đúng điểm này, siết cả hai đầu. Đầu xuất cảnh: “lý do xin xuất cảnh, nhập cảnh, lưu trú, cư trú phải thật, hợp pháp”. Nộp hồ sơ giả hoặc nói dối, cơ quan quản lý di trú có quyền không cấp giấy tờ, không cho bạn xuất cảnh. Đầu về nước: “Công dân Trung Quốc ở nước ngoài làm các hoạt động vi phạm pháp luật, vi phạm tội phạm, gây hại đến an ninh và lợi ích quốc gia, có thể... quyết định không cho xuất cảnh trong 6 tháng đến 3 năm kể từ ngày về nước”. Bị hành chính tạm giam vì lừa lấy giấy tờ, xuất nhập cảnh trái phép, cũng 6 tháng đến 3 năm không được xuất cảnh
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2026). Quy định về quản lý xuất cảnh, nhập cảnh (Lệnh Quốc vụ viện số 841). <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm> (Điều 3, 4); Bộ Tư pháp, Bộ Công an, Cục Di trú Quốc gia (2026). Trả lời phỏng vấn báo chí về “Quy định của Quốc vụ viện về quản lý xuất cảnh, nhập cảnh”. <https://www.gov.cn/zhengce/202608/content_7077270.htm>
+- Ghi chú: Đặc điểm nhận diện về cơ bản là cố định: lương tháng cao xa hơn hẳn cùng vị trí, không yêu cầu bằng cấp kinh nghiệm, không ký hợp đồng chính quy, bắt đến thành phố biên giới tập kết trước, làm hộ thị thực và giữ hộ chiếu của bạn. Vùng miền bắc Myanmar đã có nhắc nhở lãnh sự riêng. Đi thật thì tự do thân xác và hộ chiếu đều không nằm trên tay mình, muốn đi cũng không đi được.
 
-### 6. 境外取现一年不能超过 10 万元人民币，是本人名下所有卡合起来算的
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
-- 成本：不花钱。出发前估一下这趟要取多少现金，剩下的靠刷卡。难的是改掉习惯，能刷卡就别取现。
-- 说人话：境外取现的额度不是一张卡一个，是你名下所有银行卡（附属卡也算）合起来算，每个自然年 10 万元人民币。取满了，当年剩下的时间和第二年都不能再在境外取现。停的只是取现，刷卡消费不受影响，也不占你每年 5 万美元的购汇额度。
-- 收益：依据是国家外汇管理局《关于规范银行卡境外大额提取现金交易的通知》（汇发〔2017〕29 号，2018 年 1 月 1 日起实施）。第一条：「个人持境内银行卡在境外提取现金，本人名下银行卡（含附属卡）合计每个自然年度不得超过等值 10 万元人民币。超过年度额度的，本年及次年将被暂停持境内银行卡在境外提取现金」。同条第二款：「个人不得通过借用他人银行卡或出借本人银行卡等方式规避或协助规避境外提取现金管理」。第二条：外汇局每天把暂停名单发给发卡银行，发卡银行应不晚于北京时间当日 17 时起，暂停名单里的人用本行银行卡在境外取现。第三条：被列入暂停名单的人，可以拿本人有效身份证件到外汇局分支局，查自己的境外取现明细。第四条：外币卡每卡每日的上限，由等值 1000 美元调整为等值 1 万元人民币；人民币卡维持每卡每日不得超过等值 1 万元人民币。第六条：发卡银行、境内人民币卡清算组织和个人违反本通知规定的，按《中华人民共和国外汇管理条例》有关规定处罚。外汇局答记者问还讲清了几点。《通知》不影响个人持卡在境外消费。出境旅游、商务、留学所涉的食、宿、行、购等经常项下交易，都可以刷银行卡支付。这些消费也不占用个人便利化年度 5 万美元购汇额度。年度额度由外汇局汇总各家发卡金融机构的数据算出来，因为实时控制会拖慢交易响应，「外汇局采用延时控制手段」（不当场拦截）。另据统计，2016 年 81% 的境内银行卡境外提取现金低于 3 万元人民币（全国）
-- 证据等级：A
-- 来源：国家外汇管理局 (2017). 关于规范银行卡境外大额提取现金交易的通知（汇发〔2017〕29 号，第一、二、三、四、六、七条，2018 年 1 月 1 日起实施）. <https://www.safe.gov.cn/safe/2017/1230/21873.html>；国家外汇管理局 (2017). 外汇局有关负责人就规范银行卡境外大额提取现金交易有关问题答记者问. <https://www.gov.cn/zhengce/2017-12/31/content_5251958.htm>；中国银联国际. 境外ATM取款. <https://m.unionpayintl.com/wap/cn/serviceCenter/cardUsingInstructions/805.shtml>
-- 备注：额度按自然年度算，1 月 1 日重新开始累计。停的只是在境外取现，刷卡消费不受影响。真的需要在境外用大额现金，就按《个人外汇管理办法》先办购汇，再带外币现钞出境。取现本身还有两个坑，银联国际「境外ATM取款」页面写明了。一是双标识卡在部分国家的部分 ATM 上，没法选银联通道取款。二是部分境外 ATM 会在屏幕上提示额外手续费（surcharge），这笔钱由当地收单机构收，「与银联无关」。同一页还提示「由于信用卡取款需支付透支利息，建议持卡人境外取款使用银联借记卡」。卡丢了、被吞了或者被盗刷怎么办，见第 14 节第 5 条（卡被盗刷先挂失冻结再报警）
+### 6. Rút tiền mặt ở nước ngoài mỗi năm không quá 100.000 yên nhân dân tệ, tính gộp trên tất cả các thẻ mang tên bạn
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Trước khi lên đường, ước tính chuyến này cần rút bao nhiêu tiền mặt, phần còn lại quẹt thẻ. Khó là bỏ được thói quen: quẹt thẻ được thì đừng rút tiền mặt.
+- Hiểu nhanh: Hạn mức rút tiền ở nước ngoài không phải một thẻ một mức, mà là tất cả thẻ ngân hàng mang tên bạn (thẻ phụ cũng tính) cộng lại, mỗi năm dương lịch 100.000 yên nhân dân tệ. Rút hết mức, phần thời gian còn lại của năm và cả năm sau đều không thể rút tiền ở nước ngoài nữa. Bị dừng chỉ là rút tiền mặt; quẹt thẻ tiêu dùng không ảnh hưởng, cũng không chiếm hạn mức mua ngoại tệ 50.000 đô la Mỹ mỗi năm của bạn.
+- Lợi ích: Căn cứ là Thông báo của Cục Quản lý Ngoại hối Quốc gia về việc chuẩn hóa giao dịch rút tiền mặt số lớn bằng thẻ ngân hàng ở nước ngoài (văn bản Hội phát 2017 số 29, thực hiện từ 1 tháng 1 năm 2018). Điều 1: “Cá nhân dùng thẻ ngân hàng trong nước rút tiền mặt ở nước ngoài, các thẻ ngân hàng mang tên bản thân (gồm thẻ phụ) cộng lại mỗi năm dương lịch không quá 100.000 yên nhân dân tệ trị giá tương đương. Vượt hạn mức năm, năm nay và năm sau sẽ bị tạm ngừng dùng thẻ ngân hàng trong nước rút tiền mặt ở nước ngoài”. Khoản 2 cùng điều: “Cá nhân không được qua cách vay mượn thẻ ngân hàng của người khác hoặc cho người khác mượn thẻ của mình... để né tránh hoặc giúp né tránh quản lý rút tiền mặt ở nước ngoài”. Điều 2: Cục ngoại hối mỗi ngày gửi danh sách tạm ngừng cho các ngân hàng phát hành; ngân hàng phát hành chậm nhất từ 17 giờ theo giờ Bắc Kinh trong ngày phải tạm ngừng những người trong danh sách rút tiền ở nước ngoài bằng thẻ của ngân hàng mình. Điều 3: người bị đưa vào danh sách tạm ngừng có thể mang giấy tờ tùy thân có hiệu lực của bản thân đến chi cục ngoại hối, tra chi tiết rút tiền ở nước ngoài của mình. Điều 4: hạn mức mỗi ngày mỗi thẻ ngoại tệ điều chỉnh từ 1000 đô la Mỹ trị giá tương đương lên 10.000 yên nhân dân tệ trị giá tương đương; thẻ nhân dân tệ giữ nguyên, mỗi thẻ mỗi ngày không quá 10.000 yên nhân dân tệ trị giá tương đương. Điều 6: ngân hàng phát hành, tổ chức thanh toán thẻ nhân dân tệ trong nước và cá nhân vi phạm quy định của thông báo này, xử phạt theo các quy định liên quan của Điều lệ Quản lý Ngoại hối của Cộng hòa Nhân dân Trung Hoa. Trả lời phỏng vấn báo chí của cục ngoại hối còn nói rõ mấy điểm. Thông báo không ảnh hưởng việc cá nhân dùng thẻ tiêu dùng ở nước ngoài. Ăn, ở, đi lại, mua sắm... thuộc các giao dịch thường xuyên liên quan đến du lịch, công tác, du học ra nước ngoài, đều có thể quẹt thẻ ngân hàng thanh toán. Các khoản tiêu dùng này cũng không chiếm hạn mức mua ngoại tệ năm 50.000 đô la Mỹ tiện lợi hóa của cá nhân. Hạn mức năm do cục ngoại hối tổng hợp dữ liệu của các định chế tài chính phát hành thẻ tính ra, vì kiểm soát thời gian thực sẽ làm chậm phản hồi giao dịch, “cục ngoại hối áp dụng biện pháp kiểm soát trễ” (không chặn ngay tại chỗ). Theo thống kê, năm 2016 có 81% giao dịch rút tiền mặt ở nước ngoài bằng thẻ trong nước dưới 30.000 yên nhân dân tệ (toàn quốc)
+- Mức bằng chứng: A
+- Nguồn: Cục Quản lý Ngoại hối Quốc gia (2017). Thông báo về chuẩn hóa giao dịch rút tiền mặt số lớn bằng thẻ ngân hàng ở nước ngoài (văn bản Hội phát 2017 số 29, Điều 1, 2, 3, 4, 6, 7, thực hiện từ 1 tháng 1 năm 2018). <https://www.safe.gov.cn/safe/2017/1230/21873.html>; Cục Quản lý Ngoại hối Quốc gia (2017). Người phụ trách liên quan của cục ngoại hối trả lời phỏng vấn báo chí về những vấn đề chuẩn hóa giao dịch rút tiền mặt số lớn bằng thẻ ngân hàng ở nước ngoài. <https://www.gov.cn/zhengce/2017-12/31/content_5251958.htm>; UnionPay International. Rút tiền ATM ở nước ngoài. <https://m.unionpayintl.com/wap/cn/serviceCenter/cardUsingInstructions/805.shtml>
+- Ghi chú: Hạn mức tính theo năm dương lịch, ngày 1 tháng 1 đếm lại từ đầu. Bị dừng chỉ là rút tiền mặt ở nước ngoài, quẹt thẻ tiêu dùng không ảnh hưởng. Thật sự cần dùng tiền mặt lớn ở nước ngoài, thì theo “Biện pháp Quản lý Ngoại hối Cá nhân”, trước làm thủ tục mua ngoại tệ, rồi mang ngoại tệ tiền mặt xuất cảnh. Rút tiền mặt còn có hai bẫy, trang “Rút tiền ATM ở nước ngoài” của UnionPay International viết rõ. Một là thẻ hai nhãn hiệu ở một số nước, trên một số máy ATM không chọn được kênh UnionPay để rút. Hai là một số máy ATM nước ngoài hiện ngoại phí (surcharge) trên màn hình; khoản này do tổ chức nhận thẻ địa phương thu, “không liên quan UnionPay”. Cùng trang còn nhắc “vì rút tiền bằng thẻ tín dụng phải trả lãi thấu chi, khuyên khi rút tiền ở nước ngoài dùng thẻ ghi nợ UnionPay”. Thẻ mất, bị nuốt hoặc bị quẹt trộm thì sao, xem chương 14 mục 5 (thẻ bị quẹt trộm thì trước khóa thẻ báo mất rồi báo cảnh sát).
 
-### 7. 护照、签证、身份证都拍照存一份在云端，丢了先报警再补旅行证
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。出发前拍几张照片。
-- 说人话：护照丢了，使领馆能给你补一张回国用的旅行证件。前提是你能证明自己是谁。手里有资料页、签证页的照片和出入境记录，补办就快得多。你还得先在当地报警拿到回执，出境检查和保险理赔都认这张纸。手机常和护照一起丢，照片别只存在手机里。
-- 收益：护照丢了，驻外使领馆能给你签发回国用的旅行证件，但需要你先证明自己的身份。手里有清晰的护照资料页照片、签证页照片和出入境记录，补办速度差别很大。同时你要先在当地报警，拿到报案回执。很多国家的出境检查和保险理赔都要这份材料。找使领馆的入口，就是第 2 条里存好的那两个领保电话
-- 证据等级：C
-- 来源：国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十六条）；作者经验，无直接文献
-- 备注：存法是拍完照放进两个不同的地方，比如云盘存一份、发给一位家人一份。另外打印一份纸质复印件，和原件分开放。银行卡、常用药的处方也一并拍下来。手机和护照通常一起丢，只存在手机里等于没存
+### 7. Hộ chiếu, thị thực, giấy tờ tùy thân đều chụp ảnh lưu một bản trên đám mây; mất thì báo cảnh sát trước rồi làm giấy thông hành bổ sung
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền. Trước khi đi, chụp vài tấm ảnh.
+- Hiểu nhanh: Hộ chiếu mất, lãnh sự quán có thể cấp cho bạn giấy thông hành dùng để về nước. Điều kiện là bạn chứng minh được mình là ai. Trong tay có ảnh trang thông tin, trang thị thực và hồ sơ xuất nhập cảnh, việc bổ sung nhanh hơn nhiều. Bạn còn phải trước báo cảnh sát địa phương lấy giấy nhận hồ sơ; kiểm tra xuất cảnh và bồi thường bảo hiểm đều nhận tờ giấy này. Điện thoại thường mất cùng hộ chiếu, ảnh đừng chỉ lưu trong điện thoại.
+- Lợi ích: Hộ chiếu mất, đại sứ quán, lãnh sự quán tại nước ngoài có thể cấp giấy thông hành dùng để về nước, nhưng cần bạn trước chứng minh được thân phận. Trong tay có ảnh rõ nét trang thông tin hộ chiếu, trang thị thực và hồ sơ xuất nhập cảnh, tốc độ bổ sung chênh nhau rất lớn. Đồng thời bạn phải trước báo cảnh sát địa phương, lấy giấy nhận báo án. Ở nhiều nước, kiểm tra xuất cảnh và bồi thường bảo hiểm đều cần tờ này. Cửa vào tìm lãnh sự quán, chính là hai số bảo hộ lãnh sự đã lưu ở mục 2
+- Mức bằng chứng: C
+- Nguồn: Quốc vụ viện (2023). Điều lệ bảo hộ và hỗ trợ lãnh sự (Lệnh Quốc vụ viện số 763). <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm> (Điều 16); kinh nghiệm của tác giả, không có tài liệu trực tiếp
+- Ghi chú: Cách lưu là chụp xong bỏ vào hai nơi khác nhau, chẳng hạn đám mây lưu một bản, gửi một người nhà một bản. Ngoài ra in một bản photocopy giấy, để tách khỏi bản gốc. Thẻ ngân hàng, đơn thuốc các thuốc thường dùng cũng chụp luôn. Điện thoại và hộ chiếu thường mất cùng nhau; chỉ lưu trong điện thoại thì coi như không lưu.
 
-### 8. 境外自驾先确认当地认不认中国驾照，网上卖的「国际驾照」多数是废纸
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=自由 -->
-- 成本：不花钱。出发前查一次目的地的规定。
-- 说人话：网上代办的「国际驾照」在中国内地不成立。那本证是 1949 年日内瓦公约缔约方之间互认的翻译件，103 个缔约方里没有中国内地。所以国内不管谁给你办，都没有法律效力。能不能用中国驾照开车，看目的地自己的规定，没确认清楚就别开。
-- 收益：所谓「国际驾照」（IDP），是 1949 年《道路交通公约》缔约国之间互相认可的翻译件。这份公约 1949 年 9 月 19 日在日内瓦订立，1952 年 3 月 26 日生效。目前有 103 个缔约方（签约的国家和地区）。中国内地不在这份名单里。所以中国不签发这种国际驾照。任何机构在国内「代办国际驾照」，都不产生法律效力。能不能用中国驾照开车，取决于目的地国家或地区自己的规定：有的承认中国驾照加公证翻译件，有的要求换领当地驾照，有的完全不认
-- 证据等级：A
-- 来源：United Nations Treaty Collection. Convention on Road Traffic, Geneva, 19 September 1949 — status of treaties. <https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&clang=_en>
-- 备注：在多数国家，无证驾驶是刑事犯罪，或者要重罚。而且出了事保险大概率拒赔，这才是真正的成本。查法有两个：在中国领事服务网上找目的地国家的「中国公民须知」，或者直接让租车公司给你一份书面确认。香港、澳门、台湾地区以及部分国家另有单独安排
+### 8. Tự lái xe ở nước ngoài, trước hết xác nhận địa phương có công nhận bằng lái xe Trung Quốc không; “bằng lái xe quốc tế” bán trên mạng phần lớn là giấy lộn
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-do -->
+- Chi phí: Không tốn tiền. Trước khi đi, tra một lần quy định của điểm đến.
+- Hiểu nhanh: “Bằng lái xe quốc tế” làm hộ trên mạng không có giá trị ở Trung Quốc đại lục. Cái bằng đó là bản dịch được các bên ký kết Công ước Geneva 1949 công nhận lẫn nhau; trong 103 bên ký kết không có Trung Quốc đại lục. Nên trong nước dù ai làm cho bạn, cũng không có hiệu lực pháp lý. Dùng bằng lái xe Trung Quốc lái được không, xem quy định của chính điểm đến; chưa xác nhận rõ thì đừng lái.
+- Lợi ích: Cái gọi là “bằng lái xe quốc tế” (IDP), là bản dịch được các quốc gia ký kết Công ước Giao thông Đường bộ công nhận lẫn nhau. Công ước này ký ngày 19 tháng 9 năm 1949 tại Geneva, có hiệu lực từ ngày 26 tháng 3 năm 1952. Hiện có 103 bên ký kết (các quốc gia và vùng đã ký). Trung Quốc đại lục không nằm trong danh sách này. Nên Trung Quốc không phát loại bằng lái quốc tế này. Bất kỳ cơ quan nào trong nước “làm hộ bằng lái quốc tế”, đều không phát sinh hiệu lực pháp lý. Dùng bằng lái xe Trung Quốc lái được không, tùy quy định riêng của quốc gia hoặc vùng điểm đến: nơi công nhận bằng lái Trung Quốc kèm bản dịch công chứng, nơi yêu cầu đổi sang bằng lái địa phương, nơi hoàn toàn không công nhận
+- Mức bằng chứng: A
+- Nguồn: United Nations Treaty Collection. Convention on Road Traffic, Geneva, 19 September 1949 — status of treaties. <https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&clang=_en>
+- Ghi chú: Ở đa số quốc gia, lái xe không bằng lái là tội hình sự, hoặc bị phạt nặng. Hơn nữa có chuyện xảy ra thì bảo hiểm phần lớn từ chối bồi thường; đó mới là chi phí thật. Cách tra có hai: trên Trang Dịch vụ Lãnh sự Trung Quốc tìm mục “những điều công dân Trung Quốc cần biết” của quốc gia điểm đến, hoặc trực tiếp nhờ công ty cho thuê xe đưa một bản xác nhận bằng văn bản. Hồng Kông, Macau, Đài Loan cùng một số quốc gia có sắp xếp riêng.
 
-### 9. 找中介办签证、留学、移民，先问它有没有在移民管理机构备案
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
-- 成本：不花钱。多问一句它有没有备案，再把书面材料留好。
-- 说人话：2026 年 9 月 15 日起，办签证、留学、移民的中介要向移民管理机构备案。「包过」「保签」「材料我们帮你做」这些话，本身就在明令禁止之列。自己填表填错，顶多这次被拒签。用了假材料被认定弄虚作假，污点会留在你往后的出入境记录里。
-- 收益：2018 年取消了因私出入境中介机构的准入许可（开中介不必先拿批文）。此后机构数量快速增长，也出现了「机构底数不清、部分机构违法违规办理业务、损害出境入境人员合法权益」的问题，官方连有多少家都数不清。2026 年 9 月 15 日起，这类中介改成备案管理。机构应当自设立之日起 15 日内，向所在地移民管理机构报备。此前已经在做的，要在施行之日起 90 日内补办。明令禁止的行为有这几类。一是「发布虚假信息，或者通过夸大宣传、误导性宣传等方式招徕服务对象」。二是「提供或者协助提供虚假材料，协助他人违规办理签证、停留居留证件、护照等出境入境证件或者手续」。三是「泄露、出售、非法提供……个人隐私或者个人信息」。四是「组织或者协助他人从事跨境违法犯罪活动」。境外企业、机构不得在中国境内提供这类中介服务
-- 证据等级：A
-- 来源：国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第七、八、十、十二、十三条）
-- 备注：把「包过」「保签」「材料我们帮你做」挂在嘴上的中介，做的本来就是被明令禁止的事。一旦查出来，留下污点的是你的签证记录。自己填表申请出了问题，最多是这次被拒签。用了假材料被认定弄虚作假，后果重得多。不为赚钱的政策咨询和信息查询，不算中介服务
+### 9. Nhờ trung gian làm thị thực, du học, di cư, trước hết hỏi nó đã được ghi danh ở cơ quan quản lý di trú chưa
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-do -->
+- Chi phí: Không tốn tiền. Thêm một câu hỏi nó có ghi danh không, rồi giữ cẩn thận hồ sơ bằng văn bản.
+- Hiểu nhanh: Từ ngày 15 tháng 9 năm 2026, trung gian làm thị thực, du học, di cư phải ghi danh với cơ quan quản lý di trú. Những câu “bao đậu”, “bao có visa”, “hồ sơ chúng tôi lo cho bạn” tự thân đã nằm trong danh mục bị cấm rõ ràng. Tự điền đơn sai, nặng nhất là lần này bị từ chối visa. Dùng hồ sơ giả bị định là giả mạo, vết đen sẽ nằm lại trong hồ sơ xuất nhập cảnh của bạn về sau.
+- Lợi ích: Năm 2018 bỏ điều kiện xin phép đối với cơ quan trung gian xuất nhập cảnh tư nhân (mở trung gian không cần trước lấy văn bản phê duyệt). Từ đó số lượng cơ quan tăng nhanh, cũng xuất hiện vấn đề “số lượng cơ quan không rõ, một số cơ quan làm việc trái pháp luật, trái quy định, xâm hại quyền lợi chính đáng của người xuất nhập cảnh”; chính thức đến mức không đếm nổi có bao nhiêu nhà. Từ 15 tháng 9 năm 2026, loại trung gian này đổi thành quản lý theo ghi danh. Cơ quan phải trong 15 ngày kể từ ngày thành lập, báo cáo với cơ quan quản lý di trú nơi đặt trụ sở. Những cơ quan đã làm trước đó, phải trong 90 ngày kể từ ngày quy định có hiệu lực, bổ sung thủ tục. Các hành vi bị cấm rõ có những nhóm này. Một là “đăng thông tin sai sự thật, hoặc qua quảng cáo thổi phồng, quảng cáo gây hiểu lầm... kéo người dùng dịch vụ”. Hai là “cung cấp hoặc hỗ trợ cung cấp hồ sơ giả, hỗ trợ người khác làm trái quy định thị thực, giấy tờ lưu trú cư trú, hộ chiếu... các giấy tờ hoặc thủ tục xuất nhập cảnh”. Ba là “tiết lộ, mua bán, cung cấp trái phép... đời tư hoặc thông tin cá nhân”. Bốn là “tổ chức hoặc hỗ trợ người khác làm các hoạt động vi phạm pháp luật, vi phạm tội phạm xuyên biên giới”. Doanh nghiệp, cơ quan ở nước ngoài không được cung cấp loại dịch vụ trung gian này trong lãnh thổ Trung Quốc
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2026). Quy định về quản lý xuất cảnh, nhập cảnh (Lệnh Quốc vụ viện số 841). <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm> (Điều 7, 8, 10, 12, 13)
+- Ghi chú: Trung gian nào miệng luôn treo “bao đậu”, “bao có visa”, “hồ sơ chúng tôi lo cho bạn”, thì việc nó làm vốn đã là việc bị cấm rõ. Một khi tra ra, kẻ để lại vết đen là hồ sơ thị thực của bạn. Tự điền đơn xin mà có vấn đề, nặng nhất là lần này bị từ chối. Dùng hồ sơ giả bị định là giả mạo, hậu quả nặng hơn nhiều. Tư vấn chính sách và tra cứu thông tin không nhằm kiếm tiền, không tính là dịch vụ trung gian.
 
-### 10. 别替陌生人出具邀请函，也别让人借你的名义办出入境手续
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=自由 -->
-- 成本：不花钱。难的是当面推掉一次人情。
-- 说人话：替别人出邀请函或者申请材料，内容不实，罚的是出具人。个人罚 5000 元到 1 万元，有违法所得一并没收。单位罚 1 万到 5 万，经手的人另外罚 5000 到 1 万。一次人情，换来的是自己掏这笔钱。
-- 收益：出具邀请函的人，要对内容是不是真实负责。原文是：「个人为他人申请出境入境、停留居留出具虚假邀请函件或者其他申请材料的，由移民管理机构处 5000 元以上 1 万元以下罚款；有违法所得的，没收违法所得」。单位出具虚假材料的，罚 1 万元以上 5 万元以下。同时对直接负责的主管人员和其他直接责任人员（管事的领导和经手人），再处 5000 元以上 1 万元以下罚款
-- 证据等级：A
-- 来源：国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第三、十一条）
-- 备注：这和第 8 节「不帮陌生人带东西」是同一类风险：材料以你的名义出具，后果就落在你身上。公职人员和军队人员想通过中介违规办外国国籍或者境外居留资格的，中介不但不能办，还得报告监察机关
+### 10. Đừng thay người lạ lập thư mời, cũng đừng để người khác mượn danh bạn làm thủ tục xuất nhập cảnh
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tu-do -->
+- Chi phí: Không tốn tiền. Khó là nhìn mặt mà từ chối một lần nợ tình.
+- Hiểu nhanh: Thay người khác lập thư mời hoặc hồ sơ xin, nội dung không thật, người bị phạt là người lập. Cá nhân phạt 5000 đến 10.000 yên, có thu nhập trái pháp luật thì tịch thu luôn. Đơn vị phạt 10.000 đến 50.000, người trực tiếp làm việc này thêm bị phạt 5000 đến 10.000. Một lần nợ tình, đổi lại là tự mình trả khoản tiền này.
+- Lợi ích: Người lập thư mời, phải chịu trách nhiệm về nội dung thật hay không. Văn bản gốc: “Cá nhân thay người khác xin xuất cảnh, nhập cảnh, lưu trú, cư trú mà lập thư mời giả hoặc hồ sơ xin khác không thật, do cơ quan quản lý di trú phạt từ 5000 yên đến dưới 10.000 yên; có thu nhập trái pháp luật thì tịch thu thu nhập trái pháp luật”. Đơn vị lập hồ sơ giả, phạt từ 10.000 yên đến dưới 50.000 yên. Đồng thời với người phụ trách trực tiếp và những người trực tiếp có trách nhiệm khác (lãnh đạo quản lý và người trực tiếp làm), phạt thêm từ 5000 yên đến dưới 10.000 yên
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2026). Quy định về quản lý xuất cảnh, nhập cảnh (Lệnh Quốc vụ viện số 841). <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm> (Điều 3, 11)
+- Ghi chú: Điều này với chương 8 “không giúp người lạ mang đồ” là cùng một loại rủi ro: hồ sơ xuất ra mang danh bạn, hậu quả rơi lên người bạn. Công chức và quân nhân muốn qua trung gian trái quy định làm quốc tịch nước ngoài hoặc tư cách cư trú ở nước ngoài, trung gian không những không được làm, còn phải báo cáo cơ quan thanh tra.
 
-### 11. 出境前把行程、住处和同行人发给一位家人，约好多久联系一次
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
-- 成本：不花钱。出发前发一条消息。
-- 说人话：人在境外失联，家里人可以找使领馆求助，使领馆会告诉家属当地怎么报警，立案后还会催办。前提是国内有人知道你该在哪、该什么时候联系。把航班号、住址、同行人电话和约好多久联系一次，发给一个家人就够。
-- 收益：中国公民在境外下落不明时，亲属可以向驻外外交机构求助。条例原文是「驻外外交机构应当提供当地报警方式及其他获取救助的信息」。当地警方立案以后，使领馆会催他们及时处理。这些求助能不能启动，取决于国内有没有人知道你本该在哪、本该什么时候联系
-- 证据等级：C
-- 来源：国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十三条）；作者经验，无直接文献
-- 备注：写清四样就够：航班号、住处地址、同行人的姓名和电话、约好的联系频率。要去信号差或者治安差的地方，再把「多久没消息就报警」这句话说明白。上面这些救助程序，都要先有家人知道你的行程才能开始
+### 11. Trước khi xuất cảnh, gửi hành trình, chỗ ở và người đi cùng cho một người nhà, hẹn trước bao lâu liên lạc một lần
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Trước khi đi, gửi một tin nhắn.
+- Hiểu nhanh: Người mất liên lạc ở nước ngoài, người nhà có thể tìm lãnh sự quán cầu cứu; lãnh sự quán sẽ cho gia đình biết địa phương báo cảnh sát thế nào, lập án xong còn thúc xử lý. Điều kiện là trong nước có người biết bạn phải ở đâu, phải lúc nào liên lạc. Gửi số chuyến bay, địa chỉ ở, điện thoại người đi cùng và tần suất liên lạc đã hẹn cho một người nhà là đủ.
+- Lợi ích: Công dân Trung Quốc mất tung tích ở nước ngoài, thân thuộc có thể cầu cứu cơ quan ngoại giao đặt tại nước ngoài. Nguyên văn điều lệ: “cơ quan ngoại giao tại nước ngoài phải cung cấp cách báo cảnh sát địa phương và các thông tin nhận cứu trợ khác”. Cảnh sát địa phương lập án xong, lãnh sự quán sẽ thúc họ xử lý kịp thời. Những cầu cứu này có khởi động được hay không, tùy vào trong nước có người biết bạn đáng lẽ phải ở đâu, đáng lẽ lúc nào phải liên lạc
+- Mức bằng chứng: C
+- Nguồn: Quốc vụ viện (2023). Điều lệ bảo hộ và hỗ trợ lãnh sự (Lệnh Quốc vụ viện số 763). <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm> (Điều 13); kinh nghiệm của tác giả, không có tài liệu trực tiếp
+- Ghi chú: Viết rõ bốn thứ là đủ: số chuyến bay, địa chỉ chỗ ở, tên và điện thoại người đi cùng, tần suất liên lạc đã hẹn. Đi nơi sóng yếu hoặc trị an kém, nói rõ thêm câu “bao lâu không có tin tức thì báo cảnh sát”. Các thủ tục cứu trợ trên, đều phải trước có người nhà biết hành trình của bạn mới bắt đầu được.

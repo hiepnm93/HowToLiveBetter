@@ -49,7 +49,7 @@ Nửa đầu chương nói trong các điểm giải trí chỗ nào tiêu tiề
 - Nguồn: Quốc vụ viện (2002). Điều lệ quản lý nơi kinh doanh dịch vụ Internet (Quốc lệnh số 363, điều 23). <http://www.gov.cn/gongbao/content/2002/content_61788.htm>
 - Ghi chú: Điều này và “CMND không cho người mượn” ở chương 9 là cùng một chuyện. Tiệm net không được tiếp vị thành niên, chỗ vào cửa dễ thấy phải treo biển cấm vị thành niên. Điểm giải trí ca vũ cũng không tiếp vị thành niên. Giúp vị thành niên “quét chứng vào tiệm net”, bị phạt là tiệm net, nhưng bản ghi lưu lại trên chứng thư của bạn
 
-### 6. Trò chơi kịch bản (剧本杀), mật thất đừng chọn nơi mở trong nhà dân cư hoặc dưới tầng hầm hai
+### 6. Trò chơi kịch bản (jubensha), mật thất đừng chọn nơi mở trong nhà dân cư hoặc dưới tầng hầm hai
 <!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tu-vong -->
 - Chi phí: Không tốn tiền. Trước khi đặt hỏi một câu địa chỉ ở tầng mấy.
 - Hiểu nhanh: Thông báo năm 2022 của 5 bộ ngành viết rõ, nơi kinh doanh giải trí kịch bản không được mở trong nhà dân cư, cũng không được mở dưới tầng hầm một. Kiểu địa hình này tối, vách ngăn nhiều, đạo cụ dễ cháy, cửa còn thường phải giải đố mới mở ra. Một khi bùng cháy, thoát khó hơn cửa hàng thường rất nhiều. Trước khi đặt, nhìn một lượt địa chỉ và tầng trên trang đánh giá, không đúng quy định thì đổi chỗ khác.

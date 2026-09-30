@@ -1,230 +1,230 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 3. 不要浪费精力
+# 3. Đừng lãng phí sức lực
 
-本节只算精力和时间账。看的是四样东西：你每天能用的注意力、反应快不快、出错多不多、被打断以后要多久才回得来。所有数字都是直接测出来的，来自实验，或者来自跟踪一群人做的记录（队列研究）。这些数字不换算成寿命，也不换算成死亡率。本节多数条目的证据等级是 B。这个领域本来就这样，不代表建议不成立。第 20 条讲的是和警察、医生、柜员打交道时该有的预期，引的是法规，不是实验，所以等级记 C。第 15 条（把悲观念头当症状看）和第 23 条（把「别人要求我完美」当症状看）引的是死亡率与自杀风险的数字，口径和本节其他条目不一样，不放在一起比较。
+Chương này chỉ tính sổ về sức lực và thời gian. Cái được nhìn là bốn thứ: lượng chú ý bạn dùng được mỗi ngày, phản xạ nhanh hay chậm, sai sót nhiều hay ít, và sau khi bị ngắt quãng thì mất bao lâu mới lấy lại được. Tất cả con số đều được đo trực tiếp, đến từ thí nghiệm, hoặc đến từ sổ theo dõi một nhóm người trong thời gian dài (nghiên cứu đoàn hệ). Những con số này không quy đổi ra tuổi thọ, cũng không quy đổi ra tỉ lệ tử vong. Đa số mục trong chương này có mức bằng chứng B. Lĩnh vực này vốn dĩ như vậy, không có nghĩa là lời khuyên không đứng vững. Mục 20 nói về kỳ vọng đúng mực khi giao thiệp với cảnh sát, bác sĩ, nhân viên quầy, trích dẫn quy định pháp luật chứ không phải thí nghiệm, nên mức ghi là C. Mục 15 (coi những suy nghĩ bi quan là triệu chứng) và mục 23 (coi suy nghĩ “người khác đòi tôi phải hoàn hảo” là triệu chứng) trích số liệu về tử vong và nguy cơ tự sát, thước đo khác với các mục còn lại trong chương này, không đặt cạnh nhau so sánh.
 
-### 1. 关掉非必要通知，工作时把手机放到视线之外
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
-- 成本：不花钱。花几分钟改一下设置，几乎不需要毅力。
-- 说人话：手机响一下，哪怕你没看、没碰，注意力任务的成绩也会掉。掉的幅度和你真去接电话、发短信差不多。还有一种情况：手机就搁在桌上，你忍住不看，脑子能用的余量一样会变少。越离不开手机的人，掉得越多。
-- 收益：只是收到一条通知，不看也不碰，注意力任务的成绩就明显变差。变差的幅度和真的接打电话、发短信相当。这是实验室里做的，受试者是大学生。另有两项实验显示：即便成功克制住不去看手机，自己的手机搁在旁边，也会让脑子能用的余量变少。手机依赖强的人下降最多。
-- 证据等级：B
-- 来源：Stothart, Mitchum & Yehnert (2015). The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance. <https://doi.org/10.1037/xhp0000100>；Ward, Duke, Gneezy & Bos (2017). Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research. <https://doi.org/10.1086/691462>
-- 备注：这些都是实验室里的单次任务。天天这样累积下来是什么结果，没人测过。真正需要随叫随到的岗位，可以只留少数几个联系人的通知。
+### 1. Tắt thông báo không thiết yếu, khi làm việc để điện thoại ngoài tầm mắt
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Mất vài phút chỉnh cài đặt, gần như không cần ý chí.
+- Hiểu nhanh: Điện thoại chỉ reo một tiếng, dù bạn không nhìn, không chạm, điểm bài tập chú ý cũng tụt. Mức tụt gần bằng khi bạn thật sự nghe điện thoại, nhắn tin. Còn một tình huống nữa: điện thoại cứ để trên bàn, bạn kìm được không nhìn, phần dư tài nguyên não dùng được vẫn giảm như thường. Người càng lệ thuộc điện thoại thì tụt càng nhiều.
+- Lợi ích: Chỉ riêng việc nhận một thông báo, không nhìn cũng không chạm, điểm bài tập chú ý đã giảm rõ rệt. Mức giảm tương đương với việc thật sự nghe gọi, nhắn tin. Điều này làm trong phòng thí nghiệm, người tham gia là sinh viên. Hai thí nghiệm khác cho thấy: ngay cả khi kìm thành công không nhìn điện thoại, chỉ cần điện thoại của mình để bên cạnh cũng làm giảm phần dư tài nguyên não dùng được. Người lệ thuộc điện thoại mạnh nhất giảm nhiều nhất.
+- Mức bằng chứng: B
+- Nguồn: Stothart, Mitchum & Yehnert (2015). The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance. <https://doi.org/10.1037/xhp0000100>; Ward, Duke, Gneezy & Bos (2017). Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research. <https://doi.org/10.1086/691462>
+- Ghi chú: Tất cả đều là nhiệm vụ đơn lẻ trong phòng thí nghiệm. Tích lũy kiểu này hằng ngày thì ra kết quả gì, chưa ai đo. Với những vị trí thật sự cần báo bất cứ lúc nào, có thể chỉ giữ thông báo của một vài người liên hệ.
 
-### 2. 固定起床时间，周末也一样
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
-- 成本：不花钱。周末要少睡懒觉，需要一点毅力。
-- 说人话：作息最乱的那五分之一人，生物钟比最规律的那五分之一晚了约 2.5 小时。等于长期活在时差里。作息越规律的学生，成绩也越好。
-- 收益：61 名大学生记录了 30 天。作息最不规律的五分之一，生物钟（昼夜节律）比最规律的五分之一晚约 2.5 小时。具体是褪黑素开始分泌的时刻 00:08 对 21:32。最困、最想睡的时段也晚约 1.8 小时。作息越规律，学业成绩越好（相关系数 r = 0.37）。
-- 证据等级：B
-- 来源：Phillips et al. (2017). Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing. Scientific Reports. <https://doi.org/10.1038/s41598-017-03171-4>
-- 备注：只有这一项研究，人数少，也没有分组对照。研究者推算，生物钟的差别主要来自每天晒到的光不一样。所以固定起床时间要配合早上见光，才有效果。偶尔熬夜之后怎么补，见第 2 节第 39 条（熬夜之后第二天晚上就补觉）：办法是当晚早点上床，不是第二天睡到中午。
+### 2. Cố định giờ thức dậy, cuối tuần cũng vậy
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Cuối tuần phải bớt ngủ nướng, cần một chút ý chí.
+- Hiểu nhanh: Nhóm 1/5 người có giờ giấc lộn xộn nhất, đồng hồ sinh học trễ hơn nhóm 1/5 đều đặn nhất khoảng 2.5 giờ. Cứ như sống trong lệch múi giờ kéo dài. Sinh viên có giờ giấc càng đều đặn thì điểm số càng tốt.
+- Lợi ích: 61 sinh viên ghi chép trong 30 ngày. Nhóm 1/5 có giờ giấc kém đều đặn nhất, đồng hồ sinh học (nhịp ngày đêm) trễ hơn nhóm đều đặn nhất khoảng 2.5 giờ. Cụ thể là thời điểm melatonin bắt đầu tiết ra 00:08 so với 21:32. Khoảng lúc nào cũng buồn ngủ, uể oải nhất cũng trễ hơn khoảng 1.8 giờ. Giờ giấc càng đều đặn, kết quả học tập càng tốt (hệ số tương quan r = 0.37).
+- Mức bằng chứng: B
+- Nguồn: Phillips et al. (2017). Irregular sleep/wake patterns are associated with poorer academic performance and delayed circadian and sleep/wake timing. Scientific Reports. <https://doi.org/10.1038/s41598-017-03171-4>
+- Ghi chú: Chỉ có đúng một nghiên cứu này, số người ít, cũng không có đối chứng phân nhóm. Các nhà nghiên cứu suy tính rằng khác biệt đồng hồ sinh học chủ yếu đến từ việc mỗi ngày mỗi người gặp ánh sáng không giống nhau. Vì vậy cố định giờ thức dậy phải kết hợp với tiếp xúc ánh sáng buổi sáng mới có hiệu quả. Thi thoảng thức khuya rồi bù thế nào, xem chương 2 mục 39 (sau khi thức khuya thì tối hôm sau bù ngủ ngay): cách là tối hôm đó đi ngủ sớm hơn, chứ không phải hôm sau ngủ nướng tới trưa.
 
-### 3. 每晚睡够 7 到 8 小时，别把 6 小时当作够用
-<!-- 成本标签: 钱=0 时间=多 毅力=些 收益=大 口径=时间 -->
-- 成本：不花钱。每天要多留 1 到 2 小时给睡眠。早一点上床，需要一点毅力。
-- 说人话：连着两周每晚只睡 6 小时，脑子的表现会掉到相当于两天两夜没合眼的水平。麻烦的是自己感觉不到。自己打分的困倦头几天涨完就不再涨，睡 6 小时的人和睡 4 小时的人打分一样困。所以「我睡 6 小时够用」这句话本身就是缺觉的症状。
-- 收益：48 名 21 到 38 岁的健康成人，连续 14 天每晚只睡 6 小时。他们的脑力表现累计下降，掉到相当于连续 2 晚完全不睡的水平。而自己打分的困倦程度只在头几天上升，之后几乎不再增加。6 小时组和 4 小时组的自评困倦没有差别。这是把人随机分成两组做的对照试验（RCT）。另外，短时间不睡（急性睡眠剥夺，不超过 48 小时）对简单注意力走神的效果大小 g = -0.776，对推理准确率 g = -0.125。这部分是把 70 项研究合起来算的。
-- 证据等级：A
-- 来源：Van Dongen, Maislin, Mullington & Dinges (2003). The cumulative cost of additional wakefulness. Sleep. <https://doi.org/10.1093/sleep/26.2.117>；Lim & Dinges (2010). A meta-analysis of the impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin. <https://doi.org/10.1037/a0018883>
-- 备注：「自己觉得不困」不是睡够了的证据。长期睡 6 小时的人只是感觉上习惯了，表现并没有跟上。汇总多项研究的那部分说的是整夜不睡。「长期少睡」只有一项随机对照试验支持。
+### 3. Mỗi đêm ngủ đủ 7 đến 8 giờ, đừng coi 6 giờ là đủ
+<!-- Nhan chi phi: tien=0 thoi-gian=nhieu y-luc=chut loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Mỗi ngày phải chừa thêm 1 đến 2 giờ cho giấc ngủ. Đi ngủ sớm hơn, cần một chút ý chí.
+- Hiểu nhanh: Hai tuần liền mỗi đêm chỉ ngủ 6 giờ, biểu hiện của não tụt xuống mức tương đương hai ngày hai đêm không nhắm mắt. Phiền ở chỗ chính bạn không cảm nhận được. Tự chấm điểm độ buồn ngủ chỉ tăng mấy ngày đầu rồi không tăng nữa, người ngủ 6 giờ tự chấm buồn ngang người ngủ 4 giờ. Vì vậy câu “tôi ngủ 6 giờ là đủ” bản thân nó đã là triệu chứng của thiếu ngủ.
+- Lợi ích: 48 người trưởng thành khỏe mạnh từ 21 đến 38 tuổi, 14 ngày liền mỗi đêm chỉ ngủ 6 giờ. Năng lực trí óc của họ suy giảm lũy tiến, tụt xuống mức tương đương 2 đêm liền hoàn toàn không ngủ. Trong khi đó độ buồn ngủ tự chấm chỉ tăng vài ngày đầu, sau đó hầu như không tăng thêm. Không có khác biệt về buồn ngủ tự đánh giá giữa nhóm 6 giờ và nhóm 4 giờ. Đây là thử nghiệm đối chứng chia người ngẫu nhiên thành hai nhóm (RCT). Ngoài ra, thiếu ngủ ngắn hạn (tước giấc ngủ cấp tính, không quá 48 giờ) có cỡ hiệu ứng lên mức “đi lạc” chú ý trong nhiệm vụ chú ý đơn giản g = -0.776, lên độ chính xác suy luận g = -0.125. Phần này gộp 70 nghiên cứu lại tính.
+- Mức bằng chứng: A
+- Nguồn: Van Dongen, Maislin, Mullington & Dinges (2003). The cumulative cost of additional wakefulness. Sleep. <https://doi.org/10.1093/sleep/26.2.117>; Lim & Dinges (2010). A meta-analysis of the impact of short-term sleep deprivation on cognitive variables. Psychological Bulletin. <https://doi.org/10.1037/a0018883>
+- Ghi chú: “Tự thấy không buồn ngủ” không phải bằng chứng của việc ngủ đủ. Người dài ngày ngủ 6 giờ chỉ là quen về cảm giác, biểu hiện thực tế không theo kịp. Phần tổng hợp nhiều nghiên cứu nói về trường hợp thức trắng cả đêm. Riêng “thiếu ngủ kéo dài” mới chỉ có một thử nghiệm đối chứng ngẫu nhiên ủng hộ.
 
-### 4. 下午两点以后不碰咖啡因
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
-- 成本：不花钱。习惯下午喝咖啡的人，要忍住不喝，需要一点毅力。
-- 说人话：睡前 6 小时喝一大杯咖啡（400 mg），当晚用仪器测出来少睡 1 小时以上。可自己写的睡眠日记根本看不出差别。一杯普通咖啡（107 mg）要在睡前 8.8 小时以上喝完，才不影响睡眠。十一点睡的人，下午两点就是界线。
-- 收益：睡前 6 小时喝 400 mg 咖啡因，仪器测到的总睡眠时间比喝安慰剂少 1.1 到 1.2 小时。安慰剂就是不含咖啡因的对照饮料。可是受试者自己写的睡眠日记没有报出差别，自己察觉不到。把多项研究合起来算（荟萃分析）：咖啡因平均让总睡眠时间减少 45 分钟。躺在床上真正睡着的比例（睡眠效率）下降 7%。一杯咖啡（107 mg）要在睡前 8.8 小时以上喝完，才不影响睡眠。
-- 证据等级：A
-- 来源：Drake, Roehrs, Shambroom & Roth (2013). Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. Journal of Clinical Sleep Medicine. <https://doi.org/10.5664/jcsm.3170>；Gardiner et al. (2023). The effect of caffeine on subsequent sleep: A systematic review and meta-analysis. Sleep Medicine Reviews. <https://doi.org/10.1016/j.smrv.2023.101764>
-- 备注：Drake 那项只有一个实验室做过，用的 400 mg 偏大，大约两三杯咖啡。咖啡因代谢慢的人，截止时间还要更早。少喝咖啡因换回来的是睡眠时长，和第 3 条（每晚睡够 7 到 8 小时）叠加。
+### 4. Sau hai giờ chiều không đụng đến caffeine
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Người quen uống cà phê buổi chiều phải kìm không uống, cần một chút ý chí.
+- Hiểu nhanh: Uống một cốc cà phê lớn (400 mg) trước giờ ngủ 6 tiếng, đêm hôm đó máy đo ghi nhận ngủ ít đi hơn 1 tiếng. Nhưng nhật ký giấc ngủ do chính mình viết thì chẳng thấy khác gì. Một cốc cà phê thường (107 mg) phải uống xong trước giờ ngủ từ 8.8 tiếng trở lên mới không ảnh hưởng giấc ngủ. Ai ngủ lúc 11 giờ thì 2 giờ chiều chính là ranh giới.
+- Lợi ích: Uống 400 mg caffeine trước giờ ngủ 6 tiếng, tổng thời gian ngủ máy đo được ít hơn so với uống giả dược 1.1 đến 1.2 tiếng. Giả dược là thức uống đối chứng không chứa caffeine. Nhưng nhật ký giấc ngủ người tham gia tự viết không báo ra khác biệt, bản thân họ không nhận ra. Gộp nhiều nghiên cứu lại tính (phân tích tổng hợp): caffeine làm tổng thời gian ngủ giảm trung bình 45 phút. Tỉ lệ nằm trên giường thật sự chìm vào giấc ngủ (hiệu quả giấc ngủ) giảm 7%. Một cốc cà phê (107 mg) phải uống xong trước giờ ngủ từ 8.8 tiếng trở lên mới không ảnh hưởng giấc ngủ.
+- Mức bằng chứng: A
+- Nguồn: Drake, Roehrs, Shambroom & Roth (2013). Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. Journal of Clinical Sleep Medicine. <https://doi.org/10.5664/jcsm.3170>; Gardiner et al. (2023). The effect of caffeine on subsequent sleep: A systematic review and meta-analysis. Sleep Medicine Reviews. <https://doi.org/10.1016/j.smrv.2023.101764>
+- Ghi chú: Nghiên cứu của Drake chỉ một phòng thí nghiệm từng làm, lượng 400 mg dùng khá lớn, cỡ hai ba cốc cà phê. Người chuyển hóa caffeine chậm, mốc thời gian cắt còn phải sớm hơn. Bớt caffeine đổi lại được thời lượng giấc ngủ, cộng dồn với mục 3 (mỗi đêm ngủ đủ 7 đến 8 giờ).
 
-### 5. 把邮件和消息改成每天固定几次批量处理
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
-- 成本：不花钱。要花点时间跟同事说清楚你多久回一次。忍住不随时翻邮件，需要一点毅力。
-- 说人话：同一批人对比了两周。把邮件限制成每天只查 3 次的那一周，日常压力明显更低，而收发的邮件数量一样多。不加限制的时候，人平均每天要查 15.5 次。
-- 收益：124 名成年人，两周里同一批人前后对比（自身对照）。限制为每天查 3 次邮件的那周，日常压力明显低于不限次数那周（效果大小 Cohen's d = 0.37）。两周收到和回复的邮件数量并没有差别。一开始不加限制时，人们平均每天查邮件 15.5 次。
-- 证据等级：B
-- 来源：Kushlev & Dunn (2015). Checking email less frequently reduces stress. Computers in Human Behavior. <https://doi.org/10.1016/j.chb.2014.11.005>
-- 备注：只有一项研究，效果中等偏小，量的是压力，不是干出来的活。即时消息没人直接研究过，这里只是照着推的。
+### 5. Đổi email và tin nhắn sang xử lý theo lô vài khung giờ cố định mỗi ngày
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Mất chút thời gian nói rõ với đồng nghiệp bạn trả lời mỗi bao lâu một lần. Kìm không mở email bất cứ lúc nào, cần một chút ý chí.
+- Hiểu nhanh: So sánh chính cùng một nhóm người trong hai tuần. Tuần giới hạn email chỉ kiểm tra 3 lần mỗi ngày, áp lực thường nhật thấp hơn rõ rệt, mà số email nhận gửi vẫn như nhau. Khi không đặt giới hạn, trung bình mỗi ngày người ta mở email 15.5 lần.
+- Lợi ích: 124 người trưởng thành, so sánh trước–sau trên chính cùng nhóm người trong hai tuần (đối chứng trên chính mình). Tuần giới hạn kiểm tra email 3 lần mỗi ngày, áp lực thường nhật thấp hơn rõ rệt so với tuần không giới hạn (cỡ hiệu ứng Cohen's d = 0.37). Số email nhận và trả lời trong hai tuần không có khác biệt. Lúc đầu chưa đặt giới hạn, trung bình mỗi ngày người ta kiểm tra email 15.5 lần.
+- Mức bằng chứng: B
+- Nguồn: Kushlev & Dunn (2015). Checking email less frequently reduces stress. Computers in Human Behavior. <https://doi.org/10.1016/j.chb.2014.11.005>
+- Ghi chú: Chỉ có một nghiên cứu, hiệu ứng trung bình nghiêng về nhỏ, đo áp lực chứ không đo lượng việc làm ra. Tin nhắn tức thời chưa ai nghiên cứu trực tiếp, ở đây chỉ suy ra theo.
 
-### 6. 做需要连续思考的工作时，把哪怕几秒钟的打断也挡在外面
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=时间 -->
-- 成本：不花钱。关上门，戴上耳机，或者挂一个「勿扰」牌。
-- 说人话：一次平均 2.8 秒的打断，就让接下来的操作出错概率翻倍。4.4 秒的打断翻三倍。现场跟踪还发现，被打断的那件事平均要 25 分钟才回得来，中间还插进两件别的事。被打断的人干得更快，但压力、挫败感和费劲程度全都更高。
-- 收益：平均 2.8 秒的打断，会让按顺序一步步做的任务（序列任务）步骤出错率翻倍。4.4 秒的打断让它翻三倍。这是实验室里做的。另一项是对 24 名办公室白领（信息工作者）的现场观察。他们平均每 11 分钟切换一次工作主题。57% 的工作主题被打断。当天回到被打断的那件事上，平均要 25 分 26 秒。中间还插了 2.26 件别的事。还有一项 48 人的实验：被打断的人做得更快，但报告的压力、挫败感、时间压力和费劲程度都更高。
-- 证据等级：B
-- 来源：Altmann, Trafton & Hambrick (2014). Momentary interruptions can derail the train of thought. Journal of Experimental Psychology: General. <https://doi.org/10.1037/a0030986>；Mark, Gonzalez & Harris (2005). No task left behind? Examining the nature of fragmented work. CHI 2005. <https://doi.org/10.1145/1054972.1055017>；Mark, Gudith & Klocke (2008). The cost of interrupted work: More speed and stress. CHI 2008. <https://doi.org/10.1145/1357054.1357072>
-- 备注：那项现场研究把打断分成两类：一类是别人来找你的，一类是自己点开的。关门只挡得住前一类。后一类要配合第 1 条（关掉非必要通知）和第 5 条（批量处理消息）一起用。
+### 6. Khi làm việc cần suy nghĩ liền mạch, chặn cả những khoảng gián đoạn vài giây
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Đóng cửa, đeo tai nghe, hoặc treo một tấm biển “Xin đừng làm phiền”.
+- Hiểu nhanh: Một lần gián đoạn trung bình 2.8 giây khiến xác suất sai thao tác ở các bước tiếp theo gấp đôi. Gián đoạn 4.4 giây thì gấp ba. Theo dõi tại hiện trường còn phát hiện, việc bị gián đoạn trung bình phải mất 25 phút mới quay lại được, giữa chừng còn chèn vào hai việc khác. Người bị gián đoạn làm nhanh hơn, nhưng áp lực, cảm giác bế tắc và mức tốn sức đều cao hơn.
+- Lợi ích: Gián đoạn trung bình 2.8 giây làm tỉ lệ sai bước trong nhiệm vụ phải làm tuần tự từng bước (nhiệm vụ chuỗi) gấp đôi. Gián đoạn 4.4 giây làm nó gấp ba. Điều này làm trong phòng thí nghiệm. Nghiên cứu khác là quan sát hiện trường 24 nhân viên văn phòng (người làm việc thông tin). Họ trung bình mỗi 11 phút đổi một chủ đề công việc. 57% số chủ đề công việc bị gián đoạn. Trong ngày, quay lại việc bị gián đoạn trung bình mất 25 phút 26 giây. Giữa chừng còn chèn vào 2.26 việc khác. Còn một thí nghiệm 48 người: người bị gián đoạn làm nhanh hơn, nhưng áp lực, cảm giác bế tắc, áp lực thời gian và mức tốn sức báo cáo đều cao hơn.
+- Mức bằng chứng: B
+- Nguồn: Altmann, Trafton & Hambrick (2014). Momentary interruptions can derail the train of thought. Journal of Experimental Psychology: General. <https://doi.org/10.1037/a0030986>; Mark, Gonzalez & Harris (2005). No task left behind? Examining the nature of fragmented work. CHI 2005. <https://doi.org/10.1145/1054972.1055017>; Mark, Gudith & Klocke (2008). The cost of interrupted work: More speed and stress. CHI 2008. <https://doi.org/10.1145/1357054.1357072>
+- Ghi chú: Nghiên cứu hiện trường đó chia gián đoạn thành hai loại: một loại là người khác đến tìm bạn, một loại là bạn tự bấm vào. Đóng cửa chỉ chặn được loại trước. Loại sau phải dùng phối hợp với mục 1 (tắt thông báo không thiết yếu) và mục 5 (xử lý tin nhắn theo lô).
 
-### 7. 一次只做一件事，不要边开会边回消息
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
-- 成本：不花钱。开会时忍住不回消息，需要一点毅力。
-- 说人话：任务一切换，反应就更慢，也更容易出错。经常同时开好几个屏的人，并没有练出同时做几件事的本事，反而在任务切换测试上表现更差。
-- 收益：任务切换以后，反应明显更慢，也更容易出错。这部分来自多项研究的综述。另一项实验室研究的受试者是大学生。经常同时用好几种媒体的人（重度媒体多任务者）更容易被不相干的东西和不相干的记忆带跑。他们在任务切换测试上反而表现更差。
-- 证据等级：B
-- 来源：Monsell (2003). Task switching. Trends in Cognitive Sciences. <https://doi.org/10.1016/S1364-6613(03)00028-7>；Ophir, Nass & Wagner (2009). Cognitive control in media multitaskers. PNAS. <https://doi.org/10.1073/pnas.0903620106>
-- 备注：来回切换要多费多少，随干的活差别很大，这里不给统一数字。Ophir 那项是同一时间点的比较，分不清是「多任务让注意力变差」，还是「注意力差的人更爱多任务」。
+### 7. Mỗi lần chỉ làm một việc, đừng vừa họp vừa trả lời tin nhắn
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Trong lúc họp kìm không trả lời tin nhắn, cần một chút ý chí.
+- Hiểu nhanh: Vừa chuyển nhiệm vụ là phản ứng chậm hơn, cũng dễ sai hơn. Người thường xuyên mở nhiều màn hình cùng lúc không hề luyện được kỹ năng làm nhiều việc cùng lúc, trái lại còn biểu hiện tệ hơn trong bài kiểm tra chuyển nhiệm vụ.
+- Lợi ích: Sau khi chuyển nhiệm vụ, phản ứng chậm hơn rõ rệt, cũng dễ sai hơn. Phần này đến từ tổng quan nhiều nghiên cứu. Nghiên cứu phòng thí nghiệm khác có người tham gia là sinh viên. Người thường xuyên dùng nhiều loại phương tiện truyền thông cùng lúc (người đa nhiệm truyền thông mức nặng) dễ bị những thứ không liên quan và những ký ức không liên quan kéo đi. Họ trái lại biểu hiện tệ hơn trong bài kiểm tra chuyển nhiệm vụ.
+- Mức bằng chứng: B
+- Nguồn: Monsell (2003). Task switching. Trends in Cognitive Sciences. <https://doi.org/10.1016/S1364-6613(03)00028-7>; Ophir, Nass & Wagner (2009). Cognitive control in media multitaskers. PNAS. <https://doi.org/10.1073/pnas.0903620106>
+- Ghi chú: Chuyển qua lại tốn thêm bao nhiêu thì tùy loại việc, chênh lệch rất lớn, ở đây không đưa con số thống nhất. Nghiên cứu của Ophir là so sánh tại một thời điểm, không phân biệt được “đa nhiệm làm chú ý xấu đi” hay “người chú ý kém lại chuộng đa nhiệm”.
 
-### 8. 睡前一小时不看发光屏幕，要看就看纸书或墨水屏
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=中 口径=时间 -->
-- 成本：不花钱。睡前一小时放下手机，要长期对抗惯性，需要毅力。
-- 说人话：睡前读发光屏幕，比读纸书晚约 10 分钟才睡着。褪黑素被压低 55%。第二天生物钟往后推 1.5 小时以上，早上更困，要更久才清醒。
-- 收益：实验室里让同一批人两种条件轮着做（交叉试验）。睡前读发光的电子书，比读纸书入睡慢约 10 分钟（25.7 分钟对 15.8 分钟）。晚间褪黑素被压低 55%。第二天的生物钟（昼夜节律）推迟超过 1.5 小时，褪黑素开始分泌的时刻是 22:31 对 21:01。第二天早上更困，要更长时间才完全清醒。
-- 证据等级：B
-- 来源：Chang, Aeschbach, Duffy & Czeisler (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS. <https://doi.org/10.1073/pnas.1418490112>
-- 备注：人数少，是实验室里控好条件做的。按日常的手机亮度和使用时长，影响可能没这么大。手机的夜间模式管多大用，这项研究没测。
+### 8. Một giờ trước khi ngủ không nhìn màn hình phát sáng, muốn đọc thì đọc sách giấy hoặc màn hình mực điện tử
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Một giờ trước khi ngủ buông điện thoại xuống, phải đối kháng quán tính lâu dài, cần ý chí.
+- Hiểu nhanh: Đọc màn hình phát sáng trước khi ngủ, chìm vào giấc ngủ trễ hơn đọc sách giấy khoảng 10 phút. Melatonin bị ép thấp 55%. Đồng hồ sinh học hôm sau bị đẩy lùi hơn 1.5 giờ, sáng dậy buồn ngủ hơn, phải lâu hơn mới tỉnh táo.
+- Lợi ích: Trong phòng thí nghiệm, cho cùng một nhóm người luân phiên hai điều kiện (thử nghiệm giao chéo). Đọc sách điện tử phát sáng trước khi ngủ, chìm vào giấc ngủ chậm hơn sách giấy khoảng 10 phút (25.7 phút so với 15.8 phút). Melatonin buổi tối bị ép thấp 55%. Đồng hồ sinh học (nhịp ngày đêm) hôm sau trễ quá 1.5 giờ, thời điểm melatonin bắt đầu tiết là 22:31 so với 21:01. Sáng hôm sau buồn ngủ hơn, phải lâu hơn mới hoàn toàn tỉnh táo.
+- Mức bằng chứng: B
+- Nguồn: Chang, Aeschbach, Duffy & Czeisler (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS. <https://doi.org/10.1073/pnas.1418490112>
+- Ghi chú: Số người ít, làm trong phòng thí nghiệm với điều kiện kiểm soát tốt. Theo độ sáng và thời lượng dùng điện thoại thường ngày, ảnh hưởng có thể không lớn thế. Chế độ ban đêm của điện thoại có tác dụng bao nhiêu, nghiên cứu này chưa đo.
 
-### 9. 到点就睡，不为游戏、短视频、色情内容熬夜
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=时间 -->
-- 成本：不花钱。难在长期对抗「再看一集」的惯性。手机不进卧室最省力。
-- 说人话：2025 年中国人夜里平均睡 6.97 小时，平均 0:10 才入睡。睡前用手机、平板的人，睡不够的概率是两倍多，白天犯困的概率是 2.7 倍。设备只是放在卧室里不用，数字也差不多。所以最省事的办法是手机不进卧室。
-- 收益：2025 年我国居民夜间平均睡眠 6.97 小时，平均入睡时间 0:10（中国睡眠研究会）。睡前用便携设备的人，睡不够的可能性约为 2.17 倍（OR 2.17）。睡眠质量差约 1.46 倍（OR 1.46）。白天犯困约 2.72 倍（OR 2.72）。设备只是放在卧室里、并不使用，数字也差不多，约 1.79、1.53、2.27 倍（OR 1.79/1.53/2.27）。这部分是把 20 项同一时间点的调查、125198 名儿童青少年合起来算的。另一项同一时间点的调查：844 名 18 到 94 岁成人中，关灯后仍用手机的人入睡更慢，躺在床上真正睡着的比例更低，白天更疲劳。
-- 证据等级：B
-- 来源：Carter et al. (2016). Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes. JAMA Pediatrics. <https://doi.org/10.1001/jamapediatrics.2016.2341>；Exelmans & Van den Bulck (2016). Bedtime mobile phone use and sleep in adults. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2015.11.037>；中国睡眠研究会 (2026). 2026 中国睡眠健康研究白皮书（福建省卫健委转载健康报报道）. <https://wjw.fujian.gov.cn/jggk/csxx/xcc/mtbd/202603/t20260323_7114382.htm>；Grubbs JB 等 (2018). Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis. Archives of Sexual Behavior. <https://doi.org/10.1007/s10508-018-1248-x>（备注里的争议方之一）；Prause N, Pfaus J (2015). Viewing Sexual Stimuli Associated with Greater Sexual Responsiveness, Not Erectile Dysfunction. Sexual Medicine. <https://doi.org/10.1002/sm2.58>（备注里的争议方之二）
-- 备注：争议。熬夜本身的代价见本节第 3 条（每晚睡够 7 到 8 小时）。色情内容对普通人的精力和脑力有什么影响，目前没有可靠证据说得清是不是它造成的。一项把多项研究汇总起来的分析认为，所谓「色情问题」更多来自一个人的观念和自己的行为对不上，而不在内容本身。另一项研究汇总了 280 名男性的数据。结果是看的时长和跟伴侣性生活时的勃起功能没有关系。本条针对的只是它挤占睡眠时间。6.97 小时和 0:10 两个数，中国睡眠研究会官网没有挂出发布稿（2026 年 9 月查），以福建省卫健委转载的健康报报道为准。
+### 9. Đến giờ là ngủ, đừng thức khuya vì game, video ngắn, nội dung khiêu dâm
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Khó ở chỗ lâu dài đối kháng quán tính “xem thêm một tập”. Điện thoại không vào phòng ngủ là đỡ tốn sức nhất.
+- Hiểu nhanh: Năm 2025 người Trung Quốc ban đêm ngủ trung bình 6.97 giờ, trung bình 0:10 mới chìm vào giấc ngủ. Người dùng điện thoại, máy tính bảng trước khi ngủ có xác suất ngủ không đủ hơn gấp đôi, xác suất ban ngày uể oải gấp 2.7 lần. Thiết bị chỉ để trong phòng ngủ mà không dùng, các con số cũng gần như vậy. Vì vậy cách nhẹ nhàng nhất là điện thoại không vào phòng ngủ.
+- Lợi ích: Năm 2025 người dân Trung Quốc ngủ ban đêm trung bình 6.97 giờ, thời điểm chìm vào giấc ngủ trung bình 0:10 (Hội Nghiên cứu Giấc ngủ Trung Quốc). Người dùng thiết bị di động trước khi ngủ có khả năng ngủ không đủ khoảng gấp 2.17 lần (OR 2.17). Chất lượng giấc ngủ kém khoảng 1.46 lần (OR 1.46). Ban ngày uể oải khoảng 2.72 lần (OR 2.72). Thiết bị chỉ đặt trong phòng ngủ, không sử dụng, các con số cũng gần tương tự, khoảng 1.79, 1.53, 2.27 lần (OR 1.79/1.53/2.27). Phần này gộp 20 cuộc điều tra cùng thời điểm, 125198 trẻ em và thanh thiếu niên lại tính. Một cuộc điều tra cùng thời điểm khác: trong 844 người trưởng thành từ 18 đến 94 tuổi, những người vẫn dùng điện thoại sau khi tắt đèn chìm vào giấc ngủ chậm hơn, tỉ lệ nằm trên giường thật sự ngủ được thấp hơn, ban ngày mệt mỏi hơn.
+- Mức bằng chứng: B
+- Nguồn: Carter et al. (2016). Association Between Portable Screen-Based Media Device Access or Use and Sleep Outcomes. JAMA Pediatrics. <https://doi.org/10.1001/jamapediatrics.2016.2341>; Exelmans & Van den Bulck (2016). Bedtime mobile phone use and sleep in adults. Social Science & Medicine. <https://doi.org/10.1016/j.socscimed.2015.11.037>; Hội Nghiên cứu Giấc ngủ Trung Quốc (2026). Sách trắng nghiên cứu sức khỏe giấc ngủ Trung Quốc 2026 (Ủy ban Y tế tỉnh Phúc Kiến đăng lại bài của báo Health News). <https://wjw.fujian.gov.cn/jggk/csxx/xcc/mtbd/202603/t20260323_7114382.htm>; Grubbs JB và cộng sự (2018). Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis. Archives of Sexual Behavior. <https://doi.org/10.1007/s10508-018-1248-x> (một bên trong tranh cãi nêu ở phần Ghi chú); Prause N, Pfaus J (2015). Viewing Sexual Stimuli Associated with Greater Sexual Responsiveness, Not Erectile Dysfunction. Sexual Medicine. <https://doi.org/10.1002/sm2.58> (bên kia trong tranh cãi nêu ở phần Ghi chú)
+- Ghi chú: Tranh cãi: Cái giá của chính việc thức khuya xem mục 3 trong chương này (mỗi đêm ngủ đủ 7 đến 8 giờ). Nội dung khiêu dâm ảnh hưởng thế nào đến sức lực và trí óc của người bình thường, hiện chưa có bằng chứng đáng tin nói rõ có phải do nó gây ra hay không. Một phân tích gộp nhiều nghiên cứu cho rằng cái gọi là “vấn đề khiêu dâm” phần nhiều đến từ việc quan niệm của một người mâu thuẫn với hành vi của chính họ, chứ không ở nội dung. Một nghiên cứu khác tổng hợp dữ liệu 280 nam giới. Kết quả là thời lượng xem không liên quan đến chức năng cương cứng khi quan hệ tình dục với bạn tình. Mục này chỉ nhắm vào việc nó chiếm mất thời gian ngủ. Hai con số 6.97 giờ và 0:10, website của Hội Nghiên cứu Giấc ngủ Trung Quốc chưa đăng thông cáo phát hành (kiểm tra tháng 9/2026), lấy bài báo Health News do Ủy ban Y tế tỉnh Phúc Kiến đăng lại làm chuẩn.
 
-### 10. 深夜不做重大决定、不发要紧的消息
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=小 口径=时间 -->
-- 成本：不花钱。只是把事情推到睡醒之后再办。
-- 说人话：人睡饱的时候，很快就能学会躲开高风险的选项。连着两晚没睡之后，反而一次次挑高风险的，年纪越大越明显。少睡几小时有多大影响没人测过，但要紧的决定还是推到睡醒以后。
-- 收益：34 名健康人在 49.5 小时不睡之后，做爱荷华赌博任务。这是一种衡量风险决策的实验。休息充足时，他们能很快学会避开高风险选项。缺觉之后，反而更多地选高风险选项。年纪大的人受影响更大。这是一项实验，只有这一项研究。
-- 证据等级：B
-- 来源：Killgore, Balkin & Wesensten (2006). Impaired decision making following 49 h of sleep deprivation. Journal of Sleep Research. <https://doi.org/10.1111/j.1365-2869.2006.00487.x>
-- 备注：研究的是连续两晚不睡的极端情况。普通人熬到凌晨两点会怎样，没有直接测过。「不发消息」那半是作者经验（C 级），第二天再发也不迟。
+### 10. Khuya không đưa ra quyết định lớn, không gửi tin nhắn quan trọng
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=nho kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Chỉ là đẩy việc đó lại xử lý sau khi ngủ dậy.
+- Hiểu nhanh: Khi ngủ đủ giấc, con người rất nhanh học được cách né các lựa chọn rủi ro cao. Sau hai đêm liền không ngủ, trái lại cứ lần lượt chọn cái rủi ro cao, tuổi càng lớn càng rõ. Thiếu vài giờ ngủ ảnh hưởng bao nhiêu thì chưa ai đo, nhưng quyết định quan trọng vẫn nên đẩy đến sau khi ngủ dậy.
+- Lợi ích: 34 người khỏe mạnh sau 49.5 giờ không ngủ, làm bài kiểm tra đánh bạc Iowa. Đây là loại thí nghiệm đo lường quyết định rủi ro. Khi nghỉ ngơi đủ giấc, họ học rất nhanh cách tránh các lựa chọn rủi ro cao. Sau khi thiếu ngủ, trái lại chọn phương án rủi ro cao nhiều hơn. Người lớn tuổi chịu ảnh hưởng lớn hơn. Đây là một thí nghiệm, chỉ có đúng một nghiên cứu này.
+- Mức bằng chứng: B
+- Nguồn: Killgore, Balkin & Wesensten (2006). Impaired decision making following 49 h of sleep deprivation. Journal of Sleep Research. <https://doi.org/10.1111/j.1365-2869.2006.00487.x>
+- Ghi chú: Nghiên cứu là trường hợp cực đoan hai đêm liền không ngủ. Người thường thức đến 2 giờ sáng thì sao, chưa được đo trực tiếp. Nửa “không gửi tin nhắn” là kinh nghiệm của tác giả (mức C), gửi vào hôm sau cũng không muộn.
 
-### 11. 下午困了就睡 10 分钟，不要睡半小时
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
-- 成本：不花钱。花 10 分钟，再找一个能躺下或者趴着的地方。
-- 说人话：10 分钟的小睡当场就能提神，效果能撑两个半小时。睡 5 分钟基本没用。睡 20 分钟要等半小时以后才见效。睡 30 分钟，醒来先有一段发懵，那阵子表现比不睡还差。
-- 收益：在前一晚没睡够之后，10 分钟的小睡能立刻改善困倦、疲劳、精力和脑力表现，一部分好处维持到 155 分钟以后。睡 5 分钟几乎没有好处。睡 20 分钟的好处要等 35 分钟以后才出现。睡 30 分钟以后先有一段睡眠惰性：刚醒那阵表现反而更差，之后才改善。
-- 证据等级：B
-- 来源：Brooks & Lack (2006). A brief afternoon nap following nocturnal sleep restriction: Which nap duration is most recuperative? Sleep. <https://doi.org/10.1093/sleep/29.6.831>
-- 备注：只有一项实验室研究，受试者都是健康年轻人。睡不着也不必勉强。闭着眼躺 10 分钟有没有用，没有研究支持。午睡睡过一小时反而和更高的死亡率、冠心病风险连在一起，见第 2 节第 38 条（午睡控制在半小时内）。
+### 11. Chiều buồn thì ngủ 10 phút, đừng ngủ nửa tiếng
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Mất 10 phút, cộng thêm việc tìm một chỗ có thể nằm hoặc gục xuống.
+- Hiểu nhanh: Giấc ngủ ngắn 10 phút lập tức tỉnh táo hơn, hiệu quả giữ được hai tiếng rưỡi. Ngủ 5 phút cơ bản vô dụng. Ngủ 20 phút phải chờ nửa tiếng sau mới phát huy. Ngủ 30 phút, thức dậy sẽ có một đoạn choáng váng đầu óc, giai đoạn đó biểu hiện còn tệ hơn không ngủ.
+- Lợi ích: Sau đêm trước không ngủ đủ, giấc ngủ ngắn 10 phút cải thiện ngay buồn ngủ, mệt mỏi, sức lực và biểu hiện trí óc, một phần lợi ích duy trì đến sau 155 phút. Ngủ 5 phút hầu như không có lợi. Lợi ích của ngủ 20 phút phải chờ 35 phút sau mới xuất hiện. Ngủ 30 phút sẽ có trước một đoạn quán tính giấc ngủ: lúc vừa dậy biểu hiện trái lại tệ hơn, sau đó mới cải thiện.
+- Mức bằng chứng: B
+- Nguồn: Brooks & Lack (2006). A brief afternoon nap following nocturnal sleep restriction: Which nap duration is most recuperative? Sleep. <https://doi.org/10.1093/sleep/29.6.831>
+- Ghi chú: Chỉ có một nghiên cứu phòng thí nghiệm, người tham gia đều là người trẻ khỏe mạnh. Không ngủ được cũng chẳng cần ép. Nằm nhắm mắt 10 phút có tác dụng gì không, không có nghiên cứu ủng hộ. Ngủ trưa quá một tiếng trái lại gắn với tỉ lệ tử vong và nguy cơ bệnh mạch vành cao hơn, xem chương 2 mục 38 (giữ giấc ngủ trưa trong nửa tiếng).
 
-### 12. 在开放式办公室工作时用耳塞或找安静房间做需要记忆的活
-<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=小 口径=时间 -->
-- 成本：耳塞几十元。预订安静的会议室要花点时间。
-- 说人话：背景噪音从 39 分贝涨到 51 分贝，能记住的词就变少，人更累，也更不想干活。休息的时候看带声音的自然风光片，比接着听办公室噪音更能把精力找回来。
-- 收益：让学生在模拟的开放式办公室里工作。背景噪音从 39 分贝升到 51 分贝（dB，LAeq）时，他们记住的词更少，自己评分更疲劳，也更不想干活。休息时看带声音的自然影片，比只听河流声或者办公室噪音，更能把精力评分拉回来。
-- 证据等级：B
-- 来源：Jahncke, Hygge, Halin, Green & Dimberg (2011). Open-plan office noise: Cognitive performance and restoration. Journal of Environmental Psychology. <https://doi.org/10.1016/j.jenvp.2011.07.002>
-- 备注：只有一项实验室研究。噪音里最碍事的是能听清内容的说话声。白噪音耳机对这一点有帮助，但这项研究没测过耳机。
+### 12. Khi làm việc ở văn phòng mở, dùng nút bịt tai hoặc tìm phòng yên tĩnh để làm việc cần ghi nhớ
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=khong loi-ich=nho kieu=thoi-gian -->
+- Chi phí: Nút bịt tai vài chục yên. Đặt phòng họp yên tĩnh mất chút thời gian.
+- Hiểu nhanh: Tiếng ồn nền tăng từ 39 decibel lên 51 decibel, số từ nhớ được giảm đi, người mệt hơn, cũng càng chẳng muốn làm việc. Nghỉ giải lao mà xem phim phong cảnh thiên nhiên có âm thanh, thì lấy lại sức lực tốt hơn là tiếp tục nghe tiếng ồn văn phòng.
+- Lợi ích: Cho sinh viên làm việc trong văn phòng mở mô phỏng. Khi tiếng ồn nền tăng từ 39 decibel lên 51 decibel (dB, LAeq), họ nhớ được ít từ hơn, tự chấm điểm mệt mỏi cao hơn, cũng ít muốn làm việc hơn. Nghỉ giải lao xem phim thiên nhiên có âm thanh, so với chỉ nghe tiếng sông hoặc tiếng ồn văn phòng, kéo lại điểm sức lực tốt hơn.
+- Mức bằng chứng: B
+- Nguồn: Jahncke, Hygge, Halin, Green & Dimberg (2011). Open-plan office noise: Cognitive performance and restoration. Journal of Environmental Psychology. <https://doi.org/10.1016/j.jenvp.2011.07.002>
+- Ghi chú: Chỉ có một nghiên cứu phòng thí nghiệm. Trong tiếng ồn, thứ gây trở ngại nhất là tiếng nói nghe rõ nội dung. Tai nghe tiếng ồn trắng giúp được điểm này, nhưng nghiên cứu này chưa đo tai nghe.
 
-### 13. 每周工作时间不要超过 49 小时
-<!-- 成本标签: 钱=少 时间=少 毅力=些 收益=大 口径=时间 -->
-- 成本：可能少拿一些加班费。也可能要花力气和上级谈。
-- 说人话：一战时英国军工厂的记录显示，每周干 49 小时以内，干多久就出多少活。超过 49 小时，多干一小时多出的活越来越少。一周干 70 小时和干 56 小时出的活几乎一样，多干的那 14 小时是白干。
-- 收益：一战时期英国军工厂工人的产出记录：每周 49 小时以内，产出与工时成正比。超过 49 小时，产出的增速开始变慢。大约 63 小时达到最大。干 70 小时的产出与干 56 小时几乎没有差别，多干的 14 小时等于白干。
-- 证据等级：B
-- 来源：Pencavel (2015). The Productivity of Working Hours. The Economic Journal. <https://doi.org/10.1111/ecoj.12166>
-- 备注：数据来自一百年前的工厂，干的是体力活，工人以女性为主。这道坎搬到脑力工作上不一定一样，作者自己也说别的工种可能更高或更低。可靠的是方向：过了某个点，再多干也几乎不多出活。49 这个具体数字不可靠。
+### 13. Thời gian làm việc mỗi tuần đừng vượt quá 49 giờ
+<!-- Nhan chi phi: tien=it thoi-gian=it y-luc=chut loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Có thể nhận ít tiền làm thêm giờ hơn. Cũng có thể phải tốn công nói chuyện với cấp trên.
+- Hiểu nhanh: Hồ sơ các nhà máy vũ khí Anh thời Thế chiến I cho thấy, trong phạm vi 49 giờ mỗi tuần, làm bao lâu thì ra bấy nhiêu việc. Trên 49 giờ, mỗi giờ làm thêm cho ra việc ngày càng ít. Một tuần làm 70 giờ và làm 56 giờ cho ra lượng việc gần như nhau, 14 giờ làm thêm kia là làm thừa.
+- Lợi ích: Hồ sơ sản lượng công nhân nhà máy vũ khí Anh thời Thế chiến I: trong phạm vi 49 giờ mỗi tuần, sản lượng tỉ lệ thuận với số giờ làm. Trên 49 giờ, tốc độ tăng sản lượng bắt đầu chậm lại. Khoảng 63 giờ đạt tối đa. Sản lượng làm 70 giờ gần như không khác làm 56 giờ, 14 giờ làm thêm coi như làm thừa.
+- Mức bằng chứng: B
+- Nguồn: Pencavel (2015). The Productivity of Working Hours. The Economic Journal. <https://doi.org/10.1111/ecoj.12166>
+- Ghi chú: Dữ liệu đến từ các nhà máy một trăm năm trước, làm việc chân tay, công nhân chủ yếu là nữ. Mang ngưỡng này sang công việc trí óc thì chưa chắc như vậy, chính tác giả cũng nói các nghề khác có thể cao hơn hoặc thấp hơn. Đáng tin là phương hướng: qua một điểm nào đó, làm thêm nhiều nữa cũng gần như không ra thêm việc. Con số cụ thể 49 thì không đáng tin.
 
-### 14. 发现自己在反复回想同一件糟心事时，换个需要动手的活
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
-- 成本：不花钱。难在要先察觉自己正在反复回想（这叫反刍），察觉本身就要练。
-- 说人话：反复回想同一件糟心事，不会想出答案。它只会加重抑郁，把负面念头钉得更牢，让人更解决不了问题，也更难真动手，还会把身边愿意听你说的人耗光。察觉到自己在原地绕，就去干点要动手的活。
-- 收益：多项研究的综述说，反复回想同一件糟心事（反刍思维）会加重抑郁。它还会强化负面思考，削弱解决问题的能力。它会妨碍实际行动，还会把身边愿意听你说的人耗光。它与焦虑、暴食、酗酒、自伤相关。
-- 证据等级：B
-- 来源：Nolen-Hoeksema, Wisco & Lyubomirsky (2008). Rethinking Rumination. Perspectives on Psychological Science. <https://doi.org/10.1111/j.1745-6924.2008.00088.x>
-- 备注：综述只给了方向，没有数字。「换个活」是作者自己的做法。文献能撑住的只有一句：把注意力岔开，好过接着在原地绕。至于换成什么活，没人比较过。
+### 14. Khi thấy mình cứ suy đi nghĩ lại mãi một chuyện buồn, hãy đổi sang việc cần dùng tay
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Khó ở chỗ trước tiên phải nhận ra mình đang suy đi nghĩ lại mãi (cái này gọi là nghiền ngẫm — rumination), bản thân việc nhận ra đã phải luyện.
+- Hiểu nhanh: Suy đi nghĩ lại mãi một chuyện buồn không nghĩ ra câu trả lời. Nó chỉ làm trầm cảm nặng thêm, đóng cứng thêm những suy nghĩ tiêu cực, khiến người ta càng bất lực trước vấn đề, càng khó thật sự bắt tay vào làm, còn hao mòn luôn những người bên cạnh sẵn lòng nghe bạn nói. Nhận ra mình đang xoay vòng tại chỗ, thì đi làm chút việc cần dùng tay.
+- Lợi ích: Tổng quan nhiều nghiên cứu cho biết, suy đi nghĩ lại mãi một chuyện buồn (suy tư nghiền ngẫm) làm trầm cảm nặng thêm. Nó còn củng cố suy nghĩ tiêu cực, làm yếu khả năng giải quyết vấn đề. Nó cản trở hành động thực tế, và còn hao mòn luôn những người bên cạnh sẵn lòng nghe bạn nói. Nó tương quan với lo âu, ăn quá mức, nghiện rượu, tự hại bản thân.
+- Mức bằng chứng: B
+- Nguồn: Nolen-Hoeksema, Wisco & Lyubomirsky (2008). Rethinking Rumination. Perspectives on Psychological Science. <https://doi.org/10.1111/j.1745-6924.2008.00088.x>
+- Ghi chú: Tổng quan chỉ đưa ra phương hướng, không có con số. “Đổi sang việc khác” là cách làm của chính tác giả. Tài liệu chỉ đỡ được một câu: đánh lạc hướng chú ý tốt hơn là tiếp tục xoay vòng tại chỗ. Còn đổi sang việc gì thì chưa ai so sánh.
 
-### 15. 把「事情肯定会更糟」这类念头当症状看，不当事实看
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=死亡率 -->
-- 成本：不花钱。难在把这种念头当成症状看，而不是当成事实。
-- 说人话：一项跟踪了 20 年的双生子研究里，悲观程度每高一个档，同期死亡的概率高约 13%，死于心血管病的概率高约 20%。反过来，乐观得分高并没有带来相应的好处。所以要处理的是悲观，不是「不够正能量」。
-- 收益：澳大利亚 2978 名 50 岁以上的双生子，平均跟踪 20 年，其间有 1068 人死亡。悲观量表每高 1 个标准差，同期死亡的风险高约 13%（风险比 1.134）。这个数字的可信范围是 95% CI 1.065–1.207，P=8.85×10⁻⁵。心血管死亡高约 20%（1.196，1.045–1.368，P=0.0093）。与癌症死亡无关。乐观得分与死亡率也没有明显关联。
-- 证据等级：B
-- 来源：Whitfield JB, Zhu G, Landers JG, Martin NG (2020). Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective. Scientific Reports, 10, 12609. <https://doi.org/10.1038/s41598-020-69388-y>
-- 备注：争议。这只是观察，没有分组。有人会说「其实是先有病才悲观」，作者反驳说，真那样的话癌症死亡也该相关。但仍然可能有没测到的因素。乐观并没有保护作用，所以不必强迫自己「积极思考」。要做的是别把悲观预期当成对未来的准确预测。
+### 15. Coi những suy nghĩ kiểu “chắc chắn mọi chuyện sẽ tệ hơn” là triệu chứng, đừng coi là sự thật
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Khó ở chỗ coi loại suy nghĩ này là triệu chứng, chứ không coi là sự thật.
+- Hiểu nhanh: Trong một nghiên cứu trên sinh đôi theo dõi 20 năm, mức bi quan mỗi tăng một bậc, xác suất tử vong trong cùng giai đoạn cao hơn khoảng 13%, xác suất chết vì bệnh tim mạch cao hơn khoảng 20%. Ngược lại, điểm lạc quan cao không mang lại lợi ích tương ứng. Vậy cái cần xử lý là sự bi quan, chứ không phải “thiếu tích cực”.
+- Lợi ích: 2978 người sinh đôi ở Úc trên 50 tuổi, theo dõi trung bình 20 năm, trong đó có 1068 người mất. Thang đo bi quan mỗi cao thêm 1 độ lệch chuẩn, nguy cơ tử vong trong cùng giai đoạn cao hơn khoảng 13% (tỉ số nguy cơ 1.134). Khoảng tin cậy của con số này là 95% CI 1.065–1.207, P=8.85×10⁻⁵. Tử vong tim mạch cao hơn khoảng 20% (1.196, 1.045–1.368, P=0.0093). Không liên quan đến tử vong do ung thư. Điểm lạc quan cũng không có tương quan rõ với tỉ lệ tử vong.
+- Mức bằng chứng: B
+- Nguồn: Whitfield JB, Zhu G, Landers JG, Martin NG (2020). Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective. Scientific Reports, 10, 12609. <https://doi.org/10.1038/s41598-020-69388-y>
+- Ghi chú: Tranh cãi: Đây chỉ là quan sát, không phân nhóm. Sẽ có người nói “thực ra là bệnh có trước rồi mới bi quan”, tác giả phản bác rằng nếu thật vậy thì tử vong do ung thư cũng phải có tương quan. Nhưng vẫn có thể còn những yếu tố chưa đo được. Lạc quan không có tác dụng bảo vệ, nên không cần ép mình “suy nghĩ tích cực”. Cái cần làm là đừng coi kỳ vọng bi quan là dự đoán chính xác về tương lai.
 
-### 16. 减少让你消耗的人际关系，学会拒绝不想接的请求
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=中 口径=时间 -->
-- 成本：不花钱。短期内会有社交摩擦，可能失去一部分关系。开口拒绝需要相当的毅力。
-- 说人话：一个消耗你的人造成的损失，比一个支持你的人带来的好处更大，也更一致。所以先做减法，再做加法。
-- 收益：对 120 名 60 到 89 岁丧偶女性的调查：让人难受的来往和心理幸福感的关联，比让人舒服的来往更一致、也更强。按这个结果，一个消耗你的人造成的损失，大于一个支持你的人带来的好处。
-- 证据等级：C
-- 来源：Rook (1984). The negative side of social interaction: Impact on psychological well-being. Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.46.5.1097>
-- 备注：受访人群特殊，而且是一次性问卷，看不出先后。量的是幸福感，不是精力。放在本节是作者的推断。哪些关系算「消耗」没有客观标准，只能自己判断。
+### 16. Bớt những mối quan hệ hao tổn bạn, học cách từ chối những lời nhờ không muốn nhận
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Ngắn hạn sẽ có ma sát xã giao, có thể mất đi một phần quan hệ. Mở lời từ chối cần ý chí đáng kể.
+- Hiểu nhanh: Tổn thất do một người hao tổn bạn gây ra, lớn hơn và nhất quán hơn lợi ích mà một người ủng hộ bạn mang lại. Vì vậy hãy làm phép trừ trước, phép cộng sau.
+- Lợi ích: Khảo sát 120 phụ nữ góa chồng từ 60 đến 89 tuổi: mối tương quan giữa những qua lại khiến người ta khó chịu và hạnh phúc tâm lý, nhất quán hơn và mạnh hơn so với những qua lại dễ chịu. Theo kết quả này, tổn thất do một người hao tổn bạn gây ra, lớn hơn lợi ích mà một người ủng hộ bạn mang lại.
+- Mức bằng chứng: C
+- Nguồn: Rook (1984). The negative side of social interaction: Impact on psychological well-being. Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.46.5.1097>
+- Ghi chú: Nhóm trả lời phỏng vấn đặc thù, lại là phiếu khảo sát một lần, không nhìn ra trước sau. Đo hạnh phúc, chứ không đo sức lực. Đặt vào chương này là suy đoán của tác giả. Quan hệ nào tính là “hao tổn” không có tiêu chuẩn khách quan, chỉ có thể tự phán đoán.
 
-### 17. 把穿什么、吃什么这类低价值决策固定下来
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=小 口径=时间 -->
-- 成本：不花钱。一开始要花一点时间，把默认选项定下来。
-- 说人话：这条没有硬证据。「做选择会耗光意志力」的原始实验，在两次大规模重做里都没做出来。那两次一次两千人、一次三千人，多家实验室一起做，效果基本为零。固定穿什么吃什么仍然值得做，理由是省下那几分钟和几次纠结，不是「省意志力」。
-- 收益：无法量化。原始实验称，做选择和自我控制会消耗一种共用的有限资源（自我损耗）。但后来有两次大规模复制，都是事先登记好方案、多家实验室照原样重做，都没有做出同样的结果。一次是 23 个实验室 2141 人，效果大小 d = 0.04，95% CI [-0.07, 0.15]（可信范围）。另一次是 36 个实验室 3531 人，d = 0.06。差别小到不能算数。
-- 证据等级：C
-- 来源：Baumeister, Bratslavsky, Muraven & Tice (1998). Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.74.5.1252>；Hagger et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science. <https://doi.org/10.1177/1745691616652873>；Vohs et al. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. Psychological Science. <https://doi.org/10.1177/0956797621989733>
-- 备注：争议。「决策疲劳」在大众读物里被当成定论，但后来别人照着原实验重做，大多做不出同样的结果。它仍然值得做，因为几乎不花成本，省下的时间是实打实的。别指望它能改善你下午的判断力。
+### 17. Cố định những quyết định giá trị thấp như mặc gì, ăn gì
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=nho kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Lúc đầu mất chút thời gian để chốt các lựa chọn mặc định.
+- Hiểu nhanh: Mục này không có bằng chứng cứng. Thí nghiệm gốc cho rằng “ra quyết định sẽ hao hết ý chí” đã không tái lập được trong hai lần làm lại quy mô lớn. Cả hai lần, một lần hai nghìn người, một lần ba nghìn người, nhiều phòng thí nghiệm cùng làm, hiệu ứng cơ bản bằng không. Cố định mặc gì ăn gì vẫn đáng làm, lý do là tiết kiệm mấy phút và mấy lần giằng co đó, chứ không phải “tiết kiệm ý chí”.
+- Lợi ích: Không thể lượng hóa. Thí nghiệm gốc cho rằng việc ra lựa chọn và tự kiểm soát sẽ tiêu hao một nguồn lực hữu hạn dùng chung (sự suy kiệt bản ngã — ego depletion). Nhưng sau đó có hai lần tái lập quy mô lớn, đều đăng ký trước phương án, nhiều phòng thí nghiệm làm lại đúng nguyên mẫu, đều không cho ra kết quả như vậy. Một lần là 23 phòng thí nghiệm 2141 người, cỡ hiệu ứng d = 0.04, 95% CI [-0.07, 0.15] (khoảng tin cậy). Lần khác là 36 phòng thí nghiệm 3531 người, d = 0.06. Chênh lệch nhỏ đến mức không thể tính.
+- Mức bằng chứng: C
+- Nguồn: Baumeister, Bratslavsky, Muraven & Tice (1998). Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.74.5.1252>; Hagger et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science. <https://doi.org/10.1177/1745691616652873>; Vohs et al. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. Psychological Science. <https://doi.org/10.1177/0956797621989733>
+- Ghi chú: Tranh cãi: “Kiệt sức ra quyết định” bị xem như kết luận chắc chắn trong sách đại chúng, nhưng sau này người khác làm lại đúng thí nghiệm gốc, phần lớn không ra được kết quả như vậy. Nó vẫn đáng làm, vì gần như không tốn chi phí, thời gian tiết kiệm được là có thật. Đừng trông chờ nó cải thiện khả năng phán đoán buổi chiều của bạn.
 
-### 18. 生气时先离场，把对方当天气而不是当敌人
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
-- 成本：不花钱。当场要忍住不回嘴，转身走开，事后再决定要不要处理。这需要一点练习。
-- 说人话：换个角度解释刚发生的事，或者站到对方立场想一下，都能实打实把情绪降下来，后一种更管用。硬压着不表现出来没有效果。另外，惩罚了冒犯者的人，事后反而更久地反复想这件事；不报复的人翻篇更快。报复带来的痛快，人们事先高估了。
-- 收益：把 306 组实验比较合起来算（荟萃分析）：换个角度解释发生的事（认知重评）对情绪的效果大小 d = 0.36。站到对方立场看 d = 0.45。转移注意 d = 0.27。硬压住感受无效（d = -0.04）。另有三项实验显示：惩罚冒犯者的人，事后反而更久地反复想对方；不惩罚的人更快「翻篇」。人们事先高估了报复带来的痛快。
-- 证据等级：B
-- 来源：Webb TL, Miles E, Sheeran P (2012). Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation. Psychological Bulletin. <https://doi.org/10.1037/a0027600>；Carlsmith KM, Wilson TD, Gilbert DT (2008). The paradoxical consequences of revenge. Journal of Personality and Social Psychology. <https://doi.org/10.1037/a0012165>
-- 备注：汇总多项研究的那部分量的是情绪强度，不是精力，效果小到中等。报复那部分只有一组实验，所以定 B。「空船」是庄子《山木》里的寓言：空船撞过来不生气，船上有人才生气，可撞的是同一下。这是类比，不是证据。真有损失，就走第 8 节和第 9 节的法律路径，比当场发作便宜得多。
+### 18. Khi giận thì rời chỗ trước, coi đối phương như thời tiết chứ đừng coi như kẻ thù
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Tại chỗ phải kìm không cãi lại, quay lưng rời đi, rồi sau đó mới quyết định có xử lý hay không. Cái này cần một chút luyện tập.
+- Hiểu nhanh: Diễn giải sự việc vừa xảy ra từ góc khác, hoặc đặt mình vào lập trường đối phương mà nghĩ, đều thực sự hạ được cảm xúc xuống, cách sau hữu dụng hơn. Ép nén không bộc lộ thì vô hiệu. Ngoài ra, người đã trừng phạt kẻ xúc phạm, sau đó lại nghiền đi nghiền lại chuyện đó lâu hơn; người không trả thù quay trang nhanh hơn. Cái đã mắt mà báo thù mang lại, người ta đã ước lượng quá cao từ trước.
+- Lợi ích: Gộp 306 nhóm so sánh thí nghiệm lại tính (phân tích tổng hợp): diễn giải sự việc xảy ra từ góc khác (tái đánh giá nhận thức) có cỡ hiệu ứng lên cảm xúc d = 0.36. Đặt mình vào lập trường đối phương d = 0.45. Chuyển hướng chú ý d = 0.27. Ép nén cảm nhận thì vô hiệu (d = -0.04). Còn ba thí nghiệm cho thấy: người trừng phạt kẻ xúc phạm, sau đó lại nghiền nghĩ về đối phương lâu hơn; người không trừng phạt nhanh “quay trang” hơn. Người ta đã ước lượng quá cao cái đã mắt mà báo thù mang lại.
+- Mức bằng chứng: B
+- Nguồn: Webb TL, Miles E, Sheeran P (2012). Dealing with feeling: A meta-analysis of the effectiveness of strategies derived from the process model of emotion regulation. Psychological Bulletin. <https://doi.org/10.1037/a0027600>; Carlsmith KM, Wilson TD, Gilbert DT (2008). The paradoxical consequences of revenge. Journal of Personality and Social Psychology. <https://doi.org/10.1037/a0012165>
+- Ghi chú: Phần tổng hợp nhiều nghiên cứu đo cường độ cảm xúc, chứ không đo sức lực, hiệu ứng nhỏ đến trung bình. Phần báo thù chỉ có một nhóm thí nghiệm, nên định mức B. “Thuyền rỗng” là ngụ ngôn trong truyện “Sơn Mộc” của Trang Tử: thuyền rỗng đâm tới thì không giận, trên thuyền có người mới giận, mà cái va chạm vẫn là một. Đây là phép so sánh, không phải bằng chứng. Mất mát thật sự thì đi theo đường pháp lý ở chương 8 và chương 9, rẻ hơn nhiều so với bùng nổ tại chỗ.
 
-### 19. 情绪低落时先做性价比最高的几件事：动起来、晒太阳、按时睡、找人说、打 12356
-<!-- 成本标签: 钱=0 时间=中 毅力=些 收益=大 口径=时间 -->
-- 成本：不花钱，或者花很少。每周几次快走、慢跑或者力量训练。白天出门晒太阳。作息固定下来。想不开时打一个电话。
-- 说人话：对抑郁来说，快走和慢跑效果最好，瑜伽和力量训练稍次，强度越大越有效。晒光照对季节性抑郁效果很强，对不分季节的抑郁也有效。网上的自助认知行为课程管用，症状偏重时有人带着做更好。想不开先打 12356。
-- 收益：把 218 项随机分组的对照试验、14170 人合起来算（网络荟萃分析）。对照组是同样在做别的活动的人。和他们相比，步行或慢跑对抑郁的效果大小 g = -0.62（95% 可信区间 -0.80 到 -0.45）。瑜伽 -0.55，力量训练 -0.49。强度越大效果越好。把多项光照治疗研究合起来算：季节性抑郁效果大小 0.84（0.60 到 1.08），非季节性抑郁 0.53（0.18 到 0.89）。还有一项分析，把各项研究逐个病人的数据合起来算。它看的是互联网认知行为疗法（网上自助课程）。有人指导和无人指导，都比对照组好。中重度（PHQ-9 大于 9 分）的时候，有人指导的更好。12356 是全国心理援助热线，每日开通不少于 18 小时。
-- 证据等级：A
-- 来源：Noetel M 等 (2024). Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. <https://doi.org/10.1136/bmj-2023-075847>；Golden RN 等 (2005). The efficacy of light therapy in the treatment of mood disorders: a review and meta-analysis of the evidence. American Journal of Psychiatry. <https://doi.org/10.1176/appi.ajp.162.4.656>；Karyotaki E 等 (2021). Internet-Based Cognitive Behavioral Therapy for Depression: A Systematic Review and Individual Patient Data Network Meta-analysis. JAMA Psychiatry. <https://doi.org/10.1001/jamapsychiatry.2020.4364>；国家卫生健康委 (2024). 关于应用"12356"全国统一心理援助热线电话号码的通知（国卫医政函〔2024〕259 号）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm>
-- 备注：这些都是轻中度抑郁的辅助手段。中重度、有自杀念头的要去就医，先打 12356（见第 1 节第 25 条）。运动试验大多人数少，又没法像试药那样瞒住谁在运动。光照研究只到 2003 年，人数也少。「按时睡」「找人说」是作者经验，没有单列文献。别把「动起来」当成对抑郁者的要求，能走十分钟就算数。
+### 19. Khi tâm trạng xuống thấp, làm trước mấy việc hiệu quả chi phí cao nhất: vận động, tắm nắng, ngủ đúng giờ, tìm người tâm sự, gọi 12356
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=chut loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Không tốn tiền, hoặc tốn rất ít. Mỗi tuần vài lần đi bộ nhanh, chạy bộ chậm hoặc tập luyện sức mạnh. Ban ngày ra ngoài tắm nắng. Cố định giờ giấc sinh hoạt. Khi nghĩ quấy thì gọi một cuộc điện thoại.
+- Hiểu nhanh: Với trầm cảm, đi bộ nhanh và chạy bộ chậm hiệu quả nhất, yoga và tập luyện sức mạnh kém hơn một chút, cường độ càng lớn càng hiệu quả. Tắm ánh sáng rất hiệu quả với trầm cảm theo mùa, cũng hiệu quả với trầm cảm không phân biệt mùa. Khóa học tự trợ giúp trị liệu nhận thức – hành vi trên mạng có tác dụng, khi triệu chứng nặng hơn thì có người dẫn kèm càng tốt. Nghĩ quấy thì gọi 12356 trước.
+- Lợi ích: Gộp 218 thử nghiệm đối chứng chia nhóm ngẫu nhiên, 14170 người lại tính (phân tích tổng hợp mạng). Nhóm đối chứng là những người cũng đang làm các hoạt động khác. So với họ, đi bộ hoặc chạy bộ chậm có cỡ hiệu ứng lên trầm cảm g = -0.62 (khoảng tin cậy 95% từ -0.80 đến -0.45). Yoga -0.55, tập luyện sức mạnh -0.49. Cường độ càng lớn hiệu quả càng tốt. Gộp nhiều nghiên cứu liệu pháp ánh sáng lại tính: trầm cảm theo mùa cỡ hiệu ứng 0.84 (0.60 đến 1.08), trầm cảm không theo mùa 0.53 (0.18 đến 0.89). Còn một phân tích gộp dữ liệu từng bệnh nhân từ các nghiên cứu. Nó xem xét trị liệu nhận thức – hành vi qua Internet (khóa học tự trợ giúp trên mạng). Có người hướng dẫn lẫn không có người hướng dẫn đều tốt hơn nhóm đối chứng. Khi trung bình–nặng (PHQ-9 trên 9 điểm), có người hướng dẫn thì tốt hơn. 12356 là đường dây nóng hỗ trợ tâm lý toàn quốc, mở cửa mỗi ngày không dưới 18 giờ.
+- Mức bằng chứng: A
+- Nguồn: Noetel M và cộng sự (2024). Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials. BMJ. <https://doi.org/10.1136/bmj-2023-075847>; Golden RN và cộng sự (2005). The efficacy of light therapy in the treatment of mood disorders: a review and meta-analysis of the evidence. American Journal of Psychiatry. <https://doi.org/10.1176/appi.ajp.162.4.656>; Karyotaki E và cộng sự (2021). Internet-Based Cognitive Behavioral Therapy for Depression: A Systematic Review and Individual Patient Data Network Meta-analysis. JAMA Psychiatry. <https://doi.org/10.1001/jamapsychiatry.2020.4364>; Ủy ban Y tế Quốc gia (2024). Thông báo về việc áp dụng số điện thoại đường dây nóng hỗ trợ tâm lý thống nhất toàn quốc “12356” (văn bản số 259/2024 của Ủy ban Y tế Quốc gia). <https://www.gov.cn/zhengce/zhengceku/202412/content_6994470.htm>
+- Ghi chú: Đây đều là phương tiện hỗ trợ cho trầm cảm nhẹ–trung bình. Trung bình–nặng, có ý nghĩ tự sát thì phải đi khám, trước tiên gọi 12356 (xem chương 1 mục 25). Các thử nghiệm vận động phần lớn số người ít, lại không thể che giấu ai đang vận động như khi thử thuốc. Nghiên cứu ánh sáng chỉ đến năm 2003, số người cũng ít. “Ngủ đúng giờ” “tìm người tâm sự” là kinh nghiệm của tác giả, không có tài liệu riêng. Đừng biến “vận động lên” thành yêu cầu đặt lên người trầm cảm, đi bộ nổi mười phút đã tính.
 
-### 20. 把警察、医生、柜员当成按规则上班的人，别当成角色：能推动事情的是文书和期限，不是情绪
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=小 口径=时间 -->
-- 成本：不花钱。改的是你的预期和动作顺序。第一次要忍住「把道理讲到对方认同」的冲动。
-- 说人话：警察、医生、柜员都是按岗位规则上班的人，被文书、期限和监督管着。对方态度好不好，和你的事办不办、几天办完基本无关。所以要拿回执、记期限、按渠道申诉，别想着把道理讲到对方认同。
-- 收益：把和机构打交道的动作换一换：从「求人、生气、反复复述委屈」，换成「拿文书、记期限、按渠道申诉」。省下的是重复沟通和反复回想的时间。这属于一次性的观念调整，不是每天都省时间。能拿来核对的是这些期限本身，它们都写在文件里。治安案件从受理那天算起，办案期限不超过 30 日；案情重大复杂的，经上一级公安机关批准可以延长 30 日。有控告人的案件决定不予立案的，不予立案通知书要在 3 日以内送达。控告人 7 日以内可以申请复议，公安机关 30 日以内作出决定。不服的，再 7 日以内向上一级申请复核。
-- 证据等级：C
-- 来源：公安部 (2020). 公安机关办理刑事案件程序规定（公安部令第 159 号修正后，第一百七十一、一百七十八、一百七十九条）. <http://www.gov.cn/gongbao/content/2020/content_5549884.htm>；公安部 (2013/2019 修正). 公安机关办理行政案件程序规定（公安部令第 125 号、第 149 号）. <http://www.gov.cn/gongbao/content/2013/content_2321117.htm>
-- 备注：定 C 的理由：「很多人把窗口后面的人当成一个角色、不当成上班的人」这个判断本身没有文献可引。能引的只有规则那一半：期限、文书和救济渠道都是明文的。本条引的数字全部来自第 8 节第 39 条（报警之后的流程）那两份公安部规章。按流程走管不了「对方态度差」，也不保证一定办成，改的只是你的预期和第一步动作。银行柜员、政务窗口也一样：他们操作留痕、要复核、出错要追责。所以该做的是留凭条、要回单、按渠道投诉，别凭「他会不会坑我」瞎猜。合法的优先级都写在明处，比如急诊按病情分级，不按先来后到（第 24 节第 8 条，急诊预检分诊）。想谢救过你的医生，就走感谢信和满意度评价，见第 24 节第 12 条。想「送点东西让人家多上点心」，对办案执法的人就是行贿罪，而且是明文从重的，见第 8 节第 40 条。遇到明显的区别对待，该投诉就投诉，别当成潜规则去模仿。
+### 20. Coi cảnh sát, bác sĩ, nhân viên quầy là người đi làm theo quy tắc, đừng coi là một vai diễn: cái đẩy được việc là giấy tờ và thời hạn, không phải cảm xúc
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=nho kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Đổi là kỳ vọng và trình tự thao tác của bạn. Lần đầu phải kìm cơn muốn “nói đạo lý đến khi đối phương gật đầu đồng ý”.
+- Hiểu nhanh: Cảnh sát, bác sĩ, nhân viên quầy đều là người đi làm theo quy tắc của vị trí, bị giấy tờ, thời hạn và giám sát quản. Thái độ của họ tốt hay không, cơ bản không liên quan đến việc của bạn được giải quyết hay không, mấy ngày thì xong. Vì vậy hãy lấy biên nhận, ghi thời hạn, khiếu nại đúng kênh, đừng nghĩ tới việc nói đạo lý đến khi đối phương gật đầu đồng ý.
+- Lợi ích: Đổi thao tác khi giao dịch với cơ quan: từ “năn nỉ xin xỏ, nổi giận, kể đi kể lại nỗi oan”, đổi sang “giữ giấy tờ, ghi thời hạn, khiếu nại đúng kênh”. Tiết kiệm được là thời gian trao đổi lặp lại và suy nghĩ đi nghĩ lại. Đây thuộc điều chỉnh quan niệm một lần, không phải mỗi ngày đều tiết kiệm thời gian. Cái có thể lấy ra đối chiếu là chính các thời hạn này, chúng đều ghi rõ trong văn bản. Vụ án trật tự công cộng tính từ ngày thụ lý, thời hạn giải quyết không quá 30 ngày; vụ việc lớn, phức tạp, được cơ quan công an cấp trên phê chuẩn có thể gia hạn 30 ngày. Vụ có người tố cáo mà quyết định không thụ lý điều tra, thì thông báo không thụ lý phải được gửi đến trong vòng 3 ngày. Người tố cáo trong vòng 7 ngày có thể đề nghị xem xét lại, cơ quan công an ra quyết định trong vòng 30 ngày. Không chấp nhận, thì trong 7 ngày tiếp theo đề nghị cơ quan cấp trên rà soát lại.
+- Mức bằng chứng: C
+- Nguồn: Bộ Công an (2020). Quy định trình tự cơ quan công an xử lý vụ án hình sự (sửa đổi theo Lệnh số 159 của Bộ Công an; điều 171, 178, 179). <http://www.gov.cn/gongbao/content/2020/content_5549884.htm>; Bộ Công an (sửa đổi 2013/2019). Quy định trình tự cơ quan công an xử lý vụ án hành chính (Lệnh số 125, số 149 của Bộ Công an). <http://www.gov.cn/gongbao/content/2013/content_2321117.htm>
+- Ghi chú: Lý do định mức C: phán đoán “nhiều người coi người ngồi sau quầy là một vai diễn chứ không coi là người đi làm” bản thân nó không có tài liệu nào để trích. Trích được chỉ có nửa quy tắc: thời hạn, giấy tờ và kênh cứu trợ đều ghi thành văn. Các con số mục này trích hoàn toàn từ hai quy chế của Bộ Công an ở chương 8 mục 39 (quy trình sau khi báo công an). Đi đúng quy trình không trị được “thái độ của họ tệ”, cũng không bảo đảm chắc chắn xong việc, đổi chỉ là kỳ vọng và thao tác bước đầu của bạn. Nhân viên quầy ngân hàng, cửa sổ thủ tục hành chính cũng vậy: thao tác của họ để lại dấu vết, phải rà soát, làm sai sẽ bị truy trách. Nên làm là giữ phiếu, đòi giấy trả lại, khiếu nại đúng kênh, đừng mò mẫm theo kiểu “liệu hắn có hố tôi không”. Độ ưu tiên hợp pháp đều ghi nơi sáng sủa, ví dụ cấp cứu phân loại theo tình trạng bệnh, không theo trước sau (chương 24 mục 8, phân loại tiền khám cấp cứu). Muốn cảm ơn bác sĩ đã cứu mình, thì đi thư cảm ơn và đánh giá mức độ hài lòng, xem chương 24 mục 12. Muốn “tặng chút đồ để người ta chú tâm hơn” thì với người xử án thi hành pháp luật là tội hối lộ, và là khoản luật ghi rõ xử nặng hơn, xem chương 8 mục 40. Gặp sự đối xử phân biệt rõ ràng, nên khiếu nại thì khiếu nại, đừng coi đó là quy tắc ngầm để bắt chước.
 
-### 21. 别把「别人过得怎么样」当每日必读：给刷同龄人动态的应用设限或关掉
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=时间 -->
-- 成本：不花钱。给应用设限时，或者把账号停掉，都是几分钟的事。难的是之后不再打开，要长期对抗惯性。
-- 说人话：习惯在网上跟过得更好的人比的人，往往情绪更差、自尊更低。把 Facebook 停用四周的人，幸福感小幅提高，但对时事的了解也掉了一截。把三个社交平台各限到每天 10 分钟的人，三周后孤独和抑郁都降了下来。
-- 收益：把多项研究合起来算（荟萃分析）：54 个独立样本、94 个效应量、N = 36,583，用的是三层随机效应模型。网上向上社会比较与心理适应不良的平均相关 r = 0.330（95% CI 0.289–0.370，可信范围）。按具体结果分开看。怕被人看轻这类社会评价性的负面情绪 0.438，焦虑 0.382。抑郁 0.306，幸福感偏低 0.268，自尊偏低 0.263。年龄、文化背景、数据采集年份都不影响这个关联的强弱。长期跟踪的研究得出的结果，也不比同一时间点的调查更强。另有一项随机分组的对照试验，受试者是 2,743 名美国 Facebook 用户。其中 61% 的人愿意以低于 102 美元接受停用。这些人被随机分为停用四周组与对照组。停用为普通受试者每天空出 60 分钟。主观幸福感指数提高 0.09 个标准差。分项是生活满意度 0.12、焦虑 0.10、抑郁 0.09、快乐 0.08。把多次比较碰巧的成分扣掉后，这些仍然算数。作者给了一个参照，是让人变积极的心理干预。这类干预对主观幸福感约 +0.34 个标准差，对抑郁约 -0.23 个标准差。所以这个效应约为常规心理干预的 25% 到 40%。同期的代价是：时事知识指数下降 0.19 个标准差，政治立场对立程度下降 0.16 个标准差。实验结束后，停用组的 Facebook 使用仍比对照低 12 分钟/天（0.31 个标准差，降幅 23%）。还有一项随机分组的对照试验，受试者是 143 名本科生，被随机分成两组。一组把 Facebook、Instagram、Snapchat 每个平台每天限 10 分钟，另一组照常使用。三周后，限时组的孤独与抑郁明显下降。两组的焦虑与错失恐惧都比一开始低。
-- 证据等级：A
-- 来源：Lei Y, Hu S, Sun Y, Zheng L (2026). "Looking up" linked to feeling down: a meta-analysis of online upward social comparison and psychological maladjustment. Frontiers in Psychology. <https://doi.org/10.3389/fpsyg.2026.1825169>；Allcott H, Braghieri L, Eichmeyer S, Gentzkow M (2020). The Welfare Effects of Social Media. American Economic Review, 110(3), 629–676. <https://doi.org/10.1257/aer.20190658>；Allcott H, Braghieri L, Eichmeyer S, Gentzkow M (2019). The Welfare Effects of Social Media. NBER Working Paper No. 25514（本条引用的具体数字按这一版逐字核对，刊出版的摘要不含数字）. <https://www.nber.org/papers/w25514>；Hunt MG, Marx R, Lipson C, Young J (2018). No More FOMO: Limiting Social Media Decreases Loneliness and Depression. Journal of Social and Clinical Psychology, 37(10), 751–768. <https://doi.org/10.1521/jscp.2018.37.10.751>
-- 备注：「相关」那一半只说明两件事一起出现，不能读成谁导致谁，作者自己也说还需要更多长期跟踪的研究。随机分组那一半能说因果，但受试者是 2018 年美国中期选举前的 Facebook 用户，搬到中国的平台上属于硬套。Hunt 那项只有 143 名本科生，而且就这一项。效应量都不大，别指望关掉应用就能解决情绪问题。要拦的是「看别人过得怎么样」这一类使用，和家人朋友联系、查信息、找工作不在内。真按不住，就先从关推送、关「可能认识的人」和首页推荐入手。总屏幕时间的账见第 4 节第 15、16 条（短视频硬上限、不看滚动新闻）。情绪低落时先做什么，见本节第 19 条（动起来、晒太阳、按时睡）。靠买东西找回身份感见第 6 节第 23 条。为了「往上挪一档」多花钱见第 6 节第 24 条。
+### 21. Đừng biến “người khác sống ra sao” thành bài đọc mỗi ngày: đặt giới hạn hoặc tắt các ứng dụng lướt động thái của người đồng trang lứa
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Đặt giới hạn cho ứng dụng, hoặc tạm dừng tài khoản, đều là chuyện vài phút. Khó là sau đó không mở nữa, phải đối kháng quán tính lâu dài.
+- Hiểu nhanh: Người quen so mình với người sống tốt hơn trên mạng, thường cảm xúc tệ hơn, lòng tự trọng thấp hơn. Người ngừng dùng Facebook bốn tuần, cảm giác hạnh phúc nhích lên một chút, nhưng sự nắm bắt thời sự cũng tụt một đoạn. Người giới hạn cả ba nền tảng mạng xã hội mỗi nền 10 phút mỗi ngày, sau ba tuần sự cô đơn và trầm cảm đều giảm xuống.
+- Lợi ích: Gộp nhiều nghiên cứu lại tính (phân tích tổng hợp): 54 mẫu độc lập, 94 cỡ hiệu ứng, N = 36,583, dùng mô hình hiệu ứng ngẫu nhiên ba tầng. So sánh xã hội hướng lên trên mạng có tương quan trung bình với sự kém thích ứng tâm lý r = 0.330 (95% CI 0.289–0.370, khoảng tin cậy). Tách theo kết quả cụ thể. Những cảm xúc tiêu cực thuộc loại đánh giá xã hội như sợ bị xem nhẹ 0.438, lo âu 0.382. Trầm cảm 0.306, cảm giác hạnh phúc thấp hơn 0.268, lòng tự trọng thấp hơn 0.263. Tuổi, nền văn hóa, năm thu thập dữ liệu đều không làm thay đổi mạnh yếu của tương quan này. Kết quả từ các nghiên cứu theo dõi dài hạn cũng không mạnh hơn các khảo sát cùng thời điểm. Còn một thử nghiệm đối chứng chia nhóm ngẫu nhiên, người tham gia là 2,743 người dùng Facebook ở Mỹ. Trong đó 61% sẵn lòng nhận dưới 102 USD để ngừng dùng. Những người này được chia ngẫu nhiên thành nhóm ngừng dùng bốn tuần và nhóm đối chứng. Việc ngừng dùng mở ra cho người tham gia thông thường 60 phút mỗi ngày. Chỉ số hạnh phúc chủ quan tăng 0.09 độ lệch chuẩn. Từng mục là hài lòng với cuộc sống 0.12, lo âu 0.10, trầm cảm 0.09, vui vẻ 0.08. Sau khi trừ đi phần trúng số của nhiều lần so sánh, những con số này vẫn có ý nghĩa. Tác giả đưa ra một mốc tham chiếu là các can thiệp tâm lý giúp người ta tích cực hơn. Loại can thiệp này với hạnh phúc chủ quan khoảng +0.34 độ lệch chuẩn, với trầm cảm khoảng -0.23 độ lệch chuẩn. Vậy hiệu ứng này cỡ 25% đến 40% so với can thiệp tâm lý thông thường. Cái giá cùng thời là: chỉ số hiểu biết thời sự giảm 0.19 độ lệch chuẩn, mức đối lập lập trường chính trị giảm 0.16 độ lệch chuẩn. Sau khi thí nghiệm kết thúc, nhóm ngừng dùng vẫn dùng Facebook ít hơn đối chứng 12 phút/ngày (0.31 độ lệch chuẩn, giảm 23%). Còn một thử nghiệm đối chứng chia nhóm ngẫu nhiên, người tham gia là 143 sinh viên đại học, chia ngẫu nhiên hai nhóm. Một nhóm giới hạn Facebook, Instagram, Snapchat mỗi nền tảng 10 phút mỗi ngày, nhóm kia dùng như thường. Sau ba tuần, nhóm giới hạn giờ cô đơn và trầm cảm giảm rõ rệt. Lo âu và nỗi sợ bỏ lỡ của cả hai nhóm đều thấp hơn lúc đầu.
+- Mức bằng chứng: A
+- Nguồn: Lei Y, Hu S, Sun Y, Zheng L (2026). "Looking up" linked to feeling down: a meta-analysis of online upward social comparison and psychological maladjustment. Frontiers in Psychology. <https://doi.org/10.3389/fpsyg.2026.1825169>; Allcott H, Braghieri L, Eichmeyer S, Gentzkow M (2020). The Welfare Effects of Social Media. American Economic Review, 110(3), 629–676. <https://doi.org/10.1257/aer.20190658>; Allcott H, Braghieri L, Eichmeyer S, Gentzkow M (2019). The Welfare Effects of Social Media. NBER Working Paper No. 25514 (các con số cụ thể mục này đối chiếu từng chữ theo phiên bản này, phần tóm tắt bản đăng không chứa số). <https://www.nber.org/papers/w25514>; Hunt MG, Marx R, Lipson C, Young J (2018). No More FOMO: Limiting Social Media Decreases Loneliness and Depression. Journal of Social and Clinical Psychology, 37(10), 751–768. <https://doi.org/10.1521/jscp.2018.37.10.751>
+- Ghi chú: Nửa “tương quan” chỉ nói hai việc cùng xuất hiện, không đọc được ai gây ra ai, chính tác giả cũng nói cần thêm nghiên cứu theo dõi dài hạn. Nửa chia nhóm ngẫu nhiên mới nói được nhân quả, nhưng người tham gia là người dùng Facebook trước kỳ bầu cử giữa nhiệm kỳ Mỹ năm 2018, đem áp lên các nền tảng Trung Quốc là áp chệch. Nghiên cứu của Hunt chỉ có 143 sinh viên, và cũng chỉ có một nghiên cứu đó. Cỡ hiệu ứng đều không lớn, đừng trông tắt ứng dụng là giải được vấn đề cảm xúc. Cái cần chặn là kiểu dùng “xem người khác sống ra sao”, còn liên lạc với gia đình bạn bè, tra thông tin, tìm việc không nằm trong đó. Đè không nổi, thì bắt đầu từ tắt thông báo đẩy, tắt “người có thể bạn quen biết” và gợi ý trang chủ. Cái sổ tổng thời gian màn hình xem chương 4 mục 15, 16 (trần cứng cho video ngắn, không xem tin tức cuộn). Tâm trạng xuống thấp thì làm gì trước, xem mục 19 trong chương này (vận động, tắm nắng, ngủ đúng giờ). Dựa vào mua sắm để lấy lại cảm giác bản thân xem chương 6 mục 23. Bỏ thêm tiền để “nhích lên một bậc” xem chương 6 mục 24.
 
-### 22. 觉得「所有人都看见我出丑了」的时候，把这个估计除以二
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=小 口径=时间 -->
-- 成本：不花钱。只是在紧张的时候多问自己一句：他们真的看见了吗。
-- 说人话：穿一件尴尬的 T 恤走进有人的房间，穿的人以为将近一半人认得出衣服上印的是谁，实际不到四分之一。穿自己觉得体面的 T 恤，估计的人数是实际的六倍。人聊完天，也普遍低估对方有多喜欢自己。所以觉得「所有人都记住我出丑了」时，砍一半仍然偏高。
-- 收益：实验一：让参与者穿上印有 Barry Manilow 头像的 T 恤，走进有其他参与者的房间。穿的人平均估计 46% 的旁观者能正确指出衣服上的人是谁。旁观者实际正确率 23%，估计值恰为实际值的两倍。逐场把估计值减去实际值，平均高估 23 个百分点（95% CI 9–38，可信范围）。剔除只有两名和三名旁观者的那两场之后，为 27 个百分点（11–43）。实验二：改穿参与者自选的、自认为正面的 T 恤。平均估计 48%，旁观者实际正确率 8%，为六倍。另一系列研究有三种场景：陌生人配对交谈、大学新生室友、成人工作坊。结果是人们系统性低估交谈对象对自己的喜欢程度，也低估对方对这次交谈的享受程度。作者称之为「喜欢差」。不同长度的交谈中都存在，在新生室友之间持续数月。
-- 证据等级：B
-- 来源：Gilovich T, Medvec VH, Savitsky K (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211–222. <https://doi.org/10.1037/0022-3514.78.2.211>；Boothby EJ, Cooney G, Sandstrom GM, Clark MS (2018). The Liking Gap in Conversations: Do People Like Us More Than We Think? Psychological Science, 29(11), 1742–1756. <https://doi.org/10.1177/0956797618783714>
-- 备注：定 B 的理由：都是人数不多的实验室与校园研究，场景是穿衣服和跟陌生人聊天。搬到「被同事议论」「在会上说错话」上，没有直接证据。这些数字只说明高估的方向和大致倍数，没法当系数套。别人的看法也不是都不重要。真正在评价你的场合，比如面试、答辩、考核、体检报告，评价是实打实的，该准备就准备。要打折的只是日常里那种「所有人都在看我」的感觉，那部分要对付的是你自己的估计偏差。
+### 22. Khi thấy “mọi người đều thấy mình vừa làm mất mặt”, hãy chia ước lượng đó cho hai
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=nho kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Chỉ là lúc căng thẳng tự hỏi thêm một câu: họ thật sự thấy rồi hay chưa.
+- Hiểu nhanh: Mặc một chiếc áo phông gây ngượng ngùng bước vào phòng có người, người mặc tưởng gần một nửa nhận ra áo in hình ai, thực tế dưới một phần tư. Mặc chiếc áo phông mình thấy ổn, số người ước lượng gấp sáu thực tế. Người ta nói chuyện xong, cũng thường xuyên đánh thấp mức đối phương thích mình. Vì vậy khi thấy “mọi người đều nhớ mình vừa mất mặt”, chặt một nửa vẫn còn cao.
+- Lợi ích: Thí nghiệm một: cho người tham gia mặc áo phông in chân dung Barry Manilow, bước vào phòng có những người tham gia khác. Người mặc ước lượng trung bình 46% người chứng kiến chỉ đúng được người in trên áo là ai. Tỉ lệ đúng thực tế của người chứng kiến là 23%, giá trị ước lượng đúng bằng đôi giá trị thực. Trừ từng buổi giá trị ước lượng cho giá trị thực, trung bình ước quá 23 điểm phần trăm (95% CI 9–38, khoảng tin cậy). Sau khi loại hai buổi chỉ có hai và ba người chứng kiến, là 27 điểm phần trăm (11–43). Thí nghiệm hai: đổi sang mặc áo phông người tham gia tự chọn, tự cho là tạo ấn tượng tốt. Ước lượng trung bình 48%, tỉ lệ đúng thực tế của người chứng kiến 8%, gấp sáu. Một loạt nghiên cứu khác có ba bối cảnh: người lạ ghép cặp trò chuyện, bạn cùng phòng sinh viên năm nhất, xưởng việc cho người trưởng thành. Kết quả là con người một cách hệ thống đánh thấp mức người đối thoại thích mình, cũng đánh thấp mức đối phương thưởng thức cuộc trò chuyện này. Tác giả gọi là “khoảng cách thiện cảm”. Hiện diện trong các cuộc trò chuyện nhiều độ dài khác nhau, giữa các bạn cùng phòng năm nhất kéo dài hàng tháng.
+- Mức bằng chứng: B
+- Nguồn: Gilovich T, Medvec VH, Savitsky K (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211–222. <https://doi.org/10.1037/0022-3514.78.2.211>; Boothby EJ, Cooney G, Sandstrom GM, Clark MS (2018). The Liking Gap in Conversations: Do People Like Us More Than We Think? Psychological Science, 29(11), 1742–1756. <https://doi.org/10.1177/0956797618783714>
+- Ghi chú: Lý do định mức B: đều là nghiên cứu phòng thí nghiệm và trong khuôn viên trường với số người không nhiều, bối cảnh là mặc quần áo và trò chuyện với người lạ. Mang sang “bị đồng nghiệp bàn tán” “nói sai trong cuộc họp” thì không có bằng chứng trực tiếp. Những con số này chỉ nói phương hướng ước quá và số bội đại khái, không thể lấy làm hệ số để áp vào. Quan điểm của người khác cũng không phải đều không quan trọng. Ở những dịp thật sự đánh giá bạn, ví dụ phỏng vấn, bảo vệ luận văn, đánh giá công việc, báo cáo khám sức khỏe, sự đánh giá là thật, cần chuẩn bị thì chuẩn bị. Cái cần giảm giá chỉ là cảm giác thường ngày kiểu “ai cũng đang nhìn mình”, phần đó thứ phải đối phó là thiên lệch ước lượng của chính bạn.
 
-### 23. 把「别人要求我做到完美」当症状看，不当事实看
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=小 口径=死亡率 -->
-- 成本：不花钱。难的是把这种念头当成需要处理的东西，而不是当成对别人真实要求的准确测量。
-- 说人话：总觉得「周围的人要求我完美，做不到就会被否定」的人，更容易有自杀念头。「我自己要求自己完美」和自杀念头的关系弱得多，只有前一种的三分之一左右。把原本就有的念头扣掉，前一种感觉仍和后来念头变多有关，只是幅度不大。
-- 收益：把多项研究合起来算（荟萃分析）：45 项研究、N = 11,747，人群为本科生、医学生、社区成人与精神科患者，用的是随机效应模型。下面是与自杀念头的加权平均相关。完美主义担忧 r = .28（95% CI .24–.32，可信范围；42 项研究、7,936 人）。完美主义担忧是一个合集，包括社会规定型完美主义、在意犯错、对行动的怀疑、现实与标准的落差等。其中社会规定型完美主义单独算，也是 r = .28（.25–.32，30 项研究、3,640 人）。完美主义追求 r = .10（.07–.13，31 项研究、4,588 人），它是自我导向的完美主义与个人标准的合集。父母批评 r = .20（.11–.29）。再看与自杀未遂的关系。完美主义担忧 r = .12（.07–.17，15 项研究、5,275 人）。社会规定型完美主义 r = .19（.08–.29，8 项研究、689 人）。跟踪一段时间的那部分：把一开始就有的自杀念头扣除后，社会规定型完美主义仍与后来随访时的自杀念头同向变化，幅度不大。自我导向与他人导向的完美主义都看不出关联。
-- 证据等级：B
-- 来源：Smith MM, Sherry SB, Chen S, Saklofske DH, Mushquash C, Flett GL, Hewitt PL (2018). The perniciousness of perfectionism: A meta-analytic review of the perfectionism-suicide relationship. Journal of Personality, 86(3), 522–542. <https://doi.org/10.1111/jopy.12333>
-- 备注：定 B 的理由：纳入的研究多数是一次性问卷，看不出先后。相关强度中等（r 约 .28），大致只解释几个到一成的差异。量的是自杀念头和自杀未遂，不是死亡本身，所以收益量级按「只有替代终点」记小。作者自己也说，完美主义担忧与自杀未遂这一组像是有发表偏倚。发表偏倚指结果不好看的研究没被发出来。把估算的缺失研究补回去后，结论方向不变。高标准本身不是问题，也不必因此降低要求。区别在于标准从哪来，以及达不到时会不会觉得「我这个人就完了」。它和第 15 条（把「事情肯定会更糟」这类念头当症状看）里的悲观预期一样，是可以当症状处理的东西。有自杀念头先打 12356、把致死手段挪远，见第 1 节第 25 条。身边人流露出这种念头时你能做什么，见第 8 节第 15 条。孩子的抑郁筛查见第 30 节第 8 条。
+### 23. Coi suy nghĩ “người khác đòi tôi phải hoàn hảo” là triệu chứng, đừng coi là sự thật
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=nho kieu=tu-vong -->
+- Chi phí: Không tốn tiền. Khó là coi loại suy nghĩ này là thứ cần xử lý, chứ không coi là phép đo chính xác yêu cầu thật của người khác.
+- Hiểu nhanh: Người luôn thấy “những người xung quanh đòi tôi phải hoàn hảo, làm không tới thì bị phủ nhận”, dễ có ý nghĩ tự sát hơn. “Chính tôi đòi chính mình phải hoàn hảo” liên quan đến ý nghĩ tự sát yếu hơn nhiều, chỉ cỡ một phần ba của loại trước. Trừ đi ý nghĩ có sẵn từ đầu, cảm giác loại trước vẫn gắn với việc ý nghĩ tăng lên về sau, chỉ là biên độ không lớn.
+- Lợi ích: Gộp nhiều nghiên cứu lại tính (phân tích tổng hợp): 45 nghiên cứu, N = 11,747, đối tượng gồm sinh viên, sinh viên y, người trưởng thành ngoài cộng đồng và bệnh nhân tâm thần, dùng mô hình hiệu ứng ngẫu nhiên. Dưới đây là tương quan bình quân gia quyền với ý nghĩ tự sát. Nỗi lo hoàn hảo chủ nghĩa r = .28 (95% CI .24–.32, khoảng tin cậy; 42 nghiên cứu, 7,936 người). Nỗi lo hoàn hảo chủ nghĩa là một cụm, gồm hoàn hảo chủ nghĩa do xã hội quy định, để tâm đến sai lầm, hoài nghi với hành động, độ lệch giữa thực tế và chuẩn mực, v.v. Trong đó hoàn hảo chủ nghĩa do xã hội quy định tính riêng cũng là r = .28 (.25–.32, 30 nghiên cứu, 3,640 người). Việc theo đuổi hoàn hảo chủ nghĩa r = .10 (.07–.13, 31 nghiên cứu, 4,588 người), là cụm của hoàn hảo chủ nghĩa tự hướng và tiêu chuẩn cá nhân. Sự chỉ trích của cha mẹ r = .20 (.11–.29). Xem tiếp quan hệ với hành vi tự sát chưa thành. Nỗi lo hoàn hảo chủ nghĩa r = .12 (.07–.17, 15 nghiên cứu, 5,275 người). Hoàn hảo chủ nghĩa do xã hội quy định r = .19 (.08–.29, 8 nghiên cứu, 689 người). Phần theo dõi trong một khoảng thời gian: trừ đi ý nghĩ tự sát có từ đầu, hoàn hảo chủ nghĩa do xã hội quy định vẫn biến động cùng chiều với ý nghĩ tự sát lúc tái khám về sau, biên độ không lớn. Hoàn hảo chủ nghĩa tự hướng lẫn hướng người khác đều không thấy tương quan.
+- Mức bằng chứng: B
+- Nguồn: Smith MM, Sherry SB, Chen S, Saklofske DH, Mushquash C, Flett GL, Hewitt PL (2018). The perniciousness of perfectionism: A meta-analytic review of the perfectionism-suicide relationship. Journal of Personality, 86(3), 522–542. <https://doi.org/10.1111/jopy.12333>
+- Ghi chú: Lý do định mức B: đa số nghiên cứu thu vào là phiếu khảo sát một lần, không nhìn ra trước sau. Sức mạnh tương quan trung bình (r cỡ .28), đại khái chỉ giải thích được từ vài phần trăm đến một phần mười biến thiên. Đo là ý nghĩ tự sát và hành vi tự sát chưa thành, không phải cái chết, nên mức lợi ích ghi theo “chỉ có điểm cuối thay thế” là nhỏ. Chính tác giả cũng nói, nhóm nỗi lo hoàn hảo chủ nghĩa với hành vi tự sát chưa thành hình như có thiên lệch công bố. Thiên lệch công bố là những nghiên cứu có kết quả không đẹp không được phát hành. Bù lại các nghiên cứu bị thiếu được ước lượng vào, hướng kết luận không đổi. Tiêu chuẩn cao bản thân không phải vấn đề, cũng chẳng cần vì thế hạ yêu cầu. Khác biệt nằm ở tiêu chuẩn đến từ đâu, và khi không đạt được có thấy “mình người này là hết cứu” hay không. Nó giống kỳ vọng bi quan trong mục 15 (coi những suy nghĩ kiểu “chắc chắn mọi chuyện sẽ tệ hơn” là triệu chứng), đều là thứ có thể xử như triệu chứng. Có ý nghĩ tự sát thì trước hết gọi 12356, chuyển các phương tiện gây chết người ra xa, xem chương 1 mục 25. Người bên cạnh bộc lộ ý nghĩ này, bạn có thể làm gì, xem chương 8 mục 15. Sàng lọc trầm cảm cho trẻ xem chương 30 mục 8.
 
-### 24. 生气时别靠砸东西、打沙袋、跑一圈来发泄，先让身体慢下来
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
-- 成本：不花钱。气头上改做几分钟让心跳慢下来的事：慢慢呼吸，坐下来，静一静。难在当时最想做的恰恰是发泄。
-- 说人话：打沙袋、摔东西、去跑一圈，这类让身体更兴奋的发泄办法，整体上消不了气。慢呼吸、正念、冥想这类让身体静下来的办法，能明显压下怒气和想动手的劲。
-- 收益：把 154 项研究合起来算（荟萃分析），共 184 组样本、10,189 人。让身体平静下来的办法，比如深呼吸、正念、冥想，能降低怒气和攻击性。效果大小 g = -0.63，95% CI -0.82 到 -0.43（可信范围）。这个结果在不同性别、种族、年龄和文化的人里都稳定。让身体更兴奋的办法，比如打沙袋、慢跑、骑车，整体无效。它的效果大小 g = -0.02，95% CI -0.13 到 0.09。作者的结论是：发泄怒气、去跑一圈，都不是管用的消气办法。
-- 证据等级：A
-- 来源：Kjærvik SL, Bushman BJ (2024). A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage? Clinical Psychology Review. <https://doi.org/10.1016/j.cpr.2024.102414>
-- 备注：量的是怒气和攻击性，不是精力。口径记成时间，是作者的归类：少吵一架，就少收拾一次残局。当场能用的办法见第 22 节第 9 条（循环叹息），还有本节第 18 条（生气时先离场）。跑步不是没用。长期看，它对情绪低落有效，见第 22 节第 7 条（心情差就去走或者跑）。它只是不适合拿来当场消气。气头上别开车，别发消息，别做决定。如果是有人在打你，先离开、报警。那时要处理的不是你的情绪，见第 8 节第 43 条（被家暴了）。
+### 24. Khi giận đừng trút bằng cách đập phá, đấm bao cát, chạy một vòng; trước hết cho cơ thể chậm lại
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Đang lúc máu nóng thì đổi làm vài phút thứ khiến nhịp tim chậm lại: thở chậm, ngồi xuống, lặng một chút. Khó ở chỗ lúc đó thứ bạn muốn làm nhất chính là trút hết ra.
+- Hiểu nhanh: Đấm bao cát, ném đồ, chạy một vòng, những cách trút giận khiến cơ thể hưng phấn hơn, xét chung không dập được cơn giận. Thở chậm, chánh niệm, thiền định, những cách khiến cơ thể lặng xuống, ép được rõ rệt cơn giận và cái lực muốn ra tay.
+- Lợi ích: Gộp 154 nghiên cứu lại tính (phân tích tổng hợp), tổng cộng 184 mẫu, 10,189 người. Những cách làm cơ thể bình tĩnh lại, ví dụ hít thở sâu, chánh niệm, thiền định, hạ được cơn giận và tính hung hăng. Cỡ hiệu ứng g = -0.63, 95% CI -0.82 đến -0.43 (khoảng tin cậy). Kết quả này ổn định ở những người khác giới tính, chủng tộc, tuổi tác và văn hóa. Những cách khiến cơ thể hưng phấn hơn, ví dụ đấm bao cát, chạy bộ chậm, đạp xe, xét chung vô hiệu. Cỡ hiệu ứng g = -0.02, 95% CI -0.13 đến 0.09. Kết luận của tác giả: trút cơn giận, chạy một vòng, đều không phải cách dập giận hữu dụng.
+- Mức bằng chứng: A
+- Nguồn: Kjærvik SL, Bushman BJ (2024). A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage? Clinical Psychology Review. <https://doi.org/10.1016/j.cpr.2024.102414>
+- Ghi chú: Đo là cơn giận và tính hung hăng, không phải sức lực. Ghi thước đo thành thời gian là cách xếp loại của tác giả: ít cãi nhau một trận, là bớt dọn một lần bãi chiến trường. Cách dùng được ngay tại chỗ xem chương 22 mục 9 (thở dài theo chu kỳ), cùng mục 18 trong chương này (khi giận thì rời chỗ trước). Chạy bộ không phải vô dụng. Nhìn dài hạn, nó hiệu quả với tâm trạng xuống thấp, xem chương 22 mục 7 (tâm trạng kém thì ra đi bộ hoặc chạy). Nó chỉ không hợp để dập giận ngay tại chỗ. Máu nóng đừng lái xe, đừng gửi tin nhắn, đừng ra quyết định. Nếu đang có người đánh bạn, trước hết rời đi, báo công an. Khi đó thứ cần xử không phải cảm xúc của bạn, xem chương 8 mục 43 (bị bạo lực gia đình).
 
-### 25. 心里压着一件事，可以连着几天把想法和感受写下来，但别指望它治病
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=小 口径=时间 -->
-- 成本：不花钱。研究里常见的做法是写 3 到 4 次，每次 15 到 20 分钟。写一件让你难受的事，写你最深的想法和感受。
-- 说人话：把糟心事写下来，平均有一点好处，但很小。汇总的结论也不一致，有两项汇总算下来没有效果。它几乎不花钱，可以试。情绪问题重了，别拿它代替看医生。
-- 收益：一项分析汇总了 146 项随机分组的研究（荟萃分析）。研究里的人把对自己重要的事写下来或者说出来。平均效果是正的，也显著，但很小，效果大小 r = .075。另一项汇总只收随机对照试验，30 项试验合起来算，身体健康和心理健康两方面都没有显著效果。针对癌症病人和康复者的 16 项随机试验合起来算，心理、身体、生活质量三方面都不显著。其中心理方面 g = 0.04，95% CI -0.06 到 0.14（可信范围）。
-- 证据等级：B
-- 来源：Frattaroli J (2006). Experimental disclosure and its moderators: a meta-analysis. Psychological Bulletin. <https://doi.org/10.1037/0033-2909.132.6.823>；Mogk C, Otte S, Reinhold-Hurley B, Kröner-Herwig B (2006). Health effects of expressive writing on stressful or traumatic experiences - a meta-analysis. Psycho-Social Medicine. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2736499/>；Zachariae R, O'Toole MS (2015). The effect of expressive writing intervention on psychological and physical health outcomes in cancer patients--a systematic review and meta-analysis. Psycho-Oncology. <https://doi.org/10.1002/pon.3802>
-- 备注：争议。支持的一方是 146 项研究的汇总，效果为正但很小。反对的一方是两项只收随机对照试验的汇总，都没算出显著效果。成本栏里写几次、每次多久，来自最早的实验设计，Mogk 那篇汇总的摘要里写了。它几乎不花钱，也不花多少时间，一个人就能做。不想找人说、身边也没人可说的时候，可以用它。量的不是精力，口径记成时间是作者的归类。写着写着越来越难受，就停下，改打 12356，见第 1 节第 25 条（12356）。
+### 25. Trong lòng gánh một chuyện, có thể vài ngày liền viết ra suy nghĩ và cảm nhận, nhưng đừng trông nó chữa bệnh
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=nho kieu=thoi-gian -->
+- Chi phí: Không tốn tiền. Cách làm thường thấy trong nghiên cứu là viết 3 đến 4 lần, mỗi lần 15 đến 20 phút. Viết một chuyện khiến bạn khó chịu, viết những suy nghĩ và cảm nhận sâu nhất của bạn.
+- Hiểu nhanh: Viết chuyện buồn ra giấy, trung bình có một chút lợi ích, nhưng rất nhỏ. Kết luận các bản tổng hợp cũng không nhất quán, có hai bản tổng hợp tính ra không có hiệu lực. Nó gần như không tốn tiền, có thể thử. Vấn đề cảm xúc nặng lên, đừng lấy nó thay việc đi khám.
+- Lợi ích: Một phân tích gộp 146 nghiên cứu chia nhóm ngẫu nhiên (phân tích tổng hợp). Người trong nghiên cứu viết ra hoặc nói ra những việc quan trọng với mình. Hiệu quả trung bình là dương, cũng có ý nghĩa thống kê, nhưng rất nhỏ, cỡ hiệu ứng r = .075. Một bản tổng hợp khác chỉ thu thử nghiệm đối chứng ngẫu nhiên, gộp 30 thử nghiệm, cả hai mặt sức khỏe thể chất lẫn sức khỏe tâm thần đều không có hiệu quả rõ. Gộp 16 thử nghiệm ngẫu nhiên nhắm vào bệnh nhân ung thư và người đang hồi phục, cả ba mặt tâm lý, thể chất, chất lượng cuộc sống đều không rõ. Trong đó mặt tâm lý g = 0.04, 95% CI -0.06 đến 0.14 (khoảng tin cậy).
+- Mức bằng chứng: B
+- Nguồn: Frattaroli J (2006). Experimental disclosure and its moderators: a meta-analysis. Psychological Bulletin. <https://doi.org/10.1037/0033-2909.132.6.823>; Mogk C, Otte S, Reinhold-Hurley B, Kröner-Herwig B (2006). Health effects of expressive writing on stressful or traumatic experiences - a meta-analysis. Psycho-Social Medicine. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2736499/>; Zachariae R, O'Toole MS (2015). The effect of expressive writing intervention on psychological and physical health outcomes in cancer patients--a systematic review and meta-analysis. Psycho-Oncology. <https://doi.org/10.1002/pon.3802>
+- Ghi chú: Tranh cãi: Bên ủng hộ là bản gộp 146 nghiên cứu, hiệu quả dương nhưng rất nhỏ. Bên phản đối là hai bản gộp chỉ thu thử nghiệm đối chứng ngẫu nhiên, đều không tính ra hiệu quả rõ. Số lần viết và thời lượng mỗi lần trong ô Chi phí lấy từ thiết kế thí nghiệm sớm nhất, phần tóm tắt bản gộp của Mogk có ghi. Nó gần như không tốn tiền, cũng chẳng tốn bao nhiêu thời gian, một mình cũng làm được. Khi không muốn tìm ai đó nói, bên cạnh cũng chẳng có ai để nói, có thể dùng nó. Đo không phải sức lực, ghi thước đo thành thời gian là cách xếp loại của tác giả. Viết mà càng viết càng khó chịu, thì dừng lại, chuyển sang gọi 12356, xem chương 1 mục 25 (12356).

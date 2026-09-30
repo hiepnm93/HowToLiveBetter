@@ -1,29 +1,29 @@
-# 追加：针对孩子的骗局 · 核实记录（2026-09-08）
+# Bổ sung: các chiêu lừa nhắm vào trẻ em · Hồ sơ xác minh (2026-09-08)
 
-任务来源：「有人说要加防骗的」那轮盘点的第三处也是最后一处真空白。
+Nguồn gốc nhiệm vụ: trong đợt rà soát theo lời “có người nói cần thêm phần phòng chống lừa đảo”, đây là khoảng trống có thật thứ ba và cũng là cuối cùng.
 
-原有覆盖：第 5 节第 8 条（不给主播打赏、不给游戏充值）和第 9 条（孩子充值打赏未经追认可以主张退，引民法典第十九、二十、一百四十五条）。这两条讲的都是「孩子自己花掉的钱」，走民事追认路径；被骗子骗走的钱是另一回事，全书原来没有。第 14 节是账号与信息安全，第 20 节只到婴幼儿，都不覆盖。
+Phạm vi đã có: chương 5 mục 8 (không tặng thưởng cho streamer, không nạp tiền game) và mục 9 (tiền trẻ nạp, tặng thưởng chưa được chấp thuận sau đó có thể đòi hoàn lại, dẫn Bộ luật Dân sự Điều 19, 20 và 145). Hai mục này đều nói về “tiền đứa trẻ tự mình tiêu”, đi theo đường dân sự chấp thuận hậu kiểm; còn tiền bị kẻ lừa đảo lừa mất là chuyện khác, trước đây toàn sách chưa có. Chương 14 là tài khoản và an toàn thông tin, chương 20 chỉ tới trẻ sơ sinh và trẻ nhỏ, đều không phủ tới.
 
-落点：第 5 节新增 1 条（第 10 条），紧跟第 9 条，原第 10 条起顺延至第 30 条。放在这里而不是第 8 或第 14 节，是因为它和第 9 条构成一组对照：同样是孩子在家长手机上花了钱，充值打赏能退，被骗转走的退不了。
+Điểm rơi: chương 5 bổ sung 1 mục mới (mục 10), đặt ngay sau mục 9, các mục cũ từ mục 10 trở đi lần lượt dời xuống tới mục 30. Đặt ở đây thay vì chương 8 hoặc chương 14 là vì nó tạo thành một cặp đối chiếu với mục 9: cùng là đứa trẻ tiêu tiền trên điện thoại của bố mẹ, thì tiền nạp và tặng thưởng đòi lại được, còn tiền bị lừa chuyển đi thì không đòi được.
 
-## 第 5 节第 10 条（针对孩子的六类骗局）
+## Chương 5 mục 10 (sáu dạng lừa đảo nhắm vào trẻ em)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối soát | Trích nguyên văn |
 |---|---|---|
-| <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202510/t20251028_7026836.htm>（福建省公安厅识骗技巧专栏转载，标注来源「泉州市反诈骗中心」，2025-10-28，文中写明由泉州市反诈骗中心联合泉州市教育局等单位制作） | 是 | 六类：①游戏账号/装备交易——小王私下转 260 元，对方称「未成年人转账违规，账号要冻结」，发「核查链接」让他用爸爸手机操作，「结果爸爸账户 3 万多块全被转走」；②「解除防沉迷」——对方威胁「不转账取消，你家长要坐牢」，小杨用妈妈手机转 7000 元，「游戏防沉迷是官方设定，根本没有『私下解锁』渠道」；③短视频/直播打赏——「官方客服」称未成年人打赏能退，要求「用家长支付宝给指定直播间刷礼物才能退款」，「结果妈妈账户 7.3 万元全被打赏」，「有人加你让你『刷礼物退款』，100% 是诈骗！」；④冒充熟人/老师——盗号后发语音报名字借钱；开学季「混进班级群，冒充老师发『交学杂费 500 元』通知，用一样的头像昵称，还安排『托』说『已交』」；⑤追星——拉进「明星粉丝群，领 888 元红包」，先转 48.88 元「验证」，再吓唬「未成年人参与违规，平台要冻结 8 万，家长要坐牢」，共 1.6 万元，「真警察、律师绝不会在网上联系未成年人调查，更不会要家长手机操作」；⑥网络虚假购物——二手平台低价诱导脱离平台私下转账。三条红线：银行卡电话卡「不借、不卖、不租」（「可能构成『帮助信息网络犯罪活动罪』，面临罚款、留案底，影响考研、考公、进国企」）、「手机口」兼职、境外「高薪招聘」 |
+| <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202510/t20251028_7026836.htm> (Công an tỉnh Phúc Kiến đăng lại trên chuyên mục kỹ năng nhận diện lừa đảo, ghi rõ nguồn “Trung tâm Phòng chống lừa đảo thành phố Tuyền Châu”, 2025-10-28, bài ghi rõ do Trung tâm Phòng chống lừa đảo thành phố Tuyền Châu phối hợp cùng Sở Giáo dục thành phố Tuyền Châu và các đơn vị khác biên soạn) | Có | Sáu dạng: ① giao dịch tài khoản/trang bị game — Tiểu Vương chuyển riêng 260 yên, đối phương bảo “người vị thành niên chuyển tiền là vi phạm, tài khoản sẽ bị đóng băng”, gửi “link kiểm tra” bắt y thao tác trên điện thoại của bố, “kết quả hơn 30.000 yên trong tài khoản của bố bị chuyển sạch”; ② “gỡ chế độ chống nghiện” — đối phương dọa “không chuyển tiền để hủy thì bố mẹ mày vào tù”, Tiểu Dương dùng điện thoại của mẹ chuyển 7.000 yên, “chế độ chống nghiện của game là cài đặt chính thức, căn bản không có kênh ‘mở khóa chui’”; ③ tặng thưởng video ngắn/phát trực tiếp — “chăm sóc khách hàng chính chủ” bảo tiền tặng thưởng của người vị thành niên có thể đòi lại, yêu cầu “phải dùng Alipay của bố mẹ tặng quà cho phòng livestream được chỉ định mới hoàn được tiền”, “kết quả 73.000 yên trong tài khoản của mẹ đều bị tặng thưởng hết”, “có người kết bạn rồi bảo bạn ‘tặng quà để nhận hoàn tiền’ thì 100% là lừa đảo!”; ④ giả mạo người quen/giáo viên — sau khi trộm tài khoản thì gửi tin nhắn thoại xưng tên để vay tiền; vào mùa khai giảng “chui vào nhóm chat của lớp, giả làm giáo viên gửi thông báo ‘nộp học phí và các khoản phí 500 yên’, dùng nguyên ảnh đại diện và tên hiển thị y hệt, còn bố trí ‘người diễn kèm’ lên tiếng ‘đã nộp rồi’”; ⑤ hâm mộ thần tượng — kéo vào “nhóm fan của ngôi sao, nhận lì xì 888 yên”, trước bắt chuyển 48,88 yên để “xác minh”, sau dọa “người vị thành niên tham gia là vi phạm, sàn sẽ đóng băng 80.000 yên, bố mẹ mày vào tù”, tổng cộng 16.000 yên; “cảnh sát thật, luật sư tuyệt đối không bao giờ liên hệ người vị thành niên qua mạng để điều tra, càng không bắt thao tác trên điện thoại của bố mẹ”; ⑥ mua sắm giả trên mạng — trên sàn hàng cũ dùng giá rẻ dụ rời khỏi sàn để chuyển tiền riêng. Ba ranh giới đỏ: thẻ ngân hàng, SIM điện thoại “không cho mượn, không bán, không cho thuê” (“có thể cấu thành ‘tội hỗ trợ hoạt động tội phạm trên mạng thông tin’, đối mặt phạt tiền, để lại tiền án, ảnh hưởng thi thạc sĩ, thi công chức, vào doanh nghiệp nhà nước”), làm thêm kiểu “thủ cơ khẩu”, “tuyển mộ lương cao” ở nước ngoài |
 
-定级 B：官方给的是话术拆解和个案，没有发案率、也没有「讲过这一课后被骗率下降多少」的统计。收益量级「大」——金钱口径，材料里的个案损失是 7000 元到 7.3 万元，够到万元级；成本 钱=0 时间=少 毅力=些（要真做到「被骗了先说不骂」），合成为「高」。
+Định mức B: phía chính thức đưa ra là phân tích chiêu thoại và các vụ đơn lẻ, không có tỷ lệ phát án, cũng không có thống kê “sau khi học bài này thì tỷ lệ bị lừa giảm bao nhiêu”. Cỡ lợi ích “lớn” — thước đo là tiền bạc, thiệt hại trong các vụ ở tài liệu là từ 7.000 yên đến 73.000 yên, chạm tới mức hàng vạn yên; chi phí tiền=0, thời gian=ít, ý chí=một chút (phải thật sự làm được “bị lừa thì nói ra trước, không mắng”), ghép lại là “cao”.
 
-条目的落点是把六类归到一个可执行的判断上：**六类的最后一步都是让孩子拿家长的手机操作或报验证码**，所以正文的标题写成这句，具体类型放在收益栏里当识别清单。另一个反复出现的话术是「你违规了、你家长要坐牢」，正文点明这句话本身就是骗局标志。
+Điểm rơi của mục là quy sáu dạng về một phán đoán có thể thực hiện: **bước cuối của cả sáu dạng đều là bắt đứa trẻ cầm điện thoại của bố mẹ thao tác hoặc đọc mã xác nhận**, vì vậy tiêu đề trong nội dung chính được viết thành câu này, còn các dạng cụ thể đặt trong cột lợi ích làm danh sách nhận diện. Một chiêu thoại lặp đi lặp lại khác là “mày vi phạm rồi, bố mẹ mày vào tù”, nội dung chính chỉ rõ rằng câu này tự nó đã là dấu hiệu của lừa đảo.
 
-未采用：同一专栏里的《已有多名孩子中招！暑期警惕"冒充公安"骗局》（2026-08-26）和《抽奖送签名、加偶像私号？诈骗团伙盯上学生追星族》（2026-05-13）与本条第 5 类重复，不重复引。全国口径的未成年人受骗发案统计没找到官方来源（公安部官网 mps.gov.cn 恒 521），因此正文不写占比。
+Không sử dụng: hai bài trên cùng chuyên mục là “Đã có nhiều trẻ dính chiêu! Mùa hè cảnh giác chiêu lừa ‘giả công an’” (2026-08-26) và “Quay số trúng thưởng tặng chữ ký, kết bạn riêng với thần tượng? Nhóm lừa đảo nhắm vào học sinh hâm mộ thần tượng” (2026-05-13) trùng với dạng thứ 5 của mục này, không trích lặp lại. Số liệu thống kê phát án trẻ vị thành niên bị lừa trên phạm vi cả nước không tìm được nguồn chính thức (trang chủ Bộ Công an mps.gov.cn luôn báo lỗi 521), vì vậy nội dung chính không viết tỷ lệ.
 
-## 顺带改正的过时引用
+## Cập nhật luôn các tham chiếu đã lệch
 
-第 5 节内部有四处「本节第 N 条」在本轮之前就已经错位（应是更早某次插条时漏改），一并对齐：变相杠杆的利率「本节第 3 条」→第 7 条；「买宽基指数基金（本节第 11 条）」→第 17 条；应急金条里的「本节第 3 条」→第 7 条；「七日无理由退货见本节第 15 条」→第 22 条。docs/家庭应急装备清单.md 里的「第 5 节第 22 条」（不为划线价囤货）因本轮插条顺延为第 23 条。docs/核实记录 里的旧记录按当时编号保留，不回改。
+Bên trong chương 5 có bốn chỗ “mục N trong chương này” đã lệch từ trước vòng này (chắc là lần chèn mục trước đó sửa sót), lần này căn chỉnh luôn: lãi suất đòn bẩy trá hình “mục 3 trong chương này” → mục 7; “mua quỹ chỉ số rộng (mục 11 trong chương này)” → mục 17; trong mục quỹ khẩn cấp “mục 3 trong chương này” → mục 7; “hoàn hàng không lý do trong bảy ngày xem mục 15 trong chương này” → mục 22. Chỗ “chương 5 mục 22” trong docs/danh-sach-dung-cu-khan-cap-gia-dinh.md (không tích trữ chỉ vì giá gạch ngang) do vòng này chèn mục nên dời thành mục 23. Các ghi chép cũ trong docs/ho-so-xac-minh giữ nguyên theo số của thời điểm đó, không sửa ngược.
 
-另记一处已知但本轮未动的不一致：第 5 节第 8 条备注里仍留着「TODO（待核实：民法典第十九条、第一百四十五条原文，npc.gov.cn 与 gov.cn 页面均无法打开）」，但第 9 条已经从最高检转载全文里逐字引到了这两条。这个 TODO 可以删，涉及全书 TODO 计数，留给下一轮统一处理。
+Ghi thêm một chỗ không nhất quán đã biết nhưng vòng này chưa động tới: ghi chú ở chương 5 mục 8 vẫn còn giữ “TODO (chờ kiểm chứng: nguyên văn Điều 19 và Điều 145 Bộ luật Dân sự, các trang npc.gov.cn và gov.cn đều không mở được)”, nhưng mục 9 đã trích được từng chữ hai điều này từ bản đăng lại toàn văn của Viện kiểm sát nhân dân Tối cao. TODO này có thể xóa, nhưng vì liên quan tới bộ đếm TODO toàn sách nên để vòng sau xử lý thống nhất.
 
-## 统计
+## Thống kê
 
-全书 379 → 380 条，B 级 94 → 95，性价比「高」188 → 189，book/ 目录下的原始文献链接 734 → 735。
+Toàn sách 379 → 380 mục, mức B 94 → 95, tính hiệu quả chi phí “cao” 188 → 189, liên kết tài liệu gốc trong thư mục book/ 734 → 735.

@@ -1,90 +1,90 @@
-# 追加：免责与「罚的不是」类表述的越界排查 · 核实记录（2026-09-09）
+# Bổ sung: rà soát vượt biên ở kiểu diễn đạt miễn trừ và "phạt không phải cái đó" · Hồ sơ xác minh (2026-09-09)
 
-任务来源：第 13 节第 2 条被指出把「怕被讹」整个压在民法典第一百八十四条上，而该条只免「救助过程中造成受助人损害」，不覆盖「反过来说是你撞的」。作者要求排查全书有没有同类问题。
+Nguồn nhiệm vụ: chương 13 mục 2 bị chỉ ra là đã dồn cả gánh lo "sợ bị đổ oan đòi tiền" lên Điều 184 Bộ luật Dân sự, trong khi điều đó chỉ miễn trách "gây thiệt hại cho người được cứu trong quá trình cứu trợ", không bao phủ chuyện "ngược lại bảo là chính bạn đâm họ". Tác giả yêu cầu rà toàn sách xem có vấn đề cùng loại không.
 
-排查口径两条：① **受益人错配**——条目默认场景是陌生人，却按「你该管」写成本收益；② **法条越界**——拿一条只管 A 的免责或限缩条款去安抚 B 风险。
+Hai thước đo rà soát: ① **Gán nhầm người thụ lợi** — bối cảnh mặc định của mục là người lạ, nhưng lại viết lợi ích theo hướng "bạn nên quan tâm"; ② **Lạm dụng điều luật vượt phạm vi** — đem một điều miễn trừ hoặc thu hẹp trách nhiệm vốn chỉ áp cho A để trấn an rủi ro B.
 
-## 排查范围
+## Phạm vi rà soát
 
-- 受益人错配：用「有人|别人|他人|陌生人|旁人|路人|对方|同事|朋友|邻居|见义勇为|救助|身边人」扫全部 471 条标题（命中 37 条），已在同日的受益人四档那一轮逐条处理完，本轮未发现新的。
-- 法条越界：扫全书「不承担|不担责|不用赔|免责|不违法|不构成|不追究|无需承担|不算违法|不担刑」以及「只要不|就不算|不会立案|不用担心|罚的不是」，逐条读原文比对法条覆盖面。命中 2 处真问题、2 处复核后无问题。
+- Gán nhầm người thụ lợi: dùng chuỗi "có người|người khác|người lạ|người bên cạnh|người qua đường|bên kia|đồng nghiệp|bạn bè|hàng xóm|làm việc nghĩa|cứu giúp|người xung quanh" quét toàn bộ 471 tiêu đề mục (trúng 37 mục), đã xử lý xong từng mục trong đợt "bốn bậc người thụ hưởng" cùng ngày, đợt này không phát hiện thêm.
+- Lạm dụng điều luật vượt phạm vi: quét toàn sách các cụm "không gánh|không chịu trách nhiệm|không phải bồi|miễn trách|không vi phạm pháp|không cấu thành|không truy cứu|không cần gánh|không tính vi phạm pháp|không dính hình sự" cùng "chỉ cần không|thì không tính|sẽ không thụ lý|không cần lo|phạt không phải", đọc nguyên văn từng mục để đối chiếu phạm vi bao phủ của điều luật. Trúng 2 chỗ có vấn đề thật, 2 chỗ rà lại không có vấn đề.
 
-## 改动一：第 9 节第 3 条（境外内容只看不转）
+## Sửa một: chương 9 mục 3 (nội dung nước ngoài chỉ xem không chia sẻ)
 
-原备注写「法条罚的是『煽动』『传播』『提供』，不是『看』」。这句对该条引用的刑法第一百零三、一百零五等条成立，但被写成了普适结论，漏掉一个明文例外：
+Ghi chú cũ viết "điều luật phạt là 'kích động', 'truyền bá', 'cung cấp', không phải 'xem'". Câu này đúng với các điều như Điều 103, 105 Bộ luật Hình sự mà mục này trích dẫn, nhưng đã được viết thành kết luận phổ quát, bỏ sót một ngoại lệ ghi rõ trong luật:
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm>（国家信访局转载《刑法修正案（九）》全文） | 是 | 新增第一百二十条之六：「明知是宣扬恐怖主义、极端主义的图书、音频视频资料或者其他物品而非法持有，情节严重的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金。」 |
+| <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm> (Cục Khiếu nại Nhà nước đăng lại toàn văn Luật sửa đổi Bộ luật Hình sự (IX)) | Có | Bổ sung Điều 120-6: “Biết rõ là sách, tư liệu âm thanh - hình ảnh hoặc đồ vật khác tuyên truyền chủ nghĩa khủng bố, chủ nghĩa cực đoan mà tàng trữ trái pháp luật, tình tiết nghiêm trọng thì phạt tù dưới ba năm, giam giữ ngắn hạn hoặc quản chế, đồng thời phạt tiền hoặc chỉ phạt tiền.” |
 
-改法：说人话加一句例外（这一类光持有就够定罪，判 3 年以下），收益栏补入该条原文，备注把「罚的不是看」限定回本条引的那几条，并写明「不存档」对这一类不是谨慎建议而是硬线。来源加刑法修正案（九）。
+Cách sửa: phần Hiểu nhanh thêm một câu ngoại lệ (loại này chỉ cần tàng trữ đã đủ cấu thành tội, phạt dưới 3 năm), cột Lợi ích bổ sung nguyên văn điều luật, ghi chú thu hẹp câu "phạt không phải xem" lại đúng mấy điều mà mục này trích dẫn, đồng thời ghi rõ "không lưu trữ" đối với loại này không phải lời khuyên thận trọng mà là ranh giới cứng. Cột Nguồn thêm Luật sửa đổi Bộ luật Hình sự (IX).
 
-注意：最高检转载的刑法全文页 <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> 是 1997 年原文，不含修正案九新增的第一百二十条之六，原条目在来源栏里已经标注「这几条未经修正案修改」，本轮新增的条文因此另引修正案九全文，不挂在那个页面下。
+Lưu ý: Trang toàn văn Bộ luật Hình sự do Viện kiểm sát Nhân dân Tối cao đăng lại <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> là bản gốc năm 1997, không chứa Điều 120-6 mới bổ sung bởi Luật sửa đổi IX, cột Nguồn của mục cũ đã ghi chú "những điều này chưa qua sửa đổi", nên điều luật mới thêm trong đợt này được trích riêng từ toàn văn Luật sửa đổi IX, không gắn vào trang đó.
 
-## 改动二：第 8 节第 15 条（网络言论与网暴）
+## Sửa hai: chương 8 mục 15 (lời nói trên mạng và bạo lực mạng)
 
-原备注写「侮辱、诽谤罪原则上『告诉的才处理』，即要自己去法院起诉，公安不会主动立案」。方向对，但「不会」是绝对化，漏了同条自带的两个口子：
+Ghi chú cũ viết "tội làm nhục, vu khống về nguyên tắc 'có kiện mới xử', tức phải tự mình ra tòa khởi kiện, công an sẽ không chủ động thụ lý án". Hướng đúng, nhưng "sẽ không" là tuyệt đối hóa, bỏ sót hai lối mở ngay trong cùng điều đó:
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>（刑法第二百四十六条，1997 年原文即含第二款） | 是 | 「但是严重危害社会秩序和国家利益的除外」 |
-| <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm>（刑法修正案（九）新增第二百四十六条第三款） | 是 | 「通过信息网络实施第一款规定的行为，被害人向人民法院告诉，但提供证据确有困难的，人民法院可以要求公安机关提供协助。」 |
+| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> (Điều 246 Bộ luật Hình sự, bản gốc 1997 đã có khoản 2) | Có | “ngoại trừ trường hợp nghiêm trọng gây hại cho trật tự xã hội và lợi ích quốc gia” |
+| <https://www.gjxfj.gov.cn/gjxfj/fgwj/flfg/webinfo/2017/03/1601761496614423.htm> (Khoản 3 Điều 246 mới bổ sung theo Luật sửa đổi Bộ luật Hình sự (IX)) | Có | “Thực hiện hành vi quy định tại khoản 1 thông qua mạng thông tin, nạn nhân đã ra tòa nhân dân trình đơn nhưng việc cung cấp chứng cứ quả thực khó khăn, tòa nhân dân có thể yêu cầu công an cung cấp hỗ trợ.” |
 
-改法：「公安不会主动立案」改为「公安一般不主动立案」，备注补上两个口子。来源加刑法修正案（九）。
+Cách sửa: "công an sẽ không chủ động thụ lý án" đổi thành "công an thường không chủ động thụ lý án", ghi chú bổ sung hai lối mở. Cột Nguồn thêm Luật sửa đổi Bộ luật Hình sự (IX).
 
-## 复核后判定无问题的两处
+## Hai chỗ rà lại xác nhận không có vấn đề
 
-- 第 8 节第 29 条（养犬无过错责任）：正确区分了民法典第一千二百四十五条（被侵权人故意或者重大过失可减免）与第一千二百四十六条（违反管理规定未采取安全措施的，只有被侵权人故意才减轻），说人话和收益栏都写清了「不牵绳等于把重大过失那条路堵死」，没有越界。
-- 第 8 节第 15 条的处罚数字本身（拘留日数、罚款额、刑期）与治安管理处罚法 2025 年修订和刑法第二百四十六条一致，只有「不会主动立案」这一句需要改。
+- Chương 8 mục 29 (trách nhiệm không do lỗi khi nuôi chó): Đã phân biệt đúng Điều 1245 Bộ luật Dân sự (người bị xâm hại cố ý hoặc có lỗi nặng thì có thể giảm hoặc miễn trách) với Điều 1246 (vi phạm quy định quản lý mà không áp dụng biện pháp an toàn thì chỉ khi người bị xâm hại cố ý mới được giảm trách nhiệm), phần Hiểu nhanh và cột Lợi ích đều viết rõ "không dắt dây là tự bịt sập con đường 'lỗi nặng' đó", không vượt giới hạn.
+- Con số trừng phạt của chương 8 mục 15 (số ngày giam, mức phạt tiền, mức án tù) khớp với Luật Xử phạt hành chính về quản lý trị an sửa đổi 2025 và Điều 246 Bộ luật Hình sự, chỉ câu "sẽ không chủ động thụ lý án" là cần sửa.
 
-## 第二轮：过程成本缺失（同日追加）
+## Vòng hai: thiếu chi phí quy trình (bổ sung cùng ngày)
 
-作者再次指出，第 13 节第 2 条引民诉法解释第九十条来安抚「怕被讹」仍然不够：监控里找不到肇事车辆时，留了号码的报警人就是家属最容易找到的对象，电话催、上门、直接被列为被告都可能发生；第九十条只保证判决结果，不保证不被卷进去，赢了官司照样亏时间和律师费。这是「法条越界」的第三种形态——**用结果规则安抚过程风险**。
+Tác giả lại chỉ ra rằng chương 13 mục 2 trích Điều 90 của Giải thích áp dụng Luật Tố tụng dân sự để trấn an nỗi "sợ bị đổ oan" vẫn chưa đủ: khi camera không tìm ra xe gây tai nạn, người báo án để lại số điện thoại chính là đối tượng gia đình dễ tìm nhất, việc bị gọi điện dồn, bị tìm tới tận nhà, hay bị đưa thẳng lên làm bị đơn đều có thể xảy ra; Điều 90 chỉ đảm bảo kết quả phán quyết, không đảm bảo không bị cuốn vào, thắng kiện vẫn mất thời gian và tiền luật sư. Đây là hình thái thứ ba của "lạm dụng điều luật vượt phạm vi" — **dùng quy tắc về kết quả để trấn an rủi ro trong quy trình**.
 
-本轮新增核实：
+Các xác minh mới bổ sung trong đợt này:
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html>（上海市发展和改革委员会转载民事诉讼法 2023 年修正全文） | 是 | 第一百五十二条「人民法院适用普通程序审理的案件，应当在立案之日起六个月内审结。有特殊情况需要延长的，经本院院长批准，可以延长六个月；还需要延长的，报请上级人民法院批准」；第一百六十四条「人民法院适用简易程序审理案件，应当在立案之日起三个月内审结。有特殊情况需要延长的，经本院院长批准，可以延长一个月」 |
-| <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm>（诉讼费用交纳办法，国务院令第 481 号） | 是 | 第六条「当事人应当向人民法院交纳的诉讼费用包括：（一）案件受理费；（二）申请费；（三）证人、鉴定人、翻译人员、理算人员在人民法院指定日期出庭发生的交通费、住宿费、生活费和误工补贴」；第二十九条「诉讼费用由败诉方负担，胜诉方自愿承担的除外……」 |
+| <https://fgw.sh.gov.cn/ys-syjf-zc-2.4.1-h5/20240408/073febdb2b04464390546232d4089f51.html> (Ủy ban Phát triển và Cải cách thành phố Thượng Hải đăng lại toàn văn Luật Tố tụng dân sự sửa đổi 2023) | Có | Điều 152 “Vụ án tòa nhân dân xử theo thủ tục thông thường phải kết thúc trong sáu tháng kể từ ngày thụ lý án. Trường hợp đặc biệt cần kéo dài, được chánh tòa phê duyệt thì có thể kéo dài thêm sáu tháng; nếu còn cần kéo dài thì báo tòa nhân dân cấp trên phê duyệt”; Điều 164 “Vụ án tòa nhân dân xử theo thủ tục đơn giản phải kết thúc trong ba tháng kể từ ngày thụ lý án. Trường hợp đặc biệt cần kéo dài, được chánh tòa phê duyệt thì có thể kéo dài thêm một tháng” |
+| <https://www.gov.cn/ziliao/flfg/2006-12/29/content_483682.htm> (Biện pháp nộp phí tố tụng, nghị định số 481 của Quốc vụ viện) | Có | Điều 6 “Chi phí tố tụng đương sự phải nộp cho tòa nhân dân gồm: (1) phí thụ lý vụ án; (2) phí xin thực hiện; (3) chi phí đi lại, chi phí trú, chi phí sinh hoạt và khoản bù thu nhập bị mất của chứng nhân, người giám định, phiên dịch viên, người tính toán khi ra tòa vào ngày tòa nhân dân chỉ định”; Điều 29 “Chi phí tố tụng do bên thua kiện gánh, trừ trường hợp bên thắng kiện tự nguyện gánh lấy……” |
 
-律师费不在第六条列举的三项之内，因此第二十九条的「败诉方负担」不覆盖律师费——正文据此写「赢了也得自己掏律师费」，是从条文列举推出的，不另找条文。
+Phí luật sư không nằm trong ba khoản liệt kê tại Điều 6, nên cụm "bên thua kiện gánh" ở Điều 29 không bao phủ phí luật sư — nội dung chính vì vậy viết "thắng kiện cũng phải tự bỏ tiền luật sư", là suy ra từ cách liệt kê của điều văn, không tìm thêm điều khác.
 
-改动：第 13 节第 2 条成本栏加「真被家属盯上，应诉是几个月起步的事，律师费不在『败诉方负担』的范围里」；备注把「基本就归零」改写成「监控、同行的人、行车记录仪降低的是败诉风险，降不掉被卷进去的成本，这两笔账要分开算」，并写入审限和诉讼费范围。CLAUDE.md 新增一节「写『法律支持你』的条目时必须写过程成本」，把这条固化成写作规则。
+Sửa đổi: Cột chi phí chương 13 mục 2 thêm "thật bị gia đình để mắt thì đối phó kiện tụng là chuyện tính bằng tháng trở lên, phí luật sư không nằm trong phạm vi 'bên thua kiện gánh'"; ghi chú viết lại "về cơ bản là về bằng không" thành "camera, người đi cùng, camera hành trình giảm được là rủi ro thua kiện, nhưng không giảm được chi phí bị cuốn vào, hai sổ này phải tính riêng", đồng thời ghi vào thời hạn xét xử và phạm vi phí tố tụng. CLAUDE.md bổ sung một mục "khi viết các mục kiểu 'pháp luật đứng về phía bạn' bắt buộc phải ghi chi phí quy trình", cố định điều này thành quy tắc viết.
 
-顺带扫「可以起诉|可以主张|能要回|可以要求追究|退一赔三|可以申请仲裁|胜诉|可以退|有权要求|应当赔偿|可以申请|能拿回|可以索赔」全书，逐条读原文判断有没有只写结果不写过程：
+Nhân tiện quét toàn sách các cụm "có thể khởi kiện|có thể đòi|lấy lại được|có thể yêu cầu truy cứu|hoàn một trả ba|có thể xin trọng tài|thắng kiện|có thể hoàn|có quyền yêu cầu|phải bồi thường|có thể xin|lấy lại được|có thể đòi bồi thường", đọc nguyên văn từng mục để phán xem có chỗ nào chỉ viết kết quả mà không viết quy trình:
 
-- 补过程成本的两处（都只改成本栏、不引新数字）：第 5 节第 9 条（孩子充值退款）加「谈不拢只能起诉，那是几个月起步的事，律师费自理」；第 14 节第 8 条（个人信息查阅删除权）加「真走到起诉就是几个月起步的事，律师费自理，先走投诉更划算」。
-- 复核后本来就写对了的四处，可以当范本：第 8 节第 21 条（网购被骗）备注给了「税后时薪 × 预计耗时 + 诉讼费，再打个胜诉后能否执行的折扣」这一整套算法；第 8 节第 32 条（被诬告）备注写明「别把追究当成必然结果」并解释举证难度差在哪；第 5 节第 22 条（预付款）备注写明「这条给的是事后的法律依据，不是事前的安全感——商家真跑了，钱多半已经不在账上」；第 8 节第 34 条（国家赔偿）备注写明赔偿义务机关、往上申请的程序，以及律师费等不属于国家赔偿范围。
+- Hai chỗ bổ sung chi phí quy trình (đều chỉ sửa cột chi phí, không dẫn số mới): chương 5 mục 9 (hoàn tiền nạp tiền của trẻ) thêm "nói không xuôi thì chỉ còn khởi kiện, chuyện đó tính bằng tháng trở lên, tự trả tiền luật sư"; chương 14 mục 8 (quyền tra cứu và xóa thông tin cá nhân) thêm "thực sự đi tới khởi kiện là chuyện tính bằng tháng trở lên, tự trả tiền luật sư, đi đường khiếu nại trước thì lợi hơn".
+- Bốn chỗ rà lại thấy vốn đã viết đúng, có thể làm mẫu: chương 8 mục 21 (mua sắm online bị lừa) ghi chú đưa cả một công thức "lương theo giờ sau thuế × thời gian dự kiến + phí tố tụng, rồi chiết khấu xem sau thắng kiện có thi hành được không"; chương 8 mục 32 (bị vu cáo) ghi chú viết rõ "đừng coi việc bị truy cứu là kết quả tất yếu" và giải thích độ khó của việc chứng minh khác nhau ra sao; chương 5 mục 22 (tiền đặt trước) ghi chú viết rõ "mục này đưa căn cứ pháp lý sau sự việc, không phải cảm giác an toàn trước sự việc — thương gia thật sự bỏ chạy thì tiền đa số đã không còn trong tài khoản"; chương 8 mục 34 (bồi thường nhà nước) ghi chú viết rõ cơ quan chịu nghĩa vụ bồi thường, thủ trình xin lên cấp trên, cũng như việc phí luật sư v.v. không thuộc phạm vi bồi thường nhà nước.
 
-## 第三轮：闹到单位与丢工作（同日追加）
+## Vòng ba: làm ầm tới nơi làm việc và mất việc (bổ sung cùng ngày)
 
-作者再补一层成本：家属可能闹到读者单位，公司可能因此开人，工作直接没了。核实后写进第 13 节第 2 条备注，复核于最高检转载的治安管理处罚法 2025 年修订全文 <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>：
+Tác giả lại thêm một lớp chi phí: gia đình có thể làm ầm tới nơi làm việc của người đọc, công ty có thể vì thế mà đuổi việc, công việc mất trắng. Xác minh xong viết vào ghi chú chương 13 mục 2, đối chiếu với toàn văn Luật Xử phạt hành chính về quản lý trị an sửa đổi 2025 do Viện kiểm sát Nhân dân Tối cao đăng lại <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>:
 
-- 第二十六条：「有下列行为之一的，处警告或者五百元以下罚款；情节较重的，处五日以上十日以下拘留，可以并处一千元以下罚款：（一）扰乱机关、团体、企业、事业单位秩序，致使工作、生产、营业、医疗、教学、科研不能正常进行，尚未造成严重损失的……」「聚众实施前款行为的，对首要分子处十日以上十五日以下拘留，可以并处二千元以下罚款。」
-- 第五十条第五项：「多次发送淫秽、侮辱、恐吓等信息或者采取滋扰、纠缠、跟踪等方法，干扰他人正常生活的」，处五日以下拘留或者一千元以下罚款，情节较重的五日以上十日以下拘留并可并处一千元以下罚款；「有前款第五项规定的滋扰、纠缠、跟踪行为的……经公安机关负责人批准，可以责令其一定期限内禁止接触被侵害人」。
+- Điều 26: “Có một trong các hành vi dưới đây thì cảnh cáo hoặc phạt tiền đến 500 yên; tình tiết nặng hơn thì giam từ năm đến mười ngày, có thể kèm phạt tiền đến 1.000 yên: (1) làm rối loạn trật tự cơ quan, đoàn thể, doanh nghiệp, sự nghiệp, khiến công việc, sản xuất, kinh doanh, y tế, giảng dạy, nghiên cứu không thể tiến hành bình thường, chưa gây thiệt hại nghiêm trọng……” “Nhiều người tụ tập thực hiện hành vi nói tại khoản trên thì người cầm đầu bị giam từ mười đến mười lăm ngày, có thể kèm phạt tiền đến 2.000 yên.”
+- Khoản 5 Điều 50: “Nhiều lần gửi các tin nhắn khiêu dâm, làm nhục, đe dọa hoặc dùng các cách quấy rối, lấn cấn, rình theo làm ảnh hưởng sinh hoạt bình thường của người khác” thì giam dưới năm ngày hoặc phạt tiền đến 1.000 yên, tình tiết nặng hơn giam từ năm đến mười ngày và có thể kèm phạt tiền đến 1.000 yên; “Có hành vi quấy rối, lấn cấn, rình theo quy định tại khoản 5 nói trên…… sau khi được người phụ trách cơ quan công an phê duyệt, có thể lệnh cấm tiếp xúc người bị xâm hại trong một thời hạn nhất định”.
 
-条号交叉验证：同一次抓取给出的第五十条各项（第二项公然侮辱诽谤、第三项捏造事实诬告陷害）与第 8 节第 15 条、第 31 条早前已核的引用一致，因此本次第二十六条的条号一并采信。
+Đối chiếu chéo số điều: Các khoản của Điều 50 do cùng một lần lấy trang đưa ra (khoản 2 công khai làm nhục, vu khống; khoản 3 bịa đặt sự thật vu cáo) khớp với các trích dẫn đã xác minh trước đó ở chương 8 mục 15 và mục 31, nên số điều của Điều 26 lần này cũng được tin dùng.
 
-写法按本轮定下的规则：不停在「公司不能这么开你」。备注写明公司据此开人一般属违法解除、赔偿金按 2N 算（指向第 19 节第 6 条），但同时写明报警和仲裁都要读者自己跑，工作先丢的那段损失不会因为将来拿到 2N 就补回来，所以这一层的结论仍是「走开合法且最省事」，不是「有法律兜底」。
+Cách viết theo quy tắc đặt ra trong đợt này: không dừng ở "công ty không được đuổi bạn như vậy". Ghi chú viết rõ công ty dựa vào đó mà đuổi người thường thuộc trường hợp chấm dứt hợp đồng trái pháp luật, tiền bồi thường tính theo 2N (trỏ tới chương 19 mục 6), nhưng đồng thời viết rõ báo án và trọng tài đều phải người đọc tự chạy, phần thiệt hại của quãng mất việc trước đó sẽ không được bù lại chỉ vì sau này nhận được 2N, nên kết luận ở tầng này vẫn là "đi khỏi hợp pháp và đỡ phiền nhất", không phải "có pháp luật chống lưng".
 
-## 第四轮：记者、二次传播与网暴，以及拆长文（同日追加）
+## Vòng bốn: phóng viên, phát tán lần hai và bạo lực mạng, cùng việc tách bài dài (bổ sung cùng ngày)
 
-作者再补一层：家属可能带记者来采访、视频发到网上、引来网暴，「成本是无底洞」。到这一层，第 13 节第 2 条的备注已经压了七八笔账，超出「单个条目不超过 10 行、长解释放 docs/」的项目规矩，因此本轮把整笔账拆成长文 [docs/遇到陌生人出事该不该停.md](../遇到陌生人出事该不该停.md)，条目备注收缩到结论加指路，改完 8 行正文（原 9 行）。
+Tác giả lại thêm một lớp: gia đình có thể dẫn phóng viên tới phỏng vấn, đưa video lên mạng, kéo theo bạo lực mạng, "chi phí là hố không đáy". Đến tầng này, ghi chú của chương 13 mục 2 đã đè tới bảy tám sổ sách, vượt quy định dự án "mỗi mục không quá 10 dòng, giải thích dài thì đặt ở docs/", nên đợt này tách toàn bộ sổ sách thành bài dài [docs/gap-nguoi-la-gap-nan-co-nen-dung-lai-khong.md](../gap-nguoi-la-gap-nan-co-nen-dung-lai-khong.md), ghi chú của mục thu gọn thành kết luận kèm chỉ đường, sửa xong còn 8 dòng nội dung (trước là 9 dòng).
 
-本轮新增核实：
+Các xác minh mới bổ sung trong đợt này:
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>（民法典） | 是 | 第一千零一十九条「未经肖像权人同意，不得制作、使用、公开肖像权人的肖像，但是法律另有规定的除外」；第一千零二十条第二项，「为实施新闻报道，不可避免地制作、使用、公开肖像权人的肖像」属于可以不经同意的合理使用 |
-| <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969181.html>（国务院公报刊《网络暴力信息治理规定》，四部门 2024 年公布，2024 年 8 月 1 日施行） | 是 | 第二十三条：平台应当提供便利用户设置屏蔽陌生用户或者特定用户、本人发布信息可见范围、禁止转载或者评论本人发布信息，以及仅接收好友私信或者拒绝接收所有私信等防护选项；第二十五条：「应当向用户提供网络暴力信息快捷取证等功能，依法依约为用户维权提供便利」，公安网信等部门依法调取证据的应当及时提供技术支持和协助；第二十六条：在服务显著位置设置专门的网络暴力信息快捷投诉、举报入口；第十五条：发现涉嫌违法犯罪的应当及时向公安机关报案并提供线索 |
+| <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> (Bộ luật Dân sự) | Có | Điều 1019 “Không được chế tác, sử dụng, công khai chân dung của người có quyền chân dung khi chưa được người đó đồng ý, trừ trường hợp pháp luật quy định khác”; khoản 2 Điều 1020, “chế tác, sử dụng, công khai chân dung của người có quyền chân dung nhằm thực hiện tin tức báo chí” thuộc dạng sử dụng hợp lý không cần sự đồng ý |
+| <https://www.gov.cn/gongbao/2024/issue_11526/202408/content_6969181.html> (Công báo Quốc vụ viện đăng Quy định quản trị thông tin bạo lực mạng, bốn bộ ngành công bố năm 2024, thi hành từ 01-08-2024) | Có | Điều 23: nền tảng phải cung cấp các tùy chọn bảo vệ thuận tiện cho người dùng như chặn người lạ hoặc người dùng cụ thể, giới hạn phạm vi thấy được của thông tin mình đăng, cấm đăng lại hoặc bình luận thông tin mình đăng, cũng như chỉ nhận tin nhắn riêng từ bạn bè hoặc từ chối mọi tin nhắn riêng; Điều 25: “phải cung cấp cho người dùng các chức năng như lấy chứng cứ nhanh về thông tin bạo lực mạng, tạo thuận lợi cho người dùng bảo vệ quyền lợi theo pháp luật và thỏa thuận”, các cơ quan như công an, quản lý mạng khi lấy chứng cứ theo pháp luật phải kịp thời hỗ trợ kỹ thuật và phối hợp; Điều 26: đặt tại vị trí dễ thấy của dịch vụ một lối khiếu nại, tố cáo nhanh riêng cho thông tin bạo lực mạng; Điều 15: phát hiện hành vi nghi vấn vi phạm pháp luật, phạm tội phải kịp thời báo công an và cung cấp đầu mối |
 
-肖像权那一条是本轮最反直觉的发现，也是长文里唯一一句「你未必拦得住」：新闻报道的合理使用意味着现场拍摄未必需要你同意，你能控制的只是接不接受采访、出不出镜、说不说话。
+Điều khoản về quyền chân dung là phát hiện nghịch trực giác nhất trong đợt này, cũng là câu duy nhất trong bài dài theo kiểu "bạn chưa chắc chặn nổi": việc sử dụng hợp lý cho tin tức báo chí nghĩa là quay phim tại hiện trường chưa chắc cần sự đồng ý của bạn, thứ bạn kiểm soát được chỉ là nhận hay không nhận phỏng vấn, có xuất hiện trên hình hay không, có nói gì hay không.
 
-网暴与自杀的关联本轮未写入任何数字：可查的荟萃分析以青少年样本为主，与本条读者的人群和情境不匹配，按全书「不确定的数字宁可不写」的规矩只留出口（12356，第 1 节第 25 条），不给概率。长文开头也写明全文不给发生率，避免把「列了七层」读成「七层都会发生」。
+Liên hệ giữa bạo lực mạng và tự tử trong đợt này chưa ghi bất kỳ con số nào: các phân tích gộp tra cứu được chủ yếu dùng mẫu thanh thiếu niên, không khớp với nhóm người và bối cảnh của độc giả mục này, theo quy tắc toàn sách "con số không chắc thì thà không viết" chỉ giữ lối thoát (12356, chương 1 mục 25), không đưa xác suất. Đầu bài dài cũng ghi rõ toàn bài không nêu tỷ lệ xảy ra, tránh để "liệt kê bảy tầng" bị đọc thành "bảy tầng đều sẽ xảy ra".
 
-跟着改的：README 的导航行和末尾长文列表、index.html 的 doc-links 各加一处长文链接。docs/ 下长文由 3 篇增至 4 篇。
+Sửa theo: dòng điều hướng của README và danh sách bài dài cuối README, doc-links trong index.html mỗi nơi thêm một liên kết bài dài. Bài dài trong docs/ tăng từ 3 lên 4 bài.
 
-## 统计
+## Thống kê
 
-条目数不变，仍 471 条；证据等级与性价比档不变（改动都落在备注、说人话、成本和来源栏，收益栏只在第 9 节第 3 条追加了一句法条原文，量级仍为「大」）。book/ 下原始文献链接 +5；docs/ 新增长文 1 篇（遇到陌生人出事该不该停），docs/ 长文由 3 篇增至 4 篇。
+Số mục không đổi, vẫn 471 mục; mức bằng chứng và bậc hiệu quả chi phí không đổi (các sửa đổi đều nằm ở ghi chú, Hiểu nhanh, chi phí và cột nguồn; cột lợi ích chỉ thêm một câu nguyên văn điều luật ở chương 9 mục 3, cỡ vẫn là "lớn"). Liên kết tài liệu gốc trong book/ tăng thêm 5; docs/ thêm 1 bài dài (gap-nguoi-la-gap-nan-co-nen-dung-lai-khong), bài dài trong docs/ tăng từ 3 lên 4 bài.

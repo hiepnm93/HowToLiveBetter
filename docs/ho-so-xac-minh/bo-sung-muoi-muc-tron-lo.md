@@ -1,88 +1,88 @@
-# 追加：一次补齐十条缺口 · 核实记录（2026-09-08）
+# Bổ sung: một lần vá đủ mười chỗ trống · Hồ sơ xác minh (2026-09-08)
 
-任务来源：把全书 26 节 382 条通读一遍找缺口，读者要求「1、2 档全部加」。以下是这十条的落点与来源核对。全书 382 → 392 条。
+Nguồn nhiệm vụ: Đọc qua một lượt toàn bộ 26 chương 382 mục của sách để tìm chỗ trống, người đọc yêu cầu "thêm hết cả bậc 1, 2". Dưới đây là điểm rơi và đối chiếu nguồn của mười mục này. Toàn sách 382 → 392 mục.
 
-## 第一档（零成本、A 级、影响面大，原本零覆盖）
+## Bậc một (chi phí bằng không, mức A, phạm vi ảnh hưởng lớn, vốn phủ điểm không)
 
-### 第 19 节第 1、2、3 条（加班费、年休假、试用期）
+### Chương 19 mục 1, 2, 3 (tiền làm thêm giờ, nghỉ phép năm có lương, thời gian thử việc)
 
-第 19 节原来 11 条全是「出事之后」，在职期间的基本权利一条没有。这三条插在最前面，原第 1 至 11 条顺延为第 4 至 14 条，节首那句「前六条是离职，后四条是工伤」同步改成「前三条是在职期间就该拿到的，中间六条是离职，最后五条是工伤」。节内外都没有按编号引用第 19 节的地方。
+Chương 19 vốn có 11 mục đều là "sau khi có chuyện", quyền cơ bản trong thời gian đi làm không có mục nào. Ba mục này chèn vào đầu nhất, mục 1 đến 11 cũ dồn thành mục 4 đến 14, câu đầu chương "sáu mục đầu là nghỉ việc, bốn mục sau là tai nạn lao động" đồng bộ đổi thành "ba mục đầu là thứ đáng nhận ngay khi còn đi làm, sáu mục giữa là nghỉ việc, năm mục cuối là tai nạn lao động". Trong chương lẫn ngoài chương không có chỗ nào trích chương 19 theo số mục.
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_d9aa750028b14b99a776cb93726a360d.html>（国家市场监督管理总局刊登，2018 年第二次修正文本） | 是 | 劳动法第三十六条「每日工作时间不超过八小时、平均每周工作时间不超过四十四小时」；第四十一条「一般每日不得超过一小时；因特殊原因需要延长工作时间的……每日不得超过三小时，但是每月不得超过三十六小时」；第四十四条三档「不低于工资的百分之一百五十」「休息日安排劳动者工作又不能安排补休的，支付不低于工资的百分之二百」「法定休假日安排劳动者工作的，支付不低于工资的百分之三百」 |
-| <http://www.gov.cn/gongbao/content/2007/content_711013.htm> | 是 | 劳动合同法第十九条（试用期三档上限、只能约定一次、不满三个月不得约定、仅约定试用期的不成立）；第二十条「不得低于本单位相同岗位最低档工资或者劳动合同约定工资的百分之八十，并不得低于用人单位所在地的最低工资标准」；第二十一条（试用期解除须法定情形并说明理由）；第八十三条（违法约定试用期已履行的按试用期满月工资支付赔偿金）；第八十五条第（三）项「安排加班不支付加班费的」，逾期不付「按应付金额百分之五十以上百分之一百以下的标准向劳动者加付赔偿金」 |
-| <http://www.gov.cn/gongbao/content/2008/content_859865.htm> | 是 | 职工带薪年休假条例（国务院令第 514 号，2008-01-01 施行）第三条 5/10/15 天与「国家法定休假日、休息日不计入年休假的假期」；第四条五种不享受当年年休假的情形；第五条「对职工应休未休的年休假天数，单位应当按照该职工日工资收入的300%支付年休假工资报酬」；第七条 逾期不改正的加付赔偿金 |
-| <http://www.gov.cn/gongbao/content/2009/content_1265995.htm> | 是 | 企业职工带薪年休假实施办法（人社部令第 1 号）第三条 连续工作满 12 个月；第四条 累计工作时间跨单位累计；第五条 当年新入职按剩余日历天数折算；第十条 300% 中「包含用人单位支付职工正常工作期间的工资收入」，且只有「职工因本人原因且书面提出不休年休假的」才可以只付正常工资；第十一条 日工资 = 月工资 ÷ 21.75，月工资为前 12 个月剔除加班工资后的月平均工资；第十二条 离职折算；第十五条 加付赔偿金 |
+| <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_d9aa750028b14b99a776cb93726a360d.html> (Tổng cục Giám sát Quản lý Thị trường Quốc gia đăng, bản sửa đổi lần hai năm 2018) | Có | Luật Lao động Điều 36 “giờ làm việc mỗi ngày không quá tám giờ, bình quân mỗi tuần không quá bốn mươi bốn giờ”; Điều 41 “về nguyên tắc mỗi ngày không quá một giờ; vì lý do đặc biệt cần kéo dài giờ làm…… mỗi ngày không quá ba giờ, nhưng mỗi tháng không quá ba mươi sáu giờ”; Điều 44 ba bậc “không thấp hơn 150% tiền lương”, “ngày nghỉ mà sắp xếp người lao động làm việc lại không thể sắp xếp bù nghỉ thì trả không thấp hơn 200% tiền lương”, “ngày nghỉ lễ pháp định mà sắp xếp người lao động làm việc thì trả không thấp hơn 300% tiền lương” |
+| <http://www.gov.cn/gongbao/content/2007/content_711013.htm> | Có | Luật Hợp đồng lao động Điều 19 (ba bậc trần của thời gian thử việc, chỉ được thỏa thuận một lần, dưới ba tháng không được thỏa thuận, hợp đồng chỉ thỏa thuận thời gian thử việc thì không có hiệu lực); Điều 20 “không được thấp hơn 80% mức lương thấp nhất của cùng vị trí tại đơn vị hoặc tiền lương thỏa thuận trong hợp đồng lao động, và không được thấp hơn chuẩn lương tối thiểu tại nơi đơn vị sử dụng lao động đặt trụ sở”; Điều 21 (chấm dứt trong thời gian thử việc phải thuộc tình huống pháp định và phải nêu lý do); Điều 83 (thỏa thuận thời gian thử việc trái luật mà đã thực hiện thì trả tiền bồi thường theo tiền lương tháng trọn của thời gian thử việc); Điều 85 điểm (3) “sắp xếp làm thêm giờ mà không trả tiền làm thêm giờ”, quá hạn không trả thì “theo chuẩn từ 50% đến 100% số tiền phải trả, trả thêm tiền bồi thường cho người lao động” |
+| <http://www.gov.cn/gongbao/content/2008/content_859865.htm> | Có | Điều lệ nghỉ phép năm có lương cho người lao động (nghị định số 514 của Quốc vụ viện, thi hành 2008-01-01) Điều 3 quy định 5/10/15 ngày và “ngày nghỉ lễ pháp định của nhà nước, ngày nghỉ tuần không tính vào số ngày phép năm”; Điều 4 năm tình huống không hưởng phép năm của năm đó; Điều 5 “với số ngày phép năm lẽ ra phải nghỉ mà không nghỉ, đơn vị phải trả tiền công nghỉ phép theo 300% thu nhập lương ngày của người lao động đó”; Điều 7 quá hạn không sửa thì phải trả thêm tiền bồi thường |
+| <http://www.gov.cn/gongbao/content/2009/content_1265995.htm> | Có | Biện pháp thực thi nghỉ phép năm có lương cho người lao động doanh nghiệp (văn bản số 1 của Bộ Nhân lực và Bảo đảm Xã hội) Điều 3 làm việc liên tục tròn 12 tháng; Điều 4 thời gian làm việc tích lũy tính gộp cả giữa các đơn vị; Điều 5 người mới vào trong năm quy đổi theo số ngày dương lịch còn lại; Điều 10 trong mức 300% “bao gồm cả thu nhập lương mà đơn vị trả cho người lao động trong thời gian làm việc bình thường”, và chỉ khi “người lao động vì lý do của bản thân mà bằng văn bản đề xuất không nghỉ phép năm” thì mới được chỉ trả lương bình thường; Điều 11 lương ngày = lương tháng ÷ 21.75, lương tháng là lương trung bình tháng của 12 tháng trước sau khi trừ tiền làm thêm giờ; Điều 12 quy đổi khi nghỉ việc; Điều 15 trả thêm tiền bồi thường |
 
-三条都定 A。收益量级：加班费按金钱阈值定「大」（月度可达数千元、可追三年内），年休假与试用期定「中」（一次性数百到数千元）。
+Cả ba mục đều định A. Cỡ lợi ích: tiền làm thêm giờ theo ngưỡng tiền bạc định "lớn" (tháng có thể tới vài nghìn yên, truy đòi được trong vòng ba năm), nghỉ phép năm và thời gian thử việc định "trung bình" (một lần vài trăm đến vài nghìn yên).
 
-### 第 8 节第 14 条（诉讼时效）
+### Chương 8 mục 14 (thời hiệu khởi kiện)
 
-插在第 12 条（借条担保）之后，原第 13 至 23 条顺延为第 14 至 24 条；第 9、12、22 节里指向第 8 节且编号 ≥13 的引用同步 +1。
+Chèn sau mục 12 (giấy vay và bảo đảm), mục 13 đến 23 cũ dồn thành mục 14 đến 24; các tham chiếu trỏ tới chương 8 có số mục ≥13 trong chương 9, 12, 22 đồng bộ +1.
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> | 是 | 民法典第一百八十八条「向人民法院请求保护民事权利的诉讼时效期间为三年」「自权利人知道或者应当知道权利受到损害以及义务人之日起计算」「自权利受到损害之日起超过二十年的，人民法院不予保护」；第一百八十九条 分期履行从最后一期起算；第一百九十二条 届满后义务人可提出抗辩、同意履行的不得反悔、已自愿履行的不得请求返还；第一百九十三条「人民法院不得主动适用诉讼时效的规定」；第一百九十五条 四种中断事由「从中断、有关程序终结时起，诉讼时效期间重新计算」；第一百九十六条 四类不适用时效的请求权；第一百九十七条 约定无效、预先放弃无效 |
-| <https://rsj.ankang.gov.cn/Content-2150407.html>（安康市人力资源和社会保障局转载） | 是 | 劳动争议调解仲裁法第二十七条：仲裁时效一年，中断与中止规则；第四款「劳动关系存续期间因拖欠劳动报酬发生争议的，劳动者申请仲裁不受本条第一款规定的仲裁时效期间的限制；但是，劳动关系终止的，应当自劳动关系终止之日起一年内提出」 |
+| <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> | Có | Bộ luật Dân sự Điều 188 “thời hiệu khởi kiện yêu cầu tòa nhân dân bảo vệ quyền dân sự là ba năm”, “tính từ ngày người có quyền biết hoặc lẽ ra phải biết quyền bị xâm hại và biết người có nghĩa vụ”, “quá hai mươi năm kể từ ngày quyền bị xâm hại thì tòa nhân dân không bảo vệ nữa”; Điều 189 nghĩa vụ trả góp tính từ kỳ cuối cùng; Điều 192 sau khi hết thời hiệu người có nghĩa vụ có thể nêu kháng biện, đã đồng ý thực hiện thì không được thất hứa, đã tự nguyện thực hiện thì không đòi lại; Điều 193 “tòa nhân dân không được chủ động áp dụng quy định về thời hiệu khởi kiện”; Điều 195 bốn lý do gián đoạn “kể từ khi gián đoạn, kết thúc thủ tục liên quan thì thời hiệu khởi kiện tính lại”; Điều 196 bốn loại quyền yêu cầu không áp dụng thời hiệu; Điều 197 thỏa thuận về thời hiệu vô hiệu, từ bỏ trước thì vô hiệu |
+| <https://rsj.ankang.gov.cn/Content-2150407.html> (Sở Nhân lực và Bảo đảm Xã hội thành phố An Khang đăng lại) | Có | Luật Trọng tài Điều giải tranh chấp lao động Điều 27: thời hiệu trọng tài một năm, quy tắc gián đoạn và tạm dừng; khoản 4 “trong thời gian quan hệ lao động còn hiệu lực mà có tranh chấp do chậm trả thù lao lao động thì việc người lao động xin trọng tài không chịu giới hạn thời hiệu trọng tài quy định tại khoản 1 điều này; nhưng khi quan hệ lao động chấm dứt thì phải đề xuất trong vòng một năm kể từ ngày quan hệ lao động chấm dứt” |
 
-### 第 20 节第 3 条（国家免疫规划）
+### Chương 20 mục 3 (chương trình miễn dịch quốc gia)
 
-插在乙肝首针之后，原第 3 至 10 条顺延为第 4 至 11 条。
+Chèn sau mũi đầu viêm gan B, mục 3 đến 10 cũ dồn thành mục 4 đến 11.
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html>（云南省卫生健康委员会转载） | 是 | 疫苗管理法第四十八条 入托入学查验预防接种证、发现未按规定接种的报告接种单位并配合督促补种；第四十九条「接种单位接种免疫规划疫苗不得收取任何费用」 |
-| <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html>（国家疾控局卫生与免疫规划司，2026-07-03） | 是 | 《国家免疫规划疫苗儿童免疫程序及说明（2026 年版）》解读问答：HPV 疫苗已纳入国家免疫规划；百白破起始由 3 月龄调整为 2 月龄，共 5 剂（2、4、6、18 月龄和 6 周岁）；西藏、青海、新疆、新疆生产建设兵团 2026 年 3 月起常规接种乙脑疫苗；同时接种原则与间隔（注射类减毒活疫苗未同时接种间隔不小于 28 天）；补种原则「只需补种未完成的剂次，无需重新开始全程接种」；过敏体质、湿疹、荨麻疹、哮喘、生理性与母乳性黄疸均非禁忌 |
+| <http://ynswsjkw.yn.gov.cn/html/2019/faguiguizhangxin_0731/6509.html> (Ủy ban Y tế tỉnh Vân Nam đăng lại) | Có | Luật Quản lý vaccine Điều 48 kiểm tra sổ tiêm chủng khi vào nhà trẻ, vào trường, phát hiện chưa tiêm theo quy định thì báo cơ sở tiêm chủng và phối hợp thúc đẩy tiêm bù; Điều 49 “cơ sở tiêm chủng khi tiêm vaccine thuộc chương trình miễn dịch quốc gia không được thu bất kỳ loại phí nào” |
+| <https://www.ndcpa.gov.cn/jbkzzx/c100013/common/content/content_2073002930292035584.html> (Cục Phòng chống bệnh Quốc gia, Vụ Y tế và Quy hoạch miễn dịch, 2026-07-03) | Có | Hỏi đáp giải đọc “Chương trình miễn dịch trẻ em và giải thích vaccine thuộc chương trình miễn dịch quốc gia (bản 2026)”: vaccine HPV đã đưa vào chương trình miễn dịch quốc gia; vaccine ba trong một bạch hầu - ho gà - uốn ván bắt đầu từ 3 tháng tuổi điều chỉnh xuống 2 tháng tuổi, tổng 5 mũi (2, 4, 6, 18 tháng tuổi và 6 tuổi); Tây Tạng, Thanh Hải, Tân Cương, Binh đoàn Sản xuất và Xây dựng Tân Cương từ tháng 3/2026 tiêm thường quy vaccine viêm não; nguyên tắc và khoảng cách tiêm đồng thời (vaccine sống giảm độc lực dạng tiêm chưa tiêm đồng thời thì khoảng cách không nhỏ hơn 28 ngày); nguyên tắc tiêm bù “chỉ cần tiêm bù các mũi chưa hoàn thành, không cần tiêm lại toàn bộ từ đầu”; thể dị ứng, chàm, mày đay, hen suyễn, vàng da sinh lý và vàng da do sữa mẹ đều không thuộc chống chỉ định |
 
-现行程序是 2026 年版，2021 年版已被取代，正文按 2026 年版写。国家卫健委官网 nhc.gov.cn 本机恒 412，免疫程序原文 PDF 也在该域名下取不到，因此引国家疾控局的解读问答（HTML，可逐字核对）。
+Chương trình hiện hành là bản 2026, bản 2021 đã bị thay thế, nội dung chính viết theo bản 2026. Website Ủy ban Y tế Quốc gia nhc.gov.cn trên máy này luôn trả 412, PDF nguyên văn chương trình miễn dịch cũng không lấy được dưới tên miền đó, nên trích hỏi đáp giải đọc của Cục Phòng chống bệnh Quốc gia (HTML, đối chiếu được từng chữ).
 
-## 第二档
+## Bậc hai
 
-### 第 13 节第 12 条（误服与化学品接触）
+### Chương 13 mục 12 (nuốt nhầm và tiếp xúc hóa chất)
 
-插在一氧化碳条之后，原第 12 至 27 条顺延为第 13 至 28 条；docs/家庭应急装备清单.md 里指向第 13 节第 15 条（火灾）的引用改为第 16 条。
+Chèn sau mục khí CO (cacbon monoxide), mục 12 đến 27 cũ dồn thành mục 13 đến 28; trong docs/danh-sach-dung-cu-khan-cap-gia-dinh.md, tham chiếu trỏ tới chương 13 mục 15 (cháy) đổi thành mục 16.
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://niohp.chinacdc.cn/kpdw/202507/t20250722_308659.htm>（中国疾控中心职业卫生与中毒控制所，2025-07-22，中毒控制室供稿） | 是 | 「消化道摄入：立即饮用适量的牛奶或蛋清。切记，不要催吐！尽快就医，同时携带清洁剂包装或说明书」；「皮肤接触：立即用大量清水冲洗接触部位至少15分钟」；「眼睛接触：立即用大量清水或生理盐水冲洗眼睛至少15分钟……切勿揉搓眼睛」；pH<3 与 pH>11 的产品清单；「消毒液和含盐酸的洁厕剂一起使用，两者混合后会产生氯气」 |
+| <https://niohp.chinacdc.cn/kpdw/202507/t20250722_308659.htm> (Viện Y tế nghề nghiệp và Kiểm soát ngộ độc thuộc Trung tâm Kiểm soát và Phòng chống bệnh Trung Quốc, 2025-07-22, bài do Phòng Kiểm soát ngộ độc cung cấp) | Có | “Nuốt qua đường tiêu hóa: lập tức uống lượng vừa phải sữa hoặc lòng trắng trứng. Ghi nhớ, không được gây nôn! Đi bệnh viện sớm nhất có thể, đồng thời mang theo bao bì hoặc tờ hướng dẫn của chất tẩy rửa”; “Tiếp xúc da: lập tức rửa vùng tiếp xúc bằng nhiều nước sạch ít nhất 15 phút”; “Tiếp xúc mắt: lập tức rửa mắt bằng nhiều nước sạch hoặc nước muối sinh lý ít nhất 15 phút…… tuyệt đối không chà xát mắt”; danh sách sản phẩm pH<3 và pH>11; “dùng chung dung dịch khử trùng với nước tẩy bồn cầu chứa axit clohydric, hai thứ trộn vào nhau sẽ sinh khí clo” |
 
-定 B：官方科普给的是处置口径，没有效应量。两处「15 分钟」在纯文本提取时会丢（数字包在独立 font 标签里），已回原始 HTML 核对。
+Định B: Tài liệu phổ biến khoa học chính thức đưa ra là cách xử trí, không có cỡ hiệu ứng. Hai chỗ "15 phút" sẽ mất khi trích thuần văn bản (con số bọc trong thẻ font riêng), đã quay lại HTML gốc đối chiếu.
 
-### 第 5 节第 20 条（个人养老金）
+### Chương 5 mục 20 (hưu cá nhân)
 
-插在第 19 条（分散）之后，原第 20 至 30 条顺延为第 21 至 31 条；本节「七日无理由退货见本节第 22 条」改为第 23 条，docs/家庭应急装备清单.md 里的「第 5 节第 23 条」改为第 24 条。
+Chèn sau mục 19 (phân tán), mục 20 đến 30 cũ dồn thành mục 21 đến 31; câu "hoàn trả không lý do trong bảy ngày xem mục 22 của chương này" trong chương đổi thành mục 23, "chương 5 mục 23" trong docs/danh-sach-dung-cu-khan-cap-gia-dinh.md đổi thành mục 24.
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/zhengce/zhengceku/202412/content_6992498.htm> | 是 | 财政部 税务总局公告 2024 年第 21 号：自 2024 年 1 月 1 日起全国实施递延纳税优惠，「按照12000元/年的限额标准，在综合所得或经营所得中据实扣除」，投资收益暂不征收个税，领取时「不并入综合所得，单独按照3%的税率计算缴纳个人所得税」；自 2024 年 12 月 15 日起全面实施个人养老金制度 |
-| <https://www.gov.cn/zhengce/zhengceku/2022-11/05/content_5724783.htm> | 是 | 个人养老金实施办法第八条 12000 元上限；第九条 额度按自然年度累计、次年重新计算；第十二条「个人养老金资金账户封闭运行」，四种可领取情形（达到领取基本养老金年龄、完全丧失劳动能力、出国（境）定居、国家规定的其他情形） |
+| <https://www.gov.cn/zhengce/zhengceku/202412/content_6992498.htm> | Có | Công báo số 21 năm 2024 của Bộ Tài chính và Tổng cục Thuế: từ 01-01-2024 triển khai ưu đãi hoãn nộp thuế toàn quốc, “theo chuẩn hạn mức 12.000 yên/năm, khấu trừ theo thực tế trong thu nhập tổng hợp hoặc thu nhập kinh doanh”, lợi nhuận đầu tư tạm thời chưa thu thuế thu nhập cá nhân, khi lĩnh “không gộp vào thu nhập tổng hợp, riêng tính nộp thuế thu nhập cá nhân theo thuế suất 3%”; từ 15-12-2024 triển khai toàn diện chế độ hưu cá nhân |
+| <https://www.gov.cn/zhengce/zhengceku/2022-11/05/content_5724783.htm> | Có | Biện pháp thực thi hưu cá nhân Điều 8 trần 12.000 yên; Điều 9 hạn mức tính theo năm dương lịch, năm sau tính lại; Điều 12 “tài khoản tiền hưu cá nhân vận hành đóng kín”, bốn tình huống được lĩnh (đến tuổi lĩnh lương hưu cơ bản, hoàn toàn mất khả năng lao động, định cư ở nước ngoài (ngoài biên giới), các tình huống khác do nhà nước quy định) |
 
-「不交个税的人开了是净亏」这一句是由两份文件的规则直接推出的（缴费环节扣除对没有应纳税所得的人价值为零，领取环节仍按 3% 单独计税），不是外部观点，正文按算式写。
+Câu "người không nộp thuế thu nhập cá nhân mà mở là lỗ trắng" là suy trực tiếp từ quy tắc của hai văn bản (khoản khấu trừ ở khâu đóng phí đối với người không có thu nhập chịu thuế có giá trị bằng không, khâu lĩnh vẫn tính thuế riêng 3%), không phải quan điểm bên ngoài, nội dung chính viết theo phép tính.
 
-### 第 14 节第 5 条（银行卡盗刷）与第 9 条（人脸识别）
+### Chương 14 mục 5 (thẻ ngân hàng bị quẹt trộm) và mục 9 (nhận diện khuôn mặt)
 
-盗刷插在「手机丢了」之后，原第 5 至 7 条顺延为第 6 至 8 条；人脸识别加在末尾为第 9 条。节外无按编号引用第 14 节的地方。
+Quẹt trộm chèn sau "mất điện thoại", mục 5 đến 7 cũ dồn thành mục 6 đến 8; nhận diện khuôn mặt thêm vào cuối thành mục 9. Ngoài chương không có chỗ nào trích chương 14 theo số mục.
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.court.gov.cn/fabu/xiangqing/304771.html> | 是 | 法释〔2021〕10 号，2021 年 5 月 25 日施行。第四条 持卡人可用的证据种类，「发卡行、非银行支付机构主张争议交易为持卡人本人交易或者其授权交易的，应当承担举证责任」；第五条 银行未及时核实、未及时提供或保存证据的「应承担举证不能的法律后果」；第七条 借记卡与信用卡的支持范围、持卡人保管过错按过错担责、未及时挂失的扩大损失自担；第十四条 请求撤销不良征信记录；第十五条 伪卡盗刷与网络盗刷的定义 |
-| <https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm> | 是 | 人脸识别技术应用安全管理办法（网信办、公安部第 19 号令，2025 年 6 月 1 日施行）：「实现相同目的或者达到同等业务要求，存在其他非人脸识别技术方式的，不得将人脸识别技术作为唯一验证方式。个人不同意通过人脸信息进行身份验证的，应当提供其他合理、便捷的方式」；单独同意与撤回同意；不满十四周岁须监护人同意；第十二条 不得「误导、欺诈、胁迫个人接受人脸识别技术验证个人身份」；第十三条 公共场所安装应为维护公共安全所必需并设显著提示标识，宾馆客房、公共浴室、公共更衣室、公共卫生间等私密空间内部不得安装；第十五条 存储达到 10 万人的 30 个工作日内向省级以上网信部门备案 |
+| <https://www.court.gov.cn/fabu/xiangqing/304771.html> | Có | Giải thích tư pháp số 10/2021, thi hành từ 25-05-2021. Điều 4 các loại chứng cứ người giữ thẻ có thể dùng, “ngân hàng phát hành, tổ chức thanh toán phi ngân hàng nếu chủ trương giao dịch tranh chấp là giao dịch của chính người giữ thẻ hoặc giao dịch do người đó ủy quyền thì phải gánh nghĩa vụ chứng minh”; Điều 5 ngân hàng không kịp thời kiểm minh, không kịp thời cung cấp hoặc bảo quản chứng cứ thì “phải gánh hậu quả pháp lý của việc không chứng minh được”; Điều 7 phạm vi áp dụng với thẻ ghi nợ và thẻ tín dụng, người giữ thẻ có lỗi trong bảo quản thì chịu trách nhiệm theo lỗi, không kịp báo khóa thẻ thì phần thiệt hại mở rộng tự gánh; Điều 14 yêu cầu xóa bản ghi tín dụng xấu; Điều 15 định nghĩa quẹt trộm thẻ giả và quẹt trộm qua mạng |
+| <https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm> | Có | Biện pháp quản lý an toàn ứng dụng công nghệ nhận diện khuôn mặt (lệnh số 19 của Văn phòng Quản lý Không gian Mạng và Bộ Công an, thi hành 01-06-2025): “muốn đạt cùng mục đích hoặc đạt yêu cầu nghiệp vụ tương đương mà tồn tại cách thức công nghệ khác ngoài nhận diện khuôn mặt thì không được dùng công nghệ nhận diện khuôn mặt làm phương thức xác thực duy nhất. Cá nhân không đồng ý xác thực thân phận bằng thông tin khuôn mặt thì phải cung cấp cách khác hợp lý, thuận tiện”; đồng ý riêng và rút lại đồng ý; dưới 14 tuổi phải có người giám hộ đồng ý; Điều 12 không được “đánh lạc hướng, lừa dối, ép buộc cá nhân chấp nhận công nghệ nhận diện khuôn mặt để xác thực thân phận”; Điều 13 lắp đặt ở nơi công cộng phải là điều cần thiết để duy trì an toàn công cộng và đặt biển nhắc rõ ràng, trong các không gian riêng như phòng khách sạn, phòng tắm công cộng, phòng thay đồ công cộng, nhà vệ sinh công cộng không được lắp; Điều 15 lưu trữ đạt 100.000 người thì trong 30 ngày làm việc phải đăng ký với cơ quan quản lý không gian mạng cấp tỉnh trở lên |
 
-### 第 24 节第 7 条（纠纷时封存病历）
+### Chương 24 mục 7 (niêm phong hồ sơ bệnh án khi có tranh chấp)
 
-加在末尾。与第 6 条（平时复印病历）分工：复印是日常，封存是纠纷时固定证据。
+Thêm vào cuối chương. Phân công với mục 6 (photo bản hồ sơ bệnh án ngày thường): photocopy là việc hằng ngày, niêm phong là cố định chứng cứ khi có tranh chấp.
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/zhengce/zhengceku/2018-08/31/content_5318057.htm> | 是 | 医疗纠纷预防和处理条例（国务院令第 701 号，2018-10-01 施行）第十五条「任何单位和个人不得篡改、伪造、隐匿、毁灭或者抢夺病历资料」；第二十四条 封存启封应在医患双方在场情况下进行、可原件可复制件由医疗机构保管、未完成的先封已完成部分、开列封存清单双方签字盖章各执一份、满 3 年未再提出可自行启封；第二十五条 疑似输液输血注射用药引起不良后果的现场实物共同封存、共同委托检验、无法共同委托的由县级卫生主管部门指定、疑似输血的通知血站派员到场 |
+| <https://www.gov.cn/zhengce/zhengceku/2018-08/31/content_5318057.htm> | Có | Điều lệ phòng ngừa và xử lý tranh chấp y tế (nghị định số 701 của Quốc vụ viện, thi hành 2018-10-01) Điều 15 “bất kỳ cá nhân hay đơn vị nào không được sửa giả, làm giả, giấu giếm, phá hủy hoặc cướp đoạt tài liệu hồ sơ bệnh án”; Điều 24 việc niêm phong, mở niêm phong phải tiến hành khi có mặt cả hai bên thầy thuốc - bệnh nhân, bản gốc hay bản sao đều được, do cơ sở y tế giữ, phần chưa hoàn thành thì niêm phong trước phần đã hoàn thành, lập danh mục niêm phong hai bên ký tên đóng dấu mỗi bên giữ một bản, đầy 3 năm không ai đề xuất lại thì có thể tự mở niêm phong; Điều 25 hiện vật hiện trường nghi ngờ do truyền dịch, truyền máu, tiêm thuốc gây hậu quả xấu thì niêm phong chung, ủy quyền kiểm nghiệm chung, không thể ủy quyền chung thì do cơ quan chủ quản y tế cấp huyện chỉ định, nghi ngờ do truyền máu thì báo ngân hàng máu cử người tới hiện trường |
 
-顺带核对：docs/核实记录/24-25 里记的「第 24 节第 6 条定 C 级，来源栏写 TODO（医疗纠纷预防和处理条例不在政策文件库中）」已经不成立，该条目前是 A 级并已引条例第十六条原文，本轮无需再动。
+Đối chiếu nhân tiện: Ghi chép trong docs/ho-so-xac-minh/24-25 rằng "chương 24 mục 6 định mức C, cột nguồn ghi TODO (Điều lệ phòng ngừa và xử lý tranh chấp y tế không có trong kho văn bản chính sách)" đã không còn đúng, mục đó hiện là mức A và đã trích nguyên văn Điều 16 của Điều lệ, đợt này không cần đụng nữa.
 
-## 顺带清掉的一处过时 TODO
+## Nhân tiện dọn một chỗ TODO đã lỗi thời
 
-第 5 节第 8 条备注里的「TODO（待核实：民法典第十九条、第一百四十五条原文，npc.gov.cn 与 gov.cn 页面均无法打开）」与紧邻的第 9 条矛盾——第 9 条已从最高检转载全文逐字引出这两条。改为指向第 9 条。全书 TODO 计数 37 → 36。
+Trong ghi chú chương 5 mục 8 có "TODO (chờ kiểm chứng: nguyên văn Điều 19 và Điều 145 Bộ luật Dân sự, trang npc.gov.cn và gov.cn đều không mở được)" mâu thuẫn với mục 9 ngay cạnh — mục 9 đã trích từng chữ hai điều đó từ toàn văn do Viện kiểm sát Tối cao đăng lại. Đổi thành trỏ tới mục 9. Số TODO toàn sách 37 → 36.
 
-## 统计
+## Thống kê
 
-全书 382 → 392 条，A 级 239 → 248，B 级 95 → 96，C 级 48 不变；性价比极高 67 → 69、高 191 → 196、一般 124 → 127；争议 42 不变，TODO 37 → 36；book/ 目录下的原始文献链接 743 → 758。
+Toàn sách 382 → 392 mục, mức A 239 → 248, mức B 95 → 96, mức C 48 không đổi; hiệu quả chi phí rất cao 67 → 69, cao 191 → 196, trung bình 124 → 127; tranh cãi 42 không đổi, TODO 37 → 36; liên kết tài liệu gốc dưới thư mục book/ 743 → 758.

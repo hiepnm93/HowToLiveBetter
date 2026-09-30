@@ -1,27 +1,27 @@
-# 追加：孩子养不了时的合法出路与红线 · 核实记录（2026-09-09）
+# Bổ sung: lối đi hợp pháp và ranh giới đỏ khi không thể nuôi con · Hồ sơ xác minh (2026-09-09)
 
-任务来源：读者看到「产妇把刚出生的孩子掐死丢进垃圾桶」的新闻，问要不要加相关条目。
+Nguồn nhiệm vụ: Người đọc thấy tin "sản phụ bóp cổ con vừa sinh vứt vào thùng rác", hỏi có nên thêm mục liên quan hay không.
 
-判断：新闻里那个行为本身不需要一条建议——没人会因为读到「掐死婴儿是故意杀人」而改变决定。有价值的是它周边的岔路口：**养不了的时候合法出口在哪，以及「送人」和「卖」的界线在哪**。这一段全书零覆盖：搜「送养」「收养」「遗弃」「拐卖」「弃婴」在 book/ 下全部零命中。
+Đánh giá: Bản thân hành vi trong tin tức không cần một mục khuyên — không ai thay đổi quyết định chỉ vì đọc được "bóp cổ trẻ sơ sinh là cố ý giết người". Thứ có giá trị là các ngã rẽ quanh nó: **khi không nuôi nổi thì lối ra hợp pháp nằm ở đâu, và ranh giới giữa "cho đi" với "bán" ở đâu**. Đoạn này toàn sách phủ điểm không: tìm "cho làm con nuôi", "nhận con nuôi", "bỏ rơi", "buôn bán người", "trẻ bị bỏ rơi" dưới book/ đều không trúng chỗ nào.
 
-先核对了已有覆盖，避免重复：产后抑郁筛查在第 27 节第 16 条，「有伤害自己或者伤害孩子的念头」这条红线信号已经写在第 27 节第 7 条的「立刻去医院」清单里，第 1 节第 25 条有自杀念头的处置，第 8 节第 14 条有近亲属送诊权。所以精神状态那一头不缺，缺的是法律出口这一头。
+Đã đối chiếu phần phủ trước đó để tránh trùng lặp: Sàng lọc trầm cảm sau sinh ở chương 27 mục 16, tín hiệu ranh giới đỏ "có ý định làm hại mình hoặc làm hại con" đã nằm trong danh sách "lập tức đi bệnh viện" của chương 27 mục 7, chương 1 mục 25 có cách xử khi có ý định tự tử, chương 8 mục 14 có quyền đưa người thân gần đi khám. Vậy phía trạng thái tinh thần không thiếu, thiếu là phía lối ra pháp lý.
 
-落点：第 9 节末尾新增第 19 条（追加到末尾，零改编号）。第 9 节的定位是「普通人容易踩的法律红线，每条尽量配官方案例」，这一条正好是一条不知道就会踩、且后果最重的线。第 27 节第 16 条备注加一句指向它。
+Điểm rơi: Thêm mục 19 mới ở cuối chương 9 (nối vào cuối chương, không phải đổi số mục nào). Định vị của chương 9 là "các ranh giới đỏ pháp lý thường dân dễ giẫm phải, mỗi mục cố gắng kèm án lệ chính thức", mục này đúng là một ranh không biết thì sẽ giẫm, mà hậu quả lại nặng nhất. Ghi chú của chương 27 mục 16 thêm một câu trỏ tới nó.
 
-## 第 9 节第 19 条
+## Chương 9 mục 19
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu | Trích dẫn nguyên văn |
 |---|---|---|
-| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>（最高检转载刑法） | 是 | 第二百四十条：「拐卖妇女、儿童的，处五年以上十年以下有期徒刑，并处罚金」，加重情形处十年以上有期徒刑或者无期徒刑并处罚金或者没收财产，「情节特别严重的，处死刑，并处没收财产」；第二百六十一条：「对于年老、年幼、患病或者其他没有独立生活能力的人，负有扶养义务而拒绝扶养，情节恶劣的，处五年以下有期徒刑、拘役或者管制」 |
-| <https://www.court.gov.cn/fabu/xiangqing/977.html>（最高人民法院官网，法发〔2010〕7 号，2010 年 3 月 15 日，两高与公安部、司法部联合印发《关于依法惩治拐卖妇女儿童犯罪的意见》） | 是 | 第 17 条：区分借送养之名出卖亲生子女与民间送养，「区分的关键在于行为人是否具有非法获利的目的」；可以认定为出卖亲生子女、以拐卖妇女儿童罪论处的三种情形：「将生育作为非法获利手段，生育后即出卖子女的」「明知对方不具有抚养目的，或者根本不考虑对方是否具有抚养目的，为收取钱财将子女『送』给他人的」「为收取明显不属于『营养费』、『感谢费』的巨额钱财将子女『送』给他人的」；不以非法获利为目的、迫于生活困难私自送养并收取少量营养费感谢费的，属民间送养 |
-| <https://xxgk.yczf.gov.cn/xzf/ycmzj/fdzdgknr/fgwj_41995/202112/t20211203_1506640.shtml>（盐城市人民政府转载民法典收养编） | 是 | 第一千零九十四条：「下列个人、组织可以作送养人：（一）孤儿的监护人；（二）儿童福利机构；（三）有特殊困难无力抚养子女的生父母。」第一千一百零五条第一款：「收养应当向县级以上人民政府民政部门登记。收养关系自登记之日起成立。」 |
+| <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> (Viện kiểm sát Nhân dân Tối cao đăng lại Bộ luật Hình sự) | Có | Điều 240: “Buôn bán phụ nữ, trẻ em thì phạt tù từ năm đến mười năm, kèm phạt tiền”, tình tiết nặng hơn phạt tù trên mười năm hoặc chung thân kèm phạt tiền hoặc tịch thu tài sản, “tình tiết đặc biệt nghiêm trọng thì phạt tử hình, kèm tịch thu tài sản”; Điều 261: “Với người già, trẻ nhỏ, người mắc bệnh hoặc người khác không có khả năng tự nuôi sống bản thân, người có nghĩa vụ nuôi dưỡng mà từ chối nuôi dưỡng, tình tiết độc ác thì phạt tù dưới năm năm, giam giữ ngắn hạn hoặc quản chế” |
+| <https://www.court.gov.cn/fabu/xiangqing/977.html> (Website Tối cao Pháp viện, văn bản số 7/2010, ngày 15-03-2010, hai cơ quan tối cao cùng Bộ Công an, Bộ Tư pháp liên tịch ban hành "Ý kiến về việc trừng trị theo pháp luật tội phạm buôn bán phụ nữ, trẻ em") | Có | Điều 17: phân biệt việc bán con đẻ mượn danh cho làm con nuôi với việc cho nuôi trong dân gian, “chìa khóa phân biệt là người thực hiện có mục đích thu lợi bất hợp pháp hay không”; ba trường hợp có thểxác định là bán con đẻ, xử theo tội buôn bán phụ nữ, trẻ em:“dùng việc sinh con làm phương thức thu lợi bất hợp pháp, sinh xong lập tức bán con”, “biết rõ đối phương không có mục đích nuôi dưỡng, hoặc hoàn toàn không xét xem đối phương có mục đích nuôi dưỡng hay không, mà 'cho' con cho người khác để nhận tiền”, “'cho' con cho người khác để nhận khoản tiền khổng lồ rõ ràng không thuộc 'tiền dinh dưỡng', 'tiền cảm tạ'”; không lấy thu lợi bất hợp pháp làm mục đích, bị cuộc sống khó khăn ép buộc mà tự cho nuôi và nhận ít tiền dinh dưỡng, tiền cảm tạ thì thuộc cho nuôi trong dân gian |
+| <https://xxgk.yczf.gov.cn/xzf/ycmzj/fdzdgknr/fgwj_41995/202112/t20211203_1506640.shtml> (Chính quyền thành phố Diêm Thành đăng lại phần nhận con nuôi của Bộ luật Dân sự) | Có | Điều 1094: “Các cá nhân, tổ chức dưới đây có thể là người cho nuôi: (1) người giám hộ của trẻ mồ côi; (2) cơ sở phúc lợi trẻ em; (3) cha mẹ đẻ có khó khăn đặc biệt, không đủ sức nuôi con.” Khoản 1 Điều 1105: “Việc nhận nuôi phải đăng ký với cơ quan dân chính của chính quyền nhân dân cấp huyện trở lên. Quan hệ nhận nuôi có hiệu lực kể từ ngày đăng ký.” |
 
-抓取备注：公安部官网 mps.gov.cn 上同一份意见的页面本次返回 521，改用最高人民法院官网的印发通知页，文号与印发机关在同页核对。民法典收养编在最高检那份全文页上取不到（该页抓取多次只覆盖到前几编），改用盐城市政府转载页。
+Ghi chú lấy trang: Trang của cùng văn bản Ý kiến này trên website Bộ Công an mps.gov.cn lần này trả lỗi 521, chuyển sang trang thông báo ban hành trên website Tối cao Pháp viện, số văn bản và cơ quan ban hành đối chiếu ngay trên trang đó. Phần nhận con nuôi của Bộ luật Dân sự không lấy được từ trang toàn văn của Viện kiểm sát Tối cao (trang đó lấy nhiều lần chỉ phủ tới vài phần đầu sách), chuyển sang trang đăng lại của chính quyền thành phố Diêm Thành.
 
-定级 A：三份都是现行有效的官方文件，条文给出了明确的量刑档次和可操作的区分标准。收益量级「大」——自由口径，这条避免的是刑事责任，而且是刑法里最重的一档之一。成本 钱=0 时间=中 毅力=否，合成为「高」。
+Định mức A: Cả ba văn bản đều là văn bản chính thức còn hiệu lực, điều văn cho khung hình phạt rõ ràng và tiêu chí phân biệt khả thi. Cỡ lợi ích "lớn" — theo thước đo tự do thân xác, thứ mục này tránh được là trách nhiệm hình sự, mà lại thuộc một trong những khung nặng nhất của Bộ luật Hình sự. Chi phí tien=0 thoi-gian=trung y-luc=khong, hợp thành "cao".
 
-本条没有配案例：第 9 节的惯例是尽量配官方公布的真实案例，但拐卖亲生子女的官方典型案例本轮未逐案核对，宁可只引条文，正文备注里写明了这一点。
+Mục này không kèm án lệ: Quy tắc của chương 9 là cố gắng kèm án lệ thực tế do cơ quan chính thức công bố, nhưng các án lệ điển hình chính thức về buôn bán con đẻ trong đợt này chưa được đối chiếu từng vụ, thà chỉ trích điều văn, phần ghi chú của nội dung đã viết rõ điểm này.
 
-## 统计
+## Thống kê
 
-全书 472 → 473 条，A 级 300 → 301，性价比「高」236 → 237，极高 83、一般 153 不变。README 条目数与徽章、第 9 节目录简介，index.html 的五处描述、numberOfPages 与页头条目数，CLAUDE.md 第 9 节目录条目，均已同步。og.png 也重新出了一版：tools/og.html 里的三个数字改成 473 条建议、A 级证据 301 条、918 条原始文献链接，按文件头注释的命令用 Chrome 无头模式重新截图（--window-size=1200,630，--force-device-scale-factor=1）。链接数按注释写的口径统计——book/ 下所有「- 来源：」和「- 备注：」行里的 http(s) 链接总数，本次为 918（上次出图时是 891）；这个口径和核实记录里常写的「book/ 下原始文献链接」不是一回事，后者只数来源栏，本次为 901，两个数字别混用。教训记一笔：以后改条目数或 A 级数，README、index.html、CLAUDE.md 之外还要过一遍 tools/og.html 并重出 og.png，本轮是被读者提醒才补的。
+Toàn sách 472 → 473 mục, mức A 300 → 301, hiệu quả chi phí "cao" 236 → 237, "rất cao" 83, "trung bình" 153 không đổi. Số mục và badge README, phần giới thiệu mục lục chương 9, năm chỗ mô tả trong index.html, numberOfPages và số mục ở header, mục mục lục chương 9 trong CLAUDE.md đều đã đồng bộ. og.png cũng xuất lại một bản: ba con số trong tools/og.html đổi thành 473 đề xuất, Bằng chứng mức A 301 mục, 918 liên kết tài liệu gốc, chụp lại ảnh bằng Chrome chế độ không giao diện theo lệnh ghi trong comment đầu file (--window-size=1200,630, --force-device-scale-factor=1). Số liên kết thống kê theo thước đo ghi trong comment — tổng số liên kết http(s) trong tất cả các dòng "- Nguồn:" và "- Ghi chú:" dưới book/, lần này là 918 (lần xuất ảnh trước là 891); thước đo này không phải một cái với cụm "liên kết tài liệu gốc trong book/" hay viết trong hồ sơ xác minh, cái sau chỉ đếm cột nguồn, lần này là 901, đừng lẫn hai con số. Ghi lại một bài học: từ giờ khi đổi số mục hoặc số mức A, ngoài README, index.html, CLAUDE.md còn phải qua tools/og.html và xuất lại og.png, đợt này là nhờ độc giả nhắc mới bổ sung kịp.

@@ -1,36 +1,36 @@
-# 追加：第 5 节第 39 条，境外投资走合法渠道（issue #41）
+# Bổ sung: chương 5 mục 39, đầu tư ở nước ngoài đi kênh hợp pháp (issue #41)
 
-2026-09-28。issue #41 原文是「别碰 A 股，早开美股账户，享受躺赢人生」，没有给来源。
+2026-09-28. Nguyên văn issue #41 là “đừng đụng vào thị trường cổ phiếu A, mở sớm tài khoản cổ phiếu Mỹ, hưởng cuộc đời nằm không cũng thắng”, không đưa nguồn.
 
-## 没有照收的部分
+## Phần không tiếp nhận nguyên bản
 
-- 「别碰 A 股」「美股躺赢」：这是对市场走势的判断，没有可引用的原始文献支撑。它和第 17 条（宽基指数基金）、第 19 条（别把钱押在一只股票）的思路相反：那两条讲的是不押单一市场、不追过去的表现。本书不给哪个市场会涨的判断。
-- 「早开美股账户」：境内居民通过境外互联网券商开户，2022 年底起已被证监会认定为非法跨境展业。2026 年 5 月起进入两年集中整治，新开户被禁止。这条路按原样写进书，会把读者往违规方向引。
+- “Đừng đụng vào thị trường cổ phiếu A”, “cổ phiếu Mỹ nằm không cũng thắng”: đây là phán đoán về xu thế thị trường, không có tài liệu gốc nào dẫn được để bảo trợ. Nó ngược hướng với mục 17 (quỹ chỉ số rộng) và mục 19 (đừng dốc tiền vào một cổ phiếu): hai mục đó nói là đừng dồn vào một thị trường duy nhất, đừng chạy theo thành tích trong quá khứ. Sách này không đưa phán đoán thị trường nào sẽ tăng.
+- “Mở sớm tài khoản cổ phiếu Mỹ”: cư dân trong nước mở tài khoản qua công ty chứng khoán Internet ở nước ngoài, từ cuối năm 2022 đã bị Ủy ban Chứng khoán Quốc gia xác định là kinh doanh xuyên biên giới bất hợp pháp. Từ tháng 5/2026 vào giai đoạn chỉnh đốn tập trung hai năm, việc mở tài khoản mới bị cấm. Viết con đường này nguyên trạng vào sách sẽ dẫn độc giả đi theo hướng vi phạm quy định.
 
-## 收进来的部分
+## Phần tiếp nhận
 
-issue 真正碰到的问题是：想配海外资产的人，合法的路在哪。第 5 节原来没有这一条，补在节末，没有插在中间，免得后面的条号整体顺延。
+Vấn đề mà issue thực sự chạm tới là: người muốn phân bổ tài sản ở hải ngoại, con đường hợp pháp nằm ở đâu. Chương 5 trước đây chưa có mục này, bổ sung ở cuối chương, không chèn vào giữa, tránh để số thứ tự các mục phía sau bị dịch chuyển toàn bộ.
 
-## 1. 八部门整治方案
-- URL：<https://www.csrc.gov.cn/csrc/c100028/c7634324/content.shtml>
-- 已确认：发布日期 2026-05-22；发文部门为证监会、工业和信息化部、公安部、中国人民银行、市场监管总局、金融监管总局、国家网信办、国家外汇局。
-- 原文：「经过2年集中整治，全面取缔境外证券期货基金经营机构非法跨境经营活动」；「禁止境外机构为存量投资者在境内非法提供买入交易、转入资金等服务，只允许单向卖出交易并转出资金」；「禁止境外机构在境内开展证券期货基金业务相关营销招揽活动、提供相关开户、处理交易指令、资金划转等交易服务」。
+## 1. Phương án chỉnh đốn của tám bộ ngành
+- URL: <https://www.csrc.gov.cn/csrc/c100028/c7634324/content.shtml>
+- Đã xác nhận: ngày phát hành 2026-05-22; các cơ quan ban hành là Ủy ban Chứng khoán Quốc gia, Bộ Công nghiệp và Công nghệ thông tin, Bộ Công an, Ngân hàng Nhân dân Trung Quốc, Tổng cục Giám sát thị trường, Tổng cục Giám sát tài chính, Cục Quản lý không gian mạng quốc gia, Cục Quản lý ngoại hối quốc gia.
+- Nguyên văn: “qua hai năm chỉnh đốn tập trung, cấm chỉ toàn diện hoạt động kinh doanh xuyên biên giới bất hợp pháp của các tổ chức kinh doanh chứng khoán, hàng hóa kỳ hạn, quỹ ở nước ngoài”; “cấm các tổ chức nước ngoài bất hợp pháp cung cấp trong nước cho nhà đầu tư hiện hữu các dịch vụ giao dịch mua vào, chuyển tiền vào, chỉ cho phép giao dịch bán ra một chiều và chuyển tiền ra”; “cấm các tổ chức nước ngoài triển khai trong nước các hoạt động tiếp thị, lôi kéo liên quan đến nghiệp vụ chứng khoán, hàng hóa kỳ hạn, quỹ, cung cấp các dịch vụ giao dịch như mở tài khoản, xử lý lệnh giao dịch, chuyển dịch vốn”.
 
-## 2. 答记者问
-- URL：<https://www.csrc.gov.cn/csrc/c100028/c7634328/content.shtml>
-- 已确认：发布日期 2026-05-22。
-- 原文：「设置2年集中整治期清理非法存量业务」；整治期满后「全面关停境内网站、交易软件及配套服务器，禁止为存量投资者在境内非法提供交易等服务」；「引导境内投资者通过港股通、合格境内机构投资者（QDII）及跨境理财通等合法渠道开展境外投资」。
-- 未找到：对投资者本人的处罚、账户是否强制注销。条目备注只写「文件没有写对投资者本人的处罚」，不写「账户不会被注销」（后者只在新华网等媒体报道里见到，没在证监会原文里核到）。
+## 2. Trả lời phỏng vấn báo chí
+- URL: <https://www.csrc.gov.cn/csrc/c100028/c7634328/content.shtml>
+- Đã xác nhận: ngày phát hành 2026-05-22.
+- Nguyên văn: “đặt thời hạn chỉnh đốn tập trung hai năm để dọn sạch nghiệp vụ hiện hữu bất hợp pháp”; sau khi hết thời hạn chỉnh đốn thì “đóng cửa toàn diện các trang web trong nước, phần mềm giao dịch và máy chủ kèm theo, cấm việc bất hợp pháp cung cấp trong nước các dịch vụ giao dịch v.v. cho nhà đầu tư hiện hữu”; “hướng dẫn nhà đầu tư trong nước tiến hành đầu tư ở nước ngoài thông qua các kênh hợp pháp như kênh Cảng Cổ Thông (kênh giao dịch cổ phiếu Hồng Kông), QDII (nhà đầu tư tổ chức trong nước đủ tiêu chuẩn) và kênh kết nối quản lý tài sản xuyên biên giới”.
+- Không tìm thấy: hình phạt đối với bản thân nhà đầu tư, tài khoản có bị ép hủy hay không. Ghi chú của mục chỉ viết “văn bản không nói đến hình phạt với bản thân nhà đầu tư”, không viết “tài khoản sẽ không bị hủy” (cái sau chỉ thấy trong bài đưa tin của Tân Hoa v.v., không đối chiếu được trong nguyên văn của Ủy ban Chứng khoán).
 
-## 3. 老虎、富途、长桥的处罚通报
-- URL：<https://www.csrc.gov.cn/csrc/c100028/c7634330/content.shtml>
-- 已确认：发布日期 2026-05-22。
-- 原文：「我会拟决定没收老虎、富途、长桥境内外相关主体全部违法所得，并依法严厉处罚」。
+## 3. Thông báo xử phạt Tiger, Futu, Longbridge
+- URL: <https://www.csrc.gov.cn/csrc/c100028/c7634330/content.shtml>
+- Đã xác nhận: ngày phát hành 2026-05-22.
+- Nguyên văn: “Ủy ban dự quyết định tịch thu toàn bộ thu lợi bất hợp pháp trong và ngoài nước của các chủ thể liên quan của Tiger, Futu, Longbridge, đồng thời xử phạt nghiêm khắc theo pháp luật”.
 
-## 4. 个人购汇申请书
-- URL：<https://www.safe.gov.cn/safe/file/file/20210402/30fab7a9646f417ca9d2f67ff4c1e5f0.pdf>（国家外汇管理局官网，附件 1；m.safe.gov.cn 的同一文件证书不匹配，改用 www 域名）
-- 原文：「不得用于境外买房、证券投资、购买人寿保险和投资性返还分红类保险等尚未开放的资本项目」；「“关注名单”内个人列入“关注名单”的当年及之后连续 2 年不享有个人便利化额度」；「外汇管理机关将依据《中华人民共和国外汇管理条例》等予以行政处罚，同时依法移送反洗钱调查，相关信息依法纳入个人征信记录」。
+## 4. Đơn xin mua ngoại hối của cá nhân
+- URL: <https://www.safe.gov.cn/safe/file/file/20210402/30fab7a9646f417ca9d2f67ff4c1e5f0.pdf> (trang chủ Cục Quản lý ngoại hối quốc gia, phụ lục 1; cùng tệp trên m.safe.gov.cn có chứng chỉ không khớp, đổi sang tên miền www)
+- Nguyên văn: “không được dùng để mua nhà ở nước ngoài, đầu tư chứng khoán, mua bảo hiểm nhân thọ và các loại bảo hiểm hoàn vốn, cổ tức mang tính đầu tư v.v. — các hạng mục vốn chưa mở cửa”; “cá nhân trong ‘danh sách theo dõi’ trong năm bị đưa vào ‘danh sách theo dõi’ và hai năm liên tiếp sau đó không được hưởng hạn mức thuận tiện hóa cá nhân”; “cơ quan quản lý ngoại hối sẽ xử phạt hành chính theo ‘Quy chế quản lý ngoại hối của nước Cộng hòa Nhân dân Trung Hoa’ v.v., đồng thời chuyển điều tra rửa tiền theo pháp luật, thông tin liên quan được đưa vào hồ sơ tín dụng cá nhân theo pháp luật”.
 
-## 收益量级与证据等级
-- 证据等级 A：四份都是官方原文，期限、处罚后果都有明文。
-- 收益定「中」、口径定「金钱」：没有可以套阈值的金额。它换回的是两样：钱不被卡在只能卖出的账户里，也不被取消换汇额度、受行政处罚。按金钱口径的阈值说不出是万元级，按自由口径是「避免行政处罚」，也落在「中」。取「中」，口径随第 5 节用金钱。
+## Quy mô lợi ích và mức bằng chứng
+- Mức bằng chứng A: cả bốn tài liệu đều là nguyên văn chính thức, thời hạn và hậu quả xử phạt đều có văn bản nói rõ.
+- Lợi ích định “trung”, thước đo định “tiền bạc”: không có khoản tiền nào để áp ngưỡng. Nó đổi lại được hai thứ: tiền không bị kẹt trong tài khoản chỉ có thể bán ra, và không bị hủy hạn mức mua ngoại hối, không chịu xử phạt hành chính. Theo ngưỡng của thước đo tiền thì nói không nên là cỡ 10.000 yên, theo thước đo tự do thì là “tránh được xử phạt hành chính”, cũng rơi vào “trung”. Lấy “trung”, thước đo theo chương 5 dùng tiền bạc.

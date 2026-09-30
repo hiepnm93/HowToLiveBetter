@@ -1,22 +1,22 @@
-# issue #30：国家赔偿的免责情形补全，加录音、拍照留证两条（2026-09-25）
+# issue #30: Bổ sung đủ các trường hợp miễn trách của bồi thường nhà nước, thêm hai mục ghi âm và chụp ảnh lưu chứng (2026-09-25)
 
-任务来源：GitHub issue #30（ceiminya）。一是指出第 8 节第 35 条（国家赔偿）只写了国家赔偿法第十九条第一项，漏了相对不起诉等不赔情形；二是建议加「录音」「拍现场」两条取证条目，附了草稿。issue 里的草稿和引文只当线索，下表每一条都是本轮自己抓原文逐字核的。
+Nguồn công việc: GitHub issue #30 (ceiminya). Thứ nhất, chỉ ra rằng chương 8 mục 35 (bồi thường nhà nước) chỉ viết khoản 1 Điều 19 của Luật Bồi thường Nhà nước, bỏ sót các trường hợp không bồi thường như không khởi tố tương đối; thứ hai, đề nghị thêm hai mục thu thập chứng cứ “ghi âm” và “chụp hiện trường”, kèm theo bản nháp. Bản nháp và trích dẫn trong issue chỉ dùng làm manh mối, từng dòng trong bảng dưới đây đều là vòng này tự tải nguyên văn để đối chiếu từng chữ.
 
-## 逐条核对
+## Đối chiếu từng mục
 
-| 用到哪 | 来源 | 复核方式 | 原文要点 |
+| Dùng vào đâu | Nguồn | Cách đối chiếu | Điểm chính trong nguyên văn |
 |---|---|---|---|
-| 第 35 条 | 国家赔偿法（2012 修正）第十九条，<https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html> | curl 直取 | 六项全文与 issue 表格一致；第三项引「刑事诉讼法第十五条、第一百七十三条第二款、第二百七十三条第二款、第二百七十九条」 |
-| 第 35 条 | 法释〔2015〕24 号，<https://www.court.gov.cn/zixun/xiangqing/16409.html> | curl 直取 | 第七条：不负刑事责任的人和依第十五条、第一百七十三条第二款不追究的人被羁押，国家不赔；起诉后错判并已执行的，判决确定后继续监禁期间要赔。第八条：以第十九条第一、五项免责的，赔偿义务机关举证 |
-| 第 35 条 | 刑事诉讼法（2018 修正），<https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml> | curl 直取 | 条号对应：原 15→16（六种不追究情形），原 173 条第二款→177 条第二款（犯罪情节轻微可以不起诉），原 273 条第二款→284 条第二款（附条件不起诉考验期满），原 279→290（和解后不起诉）；第一百八十一条：对 177 条第二款不起诉不服，7 日内向检察院申诉 |
-| 第 41、42 条 | 民事诉讼法（2023 修正）第六十六条，上海市发改委转载 | curl 直取 | 证据八类，含物证、视听资料、电子数据。issue 给的 cicc.court.gov.cn 链接本机只返回 141 字节，改用仓库已在用的转载页 |
-| 第 41 条 | 民诉法解释（2022 第二次修正）第一百零六条，<https://www.court.gov.cn/fabu/xiangqing/353651.html> | curl 直取 | 「对以严重侵害他人合法权益、违反法律禁止性规定或者严重违背公序良俗的方法形成或者获取的证据，不得作为认定案件事实的根据」 |
-| 第 41、42 条 | 民事诉讼证据规定（2019 修正）第十四、十五、九十条，<https://www.court.gov.cn/zixun/xiangqing/212721.html> | curl 直取 | 第十四条电子数据含图片、音频、视频；第十五条视听资料交原始载体、电子数据交原件；第九十条第四项存有疑点的视听资料、电子数据不能单独作为认定事实的根据 |
-| 第 41 条 | 《电影〈消失的她〉中的法律》，<https://www.court.gov.cn/zixun/xiangqing/406032.html> | curl 直取 | 实为人民法院报刊发、义乌法院法官刘丹妮署名、最高法官网「法官文苑」转载，不是 issue 说的「最高人民法院公开普法案例」，来源栏按实际作者写。要点：不得窃听、窥探隐私、侵入住宅取证，不能威胁胁迫；原始载体、不剪辑、连贯、与案件有关 |
+| Mục 35 | Điều 19 Luật Bồi thường Nhà nước (sửa đổi 2012), <https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html> | Lấy trực tiếp bằng curl | Sáu khoản toàn văn trùng khớp với bảng trong issue; khoản 3 trích “Điều 15, khoản 2 Điều 173, khoản 2 Điều 273, Điều 279 của Luật Tố tụng hình sự” |
+| Mục 35 | Pháp thích [2015] số 24 (giải thích tư pháp của TAND Nhân dân Tối cao), <https://www.court.gov.cn/zixun/xiangqing/16409.html> | Lấy trực tiếp bằng curl | Điều 7: người không phải chịu trách nhiệm hình sự và người không bị truy cứu theo Điều 15, khoản 2 Điều 173 nếu bị giam giữ thì nhà nước không bồi thường; bị khởi tố rồi xét xử sai và đã thi hành án, thì giai đoạn giam giữ tiếp diễn sau khi phán quyết có hiệu lực phải bồi thường. Điều 8: trường hợp được miễn trách theo khoản 1 và khoản 5 Điều 19 thì cơ quan có nghĩa vụ bồi thường phải đưa chứng cứ |
+| Mục 35 | Luật Tố tụng hình sự (sửa đổi 2018), <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml> | Lấy trực tiếp bằng curl | Tương ứng số Điều: Điều 15 cũ → Điều 16 (sáu trường hợp không truy cứu), khoản 2 Điều 173 cũ → khoản 2 Điều 177 (tình tiết phạm tội nhẹ có thể không khởi tố), khoản 2 Điều 273 cũ → khoản 2 Điều 284 (hết thời hạn thử thách của không khởi tố có điều kiện), Điều 279 cũ → Điều 290 (không khởi tố sau khi hòa giải); Điều 181: nếu không chấp nhận quyết định không khởi tố theo khoản 2 Điều 177 thì khiếu nại lên viện kiểm sát trong vòng 7 ngày |
+| Mục 41, 42 | Điều 66 Luật Tố tụng dân sự (sửa đổi 2023), trang do Ủy ban Phát triển và Cải cách thành phố Thượng Hải đăng lại | Lấy trực tiếp bằng curl | Tám loại chứng cứ, gồm chứng cứ vật chất, tài liệu nghe nhìn, dữ liệu điện tử. Liên kết cicc.court.gov.cn mà issue đưa trên máy này chỉ trả về 141 byte, đổi sang trang đăng lại mà repo đang dùng |
+| Mục 41 | Điều 106 Giải thích Luật Tố tụng dân sự (sửa đổi lần thứ hai năm 2022), <https://www.court.gov.cn/fabu/xiangqing/353651.html> | Lấy trực tiếp bằng curl | “Chứng cứ được hình thành hoặc thu nhận bằng phương pháp xâm phạm nghiêm trọng quyền và lợi ích hợp pháp của người khác, vi phạm quy định cấm của luật, hoặc đi ngược nghiêm trọng phong tục tốt đẹp của công chúng thì không được dùng làm căn cứ xác định sự thật của vụ án” |
+| Mục 41, 42 | Quy định về chứng cứ trong tố tụng dân sự (sửa đổi 2019), Điều 14, 15, 90, <https://www.court.gov.cn/zixun/xiangqing/212721.html> | Lấy trực tiếp bằng curl | Điều 14: dữ liệu điện tử gồm hình ảnh, âm thanh, video; Điều 15: tài liệu nghe nhìn nộp phương tiện gốc, dữ liệu điện tử nộp bản gốc; khoản 4 Điều 90: tài liệu nghe nhìn, dữ liệu điện tử còn có điểm nghi vấn thì không thể một mình làm căn cứ xác định sự thật |
+| Mục 41 | Bài “Pháp luật trong bộ phim ‘Nàng đã biến mất’”, <https://www.court.gov.cn/zixun/xiangqing/406032.html> | Lấy trực tiếp bằng curl | Thực chất do báo Tòa án Nhân dân đăng, do thẩm phán tòa án thành phố Nghĩa Ô là Lưu Đan Ni ký tên, được trang chủ TAND Nhân dân Tối cao đăng lại trong chuyên mục “Vườn văn thẩm phán”, không phải “tuyên truyền pháp lý công khai của TAND Nhân dân Tối cao” như issue nói, cột nguồn ghi theo tác giả thực. Điểm chính: không được nghe lén, nhìn trộm đời tư, xâm nhập nhà ở để thu thập chứng cứ, không được đe dọa, cưỡng ép; phải có phương tiện gốc, không cắt ghép, liền mạch, liên quan đến vụ án |
 
-## 处理
+## Xử lý
 
-- 第 35 条：收益栏把第十九条六项写全，补法释〔2015〕24 号第七、八条；说人话换掉「有一种情况国家不赔」；备注加「先看不起诉决定书写的依据」和 7 日申诉；来源栏补两处并注明 2012/2018 刑诉法条号对应。标题未改（标题只许加字，现标题的「不起诉」读者看了备注和说人话即可知道有例外）。
-- 第 41 条（录音）：A。受益人是自己和家人。补了 issue 草稿没有的两点：录音别发网上（隐私与名誉纠纷，指向第 16 条），本条依据是民事诉讼规则。
-- 第 42 条（拍现场）：C。法律只管照片录像能当证据、要交原件，「全景—位置—细节」顺序是经验，issue 自己也提到可以降为 C。
-- 两条追加在第 8 节末尾，不插中间，避免条号顺延。引用对照从 548 处涨到 551 处，新增 3 处，对得上。
+- Mục 35: cột Lợi ích viết đủ sáu khoản của Điều 19, bổ sung Điều 7 và Điều 8 của Pháp thích [2015] số 24; dòng Hiểu nhanh thay cụm “có một trường hợp nhà nước không bồi thường”; Ghi chú thêm “xem trước căn cứ được ghi trong quyết định không khởi tố” và quyền khiếu nại trong 7 ngày; cột Nguồn bổ sung hai nơi và ghi chú tương ứng số Điều giữa hai bản Luật Tố tụng hình sự 2012/2018. Tiêu đề không đổi (tiêu đề chỉ được phép thêm chữ, độc giả đọc Ghi chú và Hiểu nhanh của tiêu đề hiện tại là biết có ngoại lệ).
+- Mục 41 (ghi âm): A. Người thụ lợi là chính mình và gia đình. Bổ sung hai điểm mà bản nháp trong issue không có: đừng đưa bản ghi âm lên mạng (tranh chấp về quyền riêng tư và danh dự, trỏ về mục 16), căn cứ của mục này là quy tắc tố tụng dân sự.
+- Mục 42 (chụp hiện trường): C. Luật chỉ quy định ảnh, video có thể làm chứng cứ và phải nộp bản gốc, còn trình tự “toàn cảnh — vị trí — chi tiết” là kinh nghiệm, chính issue cũng có nhắc có thể hạ xuống C.
+- Hai mục được nối vào cuối chương 8, không chèn vào giữa, tránh việc dịch chuyển số thứ tự các mục. Phần đối chiếu nguồn (bang-doi-chieu-nguon) tăng từ 548 lên 551 chỗ, thêm mới 3 chỗ, khớp với nhau.

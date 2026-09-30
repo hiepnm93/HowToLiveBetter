@@ -1,59 +1,59 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 18. 养孩子划不划算
+# 18. Nuôi con có đáng không
 
-这一节算的是钱和时间两笔账。和第 10 节算结婚账一样，这里只把账拆开给你看，不替你下结论。已经怀孕、要照流程一步步办事的，看第 27 节。
+Chương này tính hai sổ: tiền và thời gian. Giống như chương 10 tính sổ kết hôn, ở đây chỉ xẻ sổ ra cho bạn xem, không thay bạn kết luận. Đã mang thai, cần làm từng bước theo quy trình thì xem chương 27.
 
-### 1. 先把能领的算进来：国家育儿补贴每孩每年 3600 元，发到 3 岁
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。去孩子户口所在地申请，跑一趟就办完
-- 说人话：孩子在 2025 年 1 月 1 日以后出生、还不满 3 周岁，就能领这笔钱。父母中的一个人去孩子户口所在地申请。每个孩子每年 3600 元，一直领到 3 岁。这笔钱不用交个人所得税。申请低保这类救助时，也不算进你家的收入。
-- 收益：中共中央办公厅、国务院办公厅印发的方案规定：2025 年 1 月 1 日起出生、3 周岁以下的婴幼儿，按「每孩每年 3600 元」发放。由孩子的父母一方或者其他监护人去申领。这笔补贴「免征个人所得税」。认定低保这类救助的时候，它「不计入家庭或个人收入」
-- 证据等级：A
-- 来源：中共中央办公厅、国务院办公厅 (2025). 育儿补贴制度实施方案. <https://www.gov.cn/gongbao/2025/issue_12206/202508/content_7035435.html>
-- 备注：这是全国统一的最低线。有的省市另有自己的地方补贴，可以和这笔叠加着一起领。三年加起来 10800 元，在养孩子的开支里只是很小的一块，别把它当成生不生的依据
+### 1. Trước hết đưa phần được lĩnh vào sổ: trợ cấp nuôi con quốc gia mỗi trẻ mỗi năm 3.600 yên, phát đến 3 tuổi
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Đến nơi hộ khẩu của trẻ để xin, đi một chuyến là xong
+- Hiểu nhanh: Trẻ sinh sau ngày 1/1/2025 và chưa đủ 3 tuổi là được lĩnh khoản này. Một trong hai người cha mẹ đến nơi hộ khẩu của trẻ để xin. Mỗi trẻ mỗi năm 3.600 yên, lĩnh đến tận 3 tuổi. Khoản tiền này không phải nộp thuế thu nhập cá nhân. Khi xin bảo đảm tối thiểu và các loại cứu trợ tương tự, cũng không tính vào thu nhập nhà bạn.
+- Lợi ích: Phương án do Văn phòng Trung ương Đảng, Văn phòng Quốc vụ viện ban hành quy định: trẻ sơ sinh sinh từ 1/1/2025, chưa đủ 3 tuổi, phát theo “mỗi trẻ mỗi năm 3.600 yên”. Do một bên cha mẹ của trẻ hoặc người giám hộ khác đến xin lĩnh. Khoản trợ cấp này “miễn thu thuế thu nhập cá nhân”. Khi công nhận bảo đảm tối thiểu và các loại cứu trợ tương tự, nó “không tính vào thu nhập gia đình hoặc cá nhân”
+- Mức bằng chứng: A
+- Nguồn: Văn phòng Trung ương Đảng, Văn phòng Quốc vụ viện (2025). Phương án thực thi chế độ trợ cấp nuôi con. <https://www.gov.cn/gongbao/2025/issue_12206/202508/content_7035435.html>
+- Ghi chú: Đây là vạch sàn thống nhất toàn quốc. Vài tỉnh - thành còn có trợ cấp địa phương riêng, có thể cộng dồn lĩnh cùng khoản này. Ba năm gộp lại 10.800 yên, trong khoản chi nuôi con chỉ là một mẩu rất nhỏ, đừng lấy nó làm căn cứ sinh hay không sinh
 
-### 2. 产假 98 天，生育津贴由生育保险基金按单位上年度职工月平均工资发
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。由单位去申报，你自己不用跑
-- 说人话：生孩子至少能休 98 天产假，其中产前可以先休 15 天。难产再加 15 天。每多生一个孩子，也再加 15 天。这段时间发的钱叫生育津贴，由生育保险基金出。单位没给你上生育保险的，就由单位自己发。
-- 收益：产假天数由国务院规定。「女职工生育享受 98 天产假，其中产前可以休假 15 天；难产的，增加产假 15 天；生育多胞胎的，每多生育 1 个婴儿，增加产假 15 天。」产假期间拿的钱叫生育津贴。已经参加生育保险的，「按照用人单位上年度职工月平均工资的标准由生育保险基金支付」。没参保的，由用人单位按你产假前的工资标准发给你
-- 证据等级：A
-- 来源：国务院 (2012). 女职工劳动保护特别规定（国令第 619 号，第七条、第八条）. <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>
-- 备注：98 天是国家定的最低标准。各省的人口与计划生育条例普遍还要再加 60 天以上的生育奖励假，加起来通常是 158 天起。奖励假这段时间的工资由哪一方出，各省规定不一样
+### 2. Thai sản 98 ngày, trợ cấp sinh đẻ do quỹ bảo hiểm sinh đẻ phát theo lương tháng bình quân của công nhân viên đơn vị năm trước
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền. Đơn vị đứng ra khai báo, bạn không phải chạy
+- Hiểu nhanh: Sinh con ít nhất được nghỉ thai sản 98 ngày, trong đó trước sinh có thể nghỉ trước 15 ngày. Sinh khó cộng thêm 15 ngày. Mỗi thêm một đứa cũng cộng thêm 15 ngày. Khoản tiền phát trong thời gian này gọi là trợ cấp sinh đẻ, do quỹ bảo hiểm sinh đẻ chi. Đơn vị chưa tham gia bảo hiểm sinh đẻ cho bạn thì do đơn vị tự phát.
+- Lợi ích: Số ngày thai sản do Quốc vụ viện quy định. “Lao động nữ sinh con hưởng 98 ngày thai sản, trong đó trước sinh có thể nghỉ 15 ngày; sinh khó cộng thêm 15 ngày thai sản; sinh nhiều thai thì mỗi thêm 1 trẻ cộng thêm 15 ngày.” Tiền nhận trong thời gian thai sản gọi là trợ cấp sinh đẻ. Ai đã tham gia bảo hiểm sinh đẻ thì “do quỹ bảo hiểm sinh đẻ chi trả theo chuẩn lương tháng bình quân của công nhân viên đơn vị sử dụng lao động năm trước”. Chưa tham gia bảo hiểm thì do đơn vị sử dụng lao động phát cho bạn theo chuẩn lương trước khi nghỉ thai sản
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2012). Quy định đặc biệt về bảo vệ lao động nữ (quốc lệnh số 619, điều 7, 8). <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>
+- Ghi chú: 98 ngày là chuẩn sàn quốc gia định. Quy chế dân số và kế hoạch hóa gia đình của các tỉnh thông thường còn cộng thêm từ 60 ngày trở lên thai sản thưởng, gộp lại thường từ 158 ngày trở lên. Khoảng thai sản thưởng này lương do bên nào chi, quy định các tỉnh không giống nhau
 
-### 3. 知道这条：不得因怀孕、生育、哺乳降工资或者辞退
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱
-- 说人话：怀孕、生孩子、喂奶这几段时间里，单位给你降工资或者把你辞了，都是违法的，要按每人 1000 到 5000 元罚款。孩子不满一周岁的，你每天有 1 小时喂奶时间，单位也不能安排你加班和上夜班。索赔怎么走见第 19 节。
-- 收益：国务院规定：「用人单位不得因女职工怀孕、生育、哺乳降低其工资、予以辞退、与其解除劳动或者聘用合同。」这三段时间里单位不能给你减钱，也不能把你辞退或者解约。哺乳未满 1 周岁婴儿的，每天有 1 小时哺乳时间。单位也不得安排你延长劳动时间，不得安排夜班。单位违反上面这些的，按每人 1000 元以上 5000 元以下罚款
-- 证据等级：A
-- 来源：国务院 (2012). 女职工劳动保护特别规定（国令第 619 号，第五条、第九条、第十三条）. <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>
-- 备注：真的被违法辞退了，索赔路径见第 19 节。取证的重点是调岗、降薪的书面通知和聊天记录，这两样要留好
+### 3. Biết mục này: không được vì mang thai, sinh đẻ, cho con bú mà hạ lương hoặc sa thải
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+- Chi phí: Không tốn tiền
+- Hiểu nhanh: Trong những khoảng mang thai, sinh con, cho con bú, đơn vị hạ lương bạn hoặc đuổi bạn đều là trái pháp luật, bị phạt mỗi người từ 1.000 đến 5.000 yên. Con chưa đủ một tuổi, bạn mỗi ngày có 1 tiếng cho con bú, đơn vị cũng không được xếp bạn tăng ca và làm ca đêm. Đòi bồi thường đi thế nào xem chương 19.
+- Lợi ích: Quốc vụ viện quy định: “Đơn vị sử dụng lao động không được vì lao động nữ mang thai, sinh đẻ, cho con bú mà hạ lương, cho thôi việc, chấm dứt hợp đồng lao động hoặc hợp đồng thuê.” Trong ba khoảng này đơn vị không thể bớt tiền của bạn, cũng không thể cho bạn thôi việc hoặc hủy hợp đồng. Cho con bú dưới 1 tuổi, mỗi ngày có 1 tiếng cho con bú. Đơn vị cũng không được xếp bạn kéo dài thời gian lao động, không được xếp ca đêm. Đơn vị vi phạm mấy điều trên, phạt mỗi người từ 1.000 yên trở lên đến dưới 5.000 yên
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2012). Quy định đặc biệt về bảo vệ lao động nữ (quốc lệnh số 619, điều 5, 9, 13). <https://www.gov.cn/zhengce/zhengceku/2012-05/07/content_6584.htm>
+- Ghi chú: Thật sự bị sa thải trái pháp luật thì con đường đòi bồi thường xem chương 19. Trọng tâm lấy chứng cứ là thông báo bằng văn bản về đổi vị trí, giảm lương và tin nhắn trò chuyện, hai thứ này phải giữ kỹ
 
-### 4. 时间账按「谁的时间被占掉」算，不按「辛不辛苦」算
-<!-- 成本标签: 钱=0 时间=多 毅力=是 收益=大 口径=时间 -->
-- 成本：不花钱，花的是时间。孩子 3 岁前基本是全天被占住。难在天天如此，没法咬牙几天就过去
-- 说人话：把每天看孩子的小时数、夜里被吵醒的次数，都折算成时间。再乘上干这些活的那个人的时薪。算出来的数，一般远远大于奶粉尿布钱。所以分工最好在生之前就谈好。
-- 收益：把每天照看孩子的时间、夜里被吵醒的次数，都折算成小时。再乘以干这些活的那个人的时薪。得到的数字通常远大于奶粉尿布钱。照看、做饭、夜里起夜这些活虽然没人付钱，也照这样记进成本。算法和第 10 节算家务的那套一样。先谈好分工，再决定生不生
-- 证据等级：C
-- 来源：作者经验，无直接文献；口径见第 10 节
-- 备注：数字不必算得很准。有用的是两个人在生之前对着同一张表谈分工，免得生完再吵
+### 4. Sổ thời gian tính theo “thời gian của ai bị chiếm mất”, không tính theo “cực hay không cực”
+<!-- Nhan chi phi: tien=0 thoi-gian=nhieu y-luc=co loi-ich=lon kieu=thoi-gian -->
+- Chi phí: Không tốn tiền, tốn là thời gian. Trước 3 tuổi con gần như chiếm trọn cả ngày. Khó ở chỗ ngày nào cũng thế, không thể nghiến răng mấy ngày là qua
+- Hiểu nhanh: Số tiếng trông con mỗi ngày, số lần bị đánh thức giữa đêm, đều quy ra thời gian. Rồi nhân với lương giờ của người làm các việc đó. Con số tính ra, thường lớn xa xa tiền sữa bột tã lót. Nên phân công tốt nhất là bàn xong trước khi sinh.
+- Lợi ích: Thời gian trông con mỗi ngày, số lần bị đánh thức giữa đêm, đều quy ra số giờ. Rồi nhân với lương giờ của người làm các việc đó. Con số nhận được thường lớn xa xa tiền sữa bột tã lót. Trông con, nấu ăn, dậy đêm những việc này tuy không ai trả tiền, cũng ghi vào chi phí theo cách này. Cách tính giống như bộ tính việc nhà ở chương 10. Bàn xong phân công trước, rồi mới quyết định sinh hay không
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm tác giả, không có tài liệu trực tiếp; cách tính xem chương 10
+- Ghi chú: Con số không cần tính quá chuẩn. Cái hữu dụng là hai người trước khi sinh ngồi bàn phân công trên cùng một bảng, để khỏi cãi nhau sau khi sinh
 
-### 5. 钱账分三段算：0 到 3 岁、义务教育、义务教育之后
-<!-- 成本标签: 钱=多 时间=中 毅力=些 收益=大 口径=金钱 -->
-- 成本：花多少钱没有固定数，城市不同、带法不同，差得很远。难在要静下心来把三段账分开算，不能凭感觉拍一个数
-- 说人话：0 到 3 岁的钱，主要花在怎么带上：自己带、老人带，还是请人带。小学到初中这段，主要花在住房和课外。再往后，主要花在升学这条路上。三段的花法完全不同，混在一起只会算出一个吓人的总数。
-- 收益：0 到 3 岁的大头是照料方式：自己带、老人带还是请人带。义务教育阶段（小学到初中）的大头是住房和课外支出。这之后的大头是升学路径。这三段钱花在哪完全不同，混在一起算，只会得到一个吓人的总数
-- 证据等级：C
-- 来源：作者经验，无直接文献
-- 备注：先把育儿补贴、生育津贴、医保报销这些确定能拿到的钱算进来，再看还差多少。别拿网上流传的「养大一个孩子要多少万」做决定，那类数字口径不明，你不知道它算了哪些、又漏了哪些
+### 5. Sổ tiền chia ba đoạn tính: 0 đến 3 tuổi, giáo dục bắt buộc, sau giáo dục bắt buộc
+<!-- Nhan chi phi: tien=nhieu thoi-gian=trung y-luc=chut loi-ich=lon kieu=tien -->
+- Chi phí: Tốn bao nhiêu tiền không có con số cố định, thành thị khác nhau, cách nuôi khác nhau, chênh nhau rất xa. Khó ở chỗ phải tĩnh tâm xẻ sổ ra ba đoạn tính riêng, không thể phỏng cảm ơm ra một con số
+- Hiểu nhanh: Tiền giai đoạn 0 đến 3 tuổi, chủ yếu chi vào cách nuôi: mình nuôi, ông bà nuôi, hay thuê người nuôi. Đoạn tiểu học đến trung học cơ sở, chủ yếu chi vào nhà ở và ngoài giờ học. Càng về sau, chủ yếu chi vào con đường học lên cấp. Ba đoạn cách tiêu hoàn toàn khác, trộn lại với nhau chỉ tính ra một tổng số đáng sợ.
+- Lợi ích: Phần lớn của giai đoạn 0 đến 3 tuổi là cách chăm nom: mình nuôi, ông bà nuôi hay thuê người nuôi. Phần lớn của giai đoạn giáo dục bắt buộc (tiểu học đến trung học cơ sở) là nhà ở và chi tiêu ngoài giờ học. Phần lớn sau đó là con đường học lên cấp. Ba đoạn này tiền tiêu vào đâu hoàn toàn khác, trộn chung lại tính, chỉ nhận được một tổng số đáng sợ
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm tác giả, không có tài liệu trực tiếp
+- Ghi chú: Trước hết tính vào những khoản chắc chắn nhận được như trợ cấp nuôi con, trợ cấp sinh đẻ, phần BHYT thanh toán, rồi xem còn thiếu bao nhiêu. Đừng lấy câu “nuôi lớn một đứa tốn bao nhiêu vạn” lưu hành trên mạng để quyết định, loại con số đó không rõ cách tính, bạn không biết nó tính cả những gì, lại bỏ sót những gì
 
-### 6. 为长辈生、为婚姻生、为养老生，各记一笔账
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
-- 成本：不花钱，花的是一次认真的谈话。难在要把话说开，不绕过去
-- 说人话：别人希望你生，这可以算你的一个考虑因素。但时间和钱是记在你自己账上的。「养儿防老」要单独算一笔，因为它赌的是二十年后另一个人的经济能力和意愿。把不生的后果也写下来，两边对照。
-- 收益：思路和第 10 节一样。别人的期待可以算你的一个考虑因素。但成本要记在你自己的账上，不记在他们账上。「养儿防老」尤其要单独算一笔，因为它假定的是二十年后另一个人的经济能力和意愿
-- 证据等级：C
-- 来源：作者经验，无直接文献；同类分析见第 10 节
-- 备注：把「不生的后果」也写下来，和「生的后果」放在一起对照着看
+### 6. Sinh vì lòng mong của người lớn, sinh vì hôn nhân, sinh để phòng già, mỗi lý do ghi một sổ
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tien -->
+- Chi phí: Không tốn tiền, tốn là một cuộc nói chuyện nghiêm túc. Khó ở chỗ phải nói thẳng ra, không lẩn tránh
+- Hiểu nhanh: Người khác muốn bạn sinh, cái đó có thể tính là một yếu tố bạn cân nhắc. Nhưng thời gian và tiền ghi trên sổ của chính bạn. “Nuôi con phòng già” phải tính riêng một khoản, vì nó đánh cược vào năng lực kinh tế và ý nguyện của một con người khác sau hai mươi năm nữa. Cả hậu quả của việc không sinh cũng viết ra, hai bên đặt cạnh nhau.
+- Lợi ích: Lối nghĩ giống chương 10. Mong mỏi của người khác có thể tính là một yếu tố bạn cân nhắc. Nhưng chi phí phải ghi trên sổ của chính bạn, không ghi trên sổ của họ. “Nuôi con phòng già” càng phải tính riêng một khoản, vì nó giả định là năng lực kinh tế và ý nguyện của một con người khác sau hai mươi năm
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm tác giả, không có tài liệu trực tiếp; phân tích tương tự xem chương 10
+- Ghi chú: “Hậu quả của không sinh” cũng viết ra, đặt cạnh “hậu quả của sinh” để đối chiếu từng đường

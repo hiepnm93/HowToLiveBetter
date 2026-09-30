@@ -1,159 +1,193 @@
-[← 回总目录](../README.md)
+[← Về mục lục chính](../README.md)
 
-# 19. 在职、离职和工伤
+# 19. Đi làm, nghỉ việc và tai nạn lao động
 
-这一节算的是钱：钱怎么算、字怎么签、期限怎么算。前三条讲你还在岗时就该拿到手的钱，中间六条讲离职，最后七条讲职业病和工伤。工伤的钱比被裁大一个量级，期限也更硬。职业病造成的损伤换不回来。
+Chương này tính chuyện tiền: tiền tính thế nào, chữ ký thế nào, thời hạn tính thế nào. Ba mục đầu nói về những khoản tiền đáng lẽ bạn phải nhận khi còn đang đi làm, sáu mục ở giữa nói về nghỉ việc, bảy mục cuối nói về bệnh nghề nghiệp và tai nạn lao động. Khoản tiền của tai nạn lao động lớn hơn bị sa thải cả một bậc, thời hạn cũng cứng hơn. Tổn thương do bệnh nghề nghiệp gây ra thì không đổi lại được.
 
-### 1. 加班费按 1.5 倍、2 倍、3 倍三档算，不给就投诉劳动监察，逾期不付还要加付 50% 到 100%
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。平时顺手把打卡记录、排班表、加班审批单存一份，工作群里领导派活的消息也截图留着。难在每个月都要记得存。
-- 说人话：平时加班按工资的 1.5 倍给钱。休息日加班又没让你补休，按 2 倍。元旦、春节、劳动节、国庆这类法定假日上班按 3 倍，而且不能拿补休顶掉。公司不给，就去劳动监察投诉。被责令限期付款以后还不给的，单位还要另加付欠款的一半到一倍。
-- 收益：法律规定的正常上班时间是每天不超过 8 小时，平均每周不超过 44 小时。平时加班一般每天不得超过 1 小时。有特殊原因要多干的，每天不得超过 3 小时，而且一个月加起来不得超过 36 小时。加班费分三档。平时安排你延长工作时间的，按不低于工资的 150% 给。休息日安排你上班、又安排不了补休的，不低于 200%。法定休假日安排你上班的，不低于 300%。法定休假日这一档，法条里没有「拿补休顶掉」这个选项。单位安排了加班又不给加班费的，由劳动行政部门勒令它限期付清。过了期限还不付的，勒令它在欠款之外，再按应付金额的 50% 以上 100% 以下加付一笔赔偿金给劳动者（全国）
-- 证据等级：A
-- 来源：全国人大常委会 (2018). 劳动法（2018 年第二次修正，第三十六、四十一、四十三、四十四条）. <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_d9aa750028b14b99a776cb93726a360d.html>（国家市场监督管理总局刊登）；全国人大常委会 (2007). 劳动合同法（第八十五条第三项）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
-- 备注：休息日和法定休假日要分开算。法定休假日全年只有元旦、春节、劳动节、国庆节等法定的那几天。调休凑出来的连休日按休息日算，给 200%。「公司规定加班要审批」「我是自愿留下的」，这两句话不等于公司就可以不给钱，但会让你更难拿出证据，所以派活和审批记录要留着。公司想实行综合计算工时制、不定时工时制这两种特殊工时安排，得先经劳动行政部门批准，不是自己说了算。争议的仲裁时效见第 8 节第 19 条。
+### 1. Tiền làm thêm giờ tính theo ba mức 1,5 lần, 2 lần, 3 lần; không trả thì khiếu nại lên thanh tra lao động, quá hạn không trả còn phải trả thêm từ 50% đến 100%
 
-### 2. 年休假按累计工龄算 5、10、15 天，没休成的按日工资 300% 折钱
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
-- 成本：不花钱。把自己在所有单位干过的年头加起来算一遍，社保缴费记录就是证明。难在公司递「自愿放弃年休假」的表时要能不签。
-- 说人话：在所有单位的工龄加起来满 1 年不满 10 年，每年 5 天年休假。满 10 年是 10 天，满 20 年是 15 天。换过工作也照样往上累计。单位安排不了、你又同意不休的，那几天按日工资的 3 倍给钱。「自愿放弃年休假」的表一签，就只剩正常工资了。
-- 收益：连续工作满 12 个月就有年休假。天数按**累计**工作时间定，在所有单位干过的年头都加起来算。满 1 年不满 10 年 5 天，满 10 年不满 20 年 10 天，满 20 年 15 天。国家法定休假日和休息日不算进年休假的天数里。单位确实因为工作需要安排不了、又征得你本人同意不休的，该休没休的那几天「按照该职工日工资收入的 300% 支付年休假工资报酬」。这 300% 里已经含了正常上班那天本来就该给的一份，所以实际额外多拿到手的是 200%。日工资 = 本人月工资 ÷ 21.75。月工资按发这笔钱之前 12 个月的工资算，去掉加班费之后取月平均数。当年才进单位的，按在这家单位剩下的日历天数折算。离职时按当年已经干了多久折算并结清，已经多休的不倒扣回来。单位既不安排休、又不给钱的，勒令限期改正。过了期限还不改的，除了那笔年休假工资报酬，还要再按同样的数额加付一笔赔偿金（全国，2008 年 1 月 1 日起施行）
-- 证据等级：A
-- 来源：国务院 (2007). 职工带薪年休假条例（国务院令第 514 号，第二、三、四、五、七条）. <http://www.gov.cn/gongbao/content/2008/content_859865.htm>；人力资源和社会保障部 (2008). 企业职工带薪年休假实施办法（人社部令第 1 号，第三、四、五、十、十一、十二、十五条）. <http://www.gov.cn/gongbao/content/2009/content_1265995.htm>
-- 备注：累计工作时间要跨单位加起来算，换过工作的别按现单位工龄算。**只有职工「因本人原因且书面提出不休」，单位才可以只支付正常工资**，所以「自愿放弃年休假」的表别签。请事假累计 20 天以上、单位又不扣你工资的，当年不享受年休假。病假超过对应月数的也不享受：工龄不满 10 年是 2 个月，10 到 20 年是 3 个月，20 年以上是 4 个月。探亲假、婚丧假、产假和工伤停工留薪期不计入年休假。
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
 
-### 3. 试用期有法定上限、工资不得低于 80%，而且只能约定一次
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。签字前花几分钟，把合同写的期限和试用期长度对一遍。
-- 说人话：合同签 1 年以内的，试用期最多 1 个月。签 1 到 3 年的最多 2 个月。签 3 年以上的最多 6 个月。同一家公司只能试用你一次，转正后调个岗再来一次是违法的。试用期工资不能低于同岗位最低档或者合同约定工资的 80%，也不能低于当地最低工资。
-- 收益：合同签 3 个月以上不满 1 年的，试用期不得超过 1 个月。签 1 年以上不满 3 年的，不得超过 2 个月。签 3 年以上的，以及不写到期日的无固定期限合同，不得超过 6 个月。以干完一件活为期限的合同，或者总共不到 3 个月的合同，不许约定试用期。「同一用人单位与同一劳动者只能约定一次试用期」，同一家公司对同一个人只能试用一回。合同里只写了试用期的，这段试用期不成立，这个期限就是劳动合同期限。试用期工资「不得低于本单位相同岗位最低档工资或者劳动合同约定工资的百分之八十，并不得低于用人单位所在地的最低工资标准」。试用期约得超过法定长度、人又实际干了的，单位要按你试用期满后的月工资标准，就超出去的那段时间另付一笔赔偿金。试用期内单位想解除合同，只能按法律列明的那几种情形，而且要向劳动者说明理由（全国）
-- 证据等级：A
-- 来源：全国人大常委会 (2007). 劳动合同法（第十九、二十、二十一、八十三条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
-- 备注：最常见的三种违法做法。一是合同只签 1 年，却约定 3 个月试用期。二是转正之后调岗，再来一次试用期。三是「试用期不交社保」，社保义务从上班第一天起算，和试不试用无关，用人一侧的义务见第 12 节第 16 条。试用期被辞退不等于一分钱没有，要看单位给的理由是不是法律允许辞退的那几种。被违法解除的按第 6 条算 2N。
+- Chi phí: Không tốn tiền. Bình thường tiện tay lưu một bản hồ sơ chấm công, bảng xếp ca, phiếu phê duyệt làm thêm giờ; tin nhắn lãnh đạo giao việc trong nhóm làm việc cũng chụp màn hình giữ lại. Khó ở chỗ mỗi tháng đều phải nhớ lưu.
+- Hiểu nhanh: Làm thêm giờ ngày thường được trả 1,5 lần lương. Làm thêm vào ngày nghỉ mà không cho bạn nghỉ bù thì trả 2 lần. Đi làm vào các ngày nghỉ lễ pháp định như Tết Dương lịch, Tết Nguyên đán, Quốc tế Lao động, Quốc khánh thì trả 3 lần, và không được lấy nghỉ bù đắp thay. Công ty không trả thì khiếu nại lên thanh tra lao động. Sau khi bị ra lệnh phải trả trong thời hạn mà vẫn không trả, đơn vị còn phải trả thêm một khoản nữa bằng một nửa đến gấp một lần khoản tiền còn nợ.
+- Lợi ích: Thời giờ làm việc bình thường theo luật là mỗi ngày không quá 8 giờ, bình quân mỗi tuần không quá 44 giờ. Làm thêm giờ ngày thường thông thường mỗi ngày không được quá 1 giờ. Có lý do đặc biệt cần làm thêm thì mỗi ngày không được quá 3 giờ, và cộng lại trong một tháng không được quá 36 giờ. Tiền làm thêm giờ chia ba mức. Ngày thường bố trí bạn kéo dài thời gian làm việc thì trả không thấp hơn 150% lương. Ngày nghỉ bố trí bạn đi làm mà không bố trí được nghỉ bù thì không thấp hơn 200%. Ngày nghỉ lễ pháp định bố trí bạn đi làm thì không thấp hơn 300%. Riêng mức ngày nghỉ lễ pháp định, điều luật không có phương án “lấy nghỉ bù đắp thay”. Đơn vị bố trí làm thêm giờ mà không trả tiền làm thêm giờ, thì cơ quan hành chính lao động ra lệnh nó phải trả dứt điểm trong thời hạn. Quá thời hạn vẫn không trả, thì ra lệnh ngoài khoản nợ, còn phải trả thêm cho người lao động một khoản tiền bồi thường bằng từ 50% đến 100% số tiền đáng phải trả (cả nước)
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2018). Luật Lao động (sửa đổi lần thứ hai năm 2018, Điều 36, 41, 43, 44). <https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_d9aa750028b14b99a776cb93726a360d.html> (Tổng cục Quản lý và Giám sát thị trường Nhà nước đăng tải); Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hợp đồng lao động (Điều 85 điểm 3). <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
+- Ghi chú: Ngày nghỉ và ngày nghỉ lễ pháp định phải tách riêng ra tính. Ngày nghỉ lễ pháp định cả năm chỉ có những ngày pháp định như Tết Dương lịch, Tết Nguyên đán, Quốc tế Lao động, Quốc khánh. Những ngày nghỉ liền ghép bằng việc xáo ngày làm thì tính theo ngày nghỉ, trả 200%. Hai câu “công ty quy định làm thêm giờ phải có phê duyệt” và “tôi tự nguyện ở lại” không đồng nghĩa với việc công ty có thể không trả tiền, nhưng sẽ khiến bạn khó đưa ra bằng chứng hơn, vì vậy cứ giữ hồ sơ giao việc và phê duyệt. Công ty muốn thực hiện hai kiểu thời giờ làm việc đặc biệt là chế độ tính giờ tổng hợp và chế độ thời giờ không định, thì trước hết phải được cơ quan hành chính lao động phê duyệt, không phải nó tự nói là xong. Thời hiệu trọng tài của các tranh chấp xem chương 8 mục 19.
 
-### 4. 被裁先算清 N：每满一年一个月工资，不满六个月按半个月
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。拿计算器算一次，十分钟。
-- 说人话：被裁时公司要给的经济补偿这样算：干满一年给一个月工资，满半年不满一年按一年算，不满半年给半个月。这里的月工资是走人前 12 个月的平均数，奖金、津贴、补贴都要算进去。工资高过当地上年度月平均工资 3 倍的按 3 倍封顶，年限最多算 12 年。
-- 收益：劳动合同法定的经济补偿，就是被裁时单位该给的那笔钱，大家常叫它 N。算法是：「每满一年支付一个月工资……六个月以上不满一年的，按一年计算；不满六个月的，向劳动者支付半个月工资」。月工资高过当地上年度职工月平均工资三倍的，按三倍封顶算，而且工龄最多只算到十二年
-- 证据等级：A
-- 来源：全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第四十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
-- 备注：月工资指劳动合同解除前十二个月的平均工资。奖金、津贴和补贴都要算进去，不是只算基本工资。这一点最容易被公司做低
+### 2. Nghỉ phép năm tính theo thâm niên cộng dồn là 5, 10, 15 ngày; không nghỉ được thì quy ra tiền bằng 300% lương ngày
 
-### 5. 公司辞退你没提前 30 天通知，还要多付一个月工资
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。
-- 说人话：公司没有提前 30 天书面通知就让你走，要在 N 之外再多给一个月工资，这就是常说的 N+1。谈的时候把这一个月单独列出来，别让公司把它算进 N 里面。
-- 收益：劳动合同法规定，用人单位按这一条解除劳动合同的，有两种做法。一种是「提前三十日以书面形式通知劳动者本人」。另一种是「额外支付劳动者一个月工资后，可以解除劳动合同」。想让你立刻走，就得多掏一个月工资。这多出来的一个月俗称代通知金，是 N 之外另算的一笔
-- 证据等级：A
-- 来源：全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第四十条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
-- 备注：所以合法裁员的常见结果是 N+1。谈判时把 N 和 1 分开算，别让公司把多的那一个月算进 N 里
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=trung kieu=tien -->
 
-### 6. 公司违法解除的，赔偿金是经济补偿标准的二倍
-<!-- 成本标签: 钱=0 时间=中 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。走仲裁要等几个月。难在这几个月要一直跟着办，不能中途放弃。
-- 说人话：公司属于违法解除的，赔偿金按经济补偿的标准翻倍，也就是常说的 2N。是不是违法解除要看具体情形。先找法律援助或者律师问清楚，再决定是跟公司谈，还是去仲裁。
-- 收益：劳动合同法规定，用人单位违反本法规定解除或者终止劳动合同的，「应当依照本法第四十七条规定的经济补偿标准的二倍向劳动者支付赔偿金」。算法是先按经济补偿那套标准算出一份，再翻一倍给你
-- 证据等级：A
-- 来源：全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第八十七条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
-- 备注：这就是俗称的 2N。什么算违法解除要看具体情形。先咨询法律援助或者律师，再决定是谈还是去仲裁，路径见第 7 节
+- Chi phí: Không tốn tiền. Cộng số năm mình đã làm ở tất cả các đơn vị lại tính một lần, hồ sơ đóng bảo hiểm xã hội chính là bằng chứng. Khó ở chỗ khi công ty đưa tờ “tự nguyện từ bỏ nghỉ phép năm” ra thì phải cầm được lòng không ký.
+- Hiểu nhanh: Thâm niên cộng ở tất cả các đơn vị đủ 1 năm mà chưa đủ 10 năm thì mỗi năm được 5 ngày nghỉ phép năm. Đủ 10 năm là 10 ngày, đủ 20 năm là 15 ngày. Đổi việc vẫn cứ thế cộng dồn lên. Đơn vị không bố trí được mà bạn cũng đồng ý không nghỉ thì những ngày đó được trả 3 lần lương ngày. Tờ “tự nguyện từ bỏ nghỉ phép năm” một khi đã ký thì chỉ còn lương bình thường.
+- Lợi ích: Làm việc liên tục đủ 12 tháng là có nghỉ phép năm. Số ngày căn cứ theo thời gian làm việc **cộng dồn**, số năm đã làm ở tất cả các đơn vị đều cộng lại để tính. Đủ 1 năm chưa đủ 10 năm là 5 ngày, đủ 10 năm chưa đủ 20 năm là 10 ngày, đủ 20 năm là 15 ngày. Ngày nghỉ lễ pháp định của Nhà nước và ngày nghỉ hằng tuần không tính vào số ngày nghỉ phép năm. Đơn vị quả thực vì nhu cầu công việc không bố trí được, lại được chính bạn đồng ý không nghỉ, thì những ngày đáng nghỉ mà không nghỉ đó “trả tiền lương nghỉ phép năm bằng 300% thu nhập lương ngày của người lao động đó”. Trong 300% này đã gồm cả phần đáng lẽ phải trả cho ngày làm việc bình thường, nên thực tế bạn nhận thêm được là 200%. Lương ngày = lương tháng của bản thân ÷ 21,75. Lương tháng tính theo lương 12 tháng trước khi trả khoản tiền này, trừ tiền làm thêm giờ rồi lấy trung bình theo tháng. Năm đó mới vào đơn vị thì quy theo số ngày dương lịch còn lại ở đơn vị này. Khi nghỉ việc thì quy theo thời gian đã làm trong năm để tất toán, đã nghỉ nhiều hơn thì không trừ lại. Đơn vị vừa không bố trí nghỉ, vừa không trả tiền, thì bị ra lệnh sửa chữa trong thời hạn. Quá thời hạn vẫn không sửa, ngoài khoản tiền lương nghỉ phép năm đó, còn phải trả thêm một khoản bồi thường bằng đúng số tiền đó (cả nước, áp dụng từ 1/1/2008)
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (2007). Quy chế nghỉ phép năm có lương cho người lao động (Nghị định số 514 của Quốc vụ viện, Điều 2, 3, 4, 5, 7). <http://www.gov.cn/gongbao/content/2008/content_859865.htm>; Bộ Tài nguyên nhân lực và An sinh xã hội (2008). Biện pháp thực hiện nghỉ phép năm có lương cho người lao động doanh nghiệp (Lệnh số 1 của Bộ, Điều 3, 4, 5, 10, 11, 12, 15). <http://www.gov.cn/gongbao/content/2009/content_1265995.htm>
+- Ghi chú: Thời gian làm việc cộng dồn phải cộng xuyên qua các đơn vị, đã đổi việc thì đừng tính theo thâm niên ở đơn vị hiện tại. **Chỉ khi người lao động “vì lý do của bản thân và bằng văn bản đề nghị không nghỉ” thì đơn vị mới được chỉ trả lương bình thường**, vì vậy đừng ký tờ “tự nguyện từ bỏ nghỉ phép năm”. Xin nghỉ việc riêng cộng dồn từ 20 ngày trở lên mà đơn vị không trừ lương của bạn thì năm đó không hưởng nghỉ phép năm. Nghỉ ốm quá số tháng tương ứng cũng không hưởng: thâm niên chưa đủ 10 năm là 2 tháng, 10 đến 20 năm là 3 tháng, trên 20 năm là 4 tháng. Nghỉ thăm thân, nghỉ cưới hỏi tang ma, nghỉ thai sản và thời gian ngừng việc hưởng lương do tai nạn lao động không tính vào nghỉ phép năm.
 
-### 7. 不要签「个人原因主动辞职」，那一签就没有 N 了
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=金钱 -->
-- 成本：不花钱。难在要顶住当场签字的压力。
-- 说人话：签字承认「个人原因主动辞职」，经济补偿和失业保险金通常一起落空。自己提出离职，本来就不在给补偿的那几种情形里，公司欠薪、不缴社保这类过错除外。不必当天签，冷静一晚再说。
-- 收益：劳动合同法把该给经济补偿的情形限定在法律列明的那几类里。劳动者自己提出走人，不在里面，除非是因为公司欠薪、不缴社保这类法定过错。签了「主动辞职」，经济补偿和失业保险金通常一起落空
-- 证据等级：B
-- 来源：全国人大常委会 (2007). 中华人民共和国劳动合同法（2008 年 1 月 1 日施行）（第三十八条、第四十六条）. <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
-- 备注：公司常用的话术是「先签了好走流程，补偿另外给」。要就当场写进协议，不写就不签。当天不签不会有任何法律后果，冷静一晚再说
+### 3. Thử việc có mức trần luật định, lương không được thấp hơn 80%, và chỉ được thỏa thuận một lần duy nhất
 
-### 8. 离职前把工资条、考勤、劳动合同、社保记录和聊天记录先存下来
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。花半小时把材料存好。难在走之前要记得存。
-- 说人话：电脑和账号一交回去，工资条、考勤、合同、社保记录和聊天记录就再也拿不到了。仲裁时工资多少、有没有加班，还是要靠你自己手上的材料。存的是自己的劳动关系材料，公司的源码和客户名单不要带走。
-- 收益：一旦交回电脑和账号，这些材料就再也拿不到了。仲裁时谁来举证，虽然会朝单位那边偏一些，但工资多少、有没有加班这些事，还是要靠你自己手上的证据
-- 证据等级：C
-- 来源：作者经验，无直接文献；维权路径见第 7 节
-- 备注：存的是自己的劳动关系材料。不要顺手带走公司的源码、客户名单和技术文档，带走的风险见第 11 节
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
 
-### 9. 走人之后立刻办两件事：失业登记领失业保险金，看清竞业协议
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
-- 成本：不花钱。
-- 说人话：走人之后马上办两件事。一是去做失业登记、领失业保险金，二是把竞业协议看一遍。失业保险金从办登记那天起算，晚办一个月就少拿一个月。只有不是自己想走而丢了工作的人才能领，这也是第 7 条（不要签「个人原因主动辞职」）的另一个理由。
-- 收益：领失业保险金有四个门槛：失业保险缴满 1 年、不是自己想走而丢了工作（非因本人意愿中断就业）、已经办了失业登记、还在继续找工作。缴费的年头决定最长能领 12、18 还是 24 个月。网上怎么申领见第 7 节第 1 条（失业了先在线申领失业保险金）。竞业限制最长管 2 年。这 2 年里公司必须按月给你补偿。合同里没写给多少的，按你离职前 12 个月平均工资的 30% 算，而且不能低于当地最低工资。只有因为公司自己的原因连着 3 个月没给，你才可以请求解除这份约定，见第 11 节第 12 条（签了竞业协议、公司不给补偿怎么办）。竞业限制有期限，但到期之前该守的约还得守
-- 证据等级：C
-- 来源：作者经验，无直接文献；引用的数字出自国务院 (1999). 失业保险条例（国务院令第 258 号，第十四、十六、十七条：「失业保险金自办理失业登记之日起计算」）. <https://xzfg.moj.gov.cn/front/law/detail?LawID=517> 和全国人大常委会 (2012). 劳动合同法（2012 年修正，第二十三、二十四条）. <https://yjglj.fushun.gov.cn/008/20260622/d846d3c2-df3d-4c4c-af16-898ede43e1ee.html>（抚顺市应急管理局转载）
-- 备注：定 C 级是因为「走人当天就去办」这个动作没有直接文献，来源栏里的数字本身都是法规原文。失业金不会过期作废，但它从办登记那天起算，所以早一天办就多一天的钱。申领材料和网上入口见第 7 节。竞业限制的补偿标准和解除条件见第 11 节。签了「个人原因主动辞职」不但拿不到 N，失业保险金也一起没了，见第 7 条（不要签「个人原因主动辞职」）
+- Chi phí: Không tốn tiền. Trước khi ký bỏ ra vài phút, đối chiếu thời hạn ghi trong hợp đồng với độ dài thời gian thử việc.
+- Hiểu nhanh: Hợp đồng ký dưới 1 năm thì thử việc tối đa 1 tháng. Ký từ 1 đến 3 năm thì tối đa 2 tháng. Ký trên 3 năm thì tối đa 6 tháng. Cùng một công ty chỉ được thử việc bạn một lần, sau khi chính thức rồi đổi vị trí mà thử thêm lần nữa là vi phạm pháp luật. Lương thử việc không được thấp hơn 80% mức thấp nhất của cùng vị trí hoặc lương thỏa thuận trong hợp đồng, cũng không được thấp hơn lương tối thiểu địa phương.
+- Lợi ích: Hợp đồng ký từ 3 tháng trở lên chưa đầy 1 năm thì thời gian thử việc không được quá 1 tháng. Ký từ 1 năm trở lên chưa đủ 3 năm thì không được quá 2 tháng. Ký từ 3 năm trở lên, cũng như hợp đồng không xác định thời hạn không ghi ngày kết thúc, thì không được quá 6 tháng. Hợp đồng lấy việc hoàn thành một đầu việc làm thời hạn, hoặc hợp đồng tất cả chưa đến 3 tháng, thì không được thỏa thuận thử việc. “Cùng một đơn vị sử dụng lao động với cùng một người lao động chỉ được thỏa thuận thử việc một lần”, cùng một công ty với cùng một người chỉ được thử một lần. Hợp đồng chỉ ghi thời gian thử việc thì khoảng thử việc đó không có giá trị, thời hạn đó chính là thời hạn của hợp đồng lao động. Lương thử việc “không được thấp hơn 80% mức lương thấp nhất của vị trí tương tự trong đơn vị hoặc lương thỏa thuận trong hợp đồng lao động, và không được thấp hơn chuẩn lương tối thiểu nơi đơn vị sử dụng lao động đóng trụ sở”. Thỏa thuận thử việc vượt quá độ dài luật định mà người đó thực tế đã làm việc, thì đơn vị phải theo chuẩn lương tháng của bạn sau khi hết thử việc, đối với khoảng thời gian vượt ra đó trả thêm một khoản tiền bồi thường. Trong thời gian thử việc đơn vị muốn chấm dứt hợp đồng, thì chỉ được căn cứ vào mấy tình huống luật đã liệt kê, và phải nêu lý do với người lao động (cả nước)
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hợp đồng lao động (Điều 19, 20, 21, 83). <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
+- Ghi chú: Ba cách làm vi phạm phổ biến nhất. Một là hợp đồng chỉ ký 1 năm mà lại thỏa thuận thử việc 3 tháng. Hai là sau khi chính thức rồi đổi vị trí, thử việc thêm lần nữa. Ba là “thử việc không đóng bảo hiểm xã hội”; nghĩa vụ bảo hiểm xã hội tính từ ngày đi làm đầu tiên, chẳng liên quan gì đến thử việc hay không, nghĩa vụ phía người sử dụng lao động xem chương 12 mục 16. Bị cho thôi việc trong thời gian thử việc không có nghĩa là không được đồng nào, phải xem lý do đơn vị đưa ra có phải là mấy trường hợp pháp cho phép sa thải hay không. Bị chấm dứt trái pháp luật thì tính theo mục 6 là 2N.
+
+### 4. Bị sa thải trước hết tính rõ N: cứ đủ một năm một tháng lương, chưa đủ sáu tháng tính nửa tháng
+
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền. Lấy máy tính bấm một lần, mười phút.
+- Hiểu nhanh: Khoản trợ cấp kinh tế công ty phải trả khi bạn bị sa thải tính như sau: làm đủ một năm trả một tháng lương, đủ nửa năm chưa đủ một năm tính bằng một năm, chưa đủ nửa năm trả nửa tháng. Lương tháng ở đây là con số bình quân 12 tháng trước khi rời đi, tiền thưởng, phụ cấp, trợ cấp đều phải tính vào. Lương cao hơn 3 lần lương bình quân tháng của địa phương năm trước thì trần ở mức 3 lần, số năm tối đa chỉ tính 12 năm.
+- Lợi ích: Trợ cấp kinh tế luật định trong Luật Hợp đồng lao động, chính là khoản tiền đơn vị đáng lẽ phải trả khi bạn bị sa thải, mọi người thường gọi là N. Cách tính là: “cứ đủ mỗi năm trả một tháng lương…… từ sáu tháng trở lên chưa đủ một năm thì tính bằng một năm; chưa đủ sáu tháng thì trả cho người lao động nửa tháng lương”. Lương tháng cao hơn ba lần lương bình quân tháng của người lao động địa phương năm trước thì tính trần theo ba lần, và thâm niên tối đa chỉ tính đến mười hai năm
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hợp đồng lao động của nước Cộng hòa Nhân dân Trung Hoa (áp dụng từ 1/1/2008) (Điều 47). <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
+- Ghi chú: Lương tháng là lương bình quân mười hai tháng trước khi chấm dứt hợp đồng lao động. Tiền thưởng, phụ cấp và trợ cấp đều phải tính vào, chứ không phải chỉ tính lương cơ bản. Đây chính là chỗ công ty dễ làm thấp nhất
+
+### 5. Công ty cho thôi việc mà không báo trước 30 ngày, thì phải trả thêm một tháng lương
+
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+
+- Chi phí: Không tốn tiền.
+- Hiểu nhanh: Công ty không có thông báo bằng văn bản trước 30 ngày mà bắt bạn đi ngay, thì ngoài N phải cho thêm một tháng lương, đó chính là cái thường gọi là N+1. Khi đàm phán hãy tách riêng tháng này ra, đừng để công ty gộp nó vào trong N.
+- Lợi ích: Luật Hợp đồng lao động quy định, đơn vị sử dụng lao động chấm dứt hợp đồng lao động theo điều này thì có hai cách làm. Một là “thông báo trước ba mươi ngày bằng hình thức văn bản cho chính bản thân người lao động”. Hai là “trả thêm cho người lao động một tháng lương thì có thể chấm dứt hợp đồng lao động”. Muốn bạn đi ngay thì phải bỏ thêm một tháng lương. Tháng thừa ra này dân gian gọi là tiền báo trước, là một khoản tính riêng ngoài N
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hợp đồng lao động của nước Cộng hòa Nhân dân Trung Hoa (áp dụng từ 1/1/2008) (Điều 40). <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
+- Ghi chú: Vì vậy kết quả thường gặp của sa thải hợp pháp là N+1. Khi đàm phán tách N và 1 ra tính riêng, đừng để công ty gộp tháng thừa đó vào trong N
+
+### 6. Công ty chấm dứt hợp đồng trái pháp luật, tiền bồi thường gấp hai lần chuẩn trợ cấp kinh tế
+
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=chut loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền. Đi trọng tài phải chờ vài tháng. Khó ở mấy tháng đó phải theo sát đến cùng, không được bỏ giữa chừng.
+- Hiểu nhanh: Công ty thuộc trường hợp chấm dứt hợp đồng trái pháp luật, thì tiền bồi thường nhân đôi theo chuẩn trợ cấp kinh tế, tức là cái thường gọi 2N. Có phải chấm dứt trái pháp luật hay không phải xem tình huống cụ thể. Trước tiên tìm trợ giúp pháp lý hoặc luật sư hỏi cho rõ, rồi mới quyết định đàm phán với công ty hay đi trọng tài.
+- Lợi ích: Luật Hợp đồng lao động quy định, đơn vị sử dụng lao động vi phạm quy định của luật này mà chấm dứt hoặc kết thúc hợp đồng lao động, thì “phải trả cho người lao động tiền bồi thường theo mức gấp hai chuẩn trợ cấp kinh tế quy định tại Điều 47 của luật này”. Cách tính là trước hết tính ra một phần theo bộ chuẩn trợ cấp kinh tế đó, rồi nhân đôi trả cho bạn
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hợp đồng lao động của nước Cộng hòa Nhân dân Trung Hoa (áp dụng từ 1/1/2008) (Điều 87). <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
+- Ghi chú: Đây chính là 2N thường gọi. Cái gì tính là chấm dứt trái pháp luật phải xem tình huống cụ thể. Trước hết hỏi trợ giúp pháp lý hoặc luật sư, rồi quyết định đàm phán hay đi trọng tài, lộ trình xem chương 7
+
+### 7. Đừng ký “xin thôi việc tự nguyện vì lý do cá nhân”, ký một cái là mất luôn N
+
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền. Khó ở chỗ phải chịu cho nổi áp lực ký ngay tại chỗ.
+- Hiểu nhanh: Ký nhận “thôi việc tự nguyện vì lý do cá nhân” thì trợ cấp kinh tế và tiền bảo hiểm thất nghiệp thường cùng lúc tan mất. Tự mình xin nghỉ vốn dĩ không nằm trong mấy trường hợp được trợ cấp, trừ những lỗi như công ty nợ lương, không đóng bảo hiểm xã hội. Không cần ký ngay trong ngày, để đầu óc tỉnh táo một đêm rồi hãy nói.
+- Lợi ích: Luật Hợp đồng lao động giới hạn những tình huống phải trả trợ cấp kinh tế trong mấy nhóm luật đã liệt kê. Người lao động tự mình đề nghị ra đi không nằm trong đó, trừ khi là những lỗi luật định như công ty nợ lương, không đóng bảo hiểm xã hội. Đã ký “thôi việc tự nguyện”, trợ cấp kinh tế và tiền bảo hiểm thất nghiệp thường cùng lúc tan mất
+- Mức bằng chứng: B
+- Nguồn: Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hợp đồng lao động của nước Cộng hòa Nhân dân Trung Hoa (áp dụng từ 1/1/2008) (Điều 38 khoản 2, Điều 46). <http://www.gov.cn/gongbao/content/2007/content_711013.htm>
+- Ghi chú: Chiêu thoại công ty hay dùng là “ký trước cho tiện chạy quy trình, trợ cấp sẽ trả riêng”. Muốn thì ghi ngay vào văn bản tại chỗ, không ghi thì không ký. Không ký trong ngày sẽ không có bất kỳ hậu quả pháp lý nào, để đầu óc tỉnh táo một đêm rồi hãy nói
+
+### 8. Trước khi nghỉ việc, trước hết lưu lại phiếu lương, chấm công, hợp đồng lao động, hồ sơ bảo hiểm xã hội và tin nhắn
+
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền. Bỏ nửa giờ lưu tài liệu cho chắc. Khó ở chỗ trước khi đi phải nhớ lưu.
+- Hiểu nhanh: Máy tính và tài khoản vừa trả lại, phiếu lương, chấm công, hợp đồng, hồ sơ bảo hiểm xã hội và tin nhắn sẽ không bao giờ lấy lại được nữa. Khi ra trọng tài, lương bao nhiêu, có làm thêm giờ không, vẫn phải dựa vào tài liệu trên tay chính bạn. Lưu là lưu tài liệu quan hệ lao động của mình, còn mã nguồn và danh sách khách hàng của công ty thì đừng mang đi.
+- Lợi ích: Trả lại máy tính và tài khoản là những tài liệu này không bao giờ lấy lại được nữa. Khi ra trọng tài bên nào có trách nhiệm đưa chứng cứ, tuy có lệch về phía đơn vị một chút, nhưng những chuyện lương bao nhiêu, có làm thêm giờ không, vẫn phải dựa vào bằng chứng trên tay chính bạn
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm của tác giả, không có tài liệu trực tiếp; lộ trình bảo vệ quyền lợi xem chương 7
+- Ghi chú: Lưu là lưu tài liệu quan hệ lao động của chính mình. Đừng tiện tay mang theo mã nguồn, danh sách khách hàng và tài liệu kỹ thuật của công ty, rủi ro khi mang đi xem chương 11
+
+### 9. Rời đi lập tức làm ngay hai việc: đăng ký thất nghiệp để nhận tiền bảo hiểm thất nghiệp, nhìn rõ thỏa thuận hạn chế cạnh tranh
+
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=trung kieu=tien -->
+
+- Chi phí: Không tốn tiền.
+- Hiểu nhanh: Sau khi rời đi làm ngay hai việc. Một là đi làm đăng ký thất nghiệp, nhận tiền bảo hiểm thất nghiệp; hai là đọc lại một lượt thỏa thuận hạn chế cạnh tranh. Tiền bảo hiểm thất nghiệp tính từ ngày làm đăng ký, chậm làm một tháng là bớt nhận một tháng. Chỉ những người mất việc không phải do mình muốn đi mới được nhận, đây cũng là một lý do nữa của mục 7 (đừng ký “xin thôi việc tự nguyện vì lý do cá nhân”).
+- Lợi ích: Nhận tiền bảo hiểm thất nghiệp có bốn ngưỡng: đóng bảo hiểm thất nghiệp đủ 1 năm, mất việc không phải do mình muốn đi (gián đoạn việc làm không do ý muốn của bản thân), đã làm đăng ký thất nghiệp, và vẫn đang tiếp tục tìm việc. Số năm đóng quyết định được nhận tối đa 12, 18 hay 24 tháng. Cách nộp hồ sơ trên mạng xem chương 7 mục 1 (mất việc thì trước hết nộp online xin hưởng bảo hiểm thất nghiệp). Hạn chế cạnh tranh có hiệu lực tối đa 2 năm. Trong 2 năm đó công ty phải trả cho bạn trợ cấp theo tháng. Hợp đồng không ghi trả bao nhiêu, thì tính bằng 30% lương bình quân 12 tháng trước khi bạn nghỉ việc, và không được thấp hơn lương tối thiểu địa phương. Chỉ khi vì lý do từ phía công ty mà 3 tháng liền không trả, bạn mới được yêu cầu chấm dứt thỏa thuận này, xem chương 11 mục 12 (đã ký thỏa thuận hạn chế cạnh tranh mà công ty không trả trợ cấp thì làm sao). Hạn chế cạnh tranh có thời hạn, nhưng trước khi đến hạn vẫn phải giữ đúng cam kết
+- Mức bằng chứng: C
+- Nguồn: Kinh nghiệm của tác giả, không có tài liệu trực tiếp; các con số trích dẫn nằm trong Quốc vụ viện (1999). Quy chế bảo hiểm thất nghiệp (Nghị định số 258 của Quốc vụ viện, Điều 14, 16, 17: “tiền bảo hiểm thất nghiệp tính từ ngày làm thủ tục đăng ký thất nghiệp”). <https://xzfg.moj.gov.cn/front/law/detail?LawID=517> và Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2012). Luật Hợp đồng lao động (sửa đổi năm 2012, Điều 23, 24). <https://yjglj.fushun.gov.cn/008/20260622/d846d3c2-df3d-4c4c-af16-898ede43e1ee.html> (Cục Ứng phó khẩn cấp thành phố Phủ Thuận đăng lại)
+- Ghi chú: Định mức C là vì hành động “rời đi là làm ngay trong ngày” không có tài liệu trực tiếp, còn các con số ở mục Nguồn vốn dĩ đều là nguyên văn pháp quy. Tiền thất nghiệp không đến hạn mà mất, nhưng nó tính từ ngày làm đăng ký, nên làm sớm một ngày là hưởng thêm một ngày tiền. Hồ sơ xin hưởng và cổng nộp trên mạng xem chương 7. Chuẩn trợ cấp và điều kiện chấm dứt của hạn chế cạnh tranh xem chương 11. Ký “xin thôi việc tự nguyện vì lý do cá nhân” thì không những không nhận được N, tiền bảo hiểm thất nghiệp cũng tan theo, xem mục 7 (đừng ký “xin thôi việc tự nguyện vì lý do cá nhân”)
 
 
-### 10. 进有粉尘、噪声、化学品的岗位之前，先看合同里写没写危害；三次职业健康检查由单位安排并掏钱
-<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=死亡率 -->
-- 成本：不花钱。签合同时把「职业病危害告知」那部分逐条看完。每次体检的报告都要一份自己留着。难在要当面开口问、当面把材料要到手。
-- 说人话：签合同时，单位必须把岗位有什么职业病危害、怎么防护、有什么待遇如实写进合同。瞒了你，你可以拒绝干这个活，单位不能因此辞退你。上岗前、在岗时、离岗时三次职业健康检查，由单位安排并掏钱。没做离岗体检，单位不能和你解除合同。
-- 收益：职业病防治法规定，签劳动合同的时候，单位要把四件事讲清楚：干这份活可能产生哪些职业病危害、会落下什么后果、怎么防护、有什么待遇。法条原文是「如实告知劳动者，并在劳动合同中写明，不得隐瞒或者欺骗」。合同签完之后又调你去干合同里没交代过的有害活儿的，要重新如实告知，并且跟你商量着改合同条款。单位没做到的，「劳动者有权拒绝从事存在职业病危害的作业，用人单位不得因此解除与劳动者所订立的劳动合同」。体检一共三次：上岗前、在岗期间、离岗时。「职业健康检查费用由用人单位承担」，钱由单位出，结果要书面告诉你本人。没做上岗前体检的人，单位不得安排去干接触职业病危害的活。身体条件本来就不适合这类活的人（有职业禁忌的），也不得安排去干这些禁忌作业。查出跟这份工作有关的健康损害的，要把人调离原岗位并妥善安置。**「对未进行离岗前职业健康检查的劳动者不得解除或者终止与其订立的劳动合同」**。离职时你「有权索取本人职业健康监护档案复印件，用人单位应当如实、无偿提供，并在所提供的复印件上签章」。这份职业健康监护档案，单位要照实复印一份免费给你，还要在复印件上盖章（全国）
-- 证据等级：A
-- 来源：全国人大常委会 (2018). 职业病防治法（2018 年修正，第三十三、三十五、三十六条）. <https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201711/t20171104_779851.html>（北京市人民政府转载）
-- 备注：面试时问三句，就能大致判断这家正不正规：这个岗位有没有职业病危害、合同里写不写、上岗前体检谁出钱。答不上来或者说「先干着再说」的，风险自己掂量。离岗体检最容易被忽略：没做离岗体检，单位不能和你解除或终止劳动合同。这份体检还是日后申请职业病诊断的关键材料，档案复印件同理，走之前要拿到手。职业病本身按工伤走，待遇见第 12 条起。
+### 10. Trước khi vào vị trí có bụi, tiếng ồn, hóa chất, trước hết xem hợp đồng có ghi mối nguy hay không; ba lần khám sức khỏe nghề nghiệp do đơn vị bố trí và chi tiền
 
-### 11. 粉尘、噪声、化学毒物造成的损伤不可逆：防护用品单位必须给，没有防护措施的作业可以拒绝
-<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=死亡率 -->
-- 成本：不花钱。难在要一直戴防颗粒物口罩、耳塞、护目镜，还要拒绝没有防护的活，代价是可能被同事说「事多」。
-- 说人话：尘肺、噪声聋、化学性眼灼伤都是法定职业病，肺和听力坏了就治不回来。你有权知道岗位有什么危害，有权要单位给防护设施和防护用品。没有防护的活你可以不干。单位因此给你降薪或辞退你，都不算数。
-- 收益：法定职业病自 2025 年 8 月 1 日起是 12 大类 135 种，其中含 4 项开放性条款。排在第一类的是职业性尘肺病。里面有矽肺、煤工尘肺、石墨尘肺、碳黑尘肺、石棉肺、滑石尘肺。还有水泥尘肺、云母尘肺、陶工尘肺、铝尘肺、电焊工尘肺、铸工尘肺，再加一项开放条款。职业性耳鼻喉口腔疾病里有噪声聋和爆震聋。职业性眼病里有化学性眼部灼伤和电光性眼炎。这些损伤都不可逆，没有哪种治疗能把肺和听力修回来。法律给了四条可以当场搬出来用的权利。一是知道这个工作场所里有哪些职业病危害、会造成什么后果、该采取哪些防护措施。二是要求单位提供合格的防护设施和个人防护用品、改善工作条件。三是对违反职业病防治法律法规的做法、以及会危及生命健康的做法提出批评、检举和控告。四是「拒绝违章指挥和强令进行没有职业病防护措施的作业」，不合规的指挥和没有防护的活，你可以不干。并且「因劳动者依法行使正当权利而降低其工资、福利等待遇或者解除、终止与其订立的劳动合同的，其行为无效」。因为你用了这几条权利就给你降薪、降待遇或者辞退你，这些做法不算数（全国）
-- 证据等级：A
-- 来源：国家卫生健康委、人力资源社会保障部、国家疾控局、全国总工会 (2024). 职业病分类和目录（2025 年 8 月 1 日起实施）. <https://www.gov.cn/zhengce/zhengceku/202412/content_6992843.htm>；新版目录 12 大类 135 种的口径见国家卫生健康委 (2024). 新版目录将职业病调整为 12 大类 135 种. <https://www.gov.cn/lianbo/bumen/202412/content_6992838.htm>；全国人大常委会 (2018). 职业病防治法（第三十九条）. <https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201711/t20171104_779851.html>（北京市人民政府转载）
-- 备注：口罩要认对，防颗粒物的口罩才挡粉尘，普通纱布口罩和一次性外科口罩不挡。噪声岗位单位不发耳塞就自己买，几元一副，听力掉了补不回来。「干两年攒够钱就走」在尘肺上不成立。矽肺可以在脱离粉尘作业多年之后才发病，而且还会继续加重。所以离岗体检格外重要（见第 10 条，三次职业健康检查由单位安排并掏钱）。新版目录还新增了两类。一类是职业性肌肉骨骼疾病，里面是腕管综合征，只限长时间重复用手腕或者用力干活的制造业工人。另一类是职业性精神和行为障碍，里面是创伤后应激障碍，只限参与突发事件处置的人民警察、医疗卫生人员、消防救援等应急救援人员。化学品溅到身上的现场处理见第 13 节第 21 条。
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=chut loi-ich=lon kieu=tu-vong -->
 
-### 12. 上班受伤、上下班路上被撞，第一件事是做工伤认定，单位不报你自己报
-<!-- 成本标签: 钱=0 时间=中 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱，跑一趟社保行政部门。要带三样材料：工伤认定申请表、劳动关系证明、医疗诊断证明。
-- 说人话：上班受伤算工伤。上下班路上被撞、主要责任不在你的，也算工伤。但不做工伤认定，医药费、养伤期间照发的工资、伤残补助金就全部落空。单位应当在 30 天内申报。单位不报的，你或者家属、工会可以在一年内自己去社保行政部门报。
-- 收益：没做工伤认定，医药费、养伤期间照发的工资（停工留薪期工资）、伤残补助金就全部落空。单位超过 30 日不申报的，这段时间里该给的工伤待遇费用由单位自己掏
-- 证据等级：A
-- 来源：国务院 (2010 修订). 工伤保险条例（国务院令第 586 号）第十四条列了七种「应当认定为工伤」，含「（六）在上下班途中，受到非本人主要责任的交通事故或者城市轨道交通、客运轮渡、火车事故伤害的」；第十七条「所在单位应当自事故伤害发生之日或者被诊断、鉴定为职业病之日起30日内，向统筹地区社会保险行政部门提出工伤认定申请」「用人单位未按前款规定提出工伤认定申请的，工伤职工或者其近亲属、工会组织在事故伤害发生之日或者被诊断、鉴定为职业病之日起1年内，可以直接向用人单位所在地统筹地区社会保险行政部门提出工伤认定申请」「用人单位未在本条第一款规定的时限内提交工伤认定申请，在此期间发生符合本条例规定的工伤待遇等有关费用由该用人单位负担」；第十九条「职工或者其近亲属认为是工伤，用人单位不认为是工伤的，由用人单位承担举证责任」；第二十条「自受理工伤认定申请之日起60日内作出工伤认定的决定」. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
-- 备注：1 年是硬期限，过了就没得申请。单位说不算工伤，得由单位举证。但你自己也要留材料：出事当天的照片、同事联系方式、就诊记录、考勤。条例第十六条列了三种不认的情形：故意犯罪、醉酒或者吸毒、自残或者自杀。第十五条另有「视同工伤」：在工作时间和工作岗位突发疾病死亡，或者 48 小时之内经抢救无效死亡的。
+- Chi phí: Không tốn tiền. Khi ký hợp đồng đọc hết từng khoản phần “thông báo mối nguy bệnh nghề nghiệp”. Mỗi lần khám sức khỏe đều xin một bản kết quả để tự giữ. Khó ở chỗ phải mở lời hỏi trực tiếp, phải đòi được tài liệu ngay tại chỗ.
+- Hiểu nhanh: Khi ký hợp đồng, đơn vị phải ghi trung thực vào hợp đồng vị trí đó có mối nguy bệnh nghề nghiệp gì, phòng hộ thế nào, đãi ngộ ra sao. Giấu bạn, thì bạn có quyền từ chối làm công việc đó, và đơn vị không được vì thế mà sa thải bạn. Ba lần khám sức khỏe nghề nghiệp trước khi vào vị trí, trong thời gian tại vị trí và khi rời vị trí, do đơn vị bố trí và chi tiền. Chưa khám sức khỏe khi rời vị trí, đơn vị không được chấm dứt hợp đồng với bạn.
+- Lợi ích: Luật Phòng chống bệnh nghề nghiệp quy định, khi ký hợp đồng lao động, đơn vị phải nói rõ bốn việc: công việc này có thể sinh ra những mối nguy bệnh nghề nghiệp nào, để lại hậu quả gì, phòng hộ thế nào, đãi ngộ ra sao. Nguyên văn điều luật là “thông báo trung thực cho người lao động, và ghi rõ trong hợp đồng lao động, không được che giấu hoặc lừa dối”. Sau khi ký hợp đồng rồi lại điều bạn đi làm việc có hại mà trong hợp đồng chưa hề nhắc tới, thì phải thông báo lại trung thực, và bàn bạc với bạn để sửa các khoản của hợp đồng. Đơn vị không làm được điều đó, thì “người lao động có quyền từ chối làm công việc có mối nguy bệnh nghề nghiệp, và đơn vị sử dụng lao động không được vì thế mà chấm dứt hợp đồng lao động đã ký với người lao động”. Khám sức khỏe tất cả ba lần: trước khi vào vị trí, trong thời gian tại vị trí, và khi rời vị trí. “Kinh phí khám sức khỏe nghề nghiệp do đơn vị sử dụng lao động gánh chịu”, tiền do đơn vị trả, kết quả phải thông báo bằng văn bản cho chính bạn. Người chưa khám sức khỏe trước khi vào vị trí, đơn vị không được bố trí đi làm công việc tiếp xúc mối nguy bệnh nghề nghiệp. Người điều kiện thể chất vốn không phù hợp loại công việc này (có chống chỉ định nghề nghiệp), cũng không được bố trí đi làm những công việc kiêng cữ đó. Khám ra tổn thương sức khỏe liên quan đến công việc này, thì phải điều người ra khỏi vị trí cũ và sắp xếp thỏa đáng. **“Không được chấm dứt hoặc kết thúc hợp đồng lao động đã ký với người lao động chưa được khám sức khỏe nghề nghiệp trước khi rời vị trí”**. Khi nghỉ việc, bạn “có quyền yêu cầu bản sao hồ sơ giám sát sức khỏe nghề nghiệp của bản thân, đơn vị sử dụng lao động phải cung cấp trung thực, không thu phí, và ký đóng dấu trên bản sao đã cung cấp”. Hồ sơ giám sát sức khỏe nghề nghiệp này, đơn vị phải sao trung thực một bản miễn phí cho bạn, còn phải đóng dấu trên bản sao (cả nước)
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2018). Luật Phòng chống bệnh nghề nghiệp (sửa đổi năm 2018, Điều 33, 35, 36). <https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201711/t20171104_779851.html> (Chính phủ nhân dân thành phố Bắc Kinh đăng lại)
+- Ghi chú: Khi phỏng vấn hỏi ba câu là có thể phán đại công ty này có chuẩn mực không: vị trí này có mối nguy bệnh nghề nghiệp không, hợp đồng có ghi không, khám sức khỏe trước khi vào vị trí ai trả tiền. Trả không được hoặc bảo “đã làm rồi tính” thì rủi ro tự cân nhắc. Khám sức khỏe khi rời vị trí dễ bị bỏ qua nhất: chưa khám sức khỏe rời vị trí, đơn vị không được chấm dứt hoặc kết thúc hợp đồng lao động với bạn. Lần khám này còn là tài liệu then chốt để sau này xin chẩn đoán bệnh nghề nghiệp, bản sao hồ sơ cũng vậy, trước khi đi phải cầm trên tay. Bệnh nghề nghiệp vốn xử theo đường tai nạn lao động, đãi ngộ xem từ mục 12 trở đi.
 
-### 13. 别信「撑到工位就算工伤」：突发不适先打 120，不是先赶去打卡
-<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
-- 成本：不花钱。
-- 说人话：突发不适往公司赶，不会让你多拿一笔钱。视同工伤要求人在工作时间、又在工作岗位上发病，路上发病没到岗的本来就不算。抢救超过 48 小时的反而也不算。为了凑条件耽误的那几十分钟，换掉的是自己的存活率。
-- 收益：视同工伤要求人「在工作时间和工作岗位」上突发疾病死亡，或者在 48 小时之内经抢救无效死亡。为了凑齐这两个条件而耽误就医，赔的是自己活下来的机会，换来的赔偿也不一定拿得到
-- 证据等级：A
-- 来源：工伤保险条例第十五条第一款第（一）项：「在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的」视同工伤；第十四条第（六）项只把上下班途中「受到非本人主要责任的交通事故或者城市轨道交通、客运轮渡、火车事故伤害的」列为工伤，途中突发疾病不在其中. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
-- 备注：两个条件要同时满足：在工作时间，并且在工作岗位。路上发病没到岗的不适用。在岗发病后被送回家或者送医、48 小时内经抢救无效死亡的，仍可能适用。看的是发病时人在哪，不看最后死在哪。短视频把这条讲成「撑到公司就有钱」，方向正好反了。能改变结局的是发病后那几十分钟有没有去医院。另外 48 小时是硬线，抢救超过 48 小时反而不算。
+### 11. Tổn thương do bụi, tiếng ồn, hóa chất độc gây ra là không hồi phục được: vật tư phòng hộ đơn vị bắt buộc phải cấp, công việc không có biện pháp phòng hộ có thể từ chối
 
-### 14. 单位没给你交工伤保险，工伤待遇一样有，由单位按同样的标准全额出
-<!-- 成本标签: 钱=0 时间=中 毅力=些 收益=大 口径=金钱 -->
-- 成本：不花钱。单位不认的，就要走仲裁甚至打官司，几个月起步。难在这几个月要一直跟着办。
-- 说人话：单位没给你交工伤保险，工伤待遇一样有。只是改成由单位按同样的项目和标准全额付，一分不少。没参保是对单位加罚：责令补缴、按日加收万分之五滞纳金，逾期还要罚欠缴额的 1 到 3 倍。「公司没买工伤险所以赔不了」是假话。
-- 收益：条例明写：没给员工交工伤保险的单位，员工出了工伤，由这家单位按条例规定的项目和标准把钱付出来。该给哪几笔、每笔给多少，和交了保险的完全一样，只是改成单位自己掏
-- 证据等级：A
-- 来源：工伤保险条例第六十二条第二款：「依照本条例规定应当参加工伤保险而未参加工伤保险的用人单位职工发生工伤的，由该用人单位按照本条例规定的工伤保险待遇项目和标准支付费用。」同条第一款：责令限期参加、补缴，「自欠缴之日起，按日加收万分之五的滞纳金；逾期仍不缴纳的，处欠缴数额1倍以上3倍以下的罚款」. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
-- 备注：「公司没给你买工伤险，所以赔不了」是这类事里最常见的一句假话。没参保只会让单位被加罚，你的待遇不减。
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=co loi-ich=lon kieu=tu-vong -->
 
-### 15. 伤情稳定后去做劳动能力鉴定，伤残等级直接换算成钱
-<!-- 成本标签: 钱=0 时间=中 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱。走一次劳动能力鉴定的流程，前后要等一段时间。
-- 说人话：伤情稳定之后去做劳动能力鉴定，等级直接换算成钱。一次性伤残补助金按本人工资算：五级 18 个月、六级 16 个月、七级 13 个月、八级 11 个月、九级 9 个月、十级 7 个月。鉴定结果出来之前，不要签「一次性了结」的协议。
-- 收益：一次性伤残补助金按伤残等级折算成几个月的工资，一次付清。五级 18 个月、六级 16 个月、七级 13 个月的本人工资。八级 11 个月、九级 9 个月、十级 7 个月的本人工资
-- 证据等级：A
-- 来源：工伤保险条例第二十一条「经治疗伤情相对稳定后存在残疾、影响劳动能力的，应当进行劳动能力鉴定」；第二十二条「劳动功能障碍分为十个伤残等级，最重的为一级，最轻的为十级」；第三十六条五、六级待遇（一次性伤残补助金 18/16 个月本人工资，按月伤残津贴为本人工资的 70%/60%）；第三十七条七至十级待遇（13/11/9/7 个月本人工资）. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
-- 备注：五级、六级保留劳动关系，人还算这家单位的员工，按月拿伤残津贴。七到十级的人，合同到期或者自己提出解除时，另有两笔钱：一次性工伤医疗补助金由基金出，一次性伤残就业补助金由单位出，给多少由省里定。鉴定结果出来之前不要签「一次性了结」的协议。
+- Chi phí: Không tốn tiền. Khó ở chỗ phải đeo khẩu trang chống hạt bụi, nút tai, kính bảo hộ liên tục, còn phải từ chối những việc không có phòng hộ, cái giá là có thể bị đồng nghiệp bảo “đòi hỏi nhiều chuyện”.
+- Hiểu nhanh: Bụi phổi, điếc do tiếng ồn, bỏng mắt do hóa chất đều là bệnh nghề nghiệp luật định, phổi và thính lực hỏng rồi thì trị không hồi phục. Bạn có quyền biết vị trí có mối nguy gì, có quyền đòi đơn vị cấp thiết bị phòng hộ và vật tư phòng hộ. Việc không có phòng hộ bạn có thể không làm. Đơn vị vì thế mà giảm lương hay sa thải bạn, đều không có giá trị.
+- Lợi ích: Bệnh nghề nghiệp luật định kể từ 1/8/2025 là 12 nhóm lớn 135 loại, trong đó gồm 4 khoản mở. Đứng đầu nhóm thứ nhất là bệnh bụi phổi nghề nghiệp. Trong đó có bụi phổi silic, bụi phổi thợ mỏ than, bụi phổi graphit, bụi phổi muội than, bụi phổi amiăng, bụi phổi talc. Còn có bụi phổi xi măng, bụi phổi mica, bụi phổi thợ gốm, bụi phổi nhôm, bụi phổi thợ hàn, bụi phổi thợ đúc, cộng thêm một khoản mở. Bệnh nghề nghiệp tai - mũi - họng - miệng có điếc do tiếng ồn và điếc do tiếng nổ. Bệnh nghề nghiệp mắt có bỏng mắt do hóa chất và viêm mắt do ánh điện. Những tổn thương này đều không hồi phục, không có phương pháp điều trị nào sửa lại được phổi và thính lực. Pháp luật trao bốn quyền có thể lấy ra dùng ngay tại chỗ. Một là biết trong nơi làm việc này có những mối nguy bệnh nghề nghiệp gì, sẽ gây hậu quả gì, nên áp dụng những biện pháp phòng hộ nào. Hai là yêu cầu đơn vị cung cấp thiết bị phòng hộ và vật tư phòng hộ cá nhân đạt chuẩn, cải thiện điều kiện làm việc. Ba là đối với những hành vi vi phạm pháp luật, quy chế phòng chống bệnh nghề nghiệp, cũng như những hành vi đe dọa tính mạng sức khỏe, được phê bình, tố giác và khiếu nại. Bốn là “từ chối mệnh lệnh trái quy tắc và mệnh lệnh ép làm công việc không có biện pháp phòng hộ bệnh nghề nghiệp”; mệnh lệnh không đúng quy định và công việc không có phòng hộ, bạn có thể không làm. Và “vì người lao động thực hiện quyền lợi chính đáng theo pháp luật mà hạ lương, phúc lợi và các đãi ngộ khác của họ, hoặc chấm dứt, kết thúc hợp đồng lao động đã ký với họ, thì hành vi đó vô hiệu”. Vì bạn đã dùng mấy quyền này mà giảm lương, giảm đãi ngộ hay sa thải bạn, những cách làm đó không được tính (cả nước)
+- Mức bằng chứng: A
+- Nguồn: Ủy ban Y tế và Sức khỏe Nhà nước, Bộ Tài nguyên nhân lực và An sinh xã hội, Cục Phòng chống bệnh tật Nhà nước, Tổng Liên đoàn Lao động toàn quốc (2024). Phân loại và danh mục bệnh nghề nghiệp (áp dụng từ 1/8/2025). <https://www.gov.cn/zhengce/zhengceku/202412/content_6992843.htm>; cách tính 12 nhóm lớn 135 loại của danh mục mới xem Ủy ban Y tế và Sức khỏe Nhà nước (2024). Danh mục mới điều chỉnh bệnh nghề nghiệp thành 12 nhóm lớn 135 loại. <https://www.gov.cn/lianbo/bumen/202412/content_6992838.htm>; Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2018). Luật Phòng chống bệnh nghề nghiệp (Điều 39). <https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201711/t20171104_779851.html> (Chính phủ nhân dân thành phố Bắc Kinh đăng lại)
+- Ghi chú: Chọn khẩu trang phải chọn đúng, chỉ khẩu trang chống hạt bụi mới chặn được bụi, khẩu trang gạc thường và khẩu trang y tế dùng một lần không chặn. Vị trí tiếng ồn đơn vị không phát nút tai thì tự mua, vài yên một đôi, thính lực rớt rồi không bù lại được. “Làm hai năm tích đủ tiền rồi đi” với bụi phổi không đứng vững. Bụi phổi silic có thể phát bệnh sau nhiều năm đã rời khỏi công việc tiếp xúc bụi, và còn tiếp tục nặng thêm. Vì vậy khám sức khỏe rời vị trí đặc biệt quan trọng (xem mục 10, ba lần khám sức khỏe nghề nghiệp do đơn vị bố trí và chi tiền). Danh mục mới còn bổ sung thêm hai nhóm. Một nhóm là bệnh nghề nghiệp cơ - xương, trong đó có hội chứng ống cổ tay, chỉ giới hạn cho công nhân sản xuất phải lặp lại động tác cổ tay hoặc gồng sức làm việc trong thời gian dài. Nhóm kia là rối loạn tinh thần và hành vi nghề nghiệp, trong đó có rối loạn stress sau sang chấn, chỉ giới hạn cho cảnh sát nhân dân, nhân viên y tế, cứu hộ cứu hỏa và các lực lượng ứng phó khẩn cấp tham gia xử lý sự cố đột xuất. Xử lý tại chỗ khi hóa chất bắn vào người xem chương 13 mục 21.
 
-### 16. 工亡的三笔钱要分清：丧葬补助金、供养亲属抚恤金、一次性工亡补助金
-<!-- 成本标签: 钱=0 时间=中 毅力=否 收益=大 口径=金钱 -->
-- 成本：不花钱，办一套手续。
-- 说人话：因工死亡是三笔钱，别只谈其中一笔。丧葬补助金是当地上年度职工月平均工资的 6 个月。供养亲属抚恤金按死者本人工资按月发，配偶每月 40%，其他亲属每人每月 30%。一次性工亡补助金是上一年度全国城镇居民人均可支配收入的 20 倍，全国就这一个数。
-- 收益：因工死亡的钱分三笔。第一笔是丧葬补助金，金额是参保所在地区（统筹地区）上年度职工月平均工资的 6 个月。第二笔是供养亲属抚恤金，按死者本人工资按月发，配偶每月 40%，其他亲属每人每月 30%。第三笔是一次性工亡补助金，金额是上一年度全国城镇居民人均可支配收入的 20 倍，全国只有这一个数，不分地区。2026 年因工死亡的，这一笔是约 113 万元（1130040 元）。算法是上一年度全国城镇居民人均可支配收入 56502 元乘以 20。
-- 证据等级：A
-- 来源：工伤保险条例第三十九条：「（一）丧葬补助金为6个月的统筹地区上年度职工月平均工资；（二）供养亲属抚恤金按照职工本人工资的一定比例发给由因工死亡职工生前提供主要生活来源、无劳动能力的亲属。标准为：配偶每月40%，其他亲属每人每月30%，孤寡老人或者孤儿每人每月在上述标准的基础上增加10%……（三）一次性工亡补助金标准为上一年度全国城镇居民人均可支配收入的20倍。」. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>；国家统计局 (2026). 2025 年居民收入和消费支出情况. <https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962321.html>
-- 备注：一次性工亡补助金全国统一，金额每年随国家统计局公布的数据更新。谈赔偿时不接受「我们这边地方标准低」的说法。
+### 12. Đi làm bị thương, trên đường đi làm về bị va chạm, việc đầu tiên là làm thủ tục công nhận tai nạn lao động; đơn vị không khai báo thì bạn tự khai
 
-### 17. 在单位长期被欺负、辱骂、刁难，别硬扛：先记下来留证据，再按性质走投诉、报警或者仲裁
-<!-- 成本标签: 钱=0 时间=中 毅力=是 收益=中 口径=死亡率 -->
-- 成本：不花钱。要花时间记录：日期、在场的人、对方原话，聊天截图和邮件留原件。走仲裁、打官司要花几个月。换工作的代价最高，走不走由你自己算。
-- 说人话：在单位被欺负的人，后来得心脏病、中风的风险高约六成，被欺负得越多风险越高。被欺负的人几年后冒出自杀念头的几率约是别人的两倍。挨骂受气不是忍一忍就过去的小事。
-- 收益：健康上，瑞典和丹麦三个队列合起来，共 79,201 名 18 到 65 岁的在职者。他们起初都没有心血管病，平均跟踪 12.4 年。9% 的人说过去一年在单位被欺负过。被欺负的人得心血管病（冠心病和脑血管病）的风险高约 59%（HR 1.59，95% CI 1.28–1.98）。在单位遭遇过暴力的，高约 25%（HR 1.25，1.12–1.40）。两种都是遭遇越多，风险越高。挪威一项全国随机抽样的跟踪调查，1846 名在职者，隔两到三年测一次，共测三次。被欺负的人后来出现自杀念头的几率约是别人的 2 倍（OR 2.05，95% CI 1.08–3.89）。反过来，先有自杀念头的人，后来并不更容易被欺负。法律上，我国没有专门管「职场霸凌」的法律，要按具体行为对号。单位侮辱、体罚、殴打、非法搜查或者拘禁劳动者的，要受行政处罚，造成损害要赔偿，构成犯罪的追究刑事责任。单位用暴力、威胁强迫你干活的，你可以立即解除合同，不用事先通知，还能拿经济补偿。单位要采取措施，预防和制止有人利用职权、上下级关系实施性骚扰。受害人可以要求骚扰的人承担民事责任。劳动仲裁从受理那天算起 45 日内结案，复杂的最多再延 15 日。
-- 证据等级：B
-- 来源：Xu T 等 (2019). Workplace bullying and workplace violence as risk factors for cardiovascular disease: a multi-cohort study. European Heart Journal. <https://doi.org/10.1093/eurheartj/ehy683>；Nielsen MB, Nielsen GH, Notelaers G, Einarsen S (2015). Workplace Bullying and Suicidal Ideation: A 3-Wave Longitudinal Norwegian Study. American Journal of Public Health. <https://doi.org/10.2105/AJPH.2015.302855>；全国人大常委会 (2007). 劳动合同法（第三十八条第二款、第四十六条、第八十八条）. <https://www.gov.cn/gongbao/content/2007/content_711013.htm>；全国人大 (2020). 民法典（第一千零一十条）. 最高人民检察院转载全文 <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>；全国人大常委会 (2022 年修订). 妇女权益保障法（第二十五条）. <https://flk.npc.gov.cn/detail?id=ff808181841257210184281512de0eec>；全国人大常委会 (2007). 劳动争议调解仲裁法（第四十三条）. 安康市人社局转载全文 <https://rsj.ankang.gov.cn/Content-2150407.html>
-- 备注：定 B 的理由：健康数字来自跟踪记录，不是分组实验，「被欺负」是本人自己报的。能先做的有四步。第一步，从今天起记录，录音见第 8 节第 41 条（录音）。第二步，按单位内部渠道书面反映，留下反映过的记录。第三步，被打、被关、被当众侮辱的，报警。第四步，因为欠薪、不缴社保被逼走的，按本节第 7 条（别签主动辞职）和第 8 条（离职前存证据）来办。经济补偿怎么算，见本节第 4 条（被裁先算清 N）。单纯的冷落、排挤、刁难，多数对不上哪一条法律，能走的主要是内部投诉、调岗和换工作。仲裁从受理起最长 60 天，打官司一审 6 个月起，律师费自己出。已经撑不住了，先打 12356，见第 1 节第 25 条（12356）。不主张一受气就辞职，换工作的代价由你自己算。
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=khong loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền, chạy một chuyến đến cơ quan hành chính bảo hiểm xã hội. Phải mang ba thứ: đơn đề nghị công nhận tai nạn lao động, chứng minh quan hệ lao động, chứng nhận chẩn đoán y tế.
+- Hiểu nhanh: Đi làm bị thương tính là tai nạn lao động. Trên đường đi làm hoặc về nhà bị va chạm mà trách nhiệm chính không thuộc về bạn, cũng tính là tai nạn lao động. Nhưng không làm thủ tục công nhận tai nạn lao động, thì tiền thuốc, lương vẫn trả đều trong thời gian dưỡng thương, trợ cấp thương tật sẽ toàn bộ tan mất. Đơn vị phải khai báo trong 30 ngày. Đơn vị không khai, thì bạn hoặc người thân, công đoàn có thể trong vòng một năm tự đi khai tại cơ quan hành chính bảo hiểm xã hội.
+- Lợi ích: Không làm công nhận tai nạn lao động, thì tiền thuốc, lương vẫn trả đều trong thời gian dưỡng thương (lương thời gian ngừng việc hưởng lương), trợ cấp thương tật toàn bộ tan mất. Đơn vị quá 30 ngày không khai báo, thì những chi phí đãi ngộ tai nạn lao động đáng phải trả trong khoảng thời gian đó do chính đơn vị gánh
+- Mức bằng chứng: A
+- Nguồn: Quốc vụ viện (sửa đổi năm 2010). Quy chế bảo hiểm tai nạn lao động (Nghị định số 586 của Quốc vụ viện). Điều 14 liệt kê bảy trường hợp “nên được công nhận là tai nạn lao động”, trong đó có “(sáu) trên đường đi làm hoặc tan tầm, bị thương do tai nạn giao thông mà bản thân không chịu trách nhiệm chính, hoặc bị thương do tai nạn đường sắt đô thị, phà chở khách, tàu hỏa”; Điều 17 “đơn vị nơi làm việc phải kể từ ngày phát sinh thương tổn do tai nạn hoặc ngày được chẩn đoán, thẩm định là bệnh nghề nghiệp, trong 30 ngày nộp đơn xin công nhận tai nạn lao động đến cơ quan hành chính bảo hiểm xã hội của khu vực điều phối”, “nếu đơn vị sử dụng lao động không nộp đơn xin công nhận tai nạn lao động theo khoản trước, thì người lao động bị tai nạn hoặc người thân gần, tổ chức công đoàn, kể từ ngày phát sinh thương tổn do tai nạn hoặc ngày được chẩn đoán, thẩm định là bệnh nghề nghiệp, trong vòng 1 năm có thể trực tiếp nộp đơn xin công nhận tai nạn lao động đến cơ quan hành chính bảo hiểm xã hội khu vực điều phối nơi đơn vị sử dụng lao động đóng trụ sở”, “đơn vị sử dụng lao động không nộp đơn xin công nhận tai nạn lao động trong thời hạn quy định tại khoản 1 điều này, thì những chi phí đãi ngộ tai nạn lao động và các chi phí liên quan phát sinh trong khoảng thời gian đó, phù hợp với quy chế này, do chính đơn vị sử dụng lao động đó gánh chịu”; Điều 19 “người lao động hoặc người thân gần cho rằng là tai nạn lao động, còn đơn vị sử dụng lao động cho rằng không phải, thì bên đơn vị sử dụng lao động gánh trách nhiệm đưa ra chứng cứ”; Điều 20 “trong vòng 60 ngày kể từ ngày thụ lý đơn xin công nhận tai nạn lao động, phải ra quyết định công nhận tai nạn lao động”. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
+- Ghi chú: 1 năm là thời hạn cứng, qua rồi là không còn được nộp đơn. Đơn vị nói không phải tai nạn lao động, thì đơn vị phải đưa chứng cứ. Nhưng chính bạn cũng phải giữ tài liệu: ảnh hôm xảy ra chuyện, liên lạc của đồng nghiệp, hồ sơ khám chữa bệnh, chấm công. Điều 16 của quy chế liệt kê ba tình huống không công nhận: cố ý phạm tội, say rượu hoặc dùng ma túy, tự hại hoặc tự vẫn. Điều 15 còn có “coi như tai nạn lao động”: đang trong giờ làm việc và tại vị trí làm việc đột phát bệnh mà tử vong, hoặc trong vòng 48 giờ cấp cứu vô hiệu mà tử vong.
+
+### 13. Đừng tin “cố lê đến chỗ ngồi là tính tai nạn lao động”: đột phát khó chịu thì gọi 120 trước, đừng vội chạy đi chấm công
+
+<!-- Nhan chi phi: tien=0 thoi-gian=it y-luc=khong loi-ich=lon kieu=tu-vong -->
+
+- Chi phí: Không tốn tiền.
+- Hiểu nhanh: Đột phát khó chịu mà chạy gấp đến công ty, sẽ không khiến bạn lấy thêm được một khoản tiền nào. Coi như tai nạn lao động đòi hỏi người phải phát bệnh trong giờ làm việc và lại đúng tại vị trí làm việc, phát bệnh trên đường đi mà chưa tới vị trí thì vốn không tính. Cấp cứu quá 48 giờ thì ngược lại cũng không tính. Vài chục phút bị lỡ vì chạy đua đủ điều kiện, đánh đổi chính là tỷ lệ sống của mình.
+- Lợi ích: Coi như tai nạn lao động đòi hỏi người “trong giờ làm việc và tại vị trí làm việc” đột phát bệnh mà tử vong, hoặc trong vòng 48 giờ cấp cứu vô hiệu mà tử vong. Vì chạy đủ hai điều kiện này mà lỡ việc đi khám, cái đánh mất là cơ hội sống sót của chính mình, còn khoản bồi thường đổi về cũng chưa chắc nhận được
+- Mức bằng chứng: A
+- Nguồn: Quy chế bảo hiểm tai nạn lao động, Điều 15 khoản 1 điểm (1): “trong giờ làm việc và tại vị trí làm việc, đột phát bệnh mà tử vong, hoặc trong vòng 48 giờ cấp cứu vô hiệu mà tử vong” được coi như tai nạn lao động; Điều 14 điểm (6) chỉ liệt những người trên đường đi làm hoặc tan tầm “bị thương do tai nạn giao thông mà bản thân không chịu trách nhiệm chính, hoặc do tai nạn đường sắt đô thị, phà chở khách, tàu hỏa” vào tai nạn lao động, đột phát bệnh trên đường không nằm trong đó. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
+- Ghi chú: Hai điều kiện phải thỏa đồng thời: trong giờ làm việc, và tại vị trí làm việc. Phát bệnh trên đường mà chưa tới vị trí thì không áp dụng. Phát bệnh khi đang tại vị trí rồi được đưa về nhà hoặc đưa đi viện, trong 48 giờ cấp cứu vô hiệu mà tử vong, thì vẫn có thể áp dụng. Xem lúc phát bệnh người đang ở đâu, không xem cuối cùng chết ở đâu. Video ngắn giảng điều này thành “cố lê đến công ty là có tiền”, hướng đi thì ngược hoàn toàn. Thứ thay đổi được kết cục là mấy chục phút sau khi phát bệnh có đến bệnh viện hay không. Ngoài ra 48 giờ là ranh giới cứng, cấp cứu quá 48 giờ thì ngược lại không tính.
+
+### 14. Đơn vị không đóng bảo hiểm tai nạn lao động cho bạn, đãi ngộ tai nạn lao động vẫn như thường, do đơn vị trả đủ theo đúng chuẩn đó
+
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=chut loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền. Đơn vị không nhận thì phải đi trọng tài thậm chí kiện ra tòa, mốc khởi điểm là vài tháng. Khó ở mấy tháng đó phải theo sát đến cùng.
+- Hiểu nhanh: Đơn vị không đóng bảo hiểm tai nạn lao động cho bạn, đãi ngộ tai nạn lao động vẫn có như thường. Chỉ là đổi lại do đơn vị trả đủ toàn bộ theo cùng hạng mục và chuẩn đó, một xu không thiếu. Không tham gia bảo hiểm là bị phạt thêm đối với đơn vị: ra lệnh nộp bù, mỗi ngày cộng thêm 5 phần vạn tiền phạt chậm nộp, quá hạn còn bị phạt từ 1 đến 3 lần số tiền còn nợ. “Công ty không mua bảo hiểm tai nạn lao động nên không bồi thường được” là chuyện nói dối.
+- Lợi ích: Quy chế ghi rõ: đơn vị chưa đóng bảo hiểm tai nạn lao động cho người lao động, người lao động gặp tai nạn lao động, thì do chính đơn vị này trả tiền theo các hạng mục và chuẩn do quy chế quy định. Phải trả những khoản nào, mỗi khoản bao nhiêu, hoàn toàn giống như đã đóng bảo hiểm, chỉ là đổi lại do đơn vị tự bỏ túi ra trả
+- Mức bằng chứng: A
+- Nguồn: Quy chế bảo hiểm tai nạn lao động, Điều 62 khoản 2: “người lao động của đơn vị sử dụng lao động theo quy chế này lẽ ra phải tham gia bảo hiểm tai nạn lao động mà chưa tham gia, nếu gặp tai nạn lao động, thì do đơn vị sử dụng lao động đó trả chi phí theo các hạng mục và chuẩn đãi ngộ bảo hiểm tai nạn lao động do quy chế này quy định”. Khoản 1 cùng điều: ra lệnh tham gia, nộp bù trong thời hạn, “kể từ ngày nợ tiền đóng, mỗi ngày cộng thêm 5 phần vạn tiền phạt chậm nộp; quá hạn vẫn không nộp, phạt từ 1 lần trở lên đến 3 lần trở xuống số tiền nợ đóng”. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
+- Ghi chú: “Công ty không mua bảo hiểm tai nạn lao động cho bạn nên không bồi thường được” là câu nói dối phổ biến nhất trong loại chuyện này. Không tham gia bảo hiểm chỉ khiến đơn vị bị phạt thêm, đãi ngộ của bạn không giảm.
+
+### 15. Khi thương tình ổn định thì đi thẩm định năng lực lao động, cấp bậc thương tật quy thẳng ra tiền
+
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=khong loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền. Đi một lượt quy trình thẩm định năng lực lao động, trước sau phải chờ một khoảng thời gian.
+- Hiểu nhanh: Khi thương tình ổn định rồi thì đi thẩm định năng lực lao động, cấp bậc quy thẳng ra tiền. Trợ cấp thương tật một lần tính theo lương của bản thân: cấp 5 là 18 tháng, cấp 6 là 16 tháng, cấp 7 là 13 tháng, cấp 8 là 11 tháng, cấp 9 là 9 tháng, cấp 10 là 7 tháng. Trước khi kết quả thẩm định ra, đừng ký thỏa thuận “tất toán một lần”.
+- Lợi ích: Trợ cấp thương tật một lần quy ra mấy tháng lương theo cấp bậc thương tật, trả một lần dứt. Cấp 5 là 18 tháng, cấp 6 là 16 tháng, cấp 7 là 13 tháng lương của bản thân. Cấp 8 là 11 tháng, cấp 9 là 9 tháng, cấp 10 là 7 tháng lương của bản thân
+- Mức bằng chứng: A
+- Nguồn: Quy chế bảo hiểm tai nạn lao động, Điều 21 “sau điều trị thương tình tương đối ổn định mà còn khuyết tật, ảnh hưởng năng lực lao động, thì phải tiến hành thẩm định năng lực lao động”; Điều 22 “rối loạn chức năng lao động chia mười cấp bậc thương tật, nặng nhất là cấp 1, nhẹ nhất là cấp 10”; Điều 36 đãi ngộ cấp 5, cấp 6 (trợ cấp thương tật một lần bằng 18/16 tháng lương bản thân, phụ cấp thương tật theo tháng bằng 70%/60% lương bản thân); Điều 37 đãi ngộ cấp 7 đến cấp 10 (13/11/9/7 tháng lương bản thân). <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>
+- Ghi chú: Cấp 5, cấp 6 giữ lại quan hệ lao động, người vẫn tính là nhân viên của đơn vị này, nhận phụ cấp thương tật theo tháng. Người cấp 7 đến cấp 10, khi hợp đồng đến hạn hoặc tự mình đề nghị chấm dứt, còn có hai khoản nữa: trợ cấp y tế tai nạn lao động một lần do quỹ trả, trợ cấp việc làm cho người thương tật một lần do đơn vị trả, trả bao nhiêu do tỉnh quy định. Trước khi kết quả thẩm định ra, đừng ký thỏa thuận “tất toán một lần”.
+
+### 16. Ba khoản tiền khi tử vong do lao động phải phân rõ: trợ cấp mai táng, trợ cấp cấp dưỡng thân nhân, trợ cấp tử vong vì công một lần
+
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=khong loi-ich=lon kieu=tien -->
+
+- Chi phí: Không tốn tiền, làm một bộ thủ tục.
+- Hiểu nhanh: Tử vong do lao động là ba khoản tiền, đừng chỉ đàm phán mỗi một khoản. Trợ cấp mai táng bằng 6 tháng lương bình quân tháng của người lao động địa phương năm trước. Trợ cấp cấp dưỡng thân nhân trả theo tháng tính theo lương của chính người chết, vợ/chồng mỗi tháng 40%, thân nhân khác mỗi người mỗi tháng 30%. Trợ cấp tử vong vì công một lần bằng 20 lần thu nhập khả dụng bình quân đầu người của cư dân đô thị cả nước năm trước, cả nước chỉ có một con số này.
+- Lợi ích: Tiền tử vong do lao động chia ba khoản. Khoản thứ nhất là trợ cấp mai táng, số tiền bằng 6 tháng lương bình quân tháng của người lao động năm trước tại khu vực tham gia bảo hiểm (khu vực điều phối). Khoản thứ hai là trợ cấp cấp dưỡng thân nhân, trả theo tháng tính theo lương của chính người chết, vợ/chồng mỗi tháng 40%, thân nhân khác mỗi người mỗi tháng 30%. Khoản thứ ba là trợ cấp tử vong vì công một lần, số tiền bằng 20 lần thu nhập khả dụng bình quân đầu người của cư dân đô thị cả nước năm trước, cả nước chỉ có một con số này, không phân chia vùng. Tử vong vì lao động năm 2026, khoản này khoảng 1.130.000 yên (1.130.040 yên). Cách tính là thu nhập khả dụng bình quân đầu người của cư dân đô thị cả nước năm trước 56.502 yên nhân với 20.
+- Mức bằng chứng: A
+- Nguồn: Quy chế bảo hiểm tai nạn lao động, Điều 39: “(một) trợ cấp mai táng bằng 6 tháng lương bình quân tháng của người lao động năm trước tại khu vực điều phối; (hai) trợ cấp cấp dưỡng thân nhân phát theo một tỷ lệ nhất định trên lương của chính người lao động, cho những thân nhân mà người lao động tử vong vì lao động khi còn sống là người cung cấp nguồn sống chủ yếu, không có khả năng lao động. Chuẩn như sau: vợ/chồng mỗi tháng 40%, thân nhân khác mỗi người mỗi tháng 30%, người già neo đơn hoặc trẻ mồ côi mỗi người mỗi tháng tăng thêm 10% trên nền các chuẩn trên…… (ba) chuẩn trợ cấp tử vong vì công một lần bằng 20 lần thu nhập khả dụng bình quân đầu người của cư dân đô thị cả nước năm trước”. <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>; Cục Thống kê Nhà nước (2026). Tình hình thu nhập và chi tiêu tiêu dùng của cư dân năm 2025. <https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962321.html>
+- Ghi chú: Trợ cấp tử vong vì công một lần thống nhất cả nước, số tiền mỗi năm cập nhật theo số liệu Cục Thống kê Nhà nước công bố. Khi đàm phán bồi thường không chấp nhận cách nói “chuẩn địa phương bên chúng tôi thấp”.
+
+### 17. Ở công ty bị bắt nạt, lăng mạ, gây khó dễ kéo dài, đừng gồng chịu: trước hết ghi lại giữ bằng chứng, rồi theo tính chất mà khiếu nại, báo cảnh sát hoặc đi trọng tài
+
+<!-- Nhan chi phi: tien=0 thoi-gian=trung y-luc=co loi-ich=trung kieu=tu-vong -->
+
+- Chi phí: Không tốn tiền. Tốn thời gian để ghi chép: ngày tháng, người có mặt, lời nguyên văn của đối phương, chụp màn hình tin nhắn và thư điện tử giữ bản gốc. Đi trọng tài, kiện ra tòa tốn vài tháng. Cái giá đổi việc cao nhất, có đi hay không do bạn tự tính.
+- Hiểu nhanh: Người bị bắt nạt ở công ty, về sau nguy cơ mắc bệnh tim, đột quỵ cao hơn chừng sáu phần, bị bắt nạt càng nhiều nguy cơ càng cao. Người bị bắt nạt vài năm sau có ý nghĩ tự tử cao gấp khoảng hai lần người khác. Bị chửi bị hậm hực không phải chuyện nhỏ nhẫn một chút là qua.
+- Lợi ích: Về sức khỏe, gộp ba đoàn hệ của Thụy Điển và Đan Mạch, tất cả 79.201 người đang đi làm trong độ tuổi 18 đến 65. Ban đầu họ đều chưa có bệnh tim mạch, theo dõi trung bình 12,4 năm. 9% nói rằng trong một năm qua từng bị bắt nạt ở công ty. Người bị bắt nạt có nguy cơ mắc bệnh tim mạch (bệnh mạch vành và bệnh mạch não) cao hơn chừng 59% (HR 1,59, 95% CI 1,28–1,98). Người từng gặp bạo lực ở công ty cao hơn chừng 25% (HR 1,25, 1,12–1,40). Cả hai đều là gặp càng nhiều, nguy cơ càng cao. Một khảo sát theo dõi chọn mẫu ngẫu nhiên toàn quốc của Na Uy, 1.846 người đi làm, cách hai đến ba năm đo một lần, tổng cộng đo ba lần. Người bị bắt nạt về sau xuất hiện ý nghĩ tự tử cao gấp khoảng 2 lần người khác (OR 2,05, 95% CI 1,08–3,89). Ngược lại, người đã có ý nghĩ tự tử trước đó, về sau không dễ bị bắt nạt hơn. Về pháp luật, Trung Quốc không có luật riêng quản “bắt nạt nơi công sở”, phải căn cứ hành vi cụ thể mà ghép. Đơn vị lăng mạ, trừng phạt thể xác, đánh đập, khám xét hoặc giam giữ người lao động trái pháp luật, thì phải chịu xử phạt hành chính, gây thiệt hại phải bồi thường, cấu thành tội phạm thì truy cứu trách nhiệm hình sự. Đơn vị dùng bạo lực, đe dọa ép bạn làm việc, bạn có thể lập tức chấm dứt hợp đồng, không cần báo trước, còn được nhận trợ cấp kinh tế. Đơn vị phải áp dụng biện pháp, phòng ngừa và ngăn chặn việc có người lợi dụng chức quyền, quan hệ trên dưới để thực hiện quấy rối tình dục. Người bị hại có thể yêu cầu người quấy rối gánh trách nhiệm dân sự. Trọng tài lao động từ ngày thụ lý tính ra phải kết thúc trong 45 ngày, vụ phức tạp tối đa kéo thêm 15 ngày.
+- Mức bằng chứng: B
+- Nguồn: Xu T và cộng sự (2019). Workplace bullying and workplace violence as risk factors for cardiovascular disease: a multi-cohort study. European Heart Journal. <https://doi.org/10.1093/eurheartj/ehy683>; Nielsen MB, Nielsen GH, Notelaers G, Einarsen S (2015). Workplace Bullying and Suicidal Ideation: A 3-Wave Longitudinal Norwegian Study. American Journal of Public Health. <https://doi.org/10.2105/AJPH.2015.302855>; Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hợp đồng lao động (Điều 38 khoản 2, Điều 46, Điều 88). <https://www.gov.cn/gongbao/content/2007/content_711013.htm>; Đại hội đại biểu Nhân dân toàn quốc (2020). Bộ luật Dân sự (Điều 1010). Viện kiểm sát nhân dân tối cao đăng lại toàn văn <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>; Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (sửa đổi năm 2022). Luật Bảo đảm quyền và lợi ích của phụ nữ (Điều 25). <https://flk.npc.gov.cn/detail?id=ff808181841257210184281512de0eec>; Ủy ban Thường vụ Đại hội đại biểu Nhân dân toàn quốc (2007). Luật Hòa giải và trọng tài tranh chấp lao động (Điều 43). Cục Nhân lực và An sinh xã hội thành phố An Khang đăng lại toàn văn <https://rsj.ankang.gov.cn/Content-2150407.html>
+- Ghi chú: Lý do định mức B: các con số sức khỏe đến từ hồ sơ theo dõi, không phải thí nghiệm chia nhóm, “bị bắt nạt” là do bản thân tự khai. Có thể làm trước có bốn bước. Bước một, từ hôm nay bắt đầu ghi chép, ghi âm xem chương 8 mục 41 (ghi âm). Bước hai, phản ánh bằng văn bản theo kênh nội bộ của đơn vị, để lại hồ sơ đã phản ánh. Bước ba, bị đánh, bị giam, bị lăng mạ trước đám đông, thì báo cảnh sát. Bước bốn, vì bị nợ lương, không đóng bảo hiểm xã hội mà bị ép phải đi, thì làm theo mục 7 trong chương này (đừng ký thôi việc tự nguyện) và mục 8 (trước khi nghỉ việc lưu bằng chứng). Trợ cấp kinh tế tính thế nào, xem mục 4 trong chương này (bị sa thải trước hết tính rõ N). Chỉ bị hờ hững, cô lập, gây khó dễ đơn thuần, phần lớn không khớp điều luật nào, con đường đi được chủ yếu là khiếu nại nội bộ, đổi vị trí và đổi việc. Trọng tài tối đa 60 ngày từ khi thụ lý, kiện ra tòa sơ thẩm từ 6 tháng, phí luật sư tự trả. Đã gồng không nổi, gọi 12356 trước, xem chương 1 mục 25 (12356). Không chủ trương vừa bị hậm hực là nghỉ việc, cái giá đổi việc do bạn tự tính.

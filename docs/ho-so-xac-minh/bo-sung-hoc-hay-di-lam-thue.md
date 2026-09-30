@@ -1,68 +1,68 @@
-# 追加：读书还是初中毕业去打工 · 核实记录（2026-09-10）
+# Bổ sung: học tiếp hay ra đi làm thuê sau trung học cơ sở · Hồ sơ xác minh (2026-09-10)
 
-任务来源：读者问「到底是接着读书好，还是读完初中就去打工好」，并举了两个常见说法——「有些没文化的当老板」「有些 985 送外卖」。
+Nguồn nhiệm vụ: độc giả hỏi “rốt cuộc là học tiếp tốt, hay học xong trung học cơ sở thì đi làm thuê tốt”, và nêu hai cách nói hay gặp — “có đứa không có văn bằng vẫn làm ông chủ”, “có đứa học 985 vẫn đi giao đồ ăn”.
 
-原有覆盖：全书只有第 23 节原第 1 条（全球教育回报率 9%）沾边，而且它明说「不是中国的具体数字，只能当量级参照」。搜「童工」「义务教育」「助学金」「助学贷款」「中职」「职业教育法」在 book/ 下全部零命中；「幸存者偏差」只在第 23 节原第 6 条备注里出现一次，说的是招聘平台工资数，不覆盖学历。也就是说「要不要接着读」这一层是完全空白的，原第 23 节默认读者已经决定「学点东西」，只回答「学什么」。
+Mức che phủ cũ: toàn sách chỉ có mục 1 cũ của chương 23 (tỷ suất sinh lời của giáo dục toàn cầu 9%) là dính cạnh, mà nó còn nói rõ “không phải con số cụ thể của Trung Quốc, chỉ có thể làm tham chiếu về cỡ”. Tìm “lao động trẻ em”, “giáo dục bắt buộc”, “học bổng hỗ trợ”, “vay tiền học”, “trung học nghề”, “Luật Giáo dục nghề nghiệp” trong book/ toàn bộ bằng không; “thiên lệch người sống sót” chỉ xuất hiện một lần trong ghi chú mục 6 cũ của chương 23, nói về con số lương trên nền tảng tuyển dụng, không phủ học vị. Nghĩa là tầng “có nên học tiếp không” hoàn toàn trống, chương 23 cũ mặc định người đọc đã quyết định “học cái gì đó”, chỉ trả lời “học gì”.
 
-落点：第 23 节前面新增 6 条，原第 1 至 7 条顺延为第 7 至 13 条，节首导语改写成「前六条回答还要不要接着读、后七条回答怎么挑」。放第 23 节而不是新开一节，是因为这六条和后七条共用同一把尺子（花掉多少钱和时间、换回多少收入），拆开会让两边都要重复解释教育回报率。全书 473 → 479 条，A 级 301 → 306，B 级 123 → 124，C 级 49 条不变，文献链接 918 → 927，争议标注 43 → 44，TODO 36 处不变。
+Điểm chạm: trước chương 23 thêm 6 mục, mục 1 đến 7 cũ dồn thành mục 7 đến 13, lời dẫn đầu chương viết lại thành “sáu mục đầu trả lời còn nên học tiếp không, bảy mục sau trả lời chọn thế nào”. Đặt ở chương 23 chứ không mở chương mới, vì sáu mục này và bảy mục sau dùng chung một thước (tốn bao nhiêu tiền và thời gian, đổi lại bao nhiêu thu nhập), tách ra thì cả hai phía đều phải giải thích lại tỷ suất sinh lời của giáo dục. Toàn sách 473 → 479 mục, mức A 301 → 306, mức B 123 → 124, mức C 49 mục không đổi, liên kết tài liệu 918 → 927, ghi chú tranh cãi 43 → 44, TODO 36 chỗ không đổi.
 
-## 第 1 条（不满 16 周岁不得招用）
+## Mục 1 (chưa đủ 16 tuổi không được nhận dùng)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202110/t20211029_575949.html>（教育部政府门户网站刊登义务教育法全文，2018 年第二次修正） | 是 | 第十一条「凡年满六周岁的儿童，其父母或者其他法定监护人应当送其入学接受并完成义务教育；条件不具备的地区的儿童，可以推迟到七周岁。」第十四条「禁止用人单位招用应当接受义务教育的适龄儿童、少年。」第五十八条「适龄儿童、少年的父母或者其他法定监护人无正当理由未依照本法规定送适龄儿童、少年入学接受义务教育的，由当地乡镇人民政府或者县级人民政府教育行政部门给予批评教育，责令限期改正。」页首版本说明为「1986 年通过 2006 年修订 根据 2015 年…第一次修正 根据 2018 年 12 月 29 日…第二次修正」 |
-| <http://www.gov.cn/gongbao/content/2002/content_61798.htm>（国务院公报，国务院令第 364 号） | 是 | 第二条「国家机关、社会团体、企业事业单位、民办非企业单位或者个体工商户均不得招用不满16周岁的未成年人」；第六条「由劳动保障行政部门按照每使用一名童工每月处5000元罚款的标准给予处罚」，逾期未改正的「按照每使用一名童工每月处1万元罚款的标准处罚」；第七条「由劳动保障行政部门按照每介绍一人处5000元罚款的标准给予处罚」；第十条「童工患病或者受伤的，用人单位应当负责送到医疗机构治疗，并负担治疗期间的全部医疗和生活费用」；第十三条「文艺、体育单位经未成年人的父母或者其他监护人同意，可以招用不满16周岁的专业文艺工作者、运动员」 |
+| <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202110/t20211029_575949.html> (cổng thông tin chính phủ của Bộ Giáo dục đăng toàn văn Luật Giáo dục bắt buộc, sửa đổi lần hai năm 2018) | Có | Điều 11: “Trẻ em đủ sáu tuổi, cha mẹ hoặc người giám hộ theo pháp luật khác phải cho nhập học để tiếp nhận và hoàn thành giáo dục bắt buộc; trẻ em ở địa bàn không đủ điều kiện có thể trì hoãn đến bảy tuổi.” Điều 14: “Cấm đơn vị sử dụng lao động nhận dùng trẻ em, thiếu niên đúng tuổi phải nhận giáo dục bắt buộc.” Điều 58: “Cha mẹ hoặc người giám hộ theo pháp luật khác của trẻ em, thiếu niên đúng tuổi không có lý do chính đáng mà không theo quy định của luật này cho trẻ em, thiếu niên đúng tuổi nhập học nhận giáo dục bắt buộc, thì do chính quyền nhân dân hương, trấn địa phương hoặc cơ quan hành chính giáo dục của chính quyền nhân dân cấp huyện phê bình giáo dục, ra lệnh sửa trong thời hạn.” Phần giải thích phiên bản đầu trang là “thông qua năm 1986, sửa đổi năm 2006, theo … năm 2015 sửa đổi lần một, theo … ngày 29 tháng 12 năm 2018 sửa đổi lần hai” |
+| <http://www.gov.cn/gongbao/content/2002/content_61798.htm> (Công báo Quốc vụ viện, Quốc vụ viện lệnh số 364) | Có | Điều 2: “Cơ quan nhà nước, đoàn thể xã hội, doanh nghiệp, đơn vị sự nghiệp, đơn vị dân lập phi doanh nghiệp hoặc hộ kinh doanh cá thể đều không được nhận dùng vị thành niên chưa đủ 16 tuổi”; Điều 6: “Cơ quan hành chính lao động, bảo đảm xã hội xử phạt theo chuẩn phạt tiền 5.000 yên mỗi tháng cho mỗi lao động trẻ em được sử dụng”, quá hạn không sửa thì “xử phạt theo chuẩn 10.000 yên mỗi tháng cho mỗi lao động trẻ em được sử dụng”; Điều 7: “Cơ quan hành chính lao động, bảo đảm xã hội xử phạt theo chuẩn 5.000 yên cho mỗi người được giới thiệu”; Điều 10: “Lao động trẻ em bị ốm hoặc bị thương, đơn vị sử dụng lao động phải chịu trách nhiệm đưa đến cơ sở y tế chữa trị, và gánh toàn bộ chi phí y tế, sinh hoạt trong thời gian chữa trị”; Điều 13: “Đơn vị văn nghệ, thể thao được cha mẹ hoặc người giám hộ khác của vị thành niên đồng ý, có thể nhận dùng nghệ sĩ văn nghệ chuyên nghiệp, vận động viên chưa đủ 16 tuổi” |
 
-定级 A：法条原文可逐字核对，罚款标准是明确数字。收益量级「大」——自由口径按「避免刑责 大 / 避免拘留或行政处罚 中 / 避免民事纠纷 小」套不完全贴合（读者本人不是被罚的一方），这里按「整段人生路径被锁死在无劳动关系的灰色用工里」判为大，理由记在此处。成本三项全零，合成「极高」。
+Định cấp A: nguyên văn điều luật đối chiếu được từng chữ, chuẩn phạt tiền là con số rõ. Cỡ lợi ích “lớn” — tiêu chí tự do áp khung “tránh trách nhiệm hình sự: lớn / tránh giam giữ hoặc xử phạt hành chính: trung / tránh tranh chấp dân sự: nhỏ” không hoàn toàn khớp (bản thân người đọc không phải phía bị phạt), ở đây phán “lớn” theo “cả chặng đường đời bị khóa chết trong việc dùng người xám không quan hệ lao động”, lý do ghi tại đây. Chi phí ba hạng đều không, gộp thành “cực cao”.
 
-正文没写的：《未成年人保护法》里对应的条文本轮未逐字取原文，来源栏只列义务教育法和禁止使用童工规定；《劳动法》第十五条同义，不重复列。「批评教育、责令限期改正」是义务教育法给的全部后果，没有罚款和刑责，正文因此没写成「父母会被罚」。
+Phần nội dung không viết: điều khoản tương ứng trong Luật Bảo vệ trẻ vị thành niên vòng này chưa lấy nguyên văn từng chữ, cột Nguồn chỉ liệt kê Luật Giáo dục bắt buộc và Quy định Cấm sử dụng lao động trẻ em; Điều 15 Luật Lao động cùng nghĩa, không liệt kê lại. “Phê bình giáo dục, ra lệnh sửa trong thời hạn” là toàn bộ hậu quả Luật Giáo dục bắt buộc đưa ra, không có phạt tiền và trách nhiệm hình sự, phần nội dung vì thế không viết thành “cha mẹ sẽ bị phạt”.
 
-## 第 2 条（教育年限与成人死亡率）
+## Mục 2 (số năm học và tỷ lệ tử vong người trưởng thành)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <https://doi.org/10.1016/S2468-2667(23)00306-7>（Europe PMC REST 取题录与摘要全文，PMID 38278172，The Lancet Public Health 2024;9(3):e155-e165） | 是 | 「an average reduction in mortality risk of 1·9% (95% uncertainty interval 1·8-2·0) per additional year of education」；「2·9% (2·8-3·0) … for adults aged 18-49 years, compared with a 0·8% (0·6-1·0) reduction for adults older than 70 years」；「603 of which were eligible for analysis and included data from 70 locations in 59 countries, producing a final dataset of 10 355 observations」；「We found no differential effect of education on all-cause mortality by sex or Socio-demographic Index level」；「We identified publication bias (p<0·0001)」 |
+| <https://doi.org/10.1016/S2468-2667(23)00306-7> (Europe PMC REST lấy thông tin thư mục và toàn văn tóm tắt, PMID 38278172, The Lancet Public Health 2024;9(3):e155-e165) | Có | “an average reduction in mortality risk of 1·9% (95% uncertainty interval 1·8-2·0) per additional year of education”; “2·9% (2·8-3·0) … for adults aged 18-49 years, compared with a 0·8% (0·6-1·0) reduction for adults older than 70 years”; “603 of which were eligible for analysis and included data from 70 locations in 59 countries, producing a final dataset of 10 355 observations”; “We found no differential effect of education on all-cause mortality by sex or Socio-demographic Index level”; “We identified publication bias (p<0·0001)” |
 
-作者署名按 Europe PMC 的 authorString 记为「IHME-CHAIN Collaborators」，不写个人第一作者。定级 A（争议）：效应量、区间、样本量齐全，但作者自报发表偏倚与高异质性，纳入研究全为观察性，教育与家庭条件混杂无法分离，备注里写明了这一点。收益量级「大」——死亡率口径按相对降幅套阈值不适用（每年 1.9% 是单年增量，读到高中比读到初中多三年，累计约 5%～6%），这里按「多读的年数通常以三年计、且 18-49 岁段每年 2.9%」判为大，理由记在此处。成本 钱=0（学费另计在第 4 条）时间=多 毅力=是，合成「一般」——这是诚实的：多读几年书本来就是本书里成本最高的动作之一。
+Tên tác giả ghi theo authorString của Europe PMC là “IHME-CHAIN Collaborators”, không viết tác giả cá nhân đứng đầu. Định cấp A (tranh cãi): cỡ hiệu ứng, khoảng, cỡ mẫu đủ đầy, nhưng tác giả tự báo thiên lệch công bố và độ dị cao, các nghiên cứu đưa vào toàn quan sát, hỗn loạn giữa giáo dục và điều kiện gia đình không tách ra được, ghi chú viết rõ điểm này. Cỡ lợi ích “lớn” — tiêu chí tử vong áp ngưỡng theo mức giảm tương đối không phù hợp (1.9% mỗi năm là mức tăng thêm của một năm, học đến trung học phổ thông so với trung học cơ sở thêm ba năm, cộng dồn khoảng 5% ~ 6%), ở đây phán “lớn” theo “số năm học thêm thường tính cỡ ba năm, và đoạn 18-49 tuổi mỗi năm 2.9%”, lý do ghi tại đây. Chi phí tien=0 (học phí tính riêng ở mục 4) thoi-gian=nhieu y-luc=co, gộp thành “trung bình” — đây là chỗ trung thực: học thêm mấy năm vốn là một trong những động tác đắt nhất trong sách này.
 
-## 第 3 条（全国学历结构）
+## Mục 3 (cấu trúc học vị toàn quốc)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <https://www.stats.gov.cn/sj/tjgb/rkpcgb/qgrkpcgb/202302/t20230206_1902006.html>（国家统计局，第七次全国人口普查公报第六号） | 是 | 大学（大专及以上）218360767 人、高中（含中专）213005258 人、初中 487163489 人、小学 349658828 人；每 10 万人中拥有大学文化程度的由 8930 人上升为 15467 人，高中由 14032 人上升为 15088 人，初中由 38788 人下降为 34507 人，小学由 26779 人下降为 24767 人；「15岁及以上人口的平均受教育年限由9.08年提高至9.91年」；文盲率「由4.08%下降为2.67%」 |
+| <https://www.stats.gov.cn/sj/tjgb/rkpcgb/qgrkpcgb/202302/t20230206_1902006.html> (Cục Thống kê quốc gia, Công báo điều tra dân số toàn quốc lần thứ bảy, số 6) | Có | Đại học (cao đẳng trở lên) 218.360.767 người, trung học phổ thông (gồm trung học chuyên nghiệp) 213.005.258 người, trung học cơ sở 487.163.489 người, tiểu học 349.658.828 người; cứ 100.000 người thì số người có trình độ đại học từ 8.930 người tăng lên 15.467 người, trung học từ 14.032 người tăng lên 15.088 người, trung học cơ sở từ 38.788 người giảm xuống 34.507 người, tiểu học từ 26.779 người giảm xuống 24.767 người; “số năm giáo dục bình quân của dân số từ 15 tuổi trở lên từ 9.08 năm tăng lên 9.91 năm”; tỷ lệ mù chữ “từ 4.08% giảm xuống 2.67%” |
 
-定级 A：官方普查公报的具体数字，逐字核对。收益量级「中」——金钱口径，这条本身不产生金额，是纠正一个判断，按「改变一次择校决策」的量级判中，理由记在此处。备注里写明这是全国人口存量、年轻人比例远高于此，避免读者拿它比同龄人。
+Định cấp A: con số cụ thể của công báo điều tra dân số chính thức, đối chiếu từng chữ. Cỡ lợi ích “trung” — tiêu chí tiền, bản thân mục này không sinh ra khoản tiền, là sửa một phán đoán, phán “trung” theo cỡ “thay đổi một lần quyết định chọn trường”, lý do ghi tại đây. Ghi chú viết rõ đây là lượng tồn dân số toàn quốc, tỷ lệ người trẻ cao hơn thế xa nhiều, tránh để người đọc đem so với đồng trang lứa.
 
-正文没写的：外卖骑手的学历构成只有平台自己发布的报告，属于二手且非官方，一律不引，所以「985 送外卖」这一说法在正文里只作为「反常才被讲」的例子出现，没有配数字。分学历的失业率与分职业工资，国家统计局无公开逐项数据，人社部站点在本机打不开（只返回反爬壳页），未取得，因此第 12 条原有的 TODO 保留不动。
+Phần nội dung không viết: cơ cấu học vị của tay giao đồ ăn chỉ có báo cáo do chính nền tảng phát hành, thuộc hai tay và không chính thức, nhất loạt không trích, nên cách nói “học 985 vẫn giao đồ ăn” trong phần nội dung chỉ xuất hiện như ví dụ “bất thường mới được kể”, không kèm số. Tỷ lệ thất nghiệp theo học vị và tiền lương theo nghề, Cục Thống kê quốc gia không có dữ liệu công khai theo từng hạng, trang của Bộ Nhân lực và An sinh xã hội trên máy này không mở được (chỉ trả về vỏ trang chống bò), chưa lấy được, nên TODO cũ của mục 12 giữ nguyên không đụng.
 
-## 第 4 条（免学费、助学金、助学贷款）
+## Mục 4 (miễn học phí, học bổng hỗ trợ, vay tiền học)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <http://www.gov.cn/gongbao/content/2013/content_2332779.htm>（国务院公报，财教〔2012〕376 号） | 是 | 「从2012年秋季学期起，对公办中等职业学校全日制正式学籍一、二、三年级在校生中所有农村（含县镇）学生、城市涉农专业学生和家庭经济困难学生免除学费（艺术类相关表演专业学生除外）。」 |
-| <https://www.gov.cn/zhengce/202410/content_6983672.htm>（中国政府网，财政部、教育部、人社部有关司局负责人答记者问，2024-10-29） | 是 | 本专科生国家助学金由每生每年 3300 元提高到 3700 元（2024 年秋季学期起）；国家励志奖学金由 5000 元提高到 6000 元（2024 年起）；中等职业学校国家助学金、普通高中国家助学金均由每生每年 2000 元提高到 2300 元（2025 年春季学期起） |
-| <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm>（财政部、教育部、人民银行、金融监管总局，财教〔2024〕188 号） | 是 | 本专科学生「每人每年申请贷款额度由不超过16000元提高至不超过20000元」，研究生「由不超过20000元提高至不超过25000元」，自 2024 年秋季学期起；利率「同期同档次LPR减70个基点」 |
+| <http://www.gov.cn/gongbao/content/2013/content_2332779.htm> (Công báo Quốc vụ viện, Tài giáo [2012] số 376) | Có | “Từ học kỳ thu năm 2012, miễn học phí cho toàn bộ học sinh nông thôn (gồm huyện, trấn), học sinh chuyên ngành liên quan nông nghiệp ở đô thị và học sinh gia đình khó khăn kinh tế trong số học sinh chính quy có tên trong danh sách chính thức lớp một, hai, ba của trường trung học chuyên nghiệp công lập (ngoại trừ học sinh chuyên ngành biểu diễn liên quan nghệ thuật).” |
+| <https://www.gov.cn/zhengce/202410/content_6983672.htm> (Cổng Chính phủ Trung Quốc, trả lời phỏng vấn báo chí của người phụ trách các cơ quan liên quan Bộ Tài chính, Bộ Giáo dục, Bộ Nhân lực và An sinh xã hội, 2024-10-29) | Có | Học bổng hỗ trợ quốc gia cho sinh viên đại học – cao đẳng từ 3.300 yên mỗi người mỗi năm nâng lên 3.700 yên (từ học kỳ thu năm 2024); học bổng khuyến khích quốc gia từ 5.000 yên nâng lên 6.000 yên (từ năm 2024); học bổng hỗ trợ quốc gia trường trung học chuyên nghiệp, học bổng hỗ trợ quốc gia trung học phổ thông đều từ 2.000 yên mỗi người mỗi năm nâng lên 2.300 yên (từ học kỳ xuân năm 2025) |
+| <https://www.gov.cn/zhengce/zhengceku/202411/content_6984812.htm> (Bộ Tài chính, Bộ Giáo dục, Ngân hàng Nhân dân, Tổng cục Giám sát tài chính, Tài giáo [2024] số 188) | Có | Sinh viên đại học – cao đẳng “hạn mức vay mỗi người mỗi năm từ không quá 16.000 yên nâng lên không quá 20.000 yên”, nghiên cứu sinh “từ không quá 20.000 yên nâng lên không quá 25.000 yên”, từ học kỳ thu năm 2024; lãi suất “LPR cùng kỳ cùng hạng trừ 70 điểm cơ bản” |
 
-定级 A：三份官方文件均给出具体金额且逐字核对。收益量级「大」——金钱口径按金额套，四年本专科的助学贷款额度加免学费合计已到万元级。成本三项全零（申请是一次性交材料），合成「极高」。
+Định cấp A: cả ba văn bản chính thức đều cho khoản tiền cụ thể và đối chiếu được từng chữ. Cỡ lợi ích “lớn” — tiêu chí tiền áp theo khoản tiền, hạn mức vay tiền học bốn năm đại học – cao đẳng cộng miễn học phí tổng đã tới bậc vài vạn yên. Chi phí ba hạng đều không (xin là nộp hồ sơ một lần), gộp thành “cực cao”.
 
-正文没写的：研究生学业奖学金的调整（硕士 8000→10000、博士 10000→12000）与本条主题无关，未写入。免学费的地方覆盖面、助学金的分档比例由各省定，正文只在备注里提示要按本地文件核，不给地方数字。国家助学贷款的还本宽限期与最长期限在财教〔2024〕188 号里未提及，因此正文未写。
+Phần nội dung không viết: điều chỉnh học bổng học thuật nghiên cứu sinh (thạc sĩ 8.000 → 10.000, tiến sĩ 10.000 → 12.000) không liên quan chủ đề mục này, không viết. Phạm vi địa phương của miễn học phí, tỷ lệ phân bậc học bổng hỗ trợ do các tỉnh tự định, phần nội dung chỉ nhắc trong ghi chú là phải đối chiếu theo văn bản địa phương, không cho số địa phương. Thời hạn ân hạn trả gốc và thời hạn tối đa của vay tiền học quốc gia không được đề cập trong Tài giáo [2024] số 188, nên phần nội dung không viết.
 
-## 第 5 条（中职升学与就业通道）
+## Mục 5 (kênh lên cấp và việc làm của trung học nghề)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202204/t20220421_620064.html>（教育部政府门户网站刊登职业教育法全文，2022 年修订） | 是 | 第三条「职业教育是与普通教育具有同等重要地位的教育类型」；第三十七条「中等职业学校可以按照国家有关规定，在有关专业实行与高等职业学校教育的贯通招生和培养」「高等职业学校可以按照国家有关规定，采取文化素质与职业技能相结合的考核方式招收学生」「省级以上人民政府教育行政部门会同同级人民政府有关部门建立职业教育统一招生平台」；第五十三条「职业学校学生在升学、就业、职业发展等方面与同层次普通学校学生享有平等机会」「高等职业学校和实施职业教育的普通高等学校应当在招生计划中确定相应比例或者采取单独考试办法，专门招收职业学校毕业生」「用人单位不得设置妨碍职业学校毕业生平等就业、公平竞争的报考、录用、聘用条件」「事业单位公开招聘中有职业技能等级要求的岗位，可以适当降低学历要求」 |
+| <http://www.moe.gov.cn/jyb_sjzl/sjzl_zcfg/zcfg_jyfl/202204/t20220421_620064.html> (cổng thông tin chính phủ của Bộ Giáo dục đăng toàn văn Luật Giáo dục nghề nghiệp, sửa đổi năm 2022) | Có | Điều 3: “Giáo dục nghề nghiệp là loại hình giáo dục có địa vị quan trọng ngang bằng với giáo dục phổ thông”; Điều 37: “Trường trung học nghề có thể theo quy định liên quan của nhà nước, ở chuyên ngành liên quan thực hiện tuyển sinh, đào tạo liền mạch với giáo dục trường nghề bậc cao”, “trường nghề bậc cao có thể theo quy định liên quan của nhà nước, dùng phương thức đánh giá kết hợp trình độ văn hóa với kỹ năng nghề để tuyển sinh”, “cơ quan hành chính giáo dục của chính quyền nhân dân cấp tỉnh trở lên cùng các cơ quan liên quan cùng cấp của chính quyền nhân dân xây dựng nền tảng tuyển sinh thống nhất giáo dục nghề nghiệp”; Điều 53: “Học sinh trường nghề về lên cấp, việc làm, phát triển nghề v.v. được hưởng cơ hội bình đẳng với học sinh trường phổ thông cùng bậc”, “trường nghề bậc cao và trường đại học phổ thông thực hiện giáo dục nghề nghiệp phải xác định tỷ lệ tương ứng trong kế hoạch tuyển sinh hoặc dùng cách thi riêng, tuyển riêng học sinh tốt nghiệp trường nghề”, “đơn vị sử dụng lao động không được đặt điều kiện thi tuyển, tuyển dụng, thuê dùng cản trở học sinh tốt nghiệp trường nghề được việc làm bình đẳng, cạnh tranh công bằng”, “vị trí có yêu cầu cấp bậc kỹ năng nghề trong tuyển dụng công khai của đơn vị sự nghiệp, có thể giảm học vị vừa phải” |
 
-定级 A：法条原文逐字核对，义务表述明确。收益量级「中」——金钱口径，这条打开的是通道而不是直接金额。成本三项全零，合成「高」。
+Định cấp A: nguyên văn điều luật đối chiếu từng chữ, diễn đạt nghĩa vụ rõ ràng. Cỡ lợi ích “trung” — tiêu chí tiền, thứ mục này mở ra là kênh chứ không phải khoản tiền trực tiếp. Chi phí ba hạng đều không, gộp thành “cao”.
 
-正文没写的：各省职教高考（对口升学）的科目、比例、录取线均为省定，无全国统一数字，正文只写「查本省当年的职教招生平台和招生计划」。职业本科的招生规模未取得官方逐年数字，未写。
+Phần nội dung không viết: các môn thi, tỷ lệ, điểm chuẩn của thi đại học nghề (tuyển sinh đối ứng) của từng tỉnh đều do tỉnh định, không có số thống nhất toàn quốc, phần nội dung chỉ viết “tra nền tảng tuyển sinh nghề và kế hoạch tuyển sinh của tỉnh mình năm đó”. Quy mô tuyển sinh đại học nghề bậc đại học chưa lấy được số chính thức theo từng năm, không viết.
 
-## 第 6 条（怎么自己算这笔账）
+## Mục 6 (tự mình tính món sổ này thế nào)
 
-| URL | 复核 | 原文引句 |
+| URL | Đối chiếu lại | Trích nguyên văn |
 |---|---|---|
-| <https://doi.org/10.1016/j.jce.2005.05.008>（Journal of Comparative Economics 33(4):730-752；Crossref 取题录，摘要全文取自牛津大学 ORA 存档页 <https://ora.ox.ac.uk/objects/uuid:d817e14b-8cf8-4985-a96d-8420315ed007>） | 是 | 「We find a dramatic increase in the returns to education, from only 4.0 percent per year of schooling in 1988 to 10.2 percent in 2001. Most of the rise in the returns to education occurred after 1992 and reflected an increase in the wage premium for higher education.」 |
+| <https://doi.org/10.1016/j.jce.2005.05.008> (Journal of Comparative Economics 33(4):730-752; Crossref lấy thông tin thư mục, toàn văn tóm tắt lấy từ trang lưu trữ ORA Đại học Oxford <https://ora.ox.ac.uk/objects/uuid:d817e14b-8cf8-4985-a96d-8420315ed007>) | Có | “We find a dramatic increase in the returns to education, from only 4.0 percent per year of schooling in 1988 to 10.2 percent in 2001. Most of the rise in the returns to education occurred after 1992 and reflected an increase in the wage premium for higher education.” |
 
-Semantic Scholar 的摘要字段被出版商屏蔽（openAccessPdf 状态 CLOSED、abstract 为 null），改从牛津 ORA 的存档页取摘要全文，来源栏只列 DOI。定级 B：单一研究，数据截至 2001 年、只覆盖城镇，备注里写明了这两条限制。收益量级「中」——金钱口径，这条给的是算法和一个可代入的量级，不是金额。成本三项全零，合成「高」。
+Trường tóm tắt của Semantic Scholar bị nhà xuất bản chặn (openAccessPdf trạng thái CLOSED, abstract là null), chuyển sang lấy toàn văn tóm tắt từ trang lưu trữ ORA của Oxford, cột Nguồn chỉ liệt kê DOI. Định cấp B: nghiên cứu đơn lẻ, dữ liệu đến năm 2001, chỉ phủ thành thị, ghi chú viết rõ hai giới hạn này. Cỡ lợi ích “trung” — tiêu chí tiền, mục này cho là thuật toán và một cỡ có thể thay số vào, không phải khoản tiền. Chi phí ba hạng đều không, gộp thành “cao”.
 
-正文没写的：更近的中国教育回报率估计（2001-2010 城市劳动力调查等）本轮未取得可逐字核对的原文，未引；「读大学四年的总机会成本」没有全国口径的官方数字，正文只给算法不给样例金额。
+Phần nội dung không viết: các ước tính gần hơn về tỷ suất sinh lời giáo dục Trung Quốc (điều tra lao động đô thị 2001-2010 v.v.) vòng này chưa lấy được nguyên văn đối chiếu từng chữ, không trích; “tổng chi phí cơ hội bốn năm đại học” không có số chính thức theo tiêu chí toàn quốc, phần nội dung chỉ cho thuật toán, không cho số tiền ví dụ.

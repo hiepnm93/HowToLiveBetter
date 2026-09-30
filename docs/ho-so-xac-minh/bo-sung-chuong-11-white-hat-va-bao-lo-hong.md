@@ -1,54 +1,54 @@
-# 第 11 节追加：未授权安全测试与漏洞报送（2026-09-19）
+# Bổ sung chương 11: kiểm thử an toàn chưa được ủy quyền và báo cáo lỗ hổng (2026-09-19)
 
-任务来源：用户指出第 11 节缺「白帽子」这一块，举的例子是 2016 年的世纪佳缘案（袁炜案）——测试网站发现漏洞、取了部分用户数据作为证明、提交到第三方漏洞平台，厂商先确认致谢、后报案，人被以涉嫌非法获取计算机信息系统数据罪刑拘批捕，羁押数月后放出，最终未被判刑。
+Nguồn nhiệm vụ: người dùng chỉ ra chương 11 còn thiếu mảng “white hat”, ví dụ đưa ra là vụ Thế kỷ Gia Duyên (Jiayuan) năm 2016 (vụ Viên Vị) — kiểm thử website phát hiện lỗ hổng, lấy một phần dữ liệu người dùng làm bằng chứng, nộp lên nền tảng lỗ hổng của bên thứ ba, nhà sản xuất trước thì xác nhận và cảm ơn, sau thì báo án, người này bị tạm giam hình sự và phê chuẩn bắt vì nghi phạm tội thu thập trái phép dữ liệu hệ thống thông tin máy tính, giam giữ vài tháng rồi được thả, cuối cùng không bị tuyên án.
 
-原有覆盖：第 11 节第 4 条写爬虫（落点是绕过防护取数据和卖数据），第 8 条写非法控制他人设备（落点是挖矿和控制摄像头、手机）。两条都引了刑法第二百八十五条第二款和法释〔2011〕19 号第一条，但都没有覆盖「未经授权做安全测试」这一族行为，也没有任何一条写「善意、不牟利、事后上报」在定罪上是什么地位，以及发现漏洞之后的合法处置路径。全书此前一个字没提《网络产品安全漏洞管理规定》。
+Phạm vi phủ trước đây: chương 11 mục 4 viết về crawler (điểm rơi là qua mặt lớp bảo vệ để lấy dữ liệu và bán dữ liệu), mục 8 viết về kiểm soát trái phép thiết bị của người khác (điểm rơi là đào tiền mã hóa và điều khiển camera, điện thoại). Cả hai mục đều trích khoản 2 Điều 285 Bộ luật Hình sự và Điều 1 của Pháp thích [2011] số 19, nhưng đều không phủ tới nhóm hành vi “làm kiểm thử an toàn khi chưa được ủy quyền”, cũng không có mục nào viết “thiện chí, không mưu lợi, báo cáo sau” có địa vị thế nào khi định tội, cùng con đường xử lý hợp pháp sau khi phát hiện lỗ hổng. Trước đó toàn sách chưa hề nhắc một chữ nào đến “Quy định quản lý lỗ hổng an toàn sản phẩm mạng”.
 
-落点：第 11 节新增 2 条（新第 9、10 条），原第 9 到第 15 条顺延为第 11 到第 17 条，并同步改了两处跨节引用（book/09 第 32 行「第 11 节第 9 条」→「第 11 节第 11 条」，book/26 第 103 行「第 11 节第 14 条」→「第 11 节第 16 条」）。另修正了第 8 条来源栏遗留的一处未核实标注（见下）。
+Điểm rơi: chương 11 thêm mới 2 mục (mục 9, 10 mới), mục 9 đến 15 cũ lần lượt dời thành mục 11 đến 17, đồng thời sửa hai chỗ tham chiếu chéo chương (dòng 32 của book/09-rang-nhuoc-phap-ly-thuong-dan “chương 11 mục 9” → “chương 11 mục 11”; dòng 103 của book/26-lam-website-hoac-nen-tang “chương 11 mục 14” → “chương 11 mục 16”). Ngoài ra còn sửa một chỗ đánh dấu chưa xác minh để sót ở cột Nguồn của mục 8 (xem dưới).
 
-取源工具：WebSearch + WebFetch。最高法公报站 `gongbao.court.gov.cn` 两次均返回 502，法释〔2011〕19 号改用深圳市公安局转载本（本节其余条目此前已在用同一链接）与广东省公安厅转载本交叉核对，两处数字一致。
+Công cụ lấy nguồn: WebSearch + WebFetch. Trang công báo TAND tối cao `gongbao.court.gov.cn` hai lần đều trả về 502, Pháp thích [2011] số 19 đổi sang đối chiếu chéo bản đăng lại của Công an thành phố Thâm Quyến (các mục còn lại của chương này trước đây đã dùng cùng link đó) với bản đăng lại của Công an tỉnh Quảng Đông, số liệu hai nơi khớp nhau.
 
-## 第 9 条（未经授权不做安全测试）
+## Mục 9 (chưa được ủy quyền thì không làm kiểm thử an toàn)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính của nguyên văn |
 |---|---|---|
-| <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>（刑法整合文本，北京市公安交管局转载，本节此前已在用） | 是 | 第二百八十五条第一款为侵入国家事务、国防建设、尖端科学技术领域的计算机信息系统；第二款为侵入前款规定以外的系统或采用其他技术手段获取数据，情节严重 3 年以下，特别严重 3 到 7 年 |
-| <https://ga.sz.gov.cn/ZWGK/ZCFG/ZCJD/content/post_1304363.html>（法释〔2011〕19 号，深圳市公安局转载） | 是 | 第一条「情节严重」：金融服务身份认证信息 10 组以上；其他身份认证信息 500 组以上；非法控制计算机信息系统 20 台以上；违法所得 5000 元以上或造成经济损失 1 万元以上。「情节特别严重」为上述标准的 5 倍以上 |
-| <https://www.spp.gov.cn/spp/jczdal/201710/t20171017_202593.shtml>（最高检第九批指导性案例） | 是 | 检例第 36 号卫梦龙、龚旭、薛东东案。要旨：「超出授权范围使用账号、密码登录计算机信息系统，属于侵入计算机信息系统的行为」。案情：龚旭提供工作中掌握的账号、密码、Token 令牌，卫梦龙异地登录公司内部管理开发系统下载非工作范围的电子数据，交薛东东在互联网出售，违法所得 37000 元；卫梦龙 4 年罚 4 万元、龚旭 3 年 9 个月罚 4 万元、薛东东 4 年罚 4 万元 |
+| <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html> (bản văn hợp nhất Bộ luật Hình sự, do Cục Quản lý giao thông công an thành phố Bắc Kinh đăng lại, chương này trước đây đã dùng) | Có | khoản 1 Điều 285 là xâm nhập hệ thống thông tin máy tính trong lĩnh vực sự vụ quốc gia, quốc phòng, khoa học kỹ thuật mũi nhọn; khoản 2 là xâm nhập hệ thống ngoài phạm vi khoản trên hoặc dùng thủ đoạn kỹ thuật khác để lấy dữ liệu, tình tiết nghiêm trọng dưới 3 năm, đặc biệt nghiêm trọng 3 đến 7 năm |
+| <https://ga.sz.gov.cn/ZWGK/ZCFG/ZCJD/content/post_1304363.html> (Pháp thích [2011] số 19, Công an thành phố Thâm Quyến đăng lại) | Có | Điều 1 “tình tiết nghiêm trọng”: thông tin nhận thực dịch vụ tài chính từ 10 nhóm trở lên; thông tin nhận thực khác từ 500 nhóm trở lên; kiểm soát trái phép hệ thống thông tin máy tính từ 20 máy trở lên; thu lợi bất hợp pháp từ 5.000 yên trở lên hoặc gây thiệt hại kinh tế từ 10.000 yên trở lên. “Tình tiết đặc biệt nghiêm trọng” là từ 5 lần các chuẩn trên trở lên |
+| <https://www.spp.gov.cn/spp/jczdal/201710/t20171017_202593.shtml> (các vụ án hướng dẫn đợt thứ chín của Viện kiểm sát nhân dân tối cao) | Có | Vụ án hướng dẫn Kiểm lệ số 36: vụ Vệ Mộng Long, Cung Húc, Tiết Đông Đông. Điểm chỉ: “dùng tài khoản, mật khẩu đăng nhập hệ thống thông tin máy tính vượt quá phạm vi ủy quyền, thuộc hành vi xâm nhập hệ thống thông tin máy tính”. Diễn biến: Cung Húc cung cấp tài khoản, mật khẩu, Token nắm được trong công việc, Vệ Mộng Long đăng nhập từ nơi khác vào hệ thống quản lý phát triển nội bộ của công ty tải dữ liệu điện tử ngoài phạm vi công việc, giao cho Tiết Đông Đông bán trên internet, thu lợi bất hợp pháp 37.000 yên; Vệ Mộng Long 4 năm và phạt 40.000 yên, Cung Húc 3 năm 9 tháng và phạt 40.000 yên, Tiết Đông Đông 4 năm và phạt 40.000 yên |
 
-定级 A：刑事门槛和量刑档位在司法解释与刑法原文中可逐字核对，案例为最高检指导性案例。收益量级「大」——自由口径按「避免刑责」定档。
+Xếp mức A: ngưỡng hình sự và thang hình sự đều có thể đối chiếu từng chữ trong giải thích pháp lý và nguyên văn Bộ luật Hình sự, vụ án là vụ án hướng dẫn của Viện kiểm sát tối cao. Quy mô lợi ích “lớn” — trục tự do định bậc theo “tránh trách nhiệm hình sự”.
 
-案例取舍：**世纪佳缘案本身未写进正文**。该案最终未进入判决，裁判文书网、最高法与最高检官网均无可逐字核对的通报或文书，当年信息全部来自媒体报道，按仓库引用规则（只引原始文献与官方文件，禁止二手转述）不引，处理方式与第 9 节「车企免费充电案」、第 11 节第 11 条「翻墙类判例」一致。条目因此只按法条和处罚标准写，并在备注中写明「本节写作时未在最高法、最高检官网找到可逐字核对的善意测试类案例」。
+Chọn bỏ vụ án: **bản thân vụ Thế kỷ Gia Duyên không được viết vào thân bài**. Vụ này cuối cùng không đi đến bản án, mạng văn bản phán quyết cùng trang chủ TAND tối cao và VKS tối cao đều không có thông báo hay văn bản nào đối chiếu được từng chữ, thông tin năm ấy toàn bộ đến từ báo chí, theo quy tắc trích dẫn của kho (chỉ trích tài liệu gốc và văn bản chính thức, cấm dẫn lại qua nguồn thứ hai) nên không trích, cách xử lý nhất quán với “vụ sạc điện miễn phí của hãng xe” ở chương 9, “vụ án loại vượt tường lửa” ở mục 11 chương 11. Mục vì thế chỉ viết theo điều luật và chuẩn xử phạt, đồng thời ghi rõ ở phần Ghi chú: “khi viết chương này, trên trang chủ TAND tối cao và VKS tối cao không tìm thấy vụ án kiểm thử thiện chí nào đối chiếu được từng chữ”.
 
-引检例第 36 号的边界已在备注中写明：该案是卖数据牟利的案子，引它只为「超出授权即侵入」这条要旨，不用来类比善意测试的刑期。
+Ranh giới khi trích Kiểm lệ số 36 đã ghi rõ trong phần Ghi chú: vụ này là vụ bán dữ liệu để mưu lợi, trích nó chỉ vì điểm chỉ “vượt ủy quyền tức là xâm nhập”, không dùng để suy ra mức hình phạt của kiểm thử thiện chí.
 
-「动机和事后上报不是出罪事由」是对法条构成要件的陈述（第二百八十五条第二款不含目的要件），非案例结论，未标注为官方表述。
+“Động cơ và báo cáo sau không phải là căn cứ loại tội” là nhận định về yếu tố cấu thành của điều luật (khoản 2 Điều 285 không chứa yếu tố mục đích), không phải kết luận rút ra từ vụ án, và không được đánh dấu là cách nói của cơ quan chính thức.
 
-## 第 10 条（漏洞报送与发布限制）
+## Mục 10 (báo cáo lỗ hổng và giới hạn công bố)
 
-| URL | 复核 | 原文要点 |
+| URL | Đối chiếu lại | Điểm chính của nguyên văn |
 |---|---|---|
-| <https://www.gov.cn/gongbao/content/2021/content_5641351.htm>（国务院公报本，工信部联网安〔2021〕66 号） | 是 | 第二条适用范围含「从事网络产品安全漏洞发现、收集、发布等活动的组织或者个人」；第四条不得利用漏洞从事危害网络安全的活动、不得非法收集出售发布漏洞信息；第九条五项（修补措施前不得发布、不得发布在用系统漏洞细节、不得刻意夸大与恶意炒作诈骗、不得发布或提供专门用于利用漏洞的程序工具、发布时同步发布修补或防范措施），并规定不得将未公开漏洞信息向产品提供者之外的境外组织或个人提供；第十条鼓励向工信部网络安全威胁和漏洞信息共享平台、国家网络与信息安全信息通报中心漏洞平台、国家计算机网络应急技术处理协调中心漏洞平台、中国信息安全测评中心漏洞库报送；第十四条违规收集发布由工信部、公安部依职责处理，构成网络安全法规定情形的依该规定处罚。2021 年 9 月 1 日施行 |
-| <https://wap.miit.gov.cn/jgsj/waj/wjfb/art/2021/art_96c2d3de7a6f400ea1d8522b7893db7a.html>（工信部本，交叉核对第二、四、十一至十四条） | 是 | 与公报本一致 |
-| <https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm>（网络安全法 2025 年修正本） | 是 | 第二十八条：开展网络安全认证、检测、风险评估等活动，向社会发布系统漏洞、计算机病毒、网络攻击、网络侵入等网络安全信息，应当遵守国家有关规定。第六十五条罚则：责令改正、给予警告，可以处 1 万元以上 10 万元以下罚款；拒不改正或者情节严重的，处 10 万元以上 100 万元以下罚款，并可以责令暂停相关业务、停业整顿、关闭网站或者应用程序、吊销相关业务许可证或者吊销营业执照，对直接负责的主管人员和其他直接责任人员处 1 万元以上 10 万元以下罚款 |
+| <https://www.gov.cn/gongbao/content/2021/content_5641351.htm> (bản trên Công báo Quốc vụ viện, văn bản Liên mạng an [2021] số 66 của Bộ Công nghiệp và Công nghệ thông tin) | Có | Điều 2 phạm vi áp dụng gồm “tổ chức hoặc cá nhân hoạt động phát hiện, thu thập, công bố lỗ hổng an toàn sản phẩm mạng”; Điều 4 không được dùng lỗ hổng để hoạt động gây hại an toàn mạng, không được thu thập, bán, công bố thông tin lỗ hổng trái phép; Điều 9 năm điểm (chưa có biện pháp vá thì không được công bố, không được công bố chi tiết lỗ hổng của hệ thống đang dùng, không được cố tình phóng đại và tung hê kích động lừa đảo, không được công bố hoặc cung cấp công cụ chương trình chuyên dùng để lợi dụng lỗ hổng, khi công bố phải đồng thời công bố biện pháp vá hoặc phòng tránh), và quy định không được cung cấp thông tin lỗ hổng chưa công bố cho tổ chức hoặc cá nhân nước ngoài ngoài nhà cung cấp sản phẩm; Điều 10 khuyến khích báo cáo lên nền tảng chia sẻ thông tin mối đe dọa an toàn mạng và lỗ hổng của Bộ Công nghiệp và Công nghệ thông tin, nền tảng lỗ hổng của Trung tâm Thông báo thông tin mạng và an toàn thông tin quốc gia, nền tảng lỗ hổng của Trung tâm Điều phối xử lý khẩn cấp kỹ thuật mạng máy tính quốc gia, kho lỗ hổng của Trung tâm Đánh giá an toàn thông tin Trung Quốc; Điều 14 việc thu thập, công bố vi phạm do Bộ Công nghiệp và Công nghệ thông tin, Bộ Công an xử theo chức trách, trường hợp cấu thành tình huống Luật An toàn mạng quy định thì xử phạt theo luật đó. Thi hành từ 01/9/2021 |
+| <https://wap.miit.gov.cn/jgsj/waj/wjfb/art/2021/art_96c2d3de7a6f400ea1d8522b7893db7a.html> (bản của Bộ Công nghiệp và Công nghệ thông tin, đối chiếu chéo Điều 2, 4, 11 đến 14) | Có | Khớp với bản công báo |
+| <https://www.cac.gov.cn/2025-12/29/c_1768735112911946.htm> (bản sửa đổi năm 2025 của Luật An toàn mạng) | Có | Điều 28: hoạt động chứng nhận an toàn mạng, kiểm tra, đánh giá rủi ro v.v., công bố ra xã hội các thông tin an toàn mạng như lỗ hổng hệ thống, virus máy tính, tấn công mạng, xâm nhập mạng v.v., phải tuân thủ quy định quốc gia liên quan. Chế tài Điều 65: ra lệnh sửa chữa, cảnh cáo, có thể phạt tiền từ 10.000 đến dưới 100.000 yên; không sửa hoặc tình tiết nghiêm trọng thì phạt tiền từ 100.000 đến dưới 1.000.000 yên, và có thể ra lệnh tạm dừng nghiệp vụ liên quan, ngừng kinh doanh để chỉnh đốn, đóng website hoặc ứng dụng, thu hồi giấy phép nghiệp vụ liên quan hoặc thu hồi giấy phép kinh doanh, với người phụ trách trực tiếp và người trực tiếp chịu trách nhiệm khác phạt tiền từ 10.000 đến dưới 100.000 yên |
 
-定级 A：规章条文逐项可核，罚则金额有具体数字。收益量级「中」——自由口径按「避免行政处罚」定档，本条落点是发布行为的行政责任，刑事那一头在上一条。
+Xếp mức A: từng điều của quy chế đều đối chiếu được, mức phạt có con số cụ thể. Quy mô lợi ích “trung bình” — trục tự do định bậc theo “tránh xử phạt hành chính”, điểm rơi của mục này là trách nhiệm hành chính của hành vi công bố, khía cạnh hình sự nằm ở mục trước.
 
-条号说明已写进来源栏：《网络产品安全漏洞管理规定》第十四条援引的「网络安全法第六十二条」是 2016 年文本的条号，规章本身未随法律修正更新，现行对应第六十五条。
+Phần giải thích số điều đã viết vào cột Nguồn: “Điều 62 Luật An toàn mạng” mà Điều 14 của “Quy định quản lý lỗ hổng an toàn sản phẩm mạng” dẫn là số điều của bản văn năm 2016, bản quy chế không cập nhật theo đợt sửa luật, hiện nay tương ứng Điều 65.
 
-## 顺带修正：第 8 条来源栏的未核实标注
+## Sửa luôn: đánh dấu chưa xác minh ở cột Nguồn của mục 8
 
-原第 8 条来源栏写「终身禁业条款 2016 年文本为第六十三条第二款，修正后法律责任章条号有调整，本次未逐条核实」。本次逐条核实结果：
+Cột Nguồn của mục 8 cũ viết “điều cấm nghề trọn đời ở bản văn 2016 là khoản 2 Điều 63, sau sửa đổi chương trách nhiệm pháp lý có điều chỉnh số điều, lần này chưa đối chiếu từng điều”. Kết quả đối chiếu từng điều lần này:
 
-| 内容 | 2016 年文本 | 2025 年修正本 |
+| Nội dung | Bản văn 2016 | Bản sửa đổi 2025 |
 |---|---|---|
-| 禁止非法侵入他人网络、干扰网络正常功能、窃取网络数据 | 第二十七条 | 第二十九条 |
-| 上条的罚则（没收违法所得、5 日以下拘留、并处 5 万至 50 万元；情节较重 5 至 15 日拘留、并处 10 万至 100 万元） | 第六十三条第一款 | 第六十六条第一款 |
-| 单位有前款行为的处罚 | — | 第六十六条第二款 |
-| 终身禁业（受治安管理处罚 5 年内、受刑事处罚终身不得从事网络安全管理和网络运营关键岗位） | 第六十三条第二款 | **第六十六条第三款** |
-| 网络安全认证检测与发布漏洞信息应遵守国家规定 | 第二十六条 | 第二十八条 |
-| 上条的罚则 | 第六十二条 | 第六十五条 |
+| Cấm xâm nhập trái phép mạng của người khác, nhiễu loạn chức năng bình thường của mạng, đánh cắp dữ liệu mạng | Điều 27 | Điều 29 |
+| Chế tài của điều trên (tịch thu lợi bất hợp pháp, giam giữ dưới 5 ngày, kèm phạt 50.000 đến 500.000 yên; tình tiết nặng hơn giam giữ 5 đến 15 ngày, kèm phạt 100.000 đến 1.000.000 yên) | khoản 1 Điều 63 | khoản 1 Điều 66 |
+| Xử phạt đơn vị có hành vi như khoản trên | — | khoản 2 Điều 66 |
+| Cấm nghề trọn đời (bị xử phạt hành chính an ninh công cộng thì trong 5 năm, bị xử phạt hình sự thì trọn đời không được làm công tác quản lý an toàn mạng và các vị trí chủ chốt vận hành mạng) | khoản 2 Điều 63 | **khoản 3 Điều 66** |
+| Chứng nhận, kiểm tra an toàn mạng và công bố thông tin lỗ hổng phải tuân thủ quy định quốc gia | Điều 26 | Điều 28 |
+| Chế tài của điều trên | Điều 62 | Điều 65 |
 
-来源栏据此改为「第二十九、六十六条；2016 年文本为第二十七、六十三条，终身禁业为修正后的第六十六条第三款」，删去「本次未逐条核实」。
+Cột Nguồn theo đó đổi thành “Điều 29, 66; bản văn 2016 là Điều 27, 63, cấm nghề trọn đời là khoản 3 Điều 66 sau sửa đổi”, bỏ chữ “lần này chưa đối chiếu từng điều”.
 
-注：修正本第六十五条的摘录中未见 2016 年文本里的「没收违法所得」一语，正文按修正本原文写，未沿用旧表述。全书其余引网络安全法之处（book/26 第 67 行实名条、第 11 节第 16 条日志留存条、docs/做平台要办哪些证.md）此前已按修正本条号处理，本次未改动。
+Chú: trong đoạn trích Điều 65 của bản sửa đổi không thấy cụm “tịch thu lợi bất hợp pháp” có trong bản văn 2016, thân bài viết theo nguyên văn bản sửa đổi, không giữ cách nói cũ. Những chỗ còn lại của toàn sách trích Luật An toàn mạng (mục danh tính thật ở dòng 67 của book/26-lam-website-hoac-nen-tang, mục lưu nhật ký ở mục 16 chương 11, docs/lam-nen-tang-can-nhung-giay-to-gi.md) trước đây đã xử theo số điều của bản sửa đổi, lần này không thay đổi.

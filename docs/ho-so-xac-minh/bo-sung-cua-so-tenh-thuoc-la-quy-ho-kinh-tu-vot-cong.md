@@ -1,35 +1,35 @@
-# 核实记录：跨节补 5 条
+# Hồ sơ xác minh: bổ sung 5 mục chéo nhiều chương
 
-核实日期：2026-09-07。全书 322 → 327 条。第 1 节 +2、第 2 节 +1、第 5 节 +1、第 19 节 +1。
+Ngày xác minh: 2026-09-07. Toàn sách 322 → 327 mục. Chương 1 +2, chương 2 +1, chương 5 +1, chương 19 +1.
 
 ---
 
-## 一、逐条核对到的原文
+## I. Nguyên văn đã đối chiếu từng mục
 
-| 来源 | 核对到的原文 | 用在哪 |
+| Nguồn | Nguyên văn đã đối chiếu | Dùng ở đâu |
 | --- | --- | --- |
-| Spiegel CN, Lindaman FC (1977). Children can't fly. American Journal of Public Health. doi:10.2105/AJPH.67.12.1143（PMID 596496） | 摘要原文：「Significant reduction in falls resulted, particularly in the Bronx, where reported falls declined 50 percent from 1973 to 1975.」；1976 年纽约市卫生法典修订「to require that landlords provide window guards in apartments where children ten years old and younger reside」 | 第 1 节「给窗户和阳台装限位器」 |
-| Unintentional Window Falls in Children and Adolescents. Academic Pediatrics (2021). doi:10.1016/j.acap.2020.07.008（PMID 32653687） | 摘要原文：2007 年 1 月至 2017 年 8 月，「There were 38,840 ED visits and 496 regional patients who unintentionally fell from a window across the study period between 0 and 17 years old.」「The majority of falls occurred in children under the age of 6 and were related to falls from a second story or below.」 | 同上，用于「不是只有高层才要装」 |
-| 美国疾控中心《破伤风》<https://www.cdc.gov/tetanus/about/index.html> | 「Tetanus bacteria can get into someone's body through broken skin, usually through injuries.」「Tetanus can lead to death (1 in 10 cases in the United States are fatal).」「People who didn't complete the primary series or who aren't up to date with their 10-year tetanus booster shots are also at increased risk.」「Vaccination also helps prevent tetanus in people with wounds, depending on their tetanus vaccination history.」 | 第 1 节「被铁钉、木刺扎到」 |
-| 国家卫生健康委办公厅《关于印发非新生儿破伤风诊疗规范（2024 年版）的通知》（国卫办医急函〔2024〕381 号，2024-10-11）<https://www.gov.cn/zhengce/zhengceku/202410/content_6982262.htm> | 通知正文核对无误；规范本体以 PDF 附件形式发布 | 同上，作为国内现行规范的指引 |
-| Öberg M, et al. (2011). Lancet. doi:10.1016/S0140-6736(10)61388-8（PMID 21112082） | 摘要原文：「603,000 deaths were attributable to second-hand smoke in 2004, which was about 1·0% of worldwide mortality. 47% of deaths from second-hand smoke occurred in women, 28% in children, and 26% in men.」「61% of DALYs were in children.」另：2004 年 40% 的儿童、33% 的男性非吸烟者、35% 的女性非吸烟者暴露于二手烟 | 第 2 节「别在家里和车里抽烟」 |
-| The Associations Between Secondhand Smoke Exposure and Various Cardiovascular Diseases: A Meta-Analysis. Nicotine & Tobacco Research (2026). doi:10.1093/ntr/ntaf111（PMID 40418017） | 摘要原文：57 项研究；「hypertension (OR: 1.28, 95% CI: 1.15 to 1.40), heart disease (OR: 1.39, 95% CI: 1.28 to 1.50), myocardial infarction (OR: 1.50, 95% CI: 1.17 to 1.84), stroke (OR: 1.36, 95% CI: 1.18 to 1.54), and nonspecific CVDs (OR: 1.50, 95% CI: 1.26 to 1.74)」「Home exposure has a higher risk of CVD than non-home exposure.」 | 同上 |
-| 国务院令第 844 号《国务院关于修改〈住房公积金管理条例〉的决定》<https://www.gov.cn/gongbao/2026/issue_12946/202608/content_7079363.html> | 「已经2026年7月31日国务院第93次常务会议通过，现予公布，自2026年9月20日起施行。」修改后第二十四条九项可提取情形（含「（一）支付房租的」「（四）装修自住住房的」「（五）支付自住住房物业费的」）；第二十五条「自受理申请之日起3日内作出准予提取或者不准提取的决定」；第十八条「均不得低于职工上一年度月平均工资的5％」；第二十四条末款「职工死亡或者被宣告死亡的，职工的继承人、受遗赠人可以提取」 | 第 5 节「公积金不只用来买房」 |
-| 工伤保险条例第十五条、第十四条 <https://www.gov.cn/gongbao/content/2011/content_1778064.htm> | 第十五条第一款第（一）项：「在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的」；第十四条第（六）项上下班途中只覆盖「非本人主要责任的交通事故或者城市轨道交通、客运轮渡、火车事故伤害」 | 第 19 节「别信『撑到工位就算工伤』」 |
+| Spiegel CN, Lindaman FC (1977). Children can't fly. American Journal of Public Health. doi:10.2105/AJPH.67.12.1143 (PMID 596496) | Nguyên văn tóm tắt: “Significant reduction in falls resulted, particularly in the Bronx, where reported falls declined 50 percent from 1973 to 1975.”; bản sửa đổi Bộ luật Y tế thành phố New York năm 1976 “to require that landlords provide window guards in apartments where children ten years old and younger reside” | Chương 1, mục “Lắp chặn giới hạn cho cửa sổ và ban công” |
+| Unintentional Window Falls in Children and Adolescents. Academic Pediatrics (2021). doi:10.1016/j.acap.2020.07.008 (PMID 32653687) | Nguyên văn tóm tắt: từ tháng 1/2007 đến tháng 8/2017, “There were 38,840 ED visits and 496 regional patients who unintentionally fell from a window across the study period between 0 and 17 years old.” “The majority of falls occurred in children under the age of 6 and were related to falls from a second story or below.” | Như trên, dùng cho ý “không phải chỉ nhà cao tầng mới cần lắp” |
+| CDC Hoa Kỳ, trang “Tetanus” <https://www.cdc.gov/tetanus/about/index.html> | “Tetanus bacteria can get into someone's body through broken skin, usually through injuries.” “Tetanus can lead to death (1 in 10 cases in the United States are fatal).” “People who didn't complete the primary series or who aren't up to date with their 10-year tetanus booster shots are also at increased risk.” “Vaccination also helps prevent tetanus in people with wounds, depending on their tetanus vaccination history.” | Chương 1, mục “Bị đinh sắt, mảnh gỗ đâm vào” |
+| Văn phòng Ủy ban Y tế và Sức khỏe Quốc gia, “Thông báo về việc in ban hành Quy phạm chẩn đoán và điều trị uốn ván (không phải uốn ván sơ sinh) phiên bản năm 2024” (công văn khẩn y số [2024] 381, ngày 2024-10-11) <https://www.gov.cn/zhengce/zhengceku/202410/content_6982262.htm> | Thân văn bản thông báo đã đối chiếu không sai; thân quy phạm phát hành dưới dạng tệp PDF đính kèm | Như trên, làm chỉ dẫn cho quy phạm hiện hành trong nước |
+| Öberg M, et al. (2011). Lancet. doi:10.1016/S0140-6736(10)61388-8 (PMID 21112082) | Nguyên văn tóm tắt: “603,000 deaths were attributable to second-hand smoke in 2004, which was about 1·0% of worldwide mortality. 47% of deaths from second-hand smoke occurred in women, 28% in children, and 26% in men.” “61% of DALYs were in children.” Ngoài ra: năm 2004, 40% trẻ em, 33% nam giới không hút thuốc và 35% nữ giới không hút thuốc tiếp xúc với khói thuốc lá thụ động | Chương 2, mục “Đừng hút thuốc trong nhà và trong xe” |
+| The Associations Between Secondhand Smoke Exposure and Various Cardiovascular Diseases: A Meta-Analysis. Nicotine & Tobacco Research (2026). doi:10.1093/ntr/ntaf111 (PMID 40418017) | Nguyên văn tóm tắt: 57 nghiên cứu; “hypertension (OR: 1.28, 95% CI: 1.15 to 1.40), heart disease (OR: 1.39, 95% CI: 1.28 to 1.50), myocardial infarction (OR: 1.50, 95% CI: 1.17 to 1.84), stroke (OR: 1.36, 95% CI: 1.18 to 1.54), and nonspecific CVDs (OR: 1.50, 95% CI: 1.26 to 1.74)” “Home exposure has a higher risk of CVD than non-home exposure.” | Như trên |
+| Lệnh Quốc vụ viện số 844, “Quyết định của Quốc vụ viện về sửa đổi Điều lệ Quản lý quỹ tiết kiệm nhà ở” <https://www.gov.cn/gongbao/2026/issue_12946/202608/content_7079363.html> | “Đã thông qua tại phiên họp Thường vụ Quốc vụ viện thứ 93 ngày 31/7/2026, nay công bố, thi hành từ ngày 20/9/2026.” Điều 24 sau sửa đổi có chín tình huống được rút (trong đó có “(1) trả tiền thuê nhà”, “(4) sửa chữa nhà ở để ở của bản thân”, “(5) trả phí quản lý nhà ở để ở của bản thân”); Điều 25 “trong vòng 3 ngày kể từ ngày tiếp nhận đơn phải ra quyết định cho phép rút hoặc không cho phép rút”; Điều 18 “đều không được thấp hơn 5% tiền lương bình quân tháng của người lao động trong năm trước”; khoản cuối Điều 24 “người lao động chết hoặc bị tuyên bố là đã chết thì người thừa kế, người được di tặng của người lao động có thể rút” | Chương 5, mục “Quỹ tiết kiệm nhà ở không chỉ dùng để mua nhà” |
+| Quy chế Bảo hiểm tai nạn lao động, Điều 15 và Điều 14 <https://www.gov.cn/gongbao/content/2011/content_1778064.htm> | khoản 1 Điều 15 điểm (1): “trong giờ làm việc và tại vị trí công tác, bị bệnh cấp tính dẫn đến tử vong, hoặc trong vòng 48 giờ cứu chữa không hiệu quả mà tử vong”; điểm (6) Điều 14 về đi làm, tan làm về chỉ bao gồm “tai nạn giao thông mà bản thân không chịu trách nhiệm chủ yếu, hoặc thương tật do sự cố đường sắt đô thị, phà chở khách, tàu hỏa” | Chương 19, mục “Đừng tin câu ‘cố lết đến chỗ làm thì tính là tai nạn lao động’” |
 
-## 二、未取得 / 未采用
+## II. Chưa lấy được / chưa sử dụng
 
-| 想找的 | 结果 | 处理 |
+| Cần tìm | Kết quả | Cách xử lý |
 | --- | --- | --- |
-| 交强险责任限额（想写「三者险保额买够」一条） | 《机动车交通事故责任强制保险条例》与银保监会车险综合改革文件都不在国务院政策文件库中，本次检索为空 | 该条未写 |
-| 《关于规范儿童微量元素临床检测工作的通知》（想进第 6 节反面清单） | 卫健委 2013 年的这份通知不在国务院政策文件库中 | 该条未写 |
-| NMN、天赋基因检测、防脱洗发水的可引证据 | 未找到符合本书引用规则的原始文献或官方文件 | 均未写 |
-| 《非新生儿破伤风诊疗规范（2024 年版）》正文 | 以 PDF 附件发布，本机无 PDF 解析工具 | 伤口分级与免疫程序表写 TODO，正文只写「当天去、让医生判断」 |
+| Hạn mức trách nhiệm của bảo hiểm TNDS bắt buộc cho xe cơ giới (muốn viết một mục “mua đủ hạn mức bảo hiểm trách nhiệm bên thứ ba”) | Cả “Quy chế bảo hiểm trách nhiệm bắt buộc đối với tai nạn giao thông của xe cơ giới” lẫn các văn bản cải cách tổng hợp bảo hiểm xe cơ giới của Ủy ban Giám sát quản lý Ngân hàng – Bảo hiểm đều không có trong kho văn bản chính sách Quốc vụ viện, lần tra cứu này không có kết quả | Không viết mục này |
+| “Thông báo về việc chuẩn hóa xét nghiệm nguyên tố vi lượng lâm sàng ở trẻ em” (muốn đưa vào danh sách điều không nên làm của chương 6) | Thông báo năm 2013 của Ủy ban Y tế và Sức khỏe Quốc gia này không có trong kho văn bản chính sách Quốc vụ viện | Không viết mục này |
+| Bằng chứng trích dẫn được cho NMN, xét nghiệm gene thiên phú, dầu gội chống rụng tóc | Không tìm thấy tài liệu gốc hay văn bản chính thức nào phù hợp quy tắc trích dẫn của sách | Đều không viết |
+| Thân văn bản “Quy phạm chẩn đoán và điều trị uốn ván (không phải uốn ván sơ sinh) phiên bản 2024” | Phát hành dưới dạng tệp PDF đính kèm, máy này không có công cụ đọc PDF | Bảng phân loại vết thương và bảng quy trình miễn dịch ghi TODO, thân bài chỉ viết “đi ngay trong ngày, để bác sĩ đánh giá” |
 
-## 三、关于「撑到工位就算工伤」这条
+## III. Về mục “cố lết đến chỗ làm thì tính là tai nạn lao động”
 
-这条是按读者提问补的，来源是短视频里流传的说法：有人感觉不适坚持开车到公司才发病、家属拿到赔偿；有人在公司不适、回家后出事、公司不赔。
+Mục này được bổ sung theo câu hỏi của độc giả, nguồn gốc là lời truyền miệng trong các video ngắn: có người thấy khó chịu trong người vẫn cố lái xe đến công ty rồi mới phát bệnh, người nhà nhận được tiền bồi thường; có người khó chịu ngay tại công ty, về đến nhà mới ra chuyện, công ty không bồi thường.
 
-对照法条，这个说法把因果讲反了一半。第十五条要求「在工作时间和工作岗位」突发疾病——决定性的是**发病时人在哪**，不是死在哪。在岗发病后被送医、48 小时内经抢救无效死亡的仍可能适用；而在上下班路上发病，第十四条第（六）项只覆盖交通事故伤害，不覆盖疾病，所以「坚持开到公司」在法律上并不是稳赚的操作，在医学上则是明确的坏选择。
+Đối chiếu với điều luật, cách nói này đã đảo ngược một nửa quan hệ nhân quả. Điều 15 yêu cầu phát bệnh cấp tính “trong giờ làm việc và tại vị trí công tác” — cái quyết định là **lúc phát bệnh người đang ở đâu**, chứ không phải chết ở đâu. Người phát bệnh khi đang làm việc rồi được đưa đi viện, cứu chữa không hiệu quả mà tử vong trong vòng 48 giờ vẫn có thể được áp dụng; còn phát bệnh trên đường đi làm hoặc tan làm về thì điểm (6) Điều 14 chỉ bao gồm thương tật do tai nạn giao thông, không bao gồm bệnh tật, nên “cố lái đến công ty” xét về pháp lý không phải là nước cờ chắc thắng, còn về mặt y học thì là lựa chọn xấu rõ ràng.
 
-因此这条写成纠错条目，口径定为死亡率而不是金钱：它要改变的行为是「先打 120 而不是先赶路」，收益量级按存活率定「大」。
+Vì vậy mục này được viết thành mục sửa sai, trục đo đặt là tử vong chứ không phải tiền: hành vi nó muốn thay đổi là “gọi 120 trước thay vì vội vã chạy đường”, quy mô lợi ích định “lớn” theo tỷ lệ sống còn.

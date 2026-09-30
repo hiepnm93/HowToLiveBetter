@@ -1,75 +1,75 @@
-# 第 10 节「结婚划不划算」来源核实记录（2026-09-07）
+# Hồ sơ xác minh nguồn “Kết hôn có đáng không” của chương 10 (2026-09-07)
 
-工具：WebFetch；WebFetch 打不开或只渲染到导航的页面用 curl（经本机代理）抓原始 HTML/PDF/JSON 后本地解析。WebSearch 在本节中途配额用尽（200/200），此后只用 WebFetch 与 curl。
+Công cụ: WebFetch; trang WebFetch không mở được hoặc chỉ render đến phần điều hướng thì dùng curl (qua proxy tại máy) tải HTML/PDF/JSON gốc rồi phân tích tại máy. WebSearch cạn hạn mức giữa chừng khi xác minh chương này (200/200), sau đó chỉ dùng WebFetch và curl.
 
-## 官方统计
+## Thống kê chính thức
 
-### 民政部《2024 年民政事业发展统计公报》
-- 页面：<https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html> ：WebFetch 打开，页面标题「2024年民政事业发展统计公报」，发布 2025-07-30 17:00；页面为适老版壳，正文在 PDF 附件里
-- PDF：<https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf> ：curl 下载 14 页，pypdf 抽文本
-- 原文引句（第 13 页）：「1.婚姻登记服务。2024 年，全国婚姻登记机构和场所共计 4190 个，其中婚姻登记机构 1134 个，全年依法办理结婚登记 610.6 万对，比上年下降 20.5％。结婚率为 4.3‰，比上年下降 1.1 个千分点。依法办理离婚手续 351.3 万对，其中：民政部门登记离婚 262.2 万对，法院判决、调解离婚 89.1 万对。离婚率为 2.5‰。」
-- 原文引句（第 14 页注释 5）：「离婚登记服务中法院判决、调解离婚数据来源于最高人民法院。结（离）婚率计算公式为：当年结（离）婚对数/当年平均总人口数 x1000‰。」
-- 「离结比 ≈ 57.5%」是本文用上述两数相除的算术结果，公报无此指标，正文已注明
+### Bộ Dân chính, “Thông cáo thống kê phát triển sự nghiệp dân chính năm 2024”
+- Trang: <https://www.mca.gov.cn/n1288/n1294/n1554/c1662004999980006190/content.html>: WebFetch mở được, tiêu đề trang “Thông cáo thống kê phát triển sự nghiệp dân chính năm 2024”, đăng 2025-07-30 17:00; trang là vỏ bản dành cho người cao tuổi, nội dung nằm trong tệp PDF đính kèm
+- PDF: <https://www.mca.gov.cn/gdnps/n2445/n2451/n2458/n2681/c1662004999980006189/attr/400985.pdf>: curl tải về 14 trang, pypdf bóc văn bản
+- Trích nguyên văn (trang 13): “1. Dịch vụ đăng ký hôn nhân. Năm 2024, toàn quốc các cơ quan và địa điểm đăng ký hôn nhân tổng cộng 4190 cơ sở, trong đó cơ quan đăng ký hôn nhân 1134, cả năm làm thủ tục đăng ký kết hôn theo pháp luật 6.106.000 cặp, giảm 20,5% so với năm trước. Tỷ lệ kết hôn là 4,3‰, giảm 1,1 phần nghìn so với năm trước. Làm thủ tục ly hôn theo pháp luật 3.513.000 cặp, trong đó: đăng ký ly hôn tại cơ quan dân chính 2.622.000 cặp, ly hôn bằng bản án, hòa giải của tòa án 891.000 cặp. Tỷ lệ ly hôn là 2,5‰.”
+- Trích nguyên văn (trang 14, chú thích 5): “Trong dịch vụ đăng ký ly hôn, dữ liệu ly hôn bằng bản án, hòa giải của tòa án lấy từ Tòa án nhân dân tối cao. Công thức tính tỷ lệ kết hôn (ly hôn) là: số cặp kết hôn (ly hôn) trong năm / số dân bình quân trong năm x1000‰.”
+- “Tỷ lệ ly hôn trên kết hôn ≈ 57,5%” là kết quả phép chia hai số nêu trên do bài này tự tính, thông cáo không có chỉ tiêu này, phần thân bài đã ghi chú
 
-### 国家统计局 第三次全国时间利用调查公报
-- 第一号 <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html> ：WebFetch 打开；只含方法（2024 年 5 月 11–31 日调查，3.85 万户、10.7 万人），无分组数字
-- 第二号 <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html> ：WebFetch 打开；引句：「居民每日平均时间为1小时17分钟，参与者每日平均时间为1小时59分钟，活动参与率为64.9%」（家务劳动）；「居民每日平均时间为30分钟，参与者每日平均时间为1小时46分钟，活动参与率为28.4%」（陪伴照料家人）；无性别、婚姻状况分组
-- 第三号 <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html> ：WebFetch 打开并 curl 复核；引句：「无酬劳动领域的参与者每日平均时间为2小时45分钟。其中，男性1小时52分钟，女性3小时29分钟」「无酬劳动领域的活动参与率为75.6%。其中，男性67.5%，女性83.9%」；无婚姻状况分组
-- 答记者问 <https://www.stats.gov.cn/sj/sjjd/202410/t20241031_1957218.html> ：WebFetch 打开；引句：「家务劳动活动的参与者每日平均时间为1小时59分钟，比2018年减少28分钟」
+### Cục Thống kê nhà nước, Thông cáo điều tra sử dụng thời gian toàn quốc lần thứ ba
+- Số 1 <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html>: WebFetch mở được; chỉ gồm phương pháp (điều tra từ 11–31/5/2024, 38.500 hộ, 107.000 người), không có số chia nhóm
+- Số 2 <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>: WebFetch mở được; trích: “thời gian bình quân mỗi ngày của cư dân là 1 giờ 17 phút, thời gian bình quân mỗi ngày của người tham gia là 1 giờ 59 phút, tỷ lệ tham gia hoạt động là 64,9%” (lao động việc nhà); “thời gian bình quân mỗi ngày của cư dân là 30 phút, thời gian bình quân mỗi ngày của người tham gia là 1 giờ 46 phút, tỷ lệ tham gia hoạt động là 28,4%” (bạn đồng hành, chăm sóc người thân); không chia nhóm theo giới tính, tình trạng hôn nhân
+- Số 3 <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html>: WebFetch mở được và đối chiếu lại bằng curl; trích: “thời gian bình quân mỗi ngày của người tham gia trong lĩnh vực lao động không lương là 2 giờ 45 phút. Trong đó, nam giới 1 giờ 52 phút, nữ giới 3 giờ 29 phút” “tỷ lệ tham gia hoạt động trong lĩnh vực lao động không lương là 75,6%. Trong đó, nam giới 67,5%, nữ giới 83,9%”; không chia nhóm theo tình trạng hôn nhân
+- Trả lời phỏng vấn báo chí <https://www.stats.gov.cn/sj/sjjd/202410/t20241031_1957218.html>: WebFetch mở được; trích: “thời gian bình quân mỗi ngày của người tham gia hoạt động việc nhà là 1 giờ 59 phút, giảm 28 phút so với năm 2018”
 
-### 国家统计局 2018 年全国时间利用调查公报
-- <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html> ：WebFetch 打开
-- 引句要点：家务劳动居民平均 1 小时 26 分，男性 45 分、女性 2 小时 6 分；参与率 58.5%，男性 40.4%、女性 75.6%；陪伴照料孩子生活平均 36 分，男性 17 分、女性 53 分；参与率 18.9%，男性 12.3%、女性 25.1%
+### Cục Thống kê nhà nước, Thông cáo điều tra sử dụng thời gian toàn quốc năm 2018
+- <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>: WebFetch mở được
+- Các điểm trích: việc nhà cư dân bình quân 1 giờ 26 phút, nam giới 45 phút, nữ giới 2 giờ 6 phút; tỷ lệ tham gia 58,5%, nam giới 40,4%, nữ giới 75,6%; hoạt động bạn đồng hành, chăm sóc con cái bình quân 36 phút, nam giới 17 phút, nữ giới 53 phút; tỷ lệ tham gia 18,9%, nam giới 12,3%, nữ giới 25,1%
 
-### 第七次人口普查（初婚年龄 / 未婚比例）
-- <https://www.stats.gov.cn/sj/pcsj/rkpc/7rp/indexch.htm> ：打开，为框架页；左栏索引（left.htm）列出表 2-5「全国各民族分性别、初婚年龄的人口」、5-1「各地区分性别、婚姻状况的15岁及以上人口」等，但表格全部是 JPG 图片，无法抽取数字，本节未引用初婚年龄和未婚比例
+### Tổng điều tra dân số lần thứ bảy (tuổi kết hôn lần đầu / tỷ lệ chưa kết hôn)
+- <https://www.stats.gov.cn/sj/pcsj/rkpc/7rp/indexch.htm>: mở được, là trang khung; chỉ mục ở cột trái (left.htm) liệt kê Bảng 2-5 “Dân số các dân tộc toàn quốc theo giới tính, tuổi kết hôn lần đầu”, Bảng 5-1 “Dân số từ 15 tuổi trở lên của các khu vực theo giới tính, tình trạng hôn nhân”…, nhưng các bảng toàn là ảnh JPG, không thể bóc được số liệu, chương này không trích dẫn tuổi kết hôn lần đầu và tỷ lệ chưa kết hôn
 
-## 法律条文
+## Điều luật
 
-### 中华人民共和国民法典
-- 国家法律法规数据库页面 <https://flk.npc.gov.cn/detail?title=...&id=ff808081729d1efe01729d50b5c500bf> ：WebFetch 只渲染到导航（单页应用）；curl 调其后端接口 `<https://flk.npc.gov.cn/law-search/search/flfgDetails?bbbs=ff808081729d1efe01729d50b5c500bf`> 返回 JSON：title「中华人民共和国民法典」、flxz「法律」、zdjgName「全国人民代表大会」、gbrq「2020-05-28」、sxrq「2021-01-01」，条文树含第一千零六十二至一千零六十六条、第一千零七十六至一千零七十九条、第一千零八十八条节点；接口只给条号不给正文，其 PDF 附件为图片版无法抽文本
-- 条文正文核实自最高人民法院公报转载页 <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html> （「中华人民共和国民法典（续）」，法律法规栏目）：curl 抓取后本地解析
-- 引句：
-  - 第一千零六十二条「夫妻在婚姻关系存续期间所得的下列财产，为夫妻的共同财产，归夫妻共同所有：（一）工资、奖金、劳务报酬；（二）生产、经营、投资的收益；（三）知识产权的收益；（四）继承或者受赠的财产，但是本法第一千零六十三条第三项规定的除外；（五）其他应当归共同所有的财产。夫妻对共同财产，有平等的处理权。」
-  - 第一千零六十三条「下列财产为夫妻一方的个人财产：（一）一方的婚前财产；（二）一方因受到人身损害获得的赔偿或者补偿；（三）遗嘱或者赠与合同中确定只归一方的财产；（四）一方专用的生活用品；（五）其他应当归一方的财产。」
-  - 第一千零六十五条「男女双方可以约定婚姻关系存续期间所得的财产以及婚前财产归各自所有、共同所有或者部分各自所有、部分共同所有。约定应当采用书面形式。没有约定或者约定不明确的，适用本法第一千零六十二条、第一千零六十三条的规定。夫妻对婚姻关系存续期间所得的财产以及婚前财产的约定，对双方具有法律约束力。」
-  - 第一千零七十六条「夫妻双方自愿离婚的，应当签订书面离婚协议，并亲自到婚姻登记机关申请离婚登记。离婚协议应当载明双方自愿离婚的意思表示和对子女抚养、财产以及债务处理等事项协商一致的意见。」
-  - 第一千零七十七条「自婚姻登记机关收到离婚登记申请之日起三十日内，任何一方不愿意离婚的，可以向婚姻登记机关撤回离婚登记申请。前款规定期限届满后三十日内，双方应当亲自到婚姻登记机关申请发给离婚证；未申请的，视为撤回离婚登记申请。」
-  - 第一千零七十九条「夫妻一方要求离婚的，可以由有关组织进行调解或者直接向人民法院提起离婚诉讼。人民法院审理离婚案件，应当进行调解；如果感情确已破裂，调解无效的，应当准予离婚。有下列情形之一，调解无效的，应当准予离婚：（一）重婚或者与他人同居；（二）实施家庭暴力或者虐待、遗弃家庭成员；（三）有赌博、吸毒等恶习屡教不改；（四）因感情不和分居满二年；（五）其他导致夫妻感情破裂的情形。……经人民法院判决不准离婚后，双方又分居满一年，一方再次提起离婚诉讼的，应当准予离婚。」
-  - 第一千零八十八条「夫妻一方因抚育子女、照料老年人、协助另一方工作等负担较多义务的，离婚时有权向另一方请求补偿，另一方应当给予补偿。具体办法由双方协议；协议不成的，由人民法院判决。」
-- 未打开的官方镜像（记录备查）：npc.gov.cn 各条文页（http/https 均跳首页或 TLS 握手失败）；gov.cn 2020-06-01 content_5516649 及其变体均 404
+### Bộ luật Dân sự nước Cộng hòa Nhân dân Trung Hoa
+- Trang Cơ sở dữ liệu pháp luật nhà nước <https://flk.npc.gov.cn/detail?title=...&id=ff808081729d1efe01729d50b5c500bf>: WebFetch chỉ render đến phần điều hướng (ứng dụng một trang); curl gọi giao diện backend của nó <https://flk.npc.gov.cn/law-search/search/flfgDetails?bbbs=ff808081729d1efe01729d50b5c500bf> trả về JSON: title “Bộ luật Dân sự nước Cộng hòa Nhân dân Trung Hoa”, flxz “Luật”, zdjgName “Đại hội đại biểu nhân dân toàn quốc”, gbrq “2020-05-28”, sxrq “2021-01-01”, cây điều khoản có các nút từ Điều 1062 đến 1066, từ Điều 1076 đến 1079 và Điều 1088; giao diện chỉ cho số điều không cho văn bản, tệp PDF đính kèm là bản ảnh không thể bóc văn bản
+- Văn bản các điều được kiểm chứng từ trang đăng lại trên Công báo Tòa án nhân dân tối cao <http://gongbao.court.gov.cn/Details/7f184078694d811fb3314f6af9accf.html> (“Bộ luật Dân sự nước Cộng hòa Nhân dân Trung Hoa (tiếp)”, chuyên mục pháp luật - pháp quy): curl tải về rồi phân tích tại máy
+- Trích:
+  - Điều 1062 “Các tài sản dưới đây mà vợ chồng có được trong thời gian hôn nhân là tài sản chung của vợ chồng, thuộc sở hữu chung của vợ chồng: (1) lương, thưởng, tiền công lao động; (2) thu nhập từ sản xuất, kinh doanh, đầu tư; (3) lợi tức từ quyền sở hữu trí tuệ; (4) tài sản thừa kế hoặc được tặng cho, trừ quy định tại điểm 3 Điều 1063 của Luật này; (5) các tài sản khác lẽ ra thuộc sở hữu chung. Vợ chồng có quyền xử lý bình đẳng đối với tài sản chung.”
+  - Điều 1063 “Các tài sản dưới đây là tài sản riêng của một bên trong vợ chồng: (1) tài sản trước hôn nhân của một bên; (2) khoản bồi thường hoặc đền bù mà một bên nhận được do bị thiệt hại về thân thể; (3) tài sản được xác định chỉ thuộc về một bên trong di chúc hoặc hợp đồng tặng cho; (4) đồ dùng sinh hoạt dùng riêng của một bên; (5) các tài sản khác lẽ ra thuộc về một bên.”
+  - Điều 1065 “Nam nữ hai bên có thể thỏa thuận tài sản có được trong thời gian hôn nhân và tài sản trước hôn nhân thuộc sở hữu riêng của từng bên, sở hữu chung, hoặc một phần sở hữu riêng, một phần sở hữu chung. Thỏa thuận phải lập thành văn bản. Không có thỏa thuận hoặc thỏa thuận không rõ thì áp dụng quy định tại Điều 1062, Điều 1063 của Luật này. Thỏa thuận của vợ chồng về tài sản có được trong thời gian hôn nhân và tài sản trước hôn nhân có sức ràng buộc pháp lý đối với cả hai bên.”
+  - Điều 1076 “Trường hợp vợ chồng tự nguyện ly hôn thì phải ký thỏa thuận ly hôn bằng văn bản, và đích thân đến cơ quan đăng ký hôn nhân xin đăng ký ly hôn. Thỏa thuận ly hôn phải ghi rõ ý chí tự nguyện ly hôn của hai bên và ý kiến đã thương lượng thống nhất về các nội dung như nuôi con, tài sản và giải quyết nợ.”
+  - Điều 1077 “Trong vòng 30 ngày kể từ ngày cơ quan đăng ký hôn nhân nhận được đơn xin đăng ký ly hôn, nếu bất kỳ bên nào không muốn ly hôn thì có thể rút đơn xin đăng ký ly hôn tại cơ quan đăng ký hôn nhân. Trong 30 ngày sau khi hết thời hạn quy định tại khoản trước, hai bên phải đích thân đến cơ quan đăng ký hôn nhân xin cấp giấy chứng nhận ly hôn; nếu không xin thì coi như đã rút đơn xin đăng ký ly hôn.”
+  - Điều 1079 “Trường hợp một bên trong vợ chồng yêu cầu ly hôn thì có thể để các tổ chức hữu quan hòa giải hoặc trực tiếp khởi kiện ly hôn tại Tòa án nhân dân. Tòa án nhân dân xét xử vụ ly hôn phải tiến hành hòa giải; nếu tình cảm quả thực đã vỡ vụn, hòa giải không có hiệu lực thì phải cho phép ly hôn. Thuộc một trong các tình huống dưới đây, hòa giải không có hiệu lực thì phải cho phép ly hôn: (1) tái hôn khi đang có vợ (chồng) hoặc sống chung với người khác; (2) thực hiện bạo lực gia đình hoặc ngược đãi, bỏ rơi thành viên gia đình; (3) có tệ nạn như đánh bạc, sử dụng ma túy… được dạy bảo nhiều lần mà không cải tạo; (4) vì tình cảm không hòa hợp mà phân cư đủ hai năm; (5) các tình huống khác dẫn đến tình cảm vợ chồng vỡ vụn. …… Sau khi Tòa án nhân dân tuyên không cho ly hôn, hai bên lại phân cư đủ một năm, một bên lại khởi kiện ly hôn thì phải cho phép ly hôn.”
+  - Điều 1088 “Một bên trong vợ chồng gánh vác nghĩa vụ nhiều hơn như nuôi dưỡng con, chăm sóc người già, hỗ trợ công việc của bên kia thì khi ly hôn có quyền yêu cầu bên kia đền bù, bên kia phải đền bù. Cách thức cụ thể do hai bên thỏa thuận; không thỏa thuận được thì do Tòa án nhân dân tuyên phán.”
+- Các bản gương chính thức không mở được (ghi để tham khảo): các trang điều khoản trên npc.gov.cn (http/https đều nhảy về trang chủ hoặc bắt tay TLS thất bại); gov.cn ngày 2020-06-01 content_5516649 và các biến thể đều 404
 
-### 民政部 民发〔2020〕116 号
-- <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm> ：WebFetch 打开；文号「民发〔2020〕116号」，2020 年 11 月 24 日；文件引用第一千零七十六、一千零七十七、一千零七十八条作为离婚登记程序依据，并在程序中规定三十日离婚冷静期；未逐字引条文原文，本节只用作冷静期程序的辅证
+### Bộ Dân chính, Dân phát (2020) số 116
+- <https://www.gov.cn/zhengce/zhengceku/2020-12/04/content_5567010.htm>: WebFetch mở được; số văn bản “Dân phát (2020) số 116”, ngày 24/11/2020; văn bản trích dẫn Điều 1076, 1077, 1078 làm căn cứ cho thủ tục đăng ký ly hôn, và quy định trong thủ tục thời hạn lắng ly hôn 30 ngày; không trích nguyên văn từng chữ, chương này chỉ dùng làm chứng cứ phụ cho thủ tục thời hạn lắng
 
-## 期刊论文（DOI）
+## Bài báo tạp chí (DOI)
 
 ### Manzoli 2007, Soc Sci Med 64:77–94, doi 10.1016/j.socscimed.2006.08.031
-- <https://doi.org/10.1016/j.socscimed.2006.08.031> ：DOI 解析成功，302 跳转 linkinghub.elsevier.com（该页只返回「Redirecting」，sciencedirect 403）
-- 元数据与摘要核实自 Europe PMC 接口（PMID 17011690）：标题、作者、期刊卷页与 DOI 一致
-- 引句：「Pooling 53 independent comparisons, consisting of more than 250,000 elderly subjects, the overall relative risk (RR) for married versus non-married individuals (including widowed, divorced/separated and never married) was 0.88 (95% Confidence Interval: 0.85-0.91). This estimate did not vary by gender, study quality, or between Europe and North America. Compared to married individuals, the widowed had a RR of death of 1.11 (1.08-1.14), divorced/separated 1.16 (1.09-1.23), never married 1.11 (1.07-1.15). Although some evidence of publication bias was found … (RR=0.94; 0.92-0.95).」
+- <https://doi.org/10.1016/j.socscimed.2006.08.031>: DOI phân giải thành công, chuyển hướng 302 sang linkinghub.elsevier.com (trang đó chỉ trả về “Redirecting”, sciencedirect 403)
+- Dữ liệu mô tả và tóm tắt kiểm chứng từ giao diện Europe PMC (PMID 17011690): tiêu đề, tác giả, tập - trang tạp chí khớp với DOI
+- Trích: “Pooling 53 independent comparisons, consisting of more than 250,000 elderly subjects, the overall relative risk (RR) for married versus non-married individuals (including widowed, divorced/separated and never married) was 0.88 (95% Confidence Interval: 0.85-0.91). This estimate did not vary by gender, study quality, or between Europe and North America. Compared to married individuals, the widowed had a RR of death of 1.11 (1.08-1.14), divorced/separated 1.16 (1.09-1.23), never married 1.11 (1.07-1.15). Although some evidence of publication bias was found … (RR=0.94; 0.92-0.95).”
 
 ### Roelfs 2011, Am J Epidemiol 174(4):379–389, doi 10.1093/aje/kwr111
-- <https://doi.org/10.1093/aje/kwr111> → <https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwr111> ：WebFetch 打开出版社页
-- 引句：「The authors used meta-analysis to examine 641 risk estimates from 95 publications that provided data on more than 500 million persons. The comparison group consisted of currently married individuals. The mean hazard ratio for mortality was 1.24 (95% confidence interval: 1.19, 1.30) among multivariate-adjusted hazard ratios with a high subjective quality rating. Meta-regressions showed that hazard ratios have been modestly increasing over time for both genders, but have done so somewhat more rapidly for women. The results also showed that the hazard ratio decreased with age and that study quality has an important relation to hazard ratio magnitude.」
+- <https://doi.org/10.1093/aje/kwr111> → <https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwr111>: WebFetch mở trang nhà xuất bản
+- Trích: “The authors used meta-analysis to examine 641 risk estimates from 95 publications that provided data on more than 500 million persons. The comparison group consisted of currently married individuals. The mean hazard ratio for mortality was 1.24 (95% confidence interval: 1.19, 1.30) among multivariate-adjusted hazard ratios with a high subjective quality rating. Meta-regressions showed that hazard ratios have been modestly increasing over time for both genders, but have done so somewhat more rapidly for women. The results also showed that the hazard ratio decreased with age and that study quality has an important relation to hazard ratio magnitude.”
 
 ### Wang 2020, Glob Health Res Policy 5:4, doi 10.1186/s41256-020-00133-8
-- <https://doi.org/10.1186/s41256-020-00133-8> ：DOI 解析成功，跳转 ghrp.biomedcentral.com → link.springer.com（后者要求 cookie 授权，未渲染）
-- 元数据与摘要核实自 Europe PMC 接口（按 DOI 查询）：标题「Sex differences in the association between marital status and the risk of cardiovascular, cancer, and all-cause mortality: a systematic review and meta-analysis of 7,881,040 individuals」，作者 Wang Y, Jiao Y, Nie J, O'Neil A, Huang W, Zhang L, Han J, Liu H, Zhu Y, Yu C, Woodward M
-- 引句：「Twenty-one studies with 7,891,623 individuals and 1,888,752 deaths were included in the meta-analysis. Compared with married individuals, being unmarried was significantly associated with all-cause, cancer, CVD and coronary heart disease mortalities for both sexes. However, the association with CVD and all-cause mortality was stronger in men. … The pooled ratio for women versus men showed 31 and 9% greater risk of stroke mortality and all-cause mortality associated with never married in men than in women.」
-- 注意：标题写 7,881,040 人，摘要写 7,891,623 人，原文本身不一致；正文按摘要写「789 万余人」
-- 任务原稿写的「Wang 2020 Heart」未找到；PubMed 31204239 对应的是 Dhindsa 2020（见下），不是 Heart 期刊
+- <https://doi.org/10.1186/s41256-020-00133-8>: DOI phân giải thành công, chuyển hướng ghrp.biomedcentral.com → link.springer.com (trang sau yêu cầu ủy quyền cookie, không render được)
+- Dữ liệu mô tả và tóm tắt kiểm chứng từ giao diện Europe PMC (tra theo DOI): tiêu đề “Sex differences in the association between marital status and the risk of cardiovascular, cancer, and all-cause mortality: a systematic review and meta-analysis of 7,881,040 individuals”, tác giả Wang Y, Jiao Y, Nie J, O'Neil A, Huang W, Zhang L, Han J, Liu H, Zhu Y, Yu C, Woodward M
+- Trích: “Twenty-one studies with 7,891,623 individuals and 1,888,752 deaths were included in the meta-analysis. Compared with married individuals, being unmarried was significantly associated with all-cause, cancer, CVD and coronary heart disease mortalities for both sexes. However, the association with CVD and all-cause mortality was stronger in men. … The pooled ratio for women versus men showed 31 and 9% greater risk of stroke mortality and all-cause mortality associated with never married in men than in women.”
+- Lưu ý: tiêu đề ghi 7.881.040 người, tóm tắt ghi 7.891.623 người, bản gốc tự mâu thuẫn; phần thân bài viết “hơn 7,89 triệu người” theo tóm tắt
+- Bản thảo nhiệm vụ ghi “Wang 2020 Heart” không tìm thấy; PubMed 31204239 tương ứng là Dhindsa 2020 (xem dưới), không phải tạp chí Heart
 
 ### Robles 2014, Psychol Bull 140(1):140–187, doi 10.1037/a0031859
-- <https://doi.org/10.1037/a0031859> ：DOI 解析成功，跳转 doi.apa.org → psycnet.apa.org（页面为 JS 渲染，只显示 Loading）
-- 元数据与摘要核实自 Europe PMC 接口（PMID 23527470）：标题、作者、期刊卷页与 DOI 一致
-- 引句：「This meta-analysis reviewed 126 published empirical articles over the past 50 years describing associations between marital relationship quality and physical health in more than 72,000 individuals. … Greater marital quality was related to better health, with mean effect sizes from r = .07 to .21, including lower risk of mortality (r = .11) and lower cardiovascular reactivity during marital conflict (r = -.13), but not daily cortisol slopes or cortisol reactivity during conflict. The small effect sizes were similar in magnitude to previously found associations between health behaviors (e.g., diet) and health outcomes. Effect sizes for a small subset of clinical outcomes were susceptible to publication bias. … we found little evidence for gender differences in studies that explicitly tested gender moderation … designs that limit causal inferences.」
+- <https://doi.org/10.1037/a0031859>: DOI phân giải thành công, chuyển hướng doi.apa.org → psycnet.apa.org (trang render bằng JS, chỉ hiện Loading)
+- Dữ liệu mô tả và tóm tắt kiểm chứng từ giao diện Europe PMC (PMID 23527470): tiêu đề, tác giả, tập - trang tạp chí khớp với DOI
+- Trích: “This meta-analysis reviewed 126 published empirical articles over the past 50 years describing associations between marital relationship quality and physical health in more than 72,000 individuals. … Greater marital quality was related to better health, with mean effect sizes from r = .07 to .21, including lower risk of mortality (r = .11) and lower cardiovascular reactivity during marital conflict (r = -.13), but not daily cortisol slopes or cortisol reactivity during conflict. The small effect sizes were similar in magnitude to previously found associations between health behaviors (e.g., diet) and health outcomes. Effect sizes for a small subset of clinical outcomes were susceptible to publication bias. … we found little evidence for gender differences in studies that explicitly tested gender moderation … designs that limit causal inferences.”
 
 ### Dhindsa 2020, Trends Cardiovasc Med 30:215–220, doi 10.1016/j.tcm.2019.05.012
-- PubMed 页 <https://pubmed.ncbi.nlm.nih.gov/31204239/> WebFetch 只返回 cookie 提示；元数据与摘要核实自 Europe PMC 接口（PMID 31204239），DOI 由该接口给出
-- 引句：「Across multiple U.S. and international cohorts, patients who are unmarried, including those who are divorced, separated, widowed, or never married, have an increased rate of adverse cardiovascular events when compared to their married counterparts. Some studies suggest that marriage may have a more protective role for men compared to women. Furthermore, dissatisfaction in a marriage and marriage quality have significant impact on cardiovascular risk.」
-- 性质：叙述性综述，无合并数字，正文只作 B 级辅证
+- Trang PubMed <https://pubmed.ncbi.nlm.nih.gov/31204239/> WebFetch chỉ trả về thông báo cookie; dữ liệu mô tả và tóm tắt kiểm chứng từ giao diện Europe PMC (PMID 31204239), DOI do giao diện này đưa ra
+- Trích: “Across multiple U.S. and international cohorts, patients who are unmarried, including those who are divorced, separated, widowed, or never married, have an increased rate of adverse cardiovascular events when compared to their married counterparts. Some studies suggest that marriage may have a more protective role for men compared to women. Furthermore, dissatisfaction in a marriage and marriage quality have significant impact on cardiovascular risk.”
+- Tính chất: tổng quan tường thuật, không có số gộp, phần thân bài chỉ dùng làm chứng cứ phụ mức B
 
-## 未收录
-- 生育 / 养育成本：WebSearch 配额用尽前未查到国家统计局或官方研究机构的养育成本原文，按任务要求不收
-- 彩礼、婚礼支出：无官方统计，不写数字
+## Chưa đưa vào
+- Chi phí sinh con / nuôi con: trước khi WebSearch cạn hạn mức không tra được văn bản gốc về chi phí nuôi con của Cục Thống kê nhà nước hay cơ quan nghiên cứu chính thức, theo yêu cầu nhiệm vụ không đưa vào
+- Lễ hỏi, chi phí cưới hỏi: không có thống kê chính thức, không viết số

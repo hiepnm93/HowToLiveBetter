@@ -1,116 +1,116 @@
-# 第 9 节核实记录
+# Hồ sơ xác minh chương 9
 
-说明：所有「已打开」的 URL 都是用 WebFetch 实际打开并在返回原文中找到对应条款/案例的。WebSearch 在本次会话中途用尽配额（200 次），之后只能用 WebFetch；chinacourt.org 全程返回「Socket is closed」、mps.gov.cn 全程返回 HTTP 521、gongbao.court.gov.cn 全程 502、npc.gov.cn 两个页面 SSL 握手失败、gov.cn 上的民法典页面 404，这些来源一律没有引用，或在条目备注里标明「未能打开」。
+Giải thích: mọi URL ghi “Đã mở” đều đã mở thực tế bằng WebFetch và tìm thấy điều khoản/vụ án tương ứng trong văn bản trả về. WebSearch cạn hạn mức giữa phiên làm việc (200 lần), sau đó chỉ còn dùng được WebFetch; chinacourt.org toàn bộ trả về “Socket is closed”, mps.gov.cn toàn bộ trả về HTTP 521, gongbao.court.gov.cn toàn bộ 502, hai trang npc.gov.cn bắt tay SSL thất bại, trang Bộ luật Dân sự trên gov.cn 404 — các nguồn này nhất loạt không trích dẫn, hoặc đã ghi rõ “không mở được” trong Ghi chú của mục.
 
-## 通用法律文本（多条共用）
+## Văn bản pháp luật dùng chung (nhiều mục cùng dùng)
 
-### 治安管理处罚法（2025 年修订）
-- URL：<https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>
-- 已打开，逐条核实。施行日期：第一百四十四条「本法自2026年1月1日起施行」。
-- 第二十九条（条 1）：「有下列行为之一的，处五日以上十日以下拘留，可以并处一千元以下罚款；情节较轻的，处五日以下拘留或者一千元以下罚款：（一）故意散布谣言，谎报险情、疫情、灾情、警情或者以其他方法故意扰乱公共秩序的」
-- 第三十五条（条 2）：「处五日以上十日以下拘留或者一千元以上三千元以下罚款；情节较重的，处十日以上十五日以下拘留，可以并处五千元以下罚款：……（三）以侮辱、诽谤或者其他方式侵害英雄烈士的姓名、肖像、名誉、荣誉，损害社会公共利益的；（四）亵渎、否定英雄烈士事迹和精神，或者制作、传播、散布宣扬、美化侵略战争、侵略行为的言论或者图片、音视频等物品，扰乱公共秩序的」
-- 第四十三条（条 6）：「处五日以下拘留或者一千元以下罚款；情节严重的，处十日以上十五日以下拘留，可以并处一千元以下罚款：……（五）从建筑物或者其他高空抛掷物品，有危害他人人身安全、公私财产安全或者公共安全危险的」
-- 第四十六条（条 8）：「违反有关法律法规关于飞行空域管理规定，飞行民用无人驾驶航空器……情节较重的，处五日以上十日以下拘留」
-- 第四十七条（条 12）：「处十日以上十五日以下拘留，并处一千元以上二千元以下罚款；情节较轻的，处五日以上十日以下拘留，并处一千元以下罚款：……（三）非法限制他人人身自由、非法侵入他人住宅或者非法搜查他人身体的」
-- 第五十条（条 9）：「处五日以下拘留或者一千元以下罚款；情节较重的，处五日以上十日以下拘留，可以并处一千元以下罚款：……（六）偷窥、偷拍、窃听、散布他人隐私的」
-- 第六十一条（条 14）：「处警告或者五百元以下罚款；情节严重的，处五日以上十日以下拘留，可以并处一千元以下罚款：……（二）阻碍国家机关工作人员依法执行职务的……阻碍人民警察依法执行职务的，从重处罚」
-- 第八十条（条 3）：「……利用信息网络、电话以及其他通讯工具传播淫秽信息的，处十日以上十五日以下拘留，可以并处五千元以下罚款；情节较轻的，处五日以下拘留或者一千元以上三千元以下罚款。前款规定的淫秽物品或者淫秽信息中涉及未成年人的，从重处罚」
-- 第八十二条（条 10）：「以营利为目的，为赌博提供条件的，或者参与赌博赌资较大的，处五日以下拘留或者一千元以下罚款；情节严重的，处十日以上十五日以下拘留，并处一千元以上五千元以下罚款」
-- 另核实：本法没有单独的冒用身份证条款（身份证走居民身份证法），烟花爆竹只在第二十八条体育文化活动场所出现，所以「烟花爆竹/野外用火」候选未收。
+### “Luật Xử phạt hành chính về quản lý trật tự an ninh” (sửa đổi năm 2025)
+- URL: <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>
+- Đã mở, kiểm tra từng điều. Ngày thi hành: Điều 144 “Luật này có hiệu lực thi hành từ ngày 1/1/2026”.
+- Điều 29 (mục 1): “Có một trong các hành vi dưới đây thì giam giữ từ 5 đến 10 ngày, có thể đồng thời phạt tiền dưới 1.000 yên; tình tiết nhẹ hơn thì giam giữ dưới 5 ngày hoặc phạt tiền dưới 1.000 yên: cố ý tung tin đồn thất thiệt, báo sai tình hình nguy hiểm, dịch bệnh, thiên tai, tin tức công an hoặc dùng phương thức khác cố ý gây rối trật tự công cộng”
+- Điều 35 (mục 2): “Giam giữ từ 5 đến 10 ngày hoặc phạt tiền từ 1.000 yên đến 3.000 yên; tình tiết nặng hơn thì giam giữ từ 10 đến 15 ngày, có thể đồng thời phạt tiền dưới 5.000 yên: …… dùng sỉ nhục, bôi nhọ hoặc phương thức khác xâm phạm họ tên, chân dung, danh dự, vinh dự của liệt sĩ, làm tổn hại lợi ích công cộng xã hội; xúc phạm, phủ nhận sự tích và tinh thần của liệt sĩ, hoặc chế tác, truyền bá, phát tán ngôn luận hoặc hình ảnh, âm thanh - video… tuyên truyền, tô vẽ chiến tranh xâm lược, hành vi xâm lược, gây rối trật tự công cộng”
+- Điều 43 (mục 6): “Giam giữ dưới 5 ngày hoặc phạt tiền dưới 1.000 yên; tình tiết nghiêm trọng thì giam giữ từ 10 đến 15 ngày, có thể đồng thời phạt tiền dưới 1.000 yên: …… ném vật từ nhà cao tầng hoặc từ trên cao khác, có nguy cơ nguy hại đến an toàn thân thể của người khác, tài sản công và tư hoặc an toàn công cộng”
+- Điều 46 (mục 8): “Vi phạm quy định quản lý vùng bay của các pháp luật, pháp quy có liên quan, bay máy bay không người lái dân dụng…… tình tiết nặng hơn thì giam giữ từ 5 đến 10 ngày”
+- Điều 47 (mục 12): “Giam giữ từ 10 đến 15 ngày, đồng thời phạt tiền từ 1.000 yên đến 2.000 yên; tình tiết nhẹ hơn thì giam giữ từ 5 đến 10 ngày, đồng thời phạt tiền dưới 1.000 yên: …… trái phép hạn chế quyền tự do thân thể của người khác, trái phép xâm nhập nhà ở của người khác hoặc trái phép khám người của người khác”
+- Điều 50 (mục 9): “Giam giữ dưới 5 ngày hoặc phạt tiền dưới 1.000 yên; tình tiết nặng hơn thì giam giữ từ 5 đến 10 ngày, có thể đồng thời phạt tiền dưới 1.000 yên: …… nhìn trộm, chụp trộm, nghe trộm, phát tán đời tư của người khác”
+- Điều 61 (mục 14): “Cảnh cáo hoặc phạt tiền dưới 500 yên; tình tiết nghiêm trọng thì giam giữ từ 5 đến 10 ngày, có thể đồng thời phạt tiền dưới 1.000 yên: …… cản trở cán bộ cơ quan nhà nước thi hành công vụ theo pháp luật …… cản trở cảnh sát nhân dân thi hành công vụ theo pháp luật thì xử phạt nặng hơn”
+- Điều 80 (mục 3): “… dùng mạng thông tin, điện thoại và các công cụ liên lạc khác để truyền tin nhắn khiêu dâm thì giam giữ từ 10 đến 15 ngày, có thể đồng thời phạt tiền dưới 5.000 yên; tình tiết nhẹ hơn thì giam giữ dưới 5 ngày hoặc phạt tiền từ 1.000 yên đến 3.000 yên. Vật phẩm khiêu dâm hoặc thông tin khiêu dâm quy định tại khoản trước có liên quan đến người chưa thành niên thì xử phạt nặng hơn”
+- Điều 82 (mục 10): “Vì mục đích trục lợi mà tạo điều kiện cho đánh bạc, hoặc tham gia đánh bạc với số tiền lớn, giam giữ dưới 5 ngày hoặc phạt tiền dưới 1.000 yên; tình tiết nghiêm trọng thì giam giữ từ 10 đến 15 ngày, đồng thời phạt tiền từ 1.000 yên đến 5.000 yên”
+- Còn kiểm tra: Luật này không có điều khoản riêng về hành vi giả mạo dùng thẻ căn cước (thẻ căn cước thuộc Luật Thẻ căn cước cư dân), pháo hoa pháo nổ chỉ xuất hiện tại Điều 28 về địa điểm văn hóa - thể dục thể thao, nên ứng viên “pháo hoa pháo nổ/đốt lửa ngoài trời” chưa đưa vào.
 
-### 刑法（根据刑法修正案（十一）修正，北京市公安交通管理局转载）
-- URL：<https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>
-- 已打开，页面标题「中华人民共和国刑法（根据《刑法修正案(十一)》修正）」。逐条核实：
-- 第一百二十八条（条 7）：「违反枪支管理规定，非法持有、私藏枪支、弹药的，处三年以下有期徒刑、拘役或者管制；情节严重的，处三年以上七年以下有期徒刑」
-- 第一百九十六条（条 5）：「数额较大的，处五年以下有期徒刑或者拘役，并处二万元以上二十万元以下罚金；数额巨大或者有其他严重情节的，处五年以上十年以下有期徒刑，并处五万元以上五十万元以下罚金……（三）冒用他人信用卡的」
-- 第二百三十六条（条 15）：「以暴力、胁迫或者其他手段强奸妇女的，处三年以上十年以下有期徒刑。奸淫不满十四周岁的幼女的，以强奸论，从重处罚」
-- 第二百三十八条（条 12）：「非法拘禁他人或者以其他方法非法剥夺他人人身自由的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利」「致人重伤处三年以上十年以下，致人死亡处十年以上」「为索取债务非法扣押、拘禁他人的，依照前两款的规定处罚」
-- 第二百七十条（条 5）：「将代为保管的他人财物非法占为己有，数额较大，拒不退还的，处二年以下有期徒刑、拘役或者罚金；数额巨大或者有其他严重情节的，处二年以上五年以下有期徒刑，并处罚金。将他人的遗忘物或者埋藏物非法占为己有，数额较大，拒不交出的，依照前款的规定处罚。本条罪，告诉的才处理」
-- 第二百七十七条（条 14）：第五款「暴力袭击正在依法执行职务的人民警察的，处三年以下有期徒刑、拘役或者管制；使用枪支、管制刀具，或者以驾驶机动车撞击等手段，严重危及其人身安全的，处三年以上七年以下有期徒刑」
-- 第二百八十条之一（条 13）：「在依照国家规定应当提供身份证明的活动中，使用伪造、变造的或者盗用他人的居民身份证、护照、社会保障卡、驾驶证等依法可以用于证明身份的证件，情节严重的，处拘役或者管制，并处或者单处罚金」
-- 第二百八十四条（条 9）：「非法使用窃听、窃照专用器材，造成严重后果的，处二年以下有期徒刑、拘役或者管制」（注意：第二百八十四条之一是组织考试作弊罪，任务描述里写的「284 条非法使用窃听窃照专用器材罪」就是第二百八十四条本条）
-- 第二百九十一条之一第二款（条 1）：「编造虚假的险情、疫情、灾情、警情，在信息网络或者其他媒体上传播，或者明知是上述虚假信息，故意在信息网络或者其他媒体上传播，严重扰乱社会秩序的，处三年以下有期徒刑、拘役或者管制；造成严重后果的，处三年以上七年以下有期徒刑」
-- 第二百九十一条之二（条 6）：「从建筑物或者其他高空抛掷物品，情节严重的，处一年以下有期徒刑、拘役或者管制，并处或者单处罚金」
-- 第二百九十九条（条 2）：「在公共场合，故意以焚烧、毁损、涂划、玷污、践踏等方式侮辱中华人民共和国国旗、国徽的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。在公共场合，故意篡改中华人民共和国国歌歌词、曲谱，以歪曲、贬损方式奏唱国歌，或者以其他方式侮辱国歌，情节严重的，依照前款的规定处罚」
-- 第二百九十九条之一（条 2）：「侮辱、诽谤或者以其他方式侵害英雄烈士的名誉、荣誉，损害社会公共利益，情节严重的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利」
-- 第三百零三条（条 10）：「以营利为目的，聚众赌博或者以赌博为业的，处三年以下有期徒刑、拘役或者管制，并处罚金。开设赌场的，处五年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处五年以上十年以下有期徒刑，并处罚金」
-- 第三百一十二条（条 4）：「明知是犯罪所得及其产生的收益而予以窝藏、转移、收购、代为销售或者以其他方法掩饰、隐瞒的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金」（返回文本只到这里，「情节严重的处三年以上七年以下」未在返回中出现，正文未写）
-- 第三百四十一条（条 11）：第一款「处五年以下有期徒刑或者拘役，并处罚金；情节严重的，处五年以上十年以下有期徒刑，并处罚金；情节特别严重的，处十年以上有期徒刑，并处罚金或者没收财产」；第二款「处三年以下有期徒刑、拘役、管制或者罚金」；第三款「以食用为目的非法猎捕、收购、运输、出售第一款规定以外的在野外环境自然生长繁殖的陆生野生动物，情节严重的，依照前款的规定处罚」
-- 第三百六十三条（条 3）：「以牟利为目的，制作、复制、出版、贩卖、传播淫秽物品的，处三年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处三年以上十年以下有期徒刑，并处罚金；情节特别严重的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产」
-- 第三百六十四条（条 3）：「传播淫秽的书刊、影片、音像、图片或者其他淫秽物品，情节严重的，处二年以下有期徒刑、拘役或者管制」
+### “Bộ luật Hình sự” (sửa đổi theo Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 11), đăng lại bởi Cục Quản lý giao thông công an Bắc Kinh)
+- URL: <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>
+- Đã mở, tiêu đề trang “Bộ luật Hình sự nước Cộng hòa Nhân dân Trung Hoa (sửa đổi theo Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 11))”. Kiểm tra từng điều:
+- Điều 128 (mục 7): “Vi phạm quy định quản lý súng, trái phép tàng trữ, giấu giữ súng, đạn dược thì phạt tù dưới 3 năm, giam giữ hoặc quản chế; tình tiết nghiêm trọng thì phạt tù từ 3 năm đến dưới 7 năm”
+- Điều 196 (mục 5): “Số lượng lớn thì phạt tù dưới 5 năm hoặc giam giữ, đồng thời phạt tiền từ 20.000 yên đến dưới 200.000 yên; số lượng rất lớn hoặc có tình tiết nghiêm trọng khác thì phạt tù từ 5 năm đến dưới 10 năm, đồng thời phạt tiền từ 50.000 yên đến dưới 500.000 yên …… giả mạo dùng thẻ tín dụng của người khác”
+- Điều 236 (mục 15): “Dùng bạo lực, đe dọa hoặc thủ đoạn khác hiếp dâm phụ nữ thì phạt tù từ 3 năm đến dưới 10 năm. Hành dâm với thiếu nữ chưa đủ 14 tuổi thì xử theo tội hiếp dâm, phạt nặng hơn”
+- Điều 238 (mục 12): “Trái phép giam giữ người khác hoặc dùng phương thức khác trái phép tước đoạt quyền tự do thân thể của người khác, phạt tù dưới 3 năm, giam giữ, quản chế hoặc tước quyền chính trị” “khiến người bị trọng thương phạt từ 3 năm đến dưới 10 năm, khiến người chết phạt từ 10 năm trở lên” “vì đòi nợ mà trái phép giữ người, giam giữ người khác thì xử phạt theo quy định tại hai khoản trước”
+- Điều 270 (mục 5): “Trái phép chiếm giữ làm của riêng tài sản của người khác mà mình được nhờ giữ hộ, số lượng lớn, không chịu hoàn trả thì phạt tù dưới 2 năm, giam giữ hoặc phạt tiền; số lượng rất lớn hoặc có tình tiết nghiêm trọng khác thì phạt tù từ 2 năm đến dưới 5 năm, đồng thời phạt tiền. Trái phép chiếm giữ làm của riêng đồ vật bị bỏ quên hoặc đồ vật được chôn giấu của người khác, số lượng lớn, không chịu giao nộp thì xử phạt theo quy định tại khoản trước. Tội trong Điều này chỉ được xử lý khi có yêu cầu”
+- Điều 277 (mục 14): khoản 5 “Dùng bạo lực tấn công cảnh sát nhân dân đang thi hành công vụ theo pháp luật thì phạt tù dưới 3 năm, giam giữ hoặc quản chế; dùng súng, dao kiếm bị quản chế, hoặc dùng thủ đoạn như lái xe cơ động húc, nghiêm trọng nguy hại đến an toàn thân thể của họ thì phạt tù từ 3 năm đến dưới 7 năm”
+- Điều 280-1 (mục 13): “Trong các hoạt động theo quy định của nhà nước phải xuất trình chứng minh thân phận, sử dụng giấy tờ giả mạo, cải tạo hoặc trộm dùng thẻ căn cước cư dân, hộ chiếu, thẻ an sinh xã hội, bằng lái xe và các giấy tờ khác theo pháp luật có thể dùng để chứng minh thân phận của người khác, tình tiết nghiêm trọng thì phạt giam giữ hoặc quản chế, đồng thời phạt tiền hoặc chỉ phạt tiền”
+- Điều 284 (mục 9): “Trái phép sử dụng thiết bị chuyên dụng nghe lén, chụp lén, gây hậu quả nghiêm trọng thì phạt tù dưới 2 năm, giam giữ hoặc quản chế” (lưu ý: Điều 284-1 là tội tổ chức gian lận thi cử; cụm “tội trái phép sử dụng thiết bị chuyên dụng nghe lén, chụp lén tại Điều 284” trong mô tả nhiệm vụ chính là Điều 284 này)
+- Khoản 2 Điều 291-1 (mục 1): “Bịa đặt tin sai sự thật về tình hình nguy hiểm, dịch bệnh, thiên tai, tin tức công an, truyền bá trên mạng thông tin hoặc phương tiện truyền thông khác, hoặc biết rõ là thông tin sai sự thật nêu trên mà cố ý truyền bá trên mạng thông tin hoặc phương tiện truyền thông khác, gây rối nghiêm trọng trật tự xã hội thì phạt tù dưới 3 năm, giam giữ hoặc quản chế; gây hậu quả nghiêm trọng thì phạt tù từ 3 năm đến dưới 7 năm”
+- Điều 291-2 (mục 6): “Ném vật từ nhà cao tầng hoặc từ trên cao khác, tình tiết nghiêm trọng thì phạt tù dưới 1 năm, giam giữ hoặc quản chế, đồng thời phạt tiền hoặc chỉ phạt tiền”
+- Điều 299 (mục 2): “Tại nơi công cộng, cố ý dùng cách đốt cháy, phá hủy, vẽ bậy, làm bẩn, giẫm đạp… để sỉ nhục quốc kỳ, quốc huy nước Cộng hòa Nhân dân Trung Hoa thì phạt tù dưới 3 năm, giam giữ, quản chế hoặc tước quyền chính trị. Tại nơi công cộng, cố ý thay đổi lời ca, nhạc phổ của quốc ca nước Cộng hòa Nhân dân Trung Hoa, hát quốc ca theo cách xuyên tạc, hạ thấp, hoặc dùng cách khác sỉ nhục quốc ca, tình tiết nghiêm trọng thì xử phạt theo quy định tại khoản trước”
+- Điều 299-1 (mục 2): “Sỉ nhục, bôi nhọ hoặc dùng cách khác xâm phạm danh dự, vinh dự của liệt sĩ, làm tổn hại lợi ích công cộng xã hội, tình tiết nghiêm trọng thì phạt tù dưới 3 năm, giam giữ, quản chế hoặc tước quyền chính trị”
+- Điều 303 (mục 10): “Vì mục đích trục lợi mà tụ tập đông người đánh bạc hoặc lấy đánh bạc làm nghề thì phạt tù dưới 3 năm, giam giữ hoặc quản chế, đồng thời phạt tiền. Mở sòng bạc thì phạt tù dưới 5 năm, giam giữ hoặc quản chế, đồng thời phạt tiền; tình tiết nghiêm trọng thì phạt tù từ 5 năm đến dưới 10 năm, đồng thời phạt tiền”
+- Điều 312 (mục 4): “Biết rõ là tài sản do tội phạm mà có và lợi ích sinh ra từ đó vẫn giấu giếm, chuyển dịch, thu mua, bán hộ hoặc dùng phương thức khác che đậy, giấu giếm thì phạt tù dưới 3 năm, giam giữ hoặc quản chế, đồng thời phạt tiền hoặc chỉ phạt tiền” (văn bản trả về chỉ đến đây, cụm “tình tiết nghiêm trọng phạt từ 3 năm đến dưới 7 năm” không xuất hiện trong nội dung trả về, phần thân bài không ghi)
+- Điều 341 (mục 11): khoản 1 “phạt tù dưới 5 năm hoặc giam giữ, đồng thời phạt tiền; tình tiết nghiêm trọng thì phạt tù từ 5 năm đến dưới 10 năm, đồng thời phạt tiền; tình tiết đặc biệt nghiêm trọng thì phạt tù từ 10 năm trở lên, đồng thời phạt tiền hoặc tịch thu tài sản”; khoản 2 “phạt tù dưới 3 năm, giam giữ, quản chế hoặc phạt tiền”; khoản 3 “vì mục đích ăn thịt mà trái phép săn bắt, thu mua, vận chuyển, bán động vật hoang dã trên cạn sinh trưởng, sinh sôi tự nhiên ngoài môi trường hoang dã ngoài phạm vi quy định tại khoản 1, tình tiết nghiêm trọng thì xử phạt theo quy định tại khoản trước”
+- Điều 363 (mục 3): “Vì mục đích trục lợi mà chế tác, sao chép, xuất bản, mua bán, truyền bá vật phẩm khiêu dâm thì phạt tù dưới 3 năm, giam giữ hoặc quản chế, đồng thời phạt tiền; tình tiết nghiêm trọng thì phạt tù từ 3 năm đến dưới 10 năm, đồng thời phạt tiền; tình tiết đặc biệt nghiêm trọng thì phạt tù từ 10 năm trở lên hoặc tù chung thân, đồng thời phạt tiền hoặc tịch thu tài sản”
+- Điều 364 (mục 3): “Truyền bá sách báo, phim, âm thanh - hình ảnh, tranh ảnh khiêu dâm hoặc vật phẩm khiêu dâm khác, tình tiết nghiêm trọng thì phạt tù dưới 2 năm, giam giữ hoặc quản chế”
 
-### 刑法修正案（九）
-- URL：<https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>
-- 已打开。第三十二条在第二百九十一条之一中增加一款：「编造虚假的险情、疫情、灾情、警情，在信息网络或者其他媒体上传播……处三年以下有期徒刑、拘役或者管制；造成严重后果的，处三年以上七年以下有期徒刑」。（条 1）
+### “Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 9)”
+- URL: <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>
+- Đã mở. Điều 32 bổ sung một khoản vào Điều 291-1: “Bịa đặt tin sai sự thật về tình hình nguy hiểm, dịch bệnh, thiên tai, tin tức công an, truyền bá trên mạng thông tin hoặc phương tiện truyền thông khác…… phạt tù dưới 3 năm, giam giữ hoặc quản chế; gây hậu quả nghiêm trọng thì phạt tù từ 3 năm đến dưới 7 năm”. (mục 1)
 
-### 刑法修正案（十一）
-- URL：<https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>
-- 已打开，施行日期 2021 年 3 月 1 日。第三十一条修改第二百七十七条第五款（袭警）；第三十三条增加高空抛物条（「从建筑物或者其他高空抛掷物品，情节严重的，处一年以下有期徒刑、拘役或者管制，并处或者单处罚金」）；第三十五条增加第二百九十九条之一（侮辱诽谤英雄烈士）；第三十六条修改第三百零三条（「开设赌场的，处五年以下有期徒刑、拘役或者管制，并处罚金；情节严重的，处五年以上十年以下有期徒刑，并处罚金」）；第四十一条修改第三百四十一条增加第三款（陆生野生动物）。（条 2、6、10、11、14）
+### “Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 11)”
+- URL: <https://www.spp.gov.cn/zdgz/202012/t20201227_503682.shtml>
+- Đã mở, ngày thi hành 1/3/2021. Điều 31 sửa khoản 5 Điều 277 (tấn công cảnh sát); Điều 33 bổ sung Điều ném vật từ trên cao (“ném vật từ nhà cao tầng hoặc từ trên cao khác, tình tiết nghiêm trọng thì phạt tù dưới 1 năm, giam giữ hoặc quản chế, đồng thời phạt tiền hoặc chỉ phạt tiền”); Điều 35 bổ sung Điều 299-1 (sỉ nhục, bôi nhọ liệt sĩ); Điều 36 sửa Điều 303 (“mở sòng bạc thì phạt tù dưới 5 năm, giam giữ hoặc quản chế, đồng thời phạt tiền; tình tiết nghiêm trọng thì phạt tù từ 5 năm đến dưới 10 năm, đồng thời phạt tiền”); Điều 41 sửa Điều 341 bổ sung khoản 3 (động vật hoang dã trên cạn). (mục 2, 6, 10, 11, 14)
 
-## 逐条案例与专门法律
+## Từng mục: vụ án và pháp luật chuyên ngành
 
-### 条 1 谣言
-- 法条见上。案例：公安部「涉灾情、险情网络谣言十起典型案例」<https://www.mps.gov.cn/n2254098/n4904352/c10207692/content.html> 及 m.mps.gov.cn 镜像、c10267710 均 HTTP 521，未能打开，未引用。
+### Mục 1 Tin đồn
+- Điều luật xem trên. Vụ án: “Mười vụ án điển hình liên quan tin đồn mạng về thiên tai, tình hình nguy hiểm” của Bộ Công an <https://www.mps.gov.cn/n2254098/n4904352/c10207692/content.html> cùng bản gương m.mps.gov.cn, c10267710 đều trả về HTTP 521, không mở được, không trích dẫn.
 
-### 条 2 英烈、国旗国歌
-- 英雄烈士保护法 <https://www.spp.gov.cn/spp/gyssshmhsh/201912/t20191202_440079.shtml>：已打开，2018 年 4 月 27 日通过、5 月 1 日施行。第二十二条「任何组织和个人不得在公共场所、互联网或者利用广播电视、电影、出版物等，以侮辱、诽谤或者其他方式侵害英雄烈士的姓名、肖像、名誉、荣誉」；第二十六条「……构成违反治安管理行为的，由公安机关依法给予治安管理处罚；构成犯罪的，依法追究刑事责任」
-- 最高法 涉英烈权益保护十大典型案例 <https://www.court.gov.cn/zixun/xiangqing/382301.html>：已打开，发布日期 2022 年 12 月 8 日。案例二肖某：「在微信群'白翎村村民信息群'（群成员499人）内发布2条信息，歪曲事实诋毁、侮辱袁隆平院士……判决被告人肖某犯侵害英雄烈士名誉、荣誉罪，判处管制六个月」；案例三仇某：「使用新浪微博账号'辣笔小球'（粉丝数250余万），先后发布2条微博，歪曲卫国戍边官兵事迹」「判处有期徒刑八个月；通过国内主要门户网站及全国性媒体公开赔礼道歉、消除影响」
+### Mục 2 Liệt sĩ, quốc kỳ - quốc ca
+- “Luật Bảo vệ liệt sĩ” <https://www.spp.gov.cn/spp/gyssshmhsh/201912/t20191202_440079.shtml>: đã mở, thông qua ngày 27/4/2018, thi hành ngày 1/5. Điều 22 “Bất kỳ tổ chức, cá nhân nào không được tại nơi công cộng, trên internet hoặc dùng phát thanh truyền hình, điện ảnh, ấn phẩm…, dùng sỉ nhục, bôi nhọ hoặc phương thức khác xâm phạm họ tên, chân dung, danh dự, vinh dự của liệt sĩ”; Điều 26 “… cấu thành hành vi vi phạm quản lý trật tự an ninh thì cơ quan công an xử phạt hành chính về quản lý trật tự an ninh theo pháp luật; cấu thành tội phạm thì truy cứu trách nhiệm hình sự theo pháp luật”
+- Tòa án nhân dân tối cao, “Mười vụ án điển hình bảo vệ quyền lợi liệt sĩ” <https://www.court.gov.cn/zixun/xiangqing/382301.html>: đã mở, ngày đăng 8/12/2022. Vụ 2, bị cáo họ Tiêu: “trong nhóm WeChat ‘Nhóm thông tin thôn Bạch Linh’ (499 thành viên) đăng 2 thông tin xuyên tạc sự thật, vu khống, sỉ nhục học sĩ Viên Long Bình…… tòa tuyên bị cáo Tiêu phạm tội xâm phạm danh dự, vinh dự của liệt sĩ, tuyên quản chế 6 tháng”; vụ 3, bị cáo họ Cừu: “dùng tài khoản Weibo ‘Lạt bút tiểu cầu’ (hơn 2,5 triệu người theo dõi), lần lượt đăng 2 bài Weibo xuyên tạc sự tích quân nhân trấn giữ biên cương” “tuyên phạt tù 8 tháng; công khai xin lỗi, xóa bỏ ảnh hưởng qua các cổng thông tin chủ yếu trong nước và báo chí toàn quốc”
 
-### 条 3 淫秽
-- 两高解释（二）<https://www.spp.gov.cn/zdgz/201002/t20100204_25001.shtml>：已打开，2010 年 2 月 4 日施行。第三条「利用互联网建立主要用于传播淫秽电子信息的群组，成员达三十人以上或者造成严重后果的，对建立者、管理者和主要传播者，依照刑法第三百六十四条第一款的规定，以传播淫秽物品罪定罪处罚」
-- 案例：中国法院网 2019 罗某微信传播案 <https://www.chinacourt.org/article/detail/2019/11/id/4693574.shtml> 多次「Socket is closed」；最高法公报「手机淫秽色情信息犯罪典型案例」502。未引用案例。
+### Mục 3 Khiêu dâm
+- Giải thích (II) của Tối cao Tòa án và Tối cao Viện kiểm sát <https://www.spp.gov.cn/zdgz/201002/t20100204_25001.shtml>: đã mở, thi hành ngày 4/2/2010. Điều 3 “Dùng internet lập nhóm chủ yếu dùng để truyền tài liệu điện tử khiêu dâm, thành viên đạt 30 người trở lên hoặc gây hậu quả nghiêm trọng thì với người lập nhóm, người quản lý và người truyền bá chủ yếu, xử tội truyền bá vật phẩm khiêu dâm theo quy định tại khoản 1 Điều 364 Bộ luật Hình sự”
+- Vụ án: vụ truyền tin WeChat của một người họ La trên China Court Net năm 2019 <https://www.chinacourt.org/article/detail/2019/11/id/4693574.shtml> nhiều lần “Socket is closed”; “Các vụ án điển hình về tội phạm thông tin khiêu dâm trên điện thoại di động” của Công báo Tối cao Tòa án 502. Không trích dẫn vụ án.
 
-### 条 4 兼职取现转账
-- 最高检 2023 电诈典型案例 <https://www.spp.gov.cn/xwfbh/wsfbt/202311/t20231130_635188.shtml>：已打开，2023 年 11 月 30 日。案例九王某某涉嫌掩饰、隐瞒犯罪所得案：「携带身份证件和1张银行卡到达指定地点」配合转账取款，「非法获利500余元」，检察院「不起诉决定」，公安依据反电信网络诈骗法「作出对王某某行政拘留十日并处罚款一千元的行政处罚」
-- 两高 2025 掩饰隐瞒典型案例 <https://www.spp.gov.cn/xwfbh/wsfbt/202508/t20250825_704514.shtml>：已打开，2025 年 8 月 25 日。案例五满某某：「将自己的银行卡、手机卡提供给该团伙使用，并收集潘某、宋某、于某等人的银行卡、手机卡交给该团伙」「安排相应银行卡主到银行支取卡内现金」，判「有期徒刑二年三个月」「罚金人民币二万二千元」
+### Mục 4 Việc phụ - rút tiền - chuyển khoản
+- Tối cao Viện kiểm sát 2023, các vụ án điển hình lừa đảo điện tử <https://www.spp.gov.cn/xwfbh/wsfbt/202311/t20231130_635188.shtml>: đã mở, ngày 30/11/2023. Vụ 9, vụ ông Vương bị nghi tội che đậy, giấu giếm tài sản tội phạm: “mang giấy tờ tùy thân và 1 thẻ ngân hàng đến địa điểm chỉ định” phối hợp chuyển khoản, rút tiền, “thu lợi bất hợp pháp hơn 500 yên”, viện kiểm sát ra “quyết định không khởi tố”, công an căn cứ Luật Chống lừa đảo qua mạng điện tử “ra hình phạt hành chính giam giữ 10 ngày và phạt 1.000 yên đối với ông Vương”
+- Hai cơ quan tối cao 2025, các vụ án điển hình che đậy, giấu giếm tài sản tội phạm <https://www.spp.gov.cn/xwfbh/wsfbt/202508/t20250825_704514.shtml>: đã mở, ngày 25/8/2025. Vụ 5, ông Mãn: “đem thẻ ngân hàng, thẻ điện thoại của mình cung cấp cho nhóm này sử dụng, và thu gom thẻ ngân hàng, thẻ điện thoại của ông Phan, ông Tống, ông Vu… giao cho nhóm” “sắp xếp các chủ thẻ ngân hàng tương ứng đến ngân hàng rút tiền trong thẻ”, bị tuyên “phạt tù 2 năm 3 tháng” “phạt tiền 22.000 yên”
 
-### 条 5 拾得
-- 民法典 <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>：已打开。第三百一十四条「拾得遗失物，应当返还权利人。拾得人应当及时通知权利人领取，或者送交公安等有关部门」；第三百一十七条「权利人领取遗失物时，应当向拾得人或者有关部门支付保管遗失物等支出的必要费用」。该页文本在第一千一百一十一条处截断，第一千二百五十四条未能核实（条 6 备注已说明）。
-- 最高检 2008 批复 <https://www.spp.gov.cn/spp/flfg/sfjs/201208/t20120830_47871.shtml>：已打开，2008 年 2 月 19 日通过、5 月 7 日施行：「拾得他人信用卡并在自动柜员机(ATM机)上使用的行为,属于刑法第一百九十六条第一款第(三)项规定的'冒用他人信用卡'的情形,构成犯罪的,以信用卡诈骗罪追究刑事责任」
-- 案例：中国法院网 2024 遗忘 ATM 银行卡取款案 <https://www.chinacourt.org/article/detail/2024/02/id/7792099.shtml> 多次「Socket is closed」，未引用。
+### Mục 5 Nhặt được
+- “Bộ luật Dân sự” <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>: đã mở. Điều 314 “Nhặt được tài sản bị mất thì phải hoàn trả cho chủ quyền lợi. Người nhặt được phải thông báo kịp thời cho chủ quyền lợi đến nhận, hoặc giao cho công an và các cơ quan hữu quan khác”; Điều 317 “Khi chủ quyền lợi đến nhận tài sản bị mất, phải trả cho người nhặt được hoặc cơ quan hữu quan các khoản chi phí cần thiết như chi phí giữ gìn tài sản”. Văn bản trang này bị cắt tại Điều 1111, Điều 1254 chưa kiểm chứng được (Ghi chú của mục 6 đã nêu).
+- Phê phê duyệt năm 2008 của Tối cao Viện kiểm sát <https://www.spp.gov.cn/spp/flfg/sfjs/201208/t20120830_47871.shtml>: đã mở, thông qua ngày 19/2/2008, thi hành ngày 7/5: “Hành vi nhặt được thẻ tín dụng của người khác và sử dụng trên máy rút tiền tự động (ATM) thuộc tình huống ‘giả mạo dùng thẻ tín dụng của người khác’ quy định tại điểm khoản 1 Điều 196 Bộ luật Hình sự; nếu cấu thành tội phạm thì truy cứu trách nhiệm hình sự về tội lừa đảo thẻ tín dụng”
+- Vụ án: vụ rút tiền ở ATM do quên thẻ ngân hàng trên China Court Net năm 2024 <https://www.chinacourt.org/article/detail/2024/02/id/7792099.shtml> nhiều lần “Socket is closed”, không trích dẫn.
 
-### 条 6 高空抛物
-- 最高法 2024 危害公共安全犯罪典型案例 <https://www.court.gov.cn/zixun/xiangqing/429522.html>：已打开，2024 年 4 月 2 日。案例一李某晨：「2017年5月18日……在重庆市沙坪坝区21楼房屋内饮酒后……故意将空啤酒瓶、玻璃杯从客厅阳台丢到楼下学校操场。玻璃杯砸中正在操场锻炼的13岁学生叶某某头部……构成重伤二级」「以危险方法危害公共安全罪判处被告人李某晨有期徒刑十年」
-- 最高法 2025 专访 <https://www.court.gov.cn/zixun/xiangqing/458381.html>：已打开，2025 年 3 月 9 日。「2024年10月21日……最高人民法院对被告人周某以危险方法危害公共安全死刑复核一案依法作出裁定，核准周某死刑，立即执行」「周某在32楼的楼道窗户和楼顶天台等位置，先后向地面人群投掷8块砖头，其中一块击中被害人头部，致人死亡」
-- 民法典第一千二百五十四条：spp 页面截断，gov.cn 两个 URL 404，npc.gov.cn SSL 失败，未引用。
+### Mục 6 Ném vật từ trên cao
+- Tối cao Tòa án 2024, các vụ án điển hình về tội nguy hại an toàn công cộng <https://www.court.gov.cn/zixun/xiangqing/429522.html>: đã mở, ngày 2/4/2024. Vụ 1, bị cáo Lý Mỗ Thần: “ngày 18/5/2017…… sau khi uống rượu trong căn hộ tầng 21 ở quận Sa Bình Bá, thành phố Trùng Khánh…… cố ý ném chai bia rỗng, cốc thủy tinh từ ban công phòng khách xuống sân trường bên dưới. Cốc thủy tinh trúng đầu em họ Diệp 13 tuổi đang rèn luyện ở sân…… cấu thành trọng thương cấp 2” “tuyên bị cáo Lý Mỗ Thần phạt tù 10 năm về tội nguy hại an toàn công cộng bằng phương pháp nguy hiểm”
+- Tối cao Tòa án 2025, phỏng vấn <https://www.court.gov.cn/zixun/xiangqing/458381.html>: đã mở, ngày 9/3/2025. “Ngày 21/10/2024…… Tòa án nhân dân tối cao ra phán quyết theo pháp luật trong vụ tái thẩm phán xét án tử hình bị cáo ông Chu về tội nguy hại an toàn công cộng bằng phương pháp nguy hiểm, phê chuẩn án tử hình ông Chu, thi hành ngay lập tức” “ông Chu tại các vị trí cửa sổ hành lang tầng 32 và sân thượng mái nhà… lần lượt ném 8 viên gạch xuống đám đông dưới đất, trong đó một viên trúng đầu nạn nhân khiến người chết”
+- Điều 1254 Bộ luật Dân sự: trang spp bị cắt, hai URL trên gov.cn 404, npc.gov.cn SSL thất bại, không trích dẫn.
 
-### 条 7 枪支
-- 两高 2018 批复 <https://www.spp.gov.cn/xwfbh/wsfbt/201803/t20180328_372604.shtml>：已打开，法释〔2018〕8 号，2018 年 3 月 30 日施行。第一条「……不仅应当考虑涉案枪支的数量，而且应当充分考虑涉案枪支的外观、材质、发射物、购买场所和渠道、价格、用途、致伤力大小、是否易于通过改制提升致伤力，以及行为人的主观认知、动机目的……综合评估社会危害性」
-- 最高法 理解与适用 <https://www.court.gov.cn/zixun/xiangqing/88472.html>：已打开，2018 年 3 月 28 日。「枪口比动能大于等于1.8焦耳/平方厘米时，一律认定为枪支」；案例「赵某某、朱某某夫妇在集贸市场内销售'玩具枪'，公安机关从其作为玩具出售的枪状物中起获43支……其中有18支符合枪支标准」，检察机关认为「没有充分的证据证明其主观上明知出售的物品系枪支」，存疑不起诉。
+### Mục 7 Súng
+- Phê phê duyệt 2018 của hai cơ quan tối cao <https://www.spp.gov.cn/xwfbh/wsfbt/201803/t20180328_372604.shtml>: đã mở, Pháp thích số 8, thi hành ngày 30/3/2018. Điều 1 “… không chỉ phải cân nhắc số lượng súng liên quan đến vụ án, mà phải cân nhắc đầy đủ diện mạo, chất liệu, vật bắn ra, nơi và kênh mua, giá cả, công dụng, mức độ gây thương tích của súng liên quan, có dễ dàng qua cải chế nâng cao sức gây thương tích hay không, cùng nhận thức chủ quan, động cơ mục đích của người hành vi…… đánh giá tổng hợp tính nguy hại xã hội”
+- Tối cao Tòa án, “Giải thích và áp dụng” <https://www.court.gov.cn/zixun/xiangqing/88472.html>: đã mở, ngày 28/3/2018. “Khi động năng so sánh ở miệng súng lớn hơn hoặc bằng 1,8 joule/cm² thì nhất loạt xác định là súng”; vụ án “vợ chồng ông Triệu, ông Chu bán ‘súng đồ chơi’ trong chợ đầu mối, cơ quan công an thu được 43 vật giống súng từ số đồ họ bán như đồ chơi…… trong đó 18 vật đạt chuẩn súng”, cơ quan kiểm sát cho rằng “không có chứng cứ đầy đủ chứng minh về mặt chủ quan họ biết rõ vật bán ra là súng”, không khởi tố do còn nghi ngờ.
 
-### 条 8 无人机
-- 条例 <https://www.gov.cn/zhengce/content/202306/content_6888799.htm>：已打开，第六十三条「本条例自2024年1月1日起施行」。第十条「民用无人驾驶航空器所有者应当依法进行实名登记」；第十九条「管制空域范围以外的空域为微型、轻型、小型无人驾驶航空器的适飞空域」；第四十七条「未经实名登记实施飞行活动的，由公安机关责令改正，可以处200元以下的罚款；情节严重的，处2000元以上2万元以下的罚款」；第五十一条第二款「未经批准操控微型、轻型、小型民用无人驾驶航空器在管制空域内飞行……由公安机关责令停止飞行，可以处500元以下的罚款；情节严重的，没收实施违规飞行的无人驾驶航空器，并处1000元以上1万元以下的罚款」；微型定义「空机重量小于0.25千克」。
-- 湖北省公安厅转载公安部案例 <http://gat.hubei.gov.cn/bmdt/gayw/202602/t20260205_5870949.shtml>：已打开，2026 年 2 月 5 日，注明「人民公安报北京2月4日电」。「2024年3月，李某某付费请朱某某破解无人机的飞行高度限制后，操控无人机飞行至近3000米的高空，拍摄云层视频并公开发布……被处以行政拘留5日的处罚」；「张某某为他人提供破解服务20余台次、非法获利1.5万余元。2023年12月，张某某因犯提供侵入、非法控制计算机信息系统的程序、工具罪，被依法判处有期徒刑六个月，缓刑一年，并处罚金」
-- 公安部原页 <https://www.mps.gov.cn/n2254098/n4904352/c10390619/content.html> 及 m. 镜像均 521。
+### Mục 8 Máy bay không người lái
+- “Điều lệ Quản lý bay máy bay không người lái dân dụng” <https://www.gov.cn/zhengce/content/202306/content_6888799.htm>: đã mở, Điều 63 “Điều lệ này thi hành từ ngày 1/1/2024”. Điều 10 “Chủ sở hữu máy bay không người lái dân dụng phải đăng ký tên thật theo pháp luật”; Điều 19 “Vùng trời ngoài phạm vi vùng trời bị kiểm soát là vùng trời phù hợp bay của máy bay không người lái loại siêu nhỏ, nhẹ, nhỏ”; Điều 47 “Thực hiện hoạt động bay khi chưa đăng ký tên thật, cơ quan công an ra lệnh sửa chữa, có thể phạt tiền dưới 200 yên; tình tiết nghiêm trọng thì phạt tiền từ 2.000 yên đến dưới 20.000 yên”; khoản 2 Điều 51 “Chưa được phê chuẩn mà điều khiển máy bay không người lái dân dụng loại siêu nhỏ, nhẹ, nhỏ bay trong vùng trời bị kiểm soát…… cơ quan công an ra lệnh dừng bay, có thể phạt tiền dưới 500 yên; tình tiết nghiêm trọng thì tịch thu máy bay không người lái bay vi phạm, đồng thời phạt tiền từ 1.000 yên đến dưới 10.000 yên”; định nghĩa loại siêu nhỏ “trọng lượng máy không tải dưới 0,25 kg”.
+- Công an tỉnh Hồ Bắc đăng lại vụ án của Bộ Công an <http://gat.hubei.gov.cn/bmdt/gayw/202602/t20260205_5870949.shtml>: đã mở, ngày 5/2/2026, ghi chú “Báo Công an nhân dân, Bắc Kinh ngày 4/2”. “Tháng 3/2024, ông Lý trả tiền nhờ ông Chu bẻ khóa giới hạn độ cao của máy bay không người lái, sau đó điều khiển máy bay bay lên độ cao gần 3.000 m, quay video tầng mây và công khai đăng tải…… bị xử phạt hành chính giam giữ 5 ngày”; “ông Trương cung cấp dịch vụ bẻ khóa cho người khác hơn 20 lượt, thu lợi bất hợp pháp hơn 15.000 yên. Tháng 12/2023, ông Trương vì phạm tội cung cấp chương trình, công cụ xâm nhập, trái phép kiểm soát hệ thống thông tin máy tính bị tuyên phạt tù 6 tháng, hoãn chấp hành 1 năm, đồng thời phạt tiền theo pháp luật”
+- Trang gốc của Bộ Công an <https://www.mps.gov.cn/n2254098/n4904352/c10390619/content.html> cùng bản gương m. đều trả về 521.
 
-### 条 9 偷拍
-- 最高法 2024 窃听窃照典型案例 <https://www.court.gov.cn/shenpan/xiangqing/449581.html>：已打开，2024 年 12 月 11 日。案例二「2021年3月以来，被告人颜某平、颜某建为了偷拍他人隐私，在电商平台购买窃照专用器材，分别安装在三家酒店的多个房间内」，非法使用窃照专用器材罪，颜某平有期徒刑一年三个月，颜某建有期徒刑一年。同批石某等人制作、贩卖淫秽物品牟利案判十年（备注引用）。
+### Mục 9 Chụp lén
+- Tối cao Tòa án 2024, các vụ án điển hình nghe lén - chụp lén <https://www.court.gov.cn/shenpan/xiangqing/449581.html>: đã mở, ngày 11/12/2024. Vụ 2 “Từ tháng 3/2021, các bị cáo Nhan Mỗ Bình, Nhan Mỗ Kiến nhằm chụp lén đời tư của người khác đã mua thiết bị chuyên dụng chụp lén trên sàn thương mại điện tử, lần lượt lắp vào nhiều phòng của ba khách sạn”, tội trái phép sử dụng thiết bị chuyên dụng chụp lén, Nhan Mỗ Bình phạt tù 1 năm 3 tháng, Nhan Mỗ Kiến phạt tù 1 năm. Cùng đợt, vụ án trục lợi chế tạo, bán vật phẩm khiêu dâm của ông Thạch và đồng bọn bị tuyên 10 năm (trích trong Ghi chú).
 
-### 条 10 赌博
-- 法条见上。未找到可打开的官方案例（WebSearch 配额用尽前未搜到，之后无法再搜）。
+### Mục 10 Đánh bạc
+- Điều luật xem trên. Không tìm thấy vụ án chính thức nào mở được (trước khi WebSearch cạn hạn mức không tìm thấy, sau đó không thể tìm nữa).
 
-### 条 11 野生动物
-- 野生动物保护法 <https://www.mee.gov.cn/ywgz/fgbz/fl/202302/t20230220_1016885.shtml>（生态环境部，gov.cn 域）：已打开，2022 年 12 月 30 日修订、2023 年 5 月 1 日施行。第三十一条第一款「禁止食用国家重点保护野生动物和国家保护的有重要生态、科学、社会价值的陆生野生动物以及其他陆生野生动物」；第五十一条「未取得人工繁育许可证，繁育国家重点保护野生动物……没收野生动物及其制品，并处野生动物及其制品价值一倍以上十倍以下罚款」；第五十三条「食用或者为食用非法购买本法规定保护的野生动物及其制品的……没收野生动物及其制品，并处野生动物及其制品价值二倍以上二十倍以下罚款」
-- npc.gov.cn 原文页 SSL 握手失败，改用生态环境部转载页。
-- 两高 2022 解释 <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202204/t20220407_553506.shtml>：已打开，法释〔2022〕12 号，2022 年 4 月 9 日施行。第十三条「涉案动物系人工繁育，具有下列情形之一的，对所涉案件一般不作为犯罪处理；需要追究刑事责任的，应当依法从宽处理：（一）列入人工繁育国家重点保护野生动物名录的；（二）人工繁育技术成熟、已成规模，作为宠物买卖、运输的」
-- 最高检 鹦鹉小案 <https://www.spp.gov.cn/spp/zdgz/202302/t20230211_601023.shtml>：已打开。费氏牡丹鹦鹉（国家二级保护），40 余只被查获，王某等 3 人，「总价不超过400元」，「2021年11月，徐州铁路运输检察院依法对王某等3人不起诉公开宣告」
+### Mục 11 Động vật hoang dã
+- “Luật Bảo vệ động vật hoang dã” <https://www.mee.gov.cn/ywgz/fgbz/fl/202302/t20230220_1016885.shtml> (Bộ Sinh thái - Môi trường, tên miền gov.cn): đã mở, sửa đổi ngày 30/12/2022, thi hành ngày 1/5/2023. Khoản 1 Điều 31 “Cấm ăn thịt động vật hoang dã được nhà nước bảo vệ trọng điểm và động vật hoang dã trên cạn có giá trị sinh thái, khoa học, xã hội quan trọng được nhà nước bảo vệ cùng các động vật hoang dã trên cạn khác”; Điều 51 “Chưa có giấy phép nhân giống mà nhân giống động vật hoang dã được nhà nước bảo vệ trọng điểm…… tịch thu động vật hoang dã và sản phẩm của chúng, đồng thời phạt tiền từ 1 lần đến 10 lần giá trị của động vật hoang dã và sản phẩm của chúng”; Điều 53 “Ăn thịt hoặc mua trái phép để ăn động vật hoang dã và sản phẩm của chúng được Luật này bảo vệ…… tịch thu động vật hoang dã và sản phẩm của chúng, đồng thời phạt tiền từ 2 lần đến 20 lần giá trị của động vật hoang dã và sản phẩm của chúng”
+- Trang gốc trên npc.gov.cn bắt tay SSL thất bại, đổi sang trang đăng lại của Bộ Sinh thái - Môi trường.
+- Giải thích 2022 của hai cơ quan tối cao <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202204/t20220407_553506.shtml>: đã mở, Pháp thích số 12, thi hành ngày 9/4/2022. Điều 13 “Động vật liên quan đến vụ án thuộc diện nhân giống, thuộc một trong các tình huống dưới đây thì vụ án liên quan nhìn chung không xử lý như tội phạm; cần truy cứu trách nhiệm hình sự thì phải xử lý khoan hồng theo pháp luật: được liệt kê trong danh mục nhân giống động vật hoang dã được nhà nước bảo vệ trọng điểm; công nghệ nhân giống đã chín muồi, đã thành quy mô, được mua bán, vận chuyển như thú cưng”
+- Tối cao Viện kiểm sát, vụ nhỏ về vẹt <https://www.spp.gov.cn/spp/zdgz/202302/t20230211_601023.shtml>: đã mở. Vẹt tình yêu Fischer (được bảo vệ cấp II quốc gia), hơn 40 con bị thu giữ, 3 người gồm ông Vương và đồng phạm, “tổng giá trị không quá 400 yên”, “tháng 11/2021, Viện kiểm sát vận tải đường sắt Từ Châu công khai tuyên bố không khởi tố đối với ông Vương và 2 người khác theo pháp luật”
 
-### 条 12 讨债扣人
-- 法条见上。案例：中国法院网 2023 大庆四人案 <https://www.chinacourt.org/article/detail/2023/05/id/7285491.shtml>、2019 贵州案 3845386，均「Socket is closed」；最高法公报黄永柱案 502。未引用案例，备注只说明「未能打开」。
+### Mục 12 Đòi nợ, giữ người
+- Điều luật xem trên. Vụ án: vụ 4 người ở Đại Khánh năm 2023 trên China Court Net <https://www.chinacourt.org/article/detail/2023/05/id/7285491.shtml>, vụ Quý Châu năm 2019 số 3845386, đều “Socket is closed”; vụ ông Hoàng Vĩnh Trụ trên Công báo Tối cao Tòa án 502. Không trích dẫn vụ án, Ghi chú chỉ nói “không mở được”.
 
-### 条 13 身份证
-- 居民身份证法 <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/203777/index.html>：已打开，页面标注「根据2011年10月29日……修正」。第十六条「由公安机关给予警告，并处二百元以下罚款……（二）出租、出借、转让居民身份证的」；第十七条「由公安机关处二百元以上一千元以下罚款，或者处十日以下拘留……（一）冒用他人居民身份证或者使用骗领的居民身份证的；（二）购买、出售、使用伪造、变造的居民身份证的」
-- 未找到官方案例。
+### Mục 13 Thẻ căn cước
+- “Luật Thẻ căn cước cư dân” <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/203777/index.html>: đã mở, trang ghi chú “sửa đổi theo ngày 29/10/2011……”. Điều 16 “do cơ quan công an cảnh cáo, đồng thời phạt tiền dưới 200 yên …… cho thuê, cho mượn, chuyển nhượng thẻ căn cước cư dân”; Điều 17 “do cơ quan công an phạt tiền từ 200 yên đến 1.000 yên, hoặc giam giữ dưới 10 ngày …… giả mạo dùng thẻ căn cước cư dân của người khác hoặc dùng thẻ căn cước cư dân lừa lĩnh; mua, bán, sử dụng thẻ căn cước cư dân giả mạo, cải tạo”
+- Không tìm thấy vụ án chính thức.
 
-### 条 14 袭警
-- 两高 2025 袭警解释 <https://www.spp.gov.cn/xwfbh/wsfbt/202501/t20250116_679579.shtml>：已打开，高检发释字〔2025〕1 号，2025 年 1 月 18 日施行。第一条「实施撕咬、掌掴、踢打、抱摔、投掷物品等行为，造成轻微伤以上后果的」属于暴力袭击，「为摆脱抓捕、约束实施甩手、挣脱、蹬腿等一般性抗拒行为，危害不大的」不属于；第八条暴力袭击警务辅助人员按妨害公务罪处理；第十二条人民警察范围。
-- 最高检 2021 通报 <https://www.spp.gov.cn/xwfbh/wsfbh/202105/t20210517_518308.shtml>：已打开，2021 年 5 月 17 日。「全国检察机关共依法批准逮捕袭警犯罪嫌疑人405人、起诉101人」；江苏「42件袭警案件中，因酒后滋事或与他人发生纠纷，继而对执法民警实施暴力的占47.6%」；湖北「16件袭警案件中，12件系犯罪嫌疑人使用拳打脚踢、撕咬等轻微伤害行为阻碍执法，占75%」。页面无个案。
+### Mục 14 Tấn công cảnh sát
+- Giải thích 2025 của hai cơ quan tối cao về tấn công cảnh sát <https://www.spp.gov.cn/xwfbh/wsfbt/202501/t20250116_679579.shtml>: đã mở, Cao kiểm phát thích tự số 1, thi hành ngày 18/1/2025. Điều 1 “thực hiện hành vi cắn xé, tát, đấm đá, ôm quăng, ném đồ vật…, gây hậu quả thương tích nhẹ trở lên” thuộc tấn công bạo lực, “về bản chất là các hành vi kháng cự thông thường như giơ tay, vùng thoát, đá chân nhằm thoát khỏi sự bắt giữ, kềm chế, gây hại không lớn” thì không thuộc; Điều 8 quy định tấn công bạo lực nhân viên hỗ trợ cảnh vụ xử lý theo tội cản trở công vụ; Điều 12 quy định phạm vi cảnh sát nhân dân.
+- Tối cao Viện kiểm sát 2021, thông báo <https://www.spp.gov.cn/xwfbh/wsfbh/202105/t20210517_518308.shtml>: đã mở, ngày 17/5/2021. “Toàn quốc các cơ quan kiểm sát phê chuẩn bắt giữ 405 bị can tội tấn công cảnh sát theo pháp luật, khởi tố 101 người”; Giang Tô “trong 42 vụ tấn công cảnh sát, chiếm 47,6% là do gây rối sau khi uống rượu hoặc phát sinh tranh chấp với người khác rồi dùng bạo lực với cảnh sát thi hành nhiệm vụ”; Hồ Bắc “trong 16 vụ tấn công cảnh sát, 12 vụ là bị can dùng hành vi đánh đấm, cắn xé gây thương tích nhẹ để cản trở thi hành nhiệm vụ, chiếm 75%”. Trang không có vụ án riêng.
 
-### 条 15 幼女
-- 最高法官网答复 <https://www.court.gov.cn/hudong/xiangqing/13363.html>：已打开，2015 年 2 月 9 日。「对于以暴力、胁迫等强制手段与幼女发生性关系的，不论行为人是否明知被害人是幼女，都应当依法认定为强奸罪」；不满 12 周岁一律认定「应当知道」；已满 12 不满 14 周岁「根据身体发育、言谈举止、衣着等观察，若可能是幼女而实施性侵害，应认定'明知'」；不明知的例外从严把握。
-- 最高法 2003 批复公报页 <http://gongbao.court.gov.cn/Details/7a8982b0b8e1394263eda222294e02.html> 三次 502，未引用。
+### Mục 15 Thiếu nữ
+- Trang trả lời trên website Tối cao Tòa án <https://www.court.gov.cn/hudong/xiangqing/13363.html>: đã mở, ngày 9/2/2015. “Đối với việc dùng các thủ đoạn cưỡng ép như bạo lực, đe dọa… quan hệ tình dục với thiếu nữ, dù người hành vi có biết rõ nạn nhân là thiếu nữ hay không, đều phải xác định là tội hiếp dâm theo pháp luật”; dưới 12 tuổi nhất loạt xác định “lẽ ra phải biết”; từ 12 đến dưới 14 tuổi “quan sát dựa theo phát triển cơ thể, lời nói cử chỉ, trang phục…, nếu có thể là thiếu nữ mà vẫn thực hiện xâm hại tình dục thì phải xác định ‘biết rõ’”; các ngoại lệ của trường hợp không biết rõ được nắm chặt khi xử lý.
+- Trang công báo phê phê duyệt 2003 của Tối cao Tòa án <http://gongbao.court.gov.cn/Details/7a8982b0b8e1394263eda222294e02.html> ba lần 502, không trích dẫn.
 
-## 未收的候选及原因
-- 醉酒骑电动车：电动自行车与电动摩托车的区分标准和判例只在中国法院网（无法打开），指导性案例 271 号打开后是辅助驾驶醉驾案、与电动车无关，按「只有能核实清楚才写」的要求未收；第 8 节第 4 条标题已涵盖电动车。
-- 烟花爆竹、野外用火：治安法 2025 版没有通用燃放条款（只有第二十八条体育文化场馆内燃放、第四十三条升放明火升空物体），烟花爆竹安全管理条例和森林防火条例原文未核实，未收。
-- 出借两卡/帮信罪、网络诽谤：第 8 节已有，本节条 4 只写掩饰隐瞒犯罪所得这一角度并交叉引用。
+## Các ứng viên chưa đưa vào và lý do
+- Say rượu bia mà đi xe điện: tiêu chuẩn phân biệt xe đạp điện với xe máy điện và án lệ chỉ có trên China Court Net (không mở được), vụ án chỉ dẫn số 271 mở ra là vụ lái xe say liên quan hệ thống hỗ trợ lái, không liên quan xe điện, theo yêu cầu “chỉ ghi khi kiểm chứng rõ ràng” nên chưa đưa vào; tiêu đề chương 8 mục 4 đã bao hàm xe điện.
+- Pháo hoa pháo nổ, đốt lửa ngoài trời: bản 2025 Luật Trật tự an ninh không có điều khoản đốt pháo thông dụng (chỉ có Điều 28 về đốt pháo trong sân vận động - cơ sở văn hóa, Điều 43 về phóng vật cháy sáng lên trời), nguyên văn “Điều lệ Quản lý an toàn pháo hoa pháo nổ” và “Điều lệ Phòng cháy rừng” chưa kiểm chứng, chưa đưa vào.
+- Cho mượn hai thẻ/tội hỗ trợ hoạt động tội phạm mạng, bôi nhọ trên mạng: chương 8 đã có, mục 4 chương này chỉ viết góc độ che đậy, giấu giếm tài sản tội phạm và tham chiếu chéo.

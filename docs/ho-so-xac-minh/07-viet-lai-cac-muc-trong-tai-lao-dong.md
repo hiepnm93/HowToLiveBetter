@@ -1,98 +1,98 @@
-# 07 第 2 条（欠薪）核实记录
+# 07 Hồ sơ xác minh mục 2 (chậm trả lương)
 
-核实日期：2026-09-07。所有 URL 均用 WebFetch 打开（一处例外见第 9 条），引句为原文逐字摘录。
+Ngày xác minh: 2026-09-07. Toàn bộ URL đều mở bằng WebFetch (một ngoại lệ, xem mục 9), các trích dẫn được chép nguyên văn từ văn bản gốc.
 
-## 1. 人力资源社会保障部《2024 年度人力资源和社会保障事业发展统计公报》
-- URL：<https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/szrs/tjgb/202506/W020250616518526345602.pdf>
-- 状态：打开成功（PDF，13 页）。WebFetch 的摘要模型读不出中文，本地用 pypdf 抽文本核对。
-- 原文（第四部分「劳动关系」）：
-  - 「全年全国各级劳动人事争议调解组织和仲裁机构共办理劳动人事争议案件 425.7 万件，涉及劳动者 454.9 万人。全年办结争议案件 415.6 万件，结案金额 934.7 亿元。全年劳动人事争议调解成功率 79.6%，仲裁结案率 98.2%，仲裁终结率 73.7%。」
-  - 「全年全国各级劳动保障监察机构共主动检查用人单位 64.0 万户次，涉及劳动者 2577.4 万人，查处各类劳动保障违法案件 13.7 万件，为 65.4 万名劳动者解决工资 86.5 亿元。」
-- 备注：公报未定义「仲裁终结率」，条目中按「裁决后未再进法院的比例」理解并在备注里注明。公报没有平均办案天数。
+## 1. Bộ Tài nguyên nhân lực và An sinh xã hội, “Thông cáo thống kê về phát triển sự nghiệp tài nguyên nhân lực và an sinh xã hội năm 2024”
+- URL: <https://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/szrs/tjgb/202506/W020250616518526345602.pdf>
+- Trạng thái: mở thành công (PDF, 13 trang). Mô hình tóm tắt của WebFetch không đọc được tiếng Trung, đã dùng pypdf tại máy để bóc văn bản và đối chiếu.
+- Văn bản gốc (phần 4 “Quan hệ lao động”):
+  - “Cả năm, các tổ chức hòa giải tranh chấp lao động - nhân sự và các cơ quan trọng tài các cấp trên toàn quốc đã xử lý tổng cộng 4.257.000 vụ tranh chấp lao động - nhân sự, liên quan đến 4.549.000 người lao động. Cả năm kết thúc giải quyết 4.156.000 vụ tranh chấp, số tiền của các vụ kết thúc giải quyết là 93,47 tỷ yên. Tỷ lệ hòa giải thành tranh chấp lao động - nhân sự cả năm đạt 79,6%, tỷ lệ kết thúc giải quyết bằng trọng tài đạt 98,2%, tỷ lệ chấm dứt bằng trọng tài đạt 73,7%.”
+  - “Cả năm, các cơ quan giám sát bảo đảm lao động các cấp trên toàn quốc đã chủ động kiểm tra tổng cộng 640.000 lượt đơn vị sử dụng lao động, liên quan đến 25.774.000 người lao động, phát hiện và xử lý 137.000 vụ vi phạm pháp luật về bảo đảm lao động các loại, giúp 654.000 người lao động giải quyết được 8,65 tỷ yên tiền lương.”
+- Ghi chú: Thông cáo không định nghĩa “tỷ lệ chấm dứt bằng trọng tài”; trong mục, khái niệm này được hiểu theo nghĩa “tỷ lệ sau phán quyết không tiếp tục kiện ra tòa” và đã ghi chú rõ. Thông cáo không có số ngày giải quyết trung bình một vụ.
 
-## 2. 最高人民法院工作报告（2025 年 3 月，中国政府网）
-- URL：<https://www.gov.cn/yaowen/liebiao/202503/content_7013680.htm>
-- 状态：打开成功。
-- 原文：
-  - 「审结劳动争议案件61.4万件，同比增长5.5%」
-  - 「审结追索劳动报酬案件8.8万件，帮助追回薪酬285.4亿元，同比分别增长4.3%、16%，其中农民工工资18.6亿元」
-  - 「对998人以拒不支付劳动报酬罪定罪判刑，同比增长8.6%」
-  - 「执行到位金额2.3万亿元，同比增长3.5%」
-- 未找到：执行完毕率、执行到位率、终本案件的绝对比例。
+## 2. Báo cáo công tác của Tòa án nhân dân tối cao (tháng 3/2025, Cổng thông tin điện tử Chính phủ Trung Quốc)
+- URL: <https://www.gov.cn/yaowen/liebiao/202503/content_7013680.htm>
+- Trạng thái: mở thành công.
+- Văn bản gốc:
+  - “Xét xử kết thúc 614.000 vụ tranh chấp lao động, tăng 5,5% so với cùng kỳ”
+  - “Xét xử kết thúc 88.000 vụ đòi tiền lương, giúp thu hồi 28,54 tỷ yên, tăng tương ứng 4,3% và 16% so với cùng kỳ, trong đó lương của công nhân nông dân là 1,86 tỷ yên”
+  - “Truy cứu trách nhiệm hình sự và tuyên án 998 người về tội từ chối chi trả tiền lương, tăng 8,6% so với cùng kỳ”
+  - “Số tiền thi hành đến nơi đạt 2,3 nghìn tỷ yên, tăng 3,5% so với cùng kỳ”
+- Không tìm thấy: tỷ lệ thi hành xong, tỷ lệ tiền thi hành đến nơi, tỷ lệ tuyệt đối của các vụ bị chấm dứt thi hành lần này.
 
-## 3. 最高人民法院 2024 年 1-9 月 / 2025 年司法审判工作主要数据
-- URL：<https://www.court.gov.cn/zixun/xiangqing/445321.html>（2024-10-16 发布，2024 年 1-9 月）
-  - 「执行完毕率同比增长6.17个百分点，执行到位率同比增长7.88百分点」「首次执行案件终结本次率同比下降8.53个百分点，新增终结本次执行案件同比减少28.33%」——只有同比变化，没有绝对值。
-- URL：<https://www.court.gov.cn/zixun/xiangqing/486671.html>（2026-01-19 发布，2025 年全年）
-  - 「受理首次执行案件数量超过1000万件」「执行完毕率、执行到位率保持高位，执行到位金额2.16万亿元」——没有比例数字。
-- 结论：最高法公开口径里找不到执行完毕率、终本率的绝对数，条目备注按要求定性写「没有官方数据」，不编数字。
+## 3. Số liệu chủ yếu về công tác xét xử của Tòa án nhân dân tối cao, giai đoạn 1-9/2024 / cả năm 2025
+- URL: <https://www.court.gov.cn/zixun/xiangqing/445321.html> (đăng ngày 2024-10-16, 9 tháng đầu năm 2024)
+  - “Tỷ lệ thi hành xong tăng 6,17 điểm phần trăm so với cùng kỳ, tỷ lệ tiền thi hành đến nơi tăng 7,88 điểm phần trăm so với cùng kỳ” “Tỷ lệ chấm dứt thi hành lần này của các vụ thi hành lần đầu giảm 8,53 điểm phần trăm so với cùng kỳ, số vụ mới bị chấm dứt thi hành lần này giảm 28,33% so với cùng kỳ” — chỉ có biến động so với cùng kỳ, không có giá trị tuyệt đối.
+- URL: <https://www.court.gov.cn/zixun/xiangqing/486671.html> (đăng ngày 2026-01-19, cả năm 2025)
+  - “Số vụ thi hành lần đầu thụ lý vượt 10.000.000 vụ” “Tỷ lệ thi hành xong, tỷ lệ tiền thi hành đến nơi duy trì ở mức cao, số tiền thi hành đến nơi đạt 2,16 nghìn tỷ yên” — không có con số tỷ lệ.
+- Kết luận: Trong các số liệu công khai của Tòa án nhân dân tối cao không tìm thấy con số tuyệt đối về tỷ lệ thi hành xong và tỷ lệ chấm dứt thi hành lần này; phần Ghi chú của mục viết định tính theo yêu cầu là “không có số liệu chính thức”, không bịa ra con số.
 
-## 4. 《劳动保障监察条例》（国务院令第 423 号）
-- URL：<https://www.gov.cn/gongbao/content/2004/content_63042.htm>
-- 状态：打开成功。2004-11-01 公布，2004-12-01 施行。
-- 第九条：「任何组织或者个人对违反劳动保障法律、法规或者规章的行为，有权向劳动保障行政部门举报。劳动者认为用人单位侵犯其劳动保障合法权益的，有权向劳动保障行政部门投诉。」
-- 第十条（三）：「受理对违反劳动保障法律、法规或者规章的行为的举报、投诉」
-- 第十七条：「劳动保障行政部门对违反劳动保障法律、法规或者规章的行为的调查，应当自立案之日起60个工作日内完成；对情况复杂的，经劳动保障行政部门负责人批准，可以延长30个工作日。」
-- 第二十六条：「……逾期不支付的，责令用人单位按照应付金额50%以上1倍以下的标准计算，向劳动者加付赔偿金。」
+## 4. “Điều lệ Giám sát bảo đảm lao động” (Nghị định của Quốc vụ viện số 423)
+- URL: <https://www.gov.cn/gongbao/content/2004/content_63042.htm>
+- Trạng thái: mở thành công. Công bố ngày 2004-11-01, thi hành từ ngày 2004-12-01.
+- Điều 9: “Bất kỳ tổ chức hoặc cá nhân nào cũng có quyền tố giác với cơ quan hành chính về giám sát bảo đảm lao động đối với hành vi vi phạm pháp luật, pháp quy hoặc quy tắc về bảo đảm lao động. Người lao động cho rằng đơn vị sử dụng lao động xâm phạm quyền và lợi ích hợp pháp của mình về bảo đảm lao động thì có quyền khiếu nại với cơ quan hành chính về giám sát bảo đảm lao động.”
+- Điều 10 (khoản 3): “Tiếp nhận tố giác, khiếu nại về hành vi vi phạm pháp luật, pháp quy hoặc quy tắc về bảo đảm lao động”
+- Điều 17: “Việc điều tra của cơ quan hành chính về giám sát bảo đảm lao động đối với hành vi vi phạm pháp luật, pháp quy hoặc quy tắc về bảo đảm lao động phải hoàn thành trong vòng 60 ngày làm việc kể từ ngày lập án; trường hợp tình huống phức tạp, được người phụ trách cơ quan hành chính về giám sát bảo đảm lao động phê chuẩn thì có thể kéo dài thêm 30 ngày làm việc.”
+- Điều 26: “… nếu quá hạn không trả, thì buộc đơn vị sử dụng lao động tính theo mức từ 50% đến 1 lần số tiền phải trả để trả thêm cho người lao động khoản tiền bồi thường.”
 
-## 5. 《劳动争议调解仲裁法》（主席令第八十号）
-- URL：<https://chinajob.mohrss.gov.cn/h5/c/2022-07-15/356212.shtml>（人社部中国就业网）
-- 状态：打开成功。
-- 第二十七条：「劳动争议申请仲裁的时效期间为一年。……劳动关系存续期间因拖欠劳动报酬发生争议的，劳动者申请仲裁不受本条第一款规定的仲裁时效期间的限制；但是，劳动关系终止的，应当自劳动关系终止之日起一年内提出。」
-- 第四十三条：「仲裁庭裁决劳动争议案件，应当自劳动争议仲裁委员会受理仲裁申请之日起四十五日内结束。……延长期限不得超过十五日。」
-- 第四十四条：「仲裁庭对追索劳动报酬、工伤医疗费、经济补偿或者赔偿金的案件，根据当事人的申请，可以裁决先予执行，移送人民法院执行。」
-- 第四十七条：「追索劳动报酬、工伤医疗费、经济补偿或者赔偿金，不超过当地月最低工资标准十二个月金额的争议」为终局裁决。
-- 第四十八、四十九条：劳动者对终局裁决不服可 15 日内起诉；用人单位只能 30 日内向中院申请撤销。
-- 第五十条：「当事人对本法第四十七条规定以外的其他劳动争议案件的仲裁裁决不服的，可以自收到仲裁裁决书之日起十五日内向人民法院提起诉讼」
-- 第五十三条：「劳动争议仲裁不收费。劳动争议仲裁委员会的经费由财政予以保障。」
+## 5. “Luật Hòa giải và trọng tài tranh chấp lao động” (Lệnh Chủ tịch nước số 80)
+- URL: <https://chinajob.mohrss.gov.cn/h5/c/2022-07-15/356212.shtml> (Mạng Việc làm Trung Quốc thuộc Bộ Tài nguyên nhân lực và An sinh xã hội)
+- Trạng thái: mở thành công.
+- Điều 27: “Thời hiệu đề nghị trọng tài đối với tranh chấp lao động là một năm. … Trường hợp trong thời gian quan hệ lao động còn tồn tại mà phát sinh tranh chấp do chậm trả tiền lương, thì việc người lao động đề nghị trọng tài không chịu sự hạn chế của thời hiệu trọng tài quy định tại khoản 1 Điều này; nhưng nếu quan hệ lao động đã chấm dứt thì phải đề nghị trong vòng một năm kể từ ngày quan hệ lao động chấm dứt.”
+- Điều 43: “Hội đồng trọng tài khi phán quyết vụ án tranh chấp lao động phải kết thúc trong vòng 45 ngày kể từ ngày Ủy ban trọng tài tranh chấp lao động thụ lý đơn đề nghị trọng tài. … Thời hạn gia hạn không được vượt quá 15 ngày.”
+- Điều 44: “Đối với các vụ án đòi tiền lương, tiền khám chữa bệnh tai nạn lao động, trợ cấp kinh tế hoặc tiền bồi thường, hội đồng trọng tài theo đơn đề nghị của đương sự có thể phán quyết cho thi hành trước và chuyển Tòa án nhân dân thi hành.”
+- Điều 47: Tranh chấp “đòi tiền lương, tiền khám chữa bệnh tai nạn lao động, trợ cấp kinh tế hoặc tiền bồi thường, không vượt quá số tiền tương đương 12 tháng mức lương tối thiểu tháng của địa phương” thuộc phán quyết chung thẩm.
+- Điều 48, Điều 49: Người lao động không chấp nhận phán quyết chung thẩm có thể khởi kiện trong vòng 15 ngày; đơn vị sử dụng lao động chỉ có thể xin hủy phán quyết tại tòa án trung cấp trong vòng 30 ngày.
+- Điều 50: “Đương sự không chấp nhận phán quyết trọng tài đối với các vụ tranh chấp lao động khác ngoài những vụ quy định tại Điều 47 của Luật này thì có thể khởi kiện tại Tòa án nhân dân trong vòng 15 ngày kể từ ngày nhận được văn bản phán quyết trọng tài”
+- Điều 53: “Trọng tài tranh chấp lao động không thu phí. Kinh phí của Ủy ban trọng tài tranh chấp lao động do ngân sách nhà nước bảo đảm.”
 
-## 6. 《劳动合同法》（2012 修正）
-- 首选 URL 失败：<https://www.gov.cn/jrzg/2007-06/29/content_667720.htm>（空页）、<https://www.gov.cn/flfg/2007-06/29/content_669394.htm>（404）、flk.npc.gov.cn（需 JS）。
-- 实际 URL：<https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193025/content.html>（国家税务总局政策法规库，gov.cn 域）
-- 状态：打开成功，版本为 2012-12-28 修正。
-- 第三十条第二款：「用人单位拖欠或者未足额支付劳动报酬的，劳动者可以依法向当地人民法院申请支付令，人民法院应当依法发出支付令。」
-- 第八十五条：「……逾期不支付的，责令用人单位按应付金额百分之五十以上百分之一百以下的标准向劳动者加付赔偿金：（一）未按照劳动合同的约定或者国家规定及时足额支付劳动者劳动报酬的……」
+## 6. “Luật Hợp đồng lao động” (sửa đổi năm 2012)
+- URL ưu tiên thất bại: <https://www.gov.cn/jrzg/2007-06/29/content_667720.htm> (trang trống), <https://www.gov.cn/flfg/2007-06/29/content_669394.htm>, flk.npc.gov.cn (cần JS).
+- URL thực tế: <https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193025/content.html> (Kho chính sách - pháp quy của Tổng cục Thuế nhà nước, tên miền gov.cn)
+- Trạng thái: mở thành công, phiên bản sửa đổi ngày 2012-12-28.
+- Khoản 2 Điều 30: “Trường hợp đơn vị sử dụng lao động chậm trả hoặc trả tiền lương không đủ, người lao động có thể theo pháp luật đề nghị Tòa án nhân dân địa phương ban hành lệnh chi trả, Tòa án nhân dân phải ban hành lệnh chi trả theo pháp luật.”
+- Điều 85: “… nếu quá hạn không trả, thì buộc đơn vị sử dụng lao động trả thêm cho người lao động khoản tiền bồi thường theo mức từ 50% đến 100% số tiền phải trả: không trả kịp thời, đầy đủ tiền lương cho người lao động theo thỏa thuận trong hợp đồng lao động hoặc theo quy định của nhà nước…”
 
-## 7. 《民事诉讼法》（2023 修正）
-- 首选 URL 失败：<https://www.ssf.gov.cn/...pdf>（证书错误）；中国人大网未找到可直接打开的全文页。
-- 实际 URL：<https://amr.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/zcfg/fl/202401/t20240129_83645867.html>（贵州省市场监管局转载，gov.cn 域）
-- 状态：打开成功。
-- 第一百零九条：「人民法院对下列案件，根据当事人的申请，可以裁定先予执行：……（二）追索劳动报酬的」
-- 第一百五十二条：「人民法院适用普通程序审理的案件，应当在立案之日起六个月内审结。……可以延长六个月」
-- 第一百六十四条：「人民法院适用简易程序审理案件，应当在立案之日起三个月内审结。……可以延长一个月」
-- 第一百八十三条：「人民法院审理对判决的上诉案件，应当在第二审立案之日起三个月内审结。」
-- 第二百二十五条：「债权人请求债务人给付金钱、有价证券，符合下列条件的，可以向有管辖权的基层人民法院申请支付令：（一）债权人与债务人没有其他债务纠纷的；（二）支付令能够送达债务人的。」
-- 第二百二十七条：「人民法院受理申请后，经审查债权人提供的事实、证据，对债权债务关系明确、合法的，应当在受理之日起十五日内向债务人发出支付令。」
-- 第二百二十八条：债务人书面异议成立的，「裁定终结督促程序，支付令自行失效」——条目里因此把支付令限定在「有欠条或工资表、事实清楚」的情形。
+## 7. “Luật Tố tụng dân sự” (sửa đổi năm 2023)
+- URL ưu tiên thất bại: <https://www.ssf.gov.cn/...pdf> (lỗi chứng chỉ); không tìm thấy trang toàn văn mở trực tiếp được trên Mạng Nhân đại Trung Quốc.
+- URL thực tế: <https://amr.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/zcfg/fl/202401/t20240129_83645867.html> (Cục Quản lý thị trường tỉnh Quý Châu đăng lại, tên miền gov.cn)
+- Trạng thái: mở thành công.
+- Điều 109: “Tòa án nhân dân đối với các vụ án dưới đây, theo đơn đề nghị của đương sự, có thể quyết định cho thi hành trước: … vụ đòi tiền lương”
+- Điều 152: “Vụ án được xét xử theo thủ tục thông thường, Tòa án nhân dân phải xét xử kết thúc trong vòng 6 tháng kể từ ngày thụ lý. … có thể gia hạn thêm 6 tháng”
+- Điều 164: “Vụ án được xét xử theo thủ tục đơn giản, Tòa án nhân dân phải xét xử kết thúc trong vòng 3 tháng kể từ ngày thụ lý. … có thể gia hạn thêm 1 tháng”
+- Điều 183: “Tòa án nhân dân xét xử vụ án kháng cáo bản án phải xét xử kết thúc trong vòng 3 tháng kể từ ngày thụ lý phúc thẩm.”
+- Điều 225: “Chủ nợ đề nghị con nợ giao tiền hoặc giấy tờ có giá, nếu đáp ứng các điều kiện dưới đây thì có thể đề nghị Tòa án nhân dân cơ sở có thẩm quyền ban hành lệnh chi trả: chủ nợ và con nợ không có tranh chấp nợ quyền nào khác; lệnh chi trả có thể tống đạt được cho con nợ.”
+- Điều 227: “Sau khi thụ lý đơn đề nghị, Tòa án nhân dân xem xét sự việc, chứng cứ do chủ nợ cung cấp, nếu quan hệ nợ quyền - nợ nghĩa vụ rõ ràng, hợp pháp thì phải gửi lệnh chi trả cho con nợ trong vòng 15 ngày kể từ ngày thụ lý.”
+- Điều 228: Nếu ý kiến bất đồng bằng văn bản của con nợ được chấp nhận là có lý thì “quyết định chấm dứt thủ tục thúc đẩy thanh toán, lệnh chi trả đương nhiên mất hiệu lực” — vì vậy trong mục, lệnh chi trả chỉ được giới hạn ở trường hợp “có giấy ghi nợ hoặc bảng lương, sự việc rõ ràng”.
 
-## 8. 最高人民法院法释〔2013〕3 号
-- 首选 URL 失败：<https://www.court.gov.cn/fabu-xiangqing-5459.html>（404）、<http://gongbao.court.gov.cn/Details/9cc6f93c9e7a7a3d2c93009a581a7b.html>（502）。
-- 实际 URL：<https://www.court.gov.cn/fabu/xiangqing/5041.html>
-- 状态：打开成功。法释〔2013〕3 号，2013-01-14 通过，2013-01-23 施行。
-- 第三条：「具有下列情形之一的，应当认定为刑法第二百七十六条之一第一款规定的『数额较大』：（一）拒不支付一名劳动者三个月以上的劳动报酬且数额在五千元至二万元以上的；（二）拒不支付十名以上劳动者的劳动报酬且数额累计在三万元至十万元以上的。」各省高院可在幅度内定本地标准。
+## 8. Pháp thích số 3 của Tòa án nhân dân tối cao
+- URL ưu tiên thất bại: <https://www.court.gov.cn/fabu-xiangqing-5459.html>, <http://gongbao.court.gov.cn/Details/9cc6f93c9e7a7a3d2c93009a581a7b.html>.
+- URL thực tế: <https://www.court.gov.cn/fabu/xiangqing/5041.html>
+- Trạng thái: mở thành công. Pháp thích số 3, thông qua ngày 2013-01-14, thi hành từ ngày 2013-01-23.
+- Điều 3: “Có một trong các tình huống dưới đây thì được coi là ‘số lượng lớn’ theo quy định tại khoản 1 Điều 276-1 của Bộ luật Hình sự: từ chối chi trả tiền lương của một người lao động trong 3 tháng trở lên và số lượng từ 5.000 yên đến trên 20.000 yên; từ chối chi trả tiền lương của 10 người lao động trở lên và số lượng cộng dồn từ 30.000 yên đến trên 100.000 yên.” Tòa án nhân dân cấp cao các tỉnh có thể ấn định tiêu chuẩn địa phương trong biên độ này.
 
-## 9. 《刑法修正案（八）》第四十一条（刑法第二百七十六条之一）
-- URL：<http://www.npc.gov.cn/cwhhdbdh/c6626/c14002/c14003/201905/t20190523_390477.html>（中国人大网）
-- 状态：WebFetch 报 SSL 握手失败（SSLV3_ALERT_HANDSHAKE_FAILURE）；改用 curl 走 http 打开成功（HTTP 200，49712 字节），原文核对。gov.cn 转载页 content_2602254 / content_1810969 / content_1810794 均 404。
-- 原文：「四十一、在刑法第二百七十六条后增加一条，作为第二百七十六条之一：『以转移财产、逃匿等方法逃避支付劳动者的劳动报酬或者有能力支付而不支付劳动者的劳动报酬，数额较大，经政府有关部门责令支付仍不支付的，处三年以下有期徒刑或者拘役，并处或者单处罚金；造成严重后果的，处三年以上七年以下有期徒刑，并处罚金。』」通过日期 2011-02-25。
+## 9. Điều 41 của “Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 8)” (tức Điều 276-1 của Bộ luật Hình sự)
+- URL: <http://www.npc.gov.cn/cwhhdbdh/c6626/c14002/c14003/201905/t20190523_390477.html> (Mạng Nhân đại Trung Quốc)
+- Trạng thái: WebFetch báo bắt tay SSL thất bại (SSLV3_ALERT_HANDSHAKE_FAILURE); chuyển sang dùng curl qua http mở thành công (HTTP 200, 49712 byte), đã đối chiếu văn bản gốc. Các trang đăng lại trên gov.cn content_2602254 / content_1810969 / content_1810794 đều 404.
+- Văn bản gốc: “41. Bổ sung một Điều ngay sau Điều 276 của Bộ luật Hình sự làm Điều 276-1: ‘Dùng phương thức chuyển dịch tài sản, bỏ trốn… để trốn tránh việc chi trả tiền lương cho người lao động, hoặc có khả năng chi trả mà không chi trả tiền lương cho người lao động, số lượng lớn, đã bị cơ quan hữu quan của chính phủ ra lệnh chi trả mà vẫn không chi trả, thì phạt tù có thời hạn dưới 3 năm hoặc giam giữ, đồng thời phạt tiền hoặc chỉ phạt tiền riêng; gây hậu quả nghiêm trọng thì phạt tù từ 3 năm đến dưới 7 năm, đồng thời phạt tiền.’” Ngày thông qua 2011-02-25.
 
-## 10. 《保障农民工工资支付条例》（国务院令第 724 号）
-- URL：<https://www.gov.cn/gongbao/content/2020/content_5469641.htm>
-- 状态：打开成功。2020-05-01 施行。
-- 第十条：「被拖欠工资的农民工有权依法投诉，或者申请劳动争议调解仲裁和提起诉讼。任何单位和个人对拖欠农民工工资的行为，有权向人力资源社会保障行政部门或者其他有关部门举报。」
-- 第二十四条：「……人工费用拨付周期不得超过1个月。」
-- 第二十六条：「施工总承包单位应当按照有关规定开设农民工工资专用账户，专项用于支付该工程建设项目农民工工资。」
-- 第三十条：「分包单位拖欠农民工工资的，由施工总承包单位先行清偿，再依法进行追偿。」
-- 第三十一条：「工程建设领域推行分包单位农民工工资委托施工总承包单位代发制度……通过农民工工资专用账户直接将工资支付到农民工本人的银行账户。」
-- 第三十二条：「施工总承包单位应当按照有关规定存储工资保证金……」
-- 第三十六条：发包给个人或无资质单位导致欠薪的，「由建设单位或者施工总承包单位清偿」。
-- 第四十一条：涉嫌拒不支付劳动报酬罪的「应当按照有关规定及时移送公安机关审查并作出决定」。
+## 10. “Điều lệ Bảo đảm chi trả tiền lương cho công nhân nông dân” (Nghị định của Quốc vụ viện số 724)
+- URL: <https://www.gov.cn/gongbao/content/2020/content_5469641.htm>
+- Trạng thái: mở thành công. Thi hành từ 2020-05-01.
+- Điều 10: “Công nhân nông dân bị chậm trả lương có quyền khiếu nại theo pháp luật, hoặc đề nghị hòa giải, trọng tài tranh chấp lao động và khởi kiện ra tòa. Bất kỳ đơn vị, cá nhân nào cũng có quyền tố giác với cơ quan hành chính về tài nguyên nhân lực và an sinh xã hội hoặc cơ quan hữu quan khác đối với hành vi chậm trả lương công nhân nông dân.”
+- Điều 24: “… chu kỳ giải ngân chi phí nhân công không được vượt quá 1 tháng.”
+- Điều 26: “Tổng thầu thi công phải theo quy định mở tài khoản chuyên dụng cho tiền lương công nhân nông dân, sử dụng chuyên biệt để chi trả tiền lương công nhân nông dân của dự án xây dựng đó.”
+- Điều 30: “Nhà thầu phụ chậm trả lương công nhân nông dân thì tổng thầu thi công phải thanh toán trước, sau đó truy đòi lại theo pháp luật.”
+- Điều 31: “Trong lĩnh vực xây dựng triển khai cơ chế nhà thầu phụ ủy nhiệm cho tổng thầu thi công thay mặt phát lương cho công nhân nông dân… trả lương thẳng vào tài khoản ngân hàng của chính công nhân nông dân thông qua tài khoản chuyên dụng tiền lương công nhân nông dân.”
+- Điều 32: “Tổng thầu thi công phải theo quy định gửi ký quỹ bảo đảm tiền lương…”
+- Điều 36: Trường hợp giao thầu cho cá nhân hoặc đơn vị không đủ tư cách năng lực dẫn đến chậm trả lương thì “do chủ đầu tư hoặc tổng thầu thi công thanh toán”.
+- Điều 41: Trường hợp có dấu hiệu tội từ chối chi trả tiền lương thì “phải kịp thời chuyển cơ quan công an xem xét và ra quyết định theo quy định có liên quan”.
 
-## 11. 《法律援助法》
-- URL：<https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202504/t20250402_4053713.html>
-- 状态：沿用原条目来源，本次未重新打开；条目只保留原条目已核实的第三十一、四十二条结论（进城务工人员申请支付劳动报酬免查经济困难）。
+## 11. “Luật Trợ giúp pháp lý”
+- URL: <https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202504/t20250402_4053713.html>
+- Trạng thái: dùng lại nguồn của mục gốc, lần này không mở lại; mục chỉ giữ kết luận đã được xác minh trong mục gốc tại Điều 31 và Điều 42 (người lao động ra thành phố làm việc đề nghị chi trả tiền lương được miễn kiểm tra khó khăn về kinh tế).
 
-## 未查到 / 无官方数据
-- 全国劳动仲裁平均办案天数、超审限比例：人社部公报无此指标。
-- 欠薪案执行完毕率、执行到位率、终本率的绝对数：最高法工作报告和司法审判主要数据只给同比变化和到位总额。
-- 各地区数字差异大（如 2024 年调解成功率湖南 69.66%、无锡 89.31%），条目只用全国数。
+## Không tra cứu được / không có số liệu chính thức
+- Số ngày giải quyết trung bình của trọng tài lao động toàn quốc, tỷ lệ vượt hạn xét xử: thông cáo của Bộ Tài nguyên nhân lực và An sinh xã hội không có chỉ tiêu này.
+- Con số tuyệt đối về tỷ lệ thi hành xong, tỷ lệ tiền thi hành đến nơi và tỷ lệ chấm dứt thi hành lần này của các vụ nợ lương: báo cáo công tác của Tòa án nhân dân tối cao và số liệu chính về công tác xét xử chỉ đưa ra biến động so với cùng kỳ và tổng số tiền thu được.
+- Số liệu giữa các địa phương chênh lệch lớn (ví dụ năm 2024 tỷ lệ hòa giải thành Hồ Nam 69,66%, Vô Tích 89,31%), mục chỉ dùng số toàn quốc.

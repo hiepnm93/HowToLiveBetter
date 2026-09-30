@@ -1,143 +1,143 @@
-# 第 8 节来源核实记录（2026-09-07）
+# Hồ sơ xác minh nguồn chương 8 (2026-09-07)
 
-核实方式：每个 URL 先用 WebFetch 打开；WebFetch 对长页面只返回摘要且偶有张冠李戴，所以对所有法律全文页又用 curl 下载 HTML 到 scratchpad、剥掉标签后按「第 X 条」逐字定位原文（下面引的原文段落均来自本地定位）。iachina 的 PDF 由 WebFetch 下载后用 pypdf 抽文本定位。
+Cách xác minh: mỗi URL trước hết mở bằng WebFetch; WebFetch với trang dài chỉ trả về bản tóm tắt và đôi khi gán nhầm nguồn, vì vậy với mọi trang toàn văn luật đều dùng curl tải HTML về scratchpad, bóc bỏ thẻ rồi định vị nguyên văn theo “Điều X” (các đoạn nguyên văn trích dưới đây đều lấy từ định vị tại máy). PDF của iachina do WebFetch tải về rồi dùng pypdf bóc văn bản để định vị.
 
-## 已确认的来源
+## Các nguồn đã xác nhận
 
-### 1. 道路交通安全法（2021 年修订）
-- URL：<https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/205308/index.html>（北京市公安局公安交通管理局转载页，地方官网）
-- 页面标题「中华人民共和国道路交通安全法【2021年修订】」，页内版本行：「2021年4月29日第十三届全国人民代表大会常务委员会第二十八次会议修订」。已确认。
-- 第七十条第一款：「在道路上发生交通事故，车辆驾驶人应当立即停车，保护现场；造成人身伤亡的，车辆驾驶人应当立即抢救受伤人员，并迅速报告执勤的交通警察或者公安机关交通管理部门。因抢救受伤人员变动现场的，应当标明位置。」第二款：「未造成人身伤亡，当事人对事实及成因无争议的，可以即行撤离现场，恢复交通，自行协商处理损害赔偿事宜」；第三款：「仅造成轻微财产损失，并且基本事实清楚的，当事人应当先撤离现场再进行协商处理。」
-- 第九十一条五款全文已定位：「饮酒后驾驶机动车的，处暂扣六个月机动车驾驶证，并处一千元以上二千元以下罚款。因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的，处十日以下拘留，并处一千元以上二千元以下罚款，吊销机动车驾驶证。」「醉酒驾驶机动车的……吊销机动车驾驶证，依法追究刑事责任；五年内不得重新取得机动车驾驶证。」「饮酒后驾驶营运机动车的，处十五日拘留，并处五千元罚款，吊销机动车驾驶证，五年内不得重新取得」「醉酒驾驶营运机动车的……十年内不得重新取得机动车驾驶证，重新取得机动车驾驶证后，不得驾驶营运机动车。」「饮酒后或者醉酒驾驶机动车发生重大交通事故，构成犯罪的……终生不得重新取得机动车驾驶证。」
-- 第一百零一条第二款：「造成交通事故后逃逸的，由公安机关交通管理部门吊销机动车驾驶证，且终生不得重新取得机动车驾驶证。」
-- 全国人大网/中国政府网的 2021 年版全文页搜索未得到可打开的直链（gov.cn 主席令第八十一号页只有修改决定），故引北京交管局转载页并在来源栏注明。
+### 1. “Luật An toàn giao thông đường bộ” (sửa đổi năm 2021)
+- URL: <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/205308/index.html> (trang đăng lại của Cục Quản lý giao thông thuộc Công an thành phố Bắc Kinh, website chính quyền địa phương)
+- Tiêu đề trang “Luật An toàn giao thông đường bộ nước Cộng hòa Nhân dân Trung Hoa [sửa đổi năm 2021]”, dòng phiên bản trong trang: “Ngày 29/4/2021 được sửa đổi tại phiên họp thứ 28 của Ủy ban Thường vụ Đại hội đại biểu nhân dân toàn quốc khóa 13”. Đã xác nhận.
+- Khoản 1 Điều 70: “Khi xảy ra tai nạn giao thông trên đường, người lái xe phải lập tức dừng xe, bảo vệ hiện trường; nếu gây thiệt hại về người thì người lái xe phải lập tức cứu chữa người bị thương và nhanh chóng báo cảnh sát giao thông đang làm nhiệm vụ hoặc cơ quan quản lý giao thông của cơ quan công an. Trường hợp vì cứu chữa người bị thương mà làm thay đổi hiện trường thì phải đánh dấu vị trí.” Khoản 2: “Trường hợp không gây thiệt hại về người, các đương sự không tranh chấp về sự việc và nguyên nhân thì có thể lập tức rời khỏi hiện trường, khôi phục giao thông, tự thương lượng giải quyết việc bồi thường thiệt hại”; khoản 3: “Trường hợp chỉ gây thiệt hại tài sản nhỏ và sự việc cơ bản rõ ràng thì các đương sự phải rời khỏi hiện trường trước rồi mới thương lượng giải quyết.”
+- Đã định vị toàn văn 5 khoản của Điều 91: “Lái xe cơ động sau khi uống rượu bia thì bị tạm giữ bằng lái xe cơ động 6 tháng, đồng thời phạt tiền từ 1.000 yên đến dưới 2.000 yên. Đã bị xử phạt vì lái xe sau khi uống rượu bia mà lại lái xe cơ động sau khi uống rượu bia thì bị giam giữ dưới 10 ngày, đồng thời phạt tiền từ 1.000 yên đến dưới 2.000 yên, thu hồi bằng lái xe cơ động.” “Lái xe cơ động trong tình trạng say rượu bia…… thu hồi bằng lái xe cơ động, truy cứu trách nhiệm hình sự theo pháp luật; trong 5 năm không được xin lại bằng lái xe cơ động.” “Lái xe cơ động vận tải kinh doanh sau khi uống rượu bia thì bị giam giữ 15 ngày, đồng thời phạt 5.000 yên, thu hồi bằng lái xe cơ động, trong 5 năm không được xin lại” “Lái xe cơ động vận tải kinh doanh trong tình trạng say rượu bia…… trong 10 năm không được xin lại bằng lái xe cơ động, sau khi xin lại bằng lái xe cơ động thì không được lái xe cơ động vận tải kinh doanh.” “Sau khi uống rượu bia hoặc say rượu bia mà lái xe cơ động gây ra tai nạn giao thông nghiêm trọng, cấu thành tội phạm…… trọn đời không được xin lại bằng lái xe cơ động.”
+- Khoản 2 Điều 101: “Trường hợp gây tai nạn giao thông rồi bỏ trốn, cơ quan quản lý giao thông của cơ quan công an thu hồi bằng lái xe cơ động, và trọn đời không được xin lại bằng lái xe cơ động.”
+- Tìm kiếm trang toàn văn bản 2021 trên mạng Nhân đại Trung Quốc/Cổng Chính phủ Trung Quốc không được liên kết trực tiếp nào mở được (trang Lệnh Chủ tịch nước số 81 trên gov.cn chỉ có quyết định sửa đổi), vì vậy trích trang đăng lại của Cục Quản lý giao thông Bắc Kinh và chú thích rõ trong phần nguồn.
 
-### 2. 道路交通安全法实施条例（2017 年修订）
-- URL：<http://xzfg.moj.gov.cn/front/law/detail?LawID=75>（司法部国家行政法规库）
-- 页内版本行：「2004年4月30日中华人民共和国国务院令第405号公布 根据2017年10月7日《国务院关于修改部分行政法规的决定》修订」。已确认。
-- 第九十二条：「发生交通事故后当事人逃逸的，逃逸的当事人承担全部责任。但是，有证据证明对方当事人也有过错的，可以减轻责任。当事人故意破坏、伪造现场、毁灭证据的，承担全部责任。」
-- 第八十六条：「机动车与机动车、机动车与非机动车在道路上发生未造成人身伤亡的交通事故，当事人对事实及成因无争议的，在记录交通事故的时间、地点、对方当事人的姓名和联系方式、机动车牌号、驾驶证号、保险凭证号、碰撞部位，并共同签名后，撤离现场，自行协商损害赔偿事宜。」
+### 2. “Điều lệ thi hành Luật An toàn giao thông đường bộ” (sửa đổi năm 2017)
+- URL: <http://xzfg.moj.gov.cn/front/law/detail?LawID=75> (Kho pháp quy hành chính nhà nước thuộc Bộ Tư pháp)
+- Dòng phiên bản trong trang: “Ngày 30/4/2004 công bố theo Nghị định của Quốc vụ viện nước Cộng hòa Nhân dân Trung Hoa số 405, sửa đổi theo ‘Quyết định của Quốc vụ viện về sửa đổi một số pháp quy hành chính’ ngày 7/10/2017”. Đã xác nhận.
+- Điều 92: “Sau khi xảy ra tai nạn giao thông mà đương sự bỏ trốn thì đương sự bỏ trốn chịu toàn bộ trách nhiệm. Tuy nhiên, nếu có chứng cứ chứng minh đương sự bên kia cũng có lỗi thì có thể giảm nhẹ trách nhiệm. Đương sự cố ý phá hoại, làm giả hiện trường, tiêu hủy chứng cứ thì chịu toàn bộ trách nhiệm.”
+- Điều 86: “Xe cơ động với xe cơ động, xe cơ động với xe không cơ động xảy ra tai nạn giao thông trên đường mà không gây thiệt hại về người, các đương sự không tranh chấp về sự việc và nguyên nhân thì sau khi ghi lại thời gian, địa điểm tai nạn, họ tên và thông tin liên lạc của đương sự bên kia, biển số xe cơ động, số bằng lái xe, số chứng từ bảo hiểm, vị trí va chạm, và cùng ký tên, rời khỏi hiện trường, tự thương lượng giải quyết việc bồi thường thiệt hại.”
 
-### 3. 刑法（1997 年修订本文）
-- URL：<https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>（最高检法律法规库）
-- 页面标题「中华人民共和国刑法（1997年修订）」。已确认。本节引用的第二十、一百三十三、二百三十四、二百四十三、二百五十八、二百六十六条自 1997 年起未被历次修正案改动条文（修正案页面核对见下），第二百四十六条由修正案（九）增加第三款。
-- 第二十条：「……属于正当防卫，不负刑事责任。正当防卫明显超过必要限度造成重大损害的，应当负刑事责任，但是应当减轻或者免除处罚。」
-- 第一百三十三条：「……处三年以下有期徒刑或者拘役；交通运输肇事后逃逸或者有其他特别恶劣情节的，处三年以上七年以下有期徒刑；因逃逸致人死亡的，处七年以上有期徒刑。」
-- 第二百三十四条：「故意伤害他人身体的，处三年以下有期徒刑、拘役或者管制。犯前款罪，致人重伤的，处三年以上十年以下有期徒刑」
-- 第二百四十三条：「捏造事实诬告陷害他人，意图使他人受刑事追究，情节严重的，处三年以下有期徒刑、拘役或者管制；造成严重后果的，处三年以上十年以下有期徒刑。……不是有意诬陷，而是错告，或者检举失实的，不适用前两款的规定。」
-- 第二百四十六条：「以暴力或者其他方法公然侮辱他人或者捏造事实诽谤他人，情节严重的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。前款罪，告诉的才处理，但是严重危害社会秩序和国家利益的除外。」
-- 第二百五十八条：「有配偶而重婚的，或者明知他人有配偶而与之结婚的，处二年以下有期徒刑或者拘役。」
-- 第二百六十六条：「诈骗公私财物，数额较大的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。」
+### 3. “Bộ luật Hình sự” (văn bản sửa đổi năm 1997)
+- URL: <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml> (Kho pháp luật của Viện kiểm sát nhân dân tối cao)
+- Tiêu đề trang “Bộ luật Hình sự nước Cộng hòa Nhân dân Trung Hoa (sửa đổi năm 1997)”. Đã xác nhận. Các Điều 20, 133, 234, 243, 258, 266 được trích trong chương này từ năm 1997 đến nay chưa từng bị các luật sửa đổi thay đổi văn bản (đối chiếu trang các luật sửa đổi xem dưới đây); Điều 246 được Luật sửa đổi (lần 9) bổ sung thêm khoản 3.
+- Điều 20: “… thuộc phòng vệ chính đáng, không chịu trách nhiệm hình sự. Phòng vệ chính đáng rõ ràng vượt quá giới hạn cần thiết gây thiệt hại nghiêm trọng thì phải chịu trách nhiệm hình sự, nhưng phải được giảm nhẹ hoặc miễn trừ hình phạt.”
+- Điều 133: “… phạt tù có thời hạn dưới 3 năm hoặc giam giữ; trường hợp bỏ trốn sau tai nạn giao thông hoặc có tình tiết đặc biệt tồi tệ khác thì phạt tù từ 3 năm đến dưới 7 năm; trường hợp bỏ trốn khiến người chết thì phạt tù từ 7 năm trở lên.”
+- Điều 234: “Cố ý gây thương tích cho người khác thì phạt tù dưới 3 năm, giam giữ hoặc quản chế. Phạm tội quy định tại khoản trước, khiến người bị trọng thương thì phạt tù từ 3 năm đến dưới 10 năm”
+- Điều 243: “Bịa đặt sự việc vu khống, vu oan người khác, nhằm khiến người khác bị truy cứu trách nhiệm hình sự, tình tiết nghiêm trọng thì phạt tù dưới 3 năm, giam giữ hoặc quản chế; gây hậu quả nghiêm trọng thì phạt tù từ 3 năm đến dưới 10 năm. …… Không phải cố ý vu oan mà là tố cáo nhầm, hoặc tố cáo không đúng sự thật thì không áp dụng quy định tại hai khoản trước.”
+- Điều 246: “Dùng bạo lực hoặc phương thức khác công khai sỉ nhục người khác hoặc bịa đặt sự việc bôi nhọ người khác, tình tiết nghiêm trọng thì phạt tù dưới 3 năm, giam giữ, quản chế hoặc tước quyền chính trị. Tội quy định tại khoản trước chỉ được xử lý khi có yêu cầu, trừ trường hợp gây nguy hại nghiêm trọng cho trật tự xã hội và lợi ích quốc gia.”
+- Điều 258: “Người đã có vợ (có chồng) mà tái hôn, hoặc biết rõ người khác đã có vợ (có chồng) mà vẫn kết hôn với người đó, phạt tù dưới 2 năm hoặc giam giữ.”
+- Điều 266: “Lừa đảo chiếm đoạt tài sản công và tư, số lượng lớn thì phạt tù dưới 3 năm, giam giữ hoặc quản chế, đồng thời phạt tiền hoặc chỉ phạt tiền; số lượng rất lớn hoặc có tình tiết nghiêm trọng khác thì phạt tù từ 3 năm đến dưới 10 năm, đồng thời phạt tiền; số lượng đặc biệt lớn hoặc có tình tiết đặc biệt nghiêm trọng khác thì phạt tù từ 10 năm trở lên hoặc tù chung thân, đồng thời phạt tiền hoặc tịch thu tài sản.”
 
-### 4. 刑法修正案（九）
-- URL：<https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>
-- 页面标题「中华人民共和国刑法修正案（九）」，2015 年 8 月 29 日通过。已确认。
-- 第八条：「将刑法第一百三十三条之一修改为：“在道路上驾驶机动车，有下列情形之一的，处拘役，并处罚金：（一）追逐竞驶，情节恶劣的；（二）醉酒驾驶机动车的；……」
-- 第十六条：「在刑法第二百四十六条中增加一款作为第三款：“通过信息网络实施第一款规定的行为，被害人向人民法院告诉，但提供证据确有困难的，人民法院可以要求公安机关提供协助。”」
-- 第二十九条：「……第二百八十七条之二 明知他人利用信息网络实施犯罪，为其犯罪提供互联网接入、服务器托管、网络存储、通讯传输等技术支持，或者提供广告推广、支付结算等帮助，情节严重的，处三年以下有期徒刑或者拘役，并处或者单处罚金。」
-- 另核对刑法修正案（十一）页 <https://www.spp.gov.cn/spp/fl/202012/t20201227_503700.shtml>：其第二条是「在刑法第一百三十三条之一后增加一条，作为第一百三十三条之二」（妨害安全驾驶），未改动本节引用的各条。
+### 4. “Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 9)”
+- URL: <https://www.spp.gov.cn/spp/fl/201802/t20180205_364562.shtml>
+- Tiêu đề trang “Luật sửa đổi, bổ sung Bộ luật Hình sự nước Cộng hòa Nhân dân Trung Hoa (lần 9)”, thông qua ngày 29/8/2015. Đã xác nhận.
+- Điều 8: “Sửa Điều 133-1 của Bộ luật Hình sự thành: ‘Lái xe cơ động trên đường thuộc một trong các tình huống dưới đây thì phạt giam giữ, đồng thời phạt tiền: rượt đuổi đua xe, tình tiết tồi tệ; lái xe cơ động trong tình trạng say rượu bia; …’”
+- Điều 16: “Trong Điều 246 của Bộ luật Hình sự bổ sung một khoản làm khoản 3: ‘Thực hiện hành vi quy định tại khoản 1 thông qua mạng thông tin, nạn nhân đã yêu cầu Tòa án nhân dân xử lý nhưng gặp khó khăn thực sự trong việc cung cấp chứng cứ, Tòa án nhân dân có thể yêu cầu cơ quan công an hỗ trợ.’”
+- Điều 29: “… Điều 287-2: Biết rõ người khác dùng mạng thông tin để thực hiện tội phạm mà cung cấp cho tội phạm đó các hỗ trợ kỹ thuật như kết nối internet, cho thuê máy chủ, lưu trữ mạng, truyền thông tin liên lạc, hoặc cung cấp các hỗ trợ như quảng bá, thanh toán bù trừ, tình tiết nghiêm trọng thì phạt tù dưới 3 năm hoặc giam giữ, đồng thời phạt tiền hoặc chỉ phạt tiền.”
+- Còn đối chiếu trang Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 11) <https://www.spp.gov.cn/spp/fl/202012/t20201227_503700.shtml>: Điều 2 của nó là “bổ sung một Điều ngay sau Điều 133-1 của Bộ luật Hình sự làm Điều 133-2” (cản trở lái xe an toàn), không thay đổi các Điều được trích trong chương này.
 
-### 5. 中国保险行业协会机动车商业保险示范条款（2020 版）
-- 通知页 URL：<https://www.iachina.cn/art/2020/9/4/art_24_104621.html>，标题「关于发布《中国保险行业协会机动车商业保险示范条款（2020版）》等五个商业车险示范条款的通知」，2020-09-04。已确认。
-- 附件 PDF：<http://www.iachina.cn/module/download/downfile.jsp?classid=0&filename=b5177d860ab04959b2f5c8fd60271da8.pdf>（WebFetch 下载，pypdf 抽文本）。首页标题「中国保险行业协会机动车商业保险示范条款（2020版）」。
-- 机动车损失保险·责任免除·第九条：「……（一）事故发生后，被保险人或驾驶人故意破坏、伪造现场，毁灭证据；（二）驾驶人有下列情形之一者：1、交通肇事逃逸；2、饮酒、吸食或注射毒品、服用国家管制的精神药品或者麻醉药品；3、无驾驶证，驾驶证被依法扣留、暂扣、吊销、注销期间；4、驾驶与驾驶证载明的准驾车型不相符合的机动车。」
-- 机动车第三者责任保险·责任免除·第二十二条：同上四项，另加「5、非被保险人允许的驾驶人」。
+### 5. “Điều khoản mẫu bảo hiểm thương mại xe cơ động của Hiệp hội Bảo hiểm Trung Quốc (bản 2020)”
+- URL trang thông báo: <https://www.iachina.cn/art/2020/9/4/art_24_104621.html>, tiêu đề “Thông báo về việc ban hành ‘Điều khoản mẫu bảo hiểm thương mại xe cơ động của Hiệp hội Bảo hiểm Trung Quốc (bản 2020)’ và tổng cộng năm điều khoản mẫu bảo hiểm thương mại xe”, ngày 2020-09-04. Đã xác nhận.
+- PDF đính kèm: <http://www.iachina.cn/module/download/downfile.jsp?classid=0&filename=b5177d860ab04959b2f5c8fd60271da8.pdf> (WebFetch tải về, pypdf bóc văn bản). Tiêu đề trang đầu “Điều khoản mẫu bảo hiểm thương mại xe cơ động của Hiệp hội Bảo hiểm Trung Quốc (bản 2020)”.
+- Bảo hiểm thiệt hại xe cơ động · loại trừ trách nhiệm · Điều 9: “… sau khi tai nạn xảy ra, người được bảo hiểm hoặc người lái xe cố ý phá hoại, làm giả hiện trường, tiêu hủy chứng cứ; người lái xe thuộc một trong các tình huống sau: 1. bỏ trốn sau tai nạn giao thông; 2. uống rượu bia, hút, tiêm hoặc chích ma túy, sử dụng thuốc hướng thần hoặc ma túy thuộc diện quản lý của nhà nước; 3. không có bằng lái xe, hoặc trong thời gian bằng lái bị giữ theo pháp luật, tạm giữ, thu hồi, xóa bỏ; 4. lái xe cơ động không đúng dòng xe được phép lái ghi trong bằng lái.”
+- Bảo hiểm trách nhiệm bên thứ ba xe cơ động · loại trừ trách nhiệm · Điều 22: bốn nội dung như trên, cộng thêm “5. người lái xe không được người được bảo hiểm cho phép”.
 
-### 6. 反电信网络诈骗法
-- URL：<https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>
-- 页内：「（2022年9月2日第十三届全国人民代表大会常务委员会第三十六次会议通过）」，施行日期 2022-12-01。已确认。
-- 第二十条：「国务院公安部门会同有关部门建立完善电信网络诈骗涉案资金即时查询、紧急止付、快速冻结、及时解冻和资金返还制度，明确有关条件、程序和救济措施。公安机关依法决定采取上述措施的，银行业金融机构、非银行支付机构应当予以配合。」
-- 第三十一条第一款：「任何单位和个人不得非法买卖、出租、出借电话卡、物联网卡、电信线路、短信端口、银行账户、支付账户、互联网账号等，不得提供实名核验帮助」；第二款：「……可以按照国家有关规定记入信用记录，采取限制其有关卡、账户、账号等功能和停止非柜面业务、暂停新业务、限制入网等措施。」
-- 第三十四条：「……对电信网络诈骗案件应当加强追赃挽损，完善涉案资金处置制度，及时返还被害人的合法财产。」
-- 第四十四条：「违反本法第三十一条第一款规定的，没收违法所得，由公安机关处违法所得一倍以上十倍以下罚款，没有违法所得或者违法所得不足二万元的，处二十万元以下罚款；情节严重的，并处十五日以下拘留。」
+### 6. “Luật Chống lừa đảo qua mạng điện tử”
+- URL: <https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>
+- Trong trang: “(Thông qua ngày 2/9/2022 tại phiên họp thứ 36 của Ủy ban Thường vụ Đại hội đại biểu nhân dân toàn quốc khóa 13)”, ngày thi hành 2022-12-01. Đã xác nhận.
+- Điều 20: “Cơ quan công an của Quốc vụ viện cùng các cơ quan hữu quan xây dựng, hoàn thiện chế độ tra cứu tức thời, ngăn thanh toán khẩn cấp, đóng băng nhanh, gỡ băng kịp thời và hoàn trả tiền đối với tiền liên quan đến vụ lừa đảo qua mạng điện tử, làm rõ các điều kiện, thủ tục và biện pháp cứu trợ liên quan. Cơ quan công an quyết định áp dụng các biện pháp nêu trên theo pháp luật thì các tổ chức tài chính ngân hàng, tổ chức thanh toán phi ngân hàng phải phối hợp.”
+- Khoản 1 Điều 31: “Bất kỳ đơn vị, cá nhân nào không được mua bán, cho thuê, cho mượn trái phép thẻ điện thoại, thẻ vạn vật kết nối, tuyến viễn thông, cổng tin nhắn, tài khoản ngân hàng, tài khoản thanh toán, tài khoản internet…, không được cung cấp hỗ trợ xác thực tên thật”; khoản 2: “… có thể theo quy định của nhà nước ghi vào hồ sơ tín dụng, áp dụng các biện pháp như hạn chế chức năng các thẻ, tài khoản liên quan, dừng giao dịch ngoài quầy, tạm dừng nghiệp vụ mới, hạn chế truy cập mạng.”
+- Điều 34: “… đối với các vụ lừa đảo qua mạng điện tử phải tăng cường truy thu tài sản, giảm tổn thất, hoàn thiện chế độ xử lý tiền liên quan đến vụ án, kịp thời hoàn trả tài sản hợp pháp của nạn nhân.”
+- Điều 44: “Vi phạm khoản 1 Điều 31 của Luật này thì tịch thu lợi nhuận bất hợp pháp, cơ quan công an phạt tiền từ 1 lần đến 10 lần lợi nhuận bất hợp pháp; trường hợp không có lợi nhuận bất hợp pháp hoặc lợi nhuận bất hợp pháp dưới 20.000 yên thì phạt tiền dưới 200.000 yên; tình tiết nghiêm trọng thì đồng thời giam giữ 15 ngày trở xuống.”
 
-### 7. 福建省公安厅「96110 来电，请务必接听」
-- URL：<http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202303/t20230306_6126156.htm>（省级公安机关，地方官网）
-- WebFetch 确认标题、发布单位福建省公安厅、2023-03-06。原文：「96110是全国反诈防诈统一预警热线。它的作用是专门用于电信网络诈骗预警劝阻」「如果您被骗，请拨打96110反诈专线」。
-- 公安部官网三个相关页（c9081538、c10113457、c9257177）WebFetch 均返回 HTTP 521，curl 亦为空，未确认，故正文备注说明。
+### 7. Công an tỉnh Phúc Kiến, “96110 gọi đến, nhất định phải nghe máy”
+- URL: <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202303/t20230306_6126156.htm> (cơ quan công an cấp tỉnh, website chính quyền địa phương)
+- WebFetch xác nhận tiêu đề, đơn vị đăng tải là Công an tỉnh Phúc Kiến, ngày 2023-03-06. Nguyên văn: “96110 là đường dây nóng cảnh báo thống nhất toàn quốc về phòng chống lừa đảo. Chức năng của nó là chuyên dùng để cảnh báo, khuyên ngăn lừa đảo qua mạng điện tử” “Nếu bạn bị lừa, hãy gọi đường dây nóng phòng chống lừa đảo 96110”.
+- Ba trang liên quan trên website Bộ Công an (c9081538, c10113457, c9257177) WebFetch đều trả về HTTP 521, curl cũng trắng, chưa xác nhận, vì vậy phần thân bài có chú thích.
 
-### 8. 刑事诉讼法（2018 年修正）
-- URL：<https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>
-- 页面标题「中华人民共和国刑事诉讼法」，版本为 2018 年 10 月 26 日第三次修正。已确认。
-- 第三十四条：「犯罪嫌疑人自被侦查机关第一次讯问或者采取强制措施之日起，有权委托辩护人；在侦查期间，只能委托律师作为辩护人。」
-- 第三十五条：「犯罪嫌疑人、被告人因经济困难或者其他原因没有委托辩护人的，本人及其近亲属可以向法律援助机构提出申请。」
-- 第三十九条：「……看守所应当及时安排会见，至迟不得超过四十八小时。」「辩护律师会见犯罪嫌疑人、被告人时不被监听。」
-- 第五十二条：「……严禁刑讯逼供和以威胁、引诱、欺骗以及其他非法方法收集证据，不得强迫任何人证实自己有罪。」
-- 第一百一十九条：「传唤、拘传持续的时间不得超过十二小时；案情特别重大、复杂，需要采取拘留、逮捕措施的，传唤、拘传持续的时间不得超过二十四小时。不得以连续传唤、拘传的形式变相拘禁犯罪嫌疑人。」
-- 第一百二十条：「犯罪嫌疑人对侦查人员的提问，应当如实回答。但是对与本案无关的问题，有拒绝回答的权利。」
+### 8. “Luật Tố tụng hình sự” (sửa đổi năm 2018)
+- URL: <https://www.spp.gov.cn/zdgz/201810/t20181027_396818.shtml>
+- Tiêu đề trang “Luật Tố tụng hình sự nước Cộng hòa Nhân dân Trung Hoa”, phiên bản là lần sửa đổi thứ ba ngày 26/10/2018. Đã xác nhận.
+- Điều 34: “Kể từ khi bị cơ quan điều tra hỏi cung lần đầu hoặc bị áp dụng biện pháp cưỡng chế, bị can có quyền ủy nhiệm người bảo vệ quyền lợi; trong thời gian điều tra, chỉ có thể ủy nhiệm luật sư làm người bảo vệ quyền lợi.”
+- Điều 35: “Bị can, bị cáo vì khó khăn về kinh tế hoặc lý do khác mà chưa ủy nhiệm người bảo vệ quyền lợi thì bản thân và người thân gần có thể nộp đơn đề nghị với cơ quan trợ giúp pháp lý.”
+- Điều 39: “… trại giam phải sắp xếp gặp gỡ kịp thời, chậm nhất không quá 48 giờ.” “Luật sư bảo vệ quyền lợi khi gặp bị can, bị cáo không bị nghe lén.”
+- Điều 52: “… nghiêm cấm tra tấn để lấy cung và thu thập chứng cứ bằng đe dọa, dụ dỗ, lừa dối và các phương thức bất hợp pháp khác, không được ép buộc bất kỳ ai xác nhận mình có tội.”
+- Điều 119: “Thời gian triệu tập, bắt buộc triệu tập không được quá 12 giờ; vụ án đặc biệt lớn, phức tạp, cần áp dụng biện pháp giam giữ, bắt giữ thì thời gian triệu tập, bắt buộc triệu tập không được quá 24 giờ. Không được lấy hình thức triệu tập, bắt buộc triệu tập liên tục để biến tấu giam giữ bị can.”
+- Điều 120: “Bị can phải trả lời trung thực các câu hỏi của cán bộ điều tra. Nhưng đối với những câu hỏi không liên quan đến vụ án, có quyền từ chối trả lời.”
 
-### 9. 国家赔偿法（2012 年修正）
-- URL：<https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html>（国家统计局转载，来源标注国家法律法规数据库）
-- 页内版本行：「根据2012年10月26日第十一届全国人民代表大会常务委员会第二十九次会议《关于修改<中华人民共和国国家赔偿法>的决定》第二次修正」。已确认。
-- 第十七条：「（一）违反刑事诉讼法的规定对公民采取拘留措施的……其后决定撤销案件、不起诉或者判决宣告无罪终止追究刑事责任的；（二）对公民采取逮捕措施后，决定撤销案件、不起诉或者判决宣告无罪终止追究刑事责任的」
-- 第三十三条：「侵犯公民人身自由的，每日赔偿金按照国家上年度职工日平均工资计算。」
+### 9. “Luật Bồi thường nhà nước” (sửa đổi năm 2012)
+- URL: <https://www.stats.gov.cn/gk/tjfg/xgfxfg/202503/t20250306_1958899.html> (Cục Thống kê nhà nước đăng lại, nguồn ghi rõ là Cơ sở dữ liệu pháp luật nhà nước)
+- Dòng phiên bản trong trang: “Lần sửa đổi thứ hai theo ‘Quyết định về sửa đổi Luật Bồi thường nhà nước nước Cộng hòa Nhân dân Trung Hoa’ của phiên họp thứ 29 Ủy ban Thường vụ Nhân đại toàn quốc khóa 11 ngày 26/10/2012”. Đã xác nhận.
+- Điều 17: “ áp dụng biện pháp giam giữ đối với công dân trái quy định của Luật Tố tụng hình sự… sau đó quyết định hủy vụ án, không khởi tố hoặc tuyên vô tội chấm dứt truy cứu trách nhiệm hình sự; sau khi áp dụng biện pháp bắt giữ đối với công dân, quyết định hủy vụ án, không khởi tố hoặc tuyên vô tội chấm dứt truy cứu trách nhiệm hình sự”
+- Điều 33: “Xâm phạm quyền tự do thân thể của công dân thì tiền bồi thường mỗi ngày tính theo mức lương bình quân một ngày của người lao động cả nước năm trước.”
 
-### 10. 治安管理处罚法（2025 年修订）
-- URL：<https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；主席令第四十九号页 <https://www.gov.cn/yaowen/liebiao/202506/content_7029685.htm>（确认 2025-06-27 修订通过、2026-01-01 施行）
-- 页内版本行：「2025年6月27日第十四届全国人民代表大会常务委员会第十六次会议修订」。已确认，条款号按新法。
-- 第二十九条：「有下列行为之一的，处五日以上十日以下拘留，可以并处一千元以下罚款；情节较轻的，处五日以下拘留或者一千元以下罚款：（一）故意散布谣言，谎报险情、疫情、灾情、警情或者以其他方法故意扰乱公共秩序的」
-- 第三十条：「有下列行为之一的，处五日以上十日以下拘留或者一千元以下罚款；情节较重的，处十日以上十五日以下拘留，可以并处二千元以下罚款：（一）结伙斗殴或者随意殴打他人的」
-- 第五十条：「有下列行为之一的，处五日以下拘留或者一千元以下罚款；情节较重的，处五日以上十日以下拘留，可以并处一千元以下罚款：……（二）公然侮辱他人或者捏造事实诽谤他人的；……（五）多次发送淫秽、侮辱、恐吓等信息或者采取滋扰、纠缠、跟踪等方法，干扰他人正常生活的；（六）偷窥、偷拍、窃听、散布他人隐私的。」
-- 第五十一条：「殴打他人的，或者故意伤害他人身体的，处五日以上十日以下拘留，并处五百元以上一千元以下罚款；情节较轻的，处五日以下拘留或者一千元以下罚款。有下列情形之一的，处十日以上十五日以下拘留，并处一千元以上二千元以下罚款：（一）结伙殴打、伤害他人的；（二）殴打、伤害残疾人、孕妇、不满十四周岁的人或者七十周岁以上的人的；（三）多次殴打、伤害他人或者一次殴打、伤害多人的。」
+### 10. “Luật Xử phạt hành chính về quản lý trật tự an ninh” (sửa đổi năm 2025)
+- URL: <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>; trang Lệnh Chủ tịch nước số 49 <https://www.gov.cn/yaowen/liebiao/202506/content_7029685.htm> (xác nhận thông qua bản sửa đổi ngày 2025-06-27, thi hành từ 2026-01-01)
+- Dòng phiên bản trong trang: “Ngày 27/6/2025 được sửa đổi tại phiên họp thứ 16 của Ủy ban Thường vụ Nhân đại toàn quốc khóa 14”. Đã xác nhận, số điều khoản theo luật mới.
+- Điều 29: “Có một trong các hành vi dưới đây thì giam giữ từ 5 đến 10 ngày, có thể đồng thời phạt tiền dưới 1.000 yên; tình tiết nhẹ hơn thì giam giữ dưới 5 ngày hoặc phạt tiền dưới 1.000 yên: cố ý tung tin đồn thất thiệt, báo sai tình hình nguy hiểm, dịch bệnh, thiên tai, tin tức công an hoặc dùng phương thức khác cố ý gây rối trật tự công cộng”
+- Điều 30: “Có một trong các hành vi dưới đây thì giam giữ từ 5 đến 10 ngày hoặc phạt tiền dưới 1.000 yên; tình tiết nặng hơn thì giam giữ từ 10 đến 15 ngày, có thể đồng thời phạt tiền dưới 2.000 yên: tụ tập đánh nhau hoặc tùy tiện đánh người khác”
+- Điều 50: “Có một trong các hành vi dưới đây thì giam giữ dưới 5 ngày hoặc phạt tiền dưới 1.000 yên; tình tiết nặng hơn thì giam giữ từ 5 đến 10 ngày, có thể đồng thời phạt tiền dưới 1.000 yên: …… công khai sỉ nhục người khác hoặc bịa đặt sự việc bôi nhọ người khác; …… nhiều lần gửi tin nhắn đồi trụy, xúc phạm, đe dọa… hoặc dùng các phương thức quấy rầy, vướng víu, bám theo… để làm phiền đời sống bình thường của người khác; nhìn trộm, chụp trộm, nghe trộm, phát tán đời tư của người khác.”
+- Điều 51: “Đánh người khác, hoặc cố ý gây thương tích cho người khác, giam giữ từ 5 đến 10 ngày, đồng thời phạt tiền từ 500 yên đến 1.000 yên; tình tiết nhẹ hơn thì giam giữ dưới 5 ngày hoặc phạt tiền dưới 1.000 yên. Thuộc một trong các tình huống dưới đây thì giam giữ từ 10 đến 15 ngày, đồng thời phạt tiền từ 1.000 yên đến 2.000 yên: tụ tập đánh, gây thương tích cho người khác; đánh, gây thương tích cho người khuyết tật, phụ nữ có thai, người chưa đủ 14 tuổi hoặc người từ 70 tuổi trở lên; nhiều lần đánh, gây thương tích cho người khác hoặc một lần đánh, gây thương tích cho nhiều người.”
 
-### 11. 关于依法适用正当防卫制度的指导意见
-- URL：<https://www.court.gov.cn/zixun/xiangqing/251611.html>（最高法官网，WebFetch 确认标题、文号法发〔2020〕31 号、2020-08-28）；全文段落定位用最高检转载页 <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202009/t20200903_478676.shtml>
-- 第 6 条：「对于不法侵害人确已失去侵害能力或者确已放弃侵害的，应当认定为不法侵害已经结束。」
-- 第 9 条：「因琐事发生争执，双方均不能保持克制而引发打斗，对于有过错的一方先动手且手段明显过激，或者一方先动手，在对方努力避免冲突的情况下仍继续侵害的，还击一方的行为一般应当认定为防卫行为。」
-- 第 11 条：「认定防卫过当应当同时具备“明显超过必要限度”和“造成重大损害”两个条件，缺一不可。」
-- 第 14 条：「防卫过当应当负刑事责任，但是应当减轻或者免除处罚。」
-- 旧链接 <https://www.court.gov.cn/zixun-xiangqing-251611.html> 现为 404，正文引新路径。
+### 11. “Chỉ dẫn về việc áp dụng chế độ phòng vệ chính đáng theo pháp luật”
+- URL: <https://www.court.gov.cn/zixun/xiangqing/251611.html> (website Tòa án nhân dân tối cao, WebFetch xác nhận tiêu đề, số văn bản Pháp phát số 31, ngày 2020-08-28); định vị các đoạn toàn văn dùng trang đăng lại của Viện kiểm sát tối cao <https://www.spp.gov.cn/spp/xwfbh/wsfbt/202009/t20200903_478676.shtml>
+- Điều 6: “Trường hợp người xâm phạm bất hợp pháp quả thực đã mất khả năng xâm phạm hoặc quả thật đã từ bỏ xâm phạm thì phải xác định xâm phạm bất hợp pháp đã chấm dứt.”
+- Điều 9: “Vì chuyện vặt mà xảy ra tranh cãi, hai bên đều không giữ được sự kiềm chế dẫn đến ẩu đả, trường hợp bên có lỗi ra tay trước và thủ đoạn rõ ràng quá khích, hoặc một bên ra tay trước mà trong khi bên kia nỗ lực tránh xung đột vẫn tiếp tục xâm phạm thì hành vi phản kích của bên kia nhìn chung phải được xác định là hành vi phòng vệ.”
+- Điều 11: “Xác định phòng vệ quá đáng phải đồng thời có cả hai điều kiện ‘rõ ràng vượt quá giới hạn cần thiết’ và ‘gây thiệt hại nghiêm trọng’, thiếu một trong hai là không được.”
+- Điều 14: “Phòng vệ quá đáng phải chịu trách nhiệm hình sự, nhưng phải được giảm nhẹ hoặc miễn trừ hình phạt.”
+- Liên kết cũ <https://www.court.gov.cn/zixun-xiangqing-251611.html> nay 404, phần thân bài trích theo đường dẫn mới.
 
-### 12. 民法典
-- URL：<https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>（最高检法律法规库；gov.cn 的 content_5516649 新旧两个路径均 404，npc.gov.cn 页 SSL 握手失败）
-- 页面标题「中华人民共和国民法典」，2020 年 5 月 28 日通过。已确认。
-- 第四百六十五条：「依法成立的合同，受法律保护。依法成立的合同，仅对当事人具有法律约束力，但是法律另有规定的除外。」
-- 第五百零九条：「当事人应当按照约定全面履行自己的义务。」
-- 第六百五十八条：「赠与人在赠与财产的权利转移之前可以撤销赠与。经过公证的赠与合同或者依法不得撤销的具有救灾、扶贫、助残等公益、道德义务性质的赠与合同，不适用前款规定。」
-- 第六百六十三条：「受赠人有下列情形之一的，赠与人可以撤销赠与：（一）严重侵害赠与人或者赠与人近亲属的合法权益；（二）对赠与人有扶养义务而不履行；（三）不履行赠与合同约定的义务。」
-- 第六百六十八条：「借款合同应当采用书面形式，但是自然人之间借款另有约定的除外。借款合同的内容一般包括借款种类、币种、用途、数额、利率、期限和还款方式等条款。」
-- 第六百八十一条：保证合同定义。第六百八十六条：「当事人在保证合同中对保证方式没有约定或者约定不明确的，按照一般保证承担保证责任。」第六百八十七条：「一般保证的保证人在主合同纠纷未经审判或者仲裁，并就债务人财产依法强制执行仍不能履行债务前，有权拒绝向债权人承担保证责任」
-- 第一千零四十二条：「禁止包办、买卖婚姻和其他干涉婚姻自由的行为。禁止借婚姻索取财物。禁止重婚。」
-- 第一千零五十一条：「有下列情形之一的，婚姻无效：（一）重婚；（二）有禁止结婚的亲属关系；（三）未到法定婚龄。」
-- 第一千零六十三条：「下列财产为夫妻一方的个人财产：（一）一方的婚前财产；……」
-- 第一千零六十五条：「男女双方可以约定婚姻关系存续期间所得的财产以及婚前财产归各自所有、共同所有或者部分各自所有、部分共同所有。约定应当采用书面形式。……夫妻对婚姻关系存续期间所得的财产以及婚前财产的约定，对双方具有法律约束力。夫妻对婚姻关系存续期间所得的财产约定归各自所有，夫或者妻一方对外所负的债务，相对人知道该约定的，以夫或者妻一方的个人财产清偿。」
-- 第一千零九十二条：「夫妻一方隐藏、转移、变卖、毁损、挥霍夫妻共同财产，或者伪造夫妻共同债务企图侵占另一方财产的，在离婚分割夫妻共同财产时，对该方可以少分或者不分。」
+### 12. “Bộ luật Dân sự”
+- URL: <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> (Kho pháp luật của Viện kiểm sát tối cao; hai đường dẫn cũ và mới content_5516649 của gov.cn đều 404, trang npc.gov.cn bắt tay SSL thất bại)
+- Tiêu đề trang “Bộ luật Dân sự nước Cộng hòa Nhân dân Trung Hoa”, thông qua ngày 28/5/2020. Đã xác nhận.
+- Điều 465: “Hợp đồng xác lập hợp pháp được pháp luật bảo vệ. Hợp đồng xác lập hợp pháp chỉ có sức ràng buộc pháp lý đối với các đương sự, trừ trường hợp pháp luật có quy định khác.”
+- Điều 509: “Đương sự phải thực hiện đầy đủ nghĩa vụ của mình theo thỏa thuận.”
+- Điều 658: “Người tặng cho có thể hủy bỏ việc tặng cho trước khi quyền đối với tài sản tặng cho được chuyển giao. Hợp đồng tặng cho đã công chứng, hoặc hợp đồng tặng cho có tính chất công ích, đạo đức như cứu trợ thiên tai, xóa đói giảm nghèo, hỗ trợ người khuyết tật mà theo pháp luật không được hủy bỏ, thì không áp dụng quy định tại khoản trước.”
+- Điều 663: “Người nhận tặng cho thuộc một trong các tình huống dưới đây thì người tặng cho có thể hủy bỏ việc tặng cho: xâm phạm nghiêm trọng quyền và lợi ích hợp pháp của người tặng cho hoặc người thân gần của người tặng cho; có nghĩa vụ nuôi dưỡng với người tặng cho nhưng không thực hiện; không thực hiện nghĩa vụ đã thỏa thuận trong hợp đồng tặng cho.”
+- Điều 668: “Hợp đồng vay phải lập thành văn bản, trừ trường hợp các bên là cá nhân vay nhau có thỏa thuận khác. Nội dung hợp đồng vay thông thường bao gồm các khoản: loại vay, loại tiền tệ, mục đích sử dụng, số lượng, lãi suất, thời hạn và phương thức trả nợ.”
+- Điều 681: định nghĩa hợp đồng bảo lãnh. Điều 686: “Đương sự trong hợp đồng bảo lãnh không thỏa thuận hoặc thỏa thuận không rõ về phương thức bảo lãnh thì chịu trách nhiệm bảo lãnh theo bảo lãnh thông thường.” Điều 687: “Người bảo lãnh theo bảo lãnh thông thường có quyền từ chối chịu trách nhiệm bảo lãnh với chủ nợ cho đến khi tranh chấp hợp đồng chính chưa qua xét xử hoặc trọng tài, và việc cưỡng chế tài sản của con nợ theo pháp luật vẫn không thể thực hiện được nghĩa vụ trả nợ”
+- Điều 1042: “Cấm hôn nhân áp đặt, mua bán và các hành vi khác can thiệp tự do hôn nhân. Cấm lợi dụng hôn nhân để đòi hỏi tiền tài. Cấm tái hôn khi đang có vợ (chồng).”
+- Điều 1051: “Thuộc một trong các tình huống dưới đây thì hôn nhân vô hiệu: tái hôn khi đang có vợ (chồng); có quan hệ huyết thống cấm kết hôn; chưa đến tuổi kết hôn theo pháp luật.”
+- Điều 1063: “Các tài sản dưới đây là tài sản riêng của một bên trong vợ chồng: tài sản trước hôn nhân của một bên; …”
+- Điều 1065: “Nam nữ hai bên có thể thỏa thuận tài sản có được trong thời gian hôn nhân và tài sản trước hôn nhân thuộc sở hữu riêng của từng bên, sở hữu chung, hoặc một phần sở hữu riêng, một phần sở hữu chung. Thỏa thuận phải lập thành văn bản. …… Thỏa thuận của vợ chồng về tài sản có được trong thời gian hôn nhân và tài sản trước hôn nhân có sức ràng buộc pháp lý đối với cả hai bên. Vợ chồng thỏa thuận tài sản có được trong thời gian hôn nhân thuộc sở hữu riêng từng người, đối với khoản nợ của chồng hoặc vợ vay bên ngoài, nếu bên tương đối biết thỏa thuận đó thì thanh toán bằng tài sản riêng của chồng hoặc vợ bên đó.”
+- Điều 1092: “Một bên trong vợ chồng giấu giếm, chuyển dịch, bán, phá hủy, phung phá tài sản chung của vợ chồng, hoặc bịa ra nợ chung của vợ chồng nhằm chiếm đoạt tài sản của bên kia, thì khi ly hôn phân chia tài sản chung của vợ chồng, có thể chia ít hoặc không chia cho bên đó.”
 
-### 13. 最高法涉彩礼纠纷规定（法释〔2024〕1 号）
-- URL：<https://www.court.gov.cn/fabu/xiangqing/423442.html>
-- 标题、文号法释〔2024〕1 号、2023-11-13 通过、2024-02-01 施行均确认。
-- 第二条：「禁止借婚姻索取财物。一方以彩礼为名借婚姻索取财物，另一方要求返还的，人民法院应予支持。」
-- 第三条：「下列情形给付的财物，不属于彩礼：（一）一方在节日、生日等有特殊纪念意义时点给付的价值不大的礼物、礼金；（二）一方为表达或者增进感情的日常消费性支出；（三）其他价值不大的财物。」
-- 第五条：「双方已办理结婚登记且共同生活，离婚时一方请求返还按照习俗给付的彩礼的，人民法院一般不予支持。但是，如果共同生活时间较短且彩礼数额过高的，人民法院可以根据彩礼实际使用及嫁妆情况，综合考虑彩礼数额、共同生活及孕育情况、双方过错等事实，结合当地习俗，确定是否返还以及返还的具体比例。人民法院认定彩礼数额是否过高，应当综合考虑彩礼给付方所在地居民人均可支配收入、给付方家庭经济情况以及当地习俗等因素。」
-- 第六条：「双方未办理结婚登记但已共同生活，一方请求返还按照习俗给付的彩礼的，人民法院应当根据彩礼实际使用及嫁妆情况……确定是否返还以及返还的具体比例。」
+### 13. Quy định của Tòa án nhân dân tối cao về tranh chấp liên quan lễ hỏi (Pháp thích số 1)
+- URL: <https://www.court.gov.cn/fabu/xiangqing/423442.html>
+- Tiêu đề, số văn bản Pháp thích số 1, thông qua ngày 2023-11-13, thi hành từ 2024-02-01 đều được xác nhận.
+- Điều 2: “Cấm lợi dụng hôn nhân để đòi hỏi tiền tài. Một bên mượn danh lễ hỏi, lợi dụng hôn nhân đòi hỏi tiền tài, bên kia yêu cầu hoàn lại thì Tòa án nhân dân phải hỗ trợ.”
+- Điều 3: “Các khoản tiền tài trao trong các tình huống dưới đây không thuộc lễ hỏi: quà, tiền mừng giá trị không lớn mà một bên trao vào các thời điểm có ý nghĩa kỷ niệm đặc biệt như ngày lễ, sinh nhật; chi tiêu tiêu dùng thường ngày của một bên để bày tỏ hoặc tăng thêm tình cảm; các khoản tiền tài giá trị không lớn khác.”
+- Điều 5: “Hai bên đã đăng ký kết hôn và sống chung, khi ly hôn một bên yêu cầu hoàn lại lễ hỏi đã trao theo phong tục thì Tòa án nhân dân nhìn chung không hỗ trợ. Tuy nhiên, nếu thời gian sống chung ngắn và số lễ hỏi quá cao, Tòa án nhân dân có thể căn cứ tình hình thực tế sử dụng lễ hỏi và của hồi môn, xem xét tổng hợp các sự việc như số lễ hỏi, tình hình sống chung và mang thai sinh con, lỗi của hai bên, kết hợp phong tục địa phương, để xác định có hoàn lại hay không và tỷ lệ hoàn lại cụ thể. Khi xác định số lễ hỏi có quá cao hay không, Tòa án nhân dân phải xem xét tổng hợp các yếu tố như thu nhập khả dụng bình quân đầu người của cư dân nơi người trao lễ hỏi cư trú, tình hình kinh tế gia đình bên trao và phong tục địa phương.”
+- Điều 6: “Hai bên chưa đăng ký kết hôn nhưng đã sống chung, một bên yêu cầu hoàn lại lễ hỏi trao theo phong tục thì Tòa án nhân dân phải căn cứ tình hình thực tế sử dụng lễ hỏi và của hồi môn…… để xác định có hoàn lại hay không và tỷ lệ hoàn lại cụ thể.”
 
-### 14. 民法典婚姻家庭编解释（一）（法释〔2020〕22 号）
-- URL：<https://www.court.gov.cn/fabu/xiangqing/282071.html>
-- 标题、文号、2021-01-01 施行确认。
-- 第五条：「当事人请求返还按照习俗给付的彩礼的，如果查明属于以下情形，人民法院应当予以支持：（一）双方未办理结婚登记手续；（二）双方办理结婚登记手续但确未共同生活；（三）婚前给付并导致给付人生活困难。适用前款第二项、第三项的规定，应当以双方离婚为条件。」
-- 第二十九条：「当事人结婚前，父母为双方购置房屋出资的，该出资应当认定为对自己子女个人的赠与，但父母明确表示赠与双方的除外。当事人结婚后，父母为双方购置房屋出资的，依照约定处理；没有约定或者约定不明确的，按照民法典第一千零六十二条第一款第四项规定的原则处理。」
-- 第三十一条：「民法典第一千零六十三条规定为夫妻一方的个人财产，不因婚姻关系的延续而转化为夫妻共同财产。但当事人另有约定的除外。」
-- 第三十二条：「婚前或者婚姻关系存续期间，当事人约定将一方所有的房产赠与另一方或者共有，赠与方在赠与房产变更登记之前撤销赠与，另一方请求判令继续履行的，人民法院可以按照民法典第六百五十八条的规定处理。」
+### 14. Giải thích (I) về phần Hôn nhân - Gia đình của Bộ luật Dân sự (Pháp thích số 22)
+- URL: <https://www.court.gov.cn/fabu/xiangqing/282071.html>
+- Tiêu đề, số văn bản, thi hành ngày 2021-01-01 đã xác nhận.
+- Điều 5: “Đương sự yêu cầu hoàn lại lễ hỏi trao theo phong tục, nếu điều tra rõ thuộc các tình huống dưới đây thì Tòa án nhân dân phải hỗ trợ: hai bên chưa làm thủ tục đăng ký kết hôn; hai bên đã làm thủ tục đăng ký kết hôn nhưng quả thực chưa sống chung; trao trước hôn nhân và khiến người trao lâm vào khó khăn trong cuộc sống. Áp dụng quy định tại điểm 2, điểm 3 của khoản trước phải lấy việc hai bên ly hôn làm điều kiện.”
+- Điều 29: “Trước khi đương sự kết hôn, bố mẹ bỏ tiền mua nhà cho hai bên thì khoản tiền này phải được xem là tặng cho riêng cho con của mình, trừ khi bố mẹ tỏ ý rõ ràng tặng cho cả hai. Sau khi đương sự kết hôn, bố mẹ bỏ tiền mua nhà cho hai bên thì xử lý theo thỏa thuận; không có thỏa thuận hoặc thỏa thuận không rõ thì xử lý theo nguyên tắc quy định tại điểm 4 khoản 1 Điều 1062 Bộ luật Dân sự.”
+- Điều 31: “Tài sản riêng của một bên vợ chồng theo quy định tại Điều 1063 Bộ luật Dân sự không chuyển hóa thành tài sản chung của vợ chồng do quan hệ hôn nhân kéo dài. Trừ trường hợp đương sự có thỏa thuận khác.”
+- Điều 32: “Trước hôn nhân hoặc trong thời gian hôn nhân, đương sự thỏa thuận tặng cho bất động sản thuộc sở hữu của một bên cho bên kia hoặc làm sở hữu chung, bên tặng cho hủy bỏ việc tặng cho trước khi đăng ký chuyển đổi tên bất động sản, bên kia yêu cầu tuyên buộc tiếp tục thực hiện thì Tòa án nhân dân có thể xử lý theo quy định tại Điều 658 Bộ luật Dân sự.”
 
-### 15. 公司法（2023 年修订）
-- URL：<https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>
-- 标题「中华人民共和国公司法」，2023-12-29 修订通过、2024-07-01 施行。已确认。
-- 第十条：「公司的法定代表人按照公司章程的规定，由代表公司执行公司事务的董事或者经理担任。……法定代表人辞任的，公司应当在法定代表人辞任之日起三十日内确定新的法定代表人。」
-- 第十一条：「法定代表人因执行职务造成他人损害的，由公司承担民事责任。公司承担民事责任后，依照法律或者公司章程的规定，可以向有过错的法定代表人追偿。」
-- 第一百八十条：「董事、监事、高级管理人员对公司负有忠实义务……对公司负有勤勉义务，执行职务应当为公司的最大利益尽到管理者通常应有的合理注意。」
-- 第一百九十一条：「董事、高级管理人员执行职务，给他人造成损害的，公司应当承担赔偿责任；董事、高级管理人员存在故意或者重大过失的，也应当承担赔偿责任。」
+### 15. “Luật Công ty” (sửa đổi năm 2023)
+- URL: <https://www.gov.cn/yaowen/liebiao/202312/content_6923395.htm>
+- Tiêu đề “Luật Công ty nước Cộng hòa Nhân dân Trung Hoa”, thông qua bản sửa đổi ngày 2023-12-29, thi hành từ 2024-07-01. Đã xác nhận.
+- Điều 10: “Người đại diện theo pháp luật của công ty, theo quy định trong điều lệ công ty, do giám đốc đại diện công ty thực hiện công việc công ty hoặc giám đốc điều hành đảm nhiệm. …… Người đại diện theo pháp luật từ chức thì công ty phải xác định người đại diện theo pháp luật mới trong vòng 30 ngày kể từ ngày người đó từ chức.”
+- Điều 11: “Người đại diện theo pháp luật vì thực hiện chức vụ gây thiệt hại cho người khác thì công ty chịu trách nhiệm dân sự. Sau khi công ty đã chịu trách nhiệm dân sự, theo quy định của pháp luật hoặc điều lệ công ty, có thể truy đòi người đại diện theo pháp luật có lỗi.”
+- Điều 180: “Thành viên hội đồng quản trị, thành viên ủy ban giám sát, cán bộ quản lý cấp cao có nghĩa vụ trung thành với công ty… có nghĩa vụ siêng năng cẩn trọng với công ty, khi thực hiện chức vụ phải vì lợi ích lớn nhất của công ty mà chú ý hợp lý như người quản lý thông thường đáng lẽ phải có.”
+- Điều 191: “Thành viên hội đồng quản trị, cán bộ quản lý cấp cao thực hiện chức vụ gây thiệt hại cho người khác thì công ty phải chịu trách nhiệm bồi thường; thành viên hội đồng quản trị, cán bộ quản lý cấp cao có cố ý hoặc lỗi nghiêm trọng thì cũng phải chịu trách nhiệm bồi thường.”
 
-### 16. 外交部领事司「对准备出国的中国公民有哪些建议」
-- URL：<https://cs.mfa.gov.cn/gyls/lscs/201106/t20110615_876383.shtml>（中国领事服务网，外交部）
-- WebFetch 确认标题、发布单位、2023-10-10 更新。原文：「请务必避免为他人携带行李物品，特别是违禁物品或不了解的物品。」
-- 同站 2011 年「中国公民海外安全常识」页（t841042.shtml）302 跳转到 error 页，未确认，未引用。
+### 16. Vụ Lãnh sự - Bộ Ngoại giao, “Những khuyến nghị nào cho công dân Trung Quốc chuẩn bị ra nước ngoài”
+- URL: <https://cs.mfa.gov.cn/gyls/lscs/201106/t20110615_876383.shtml> (Mạng dịch vụ lãnh sự Trung Quốc, Bộ Ngoại giao)
+- WebFetch xác nhận tiêu đề, đơn vị đăng tải, cập nhật ngày 2023-10-10. Nguyên văn: “Nhất định phải tránh mang hành lý, đồ vật giúp người khác, đặc biệt là đồ vật bị cấm hoặc đồ vật không hiểu rõ.”
+- Trang “Kiến thức an toàn cho công dân Trung Quốc ở nước ngoài” năm 2011 trên cùng site (t841042.shtml) chuyển hướng 302 sang trang error, chưa xác nhận, không trích dẫn.
 
-## 未确认、未采用的来源
-- gov.cn 民法典全文页（/xinwen/ 与 /zhengce/ 两个路径）：404。
-- npc.gov.cn 民法典、公司法页：SSL 握手失败。
-- gongbao.court.gov.cn 刑法全文、民间借贷规定、正当防卫通知页：502。
-- 公安部网站 96110/国家反诈中心相关三页：521，未确认（正文备注已说明）。
-- 海关总署杭州/广州海关「帮人带东西」提示页：证书错误、curl 返回 412，未确认，未引用。
-- 最高法民间借贷规定 2020 年修正版全文：只打开了 2015 年版页面（<https://www.court.gov.cn/zixun/xiangqing/15146.html>，法释〔2015〕18 号），因非现行版本未引用；借条条目改引民法典第六百六十八条。
-- 「520、1314 特殊数额认定为赠与」的最高法/人民法院报原文：未找到，正文只写法条并在备注说明。
-- 刑法第一百三十三条之一、二百八十七条之二、二百四十六条第三款：现行文本引自刑法修正案（九）原文，未找到可打开的官方「刑法（含修正案十二）」整合文本页。
+## Các nguồn chưa xác nhận, không sử dụng
+- Trang toàn văn Bộ luật Dân sự trên gov.cn (hai đường dẫn /xinwen/ và /zhengce/): 404.
+- Trang Bộ luật Dân sự, Luật Công ty trên npc.gov.cn: bắt tay SSL thất bại.
+- Các trang toàn văn Bộ luật Hình sự, quy định cho vay dân gian, thông báo phòng vệ chính đáng trên gongbao.court.gov.cn: 502.
+- Ba trang liên quan 96110/Trung tâm Chống lừa đảo quốc gia trên website Bộ Công an: 521, chưa xác nhận (phần thân bài đã chú thích).
+- Trang nhắc nhở “giúp người khác mang đồ” của Hải quan Hàng Châu/Quảng Châu thuộc Tổng cục Hải quan: lỗi chứng chỉ, curl trả về 412, chưa xác nhận, không trích dẫn.
+- Toàn văn bản sửa đổi năm 2020 của quy định cho vay dân gian của Tòa án nhân dân tối cao: chỉ mở được trang bản 2015 (<https://www.court.gov.cn/zixun/xiangqing/15146.html>, Pháp thích số 18), vì không phải phiên bản hiện hành nên không trích dẫn; mục giấy ghi nợ chuyển sang trích Điều 668 Bộ luật Dân sự.
+- Văn bản gốc của Tòa án nhân dân tối cao/Báo Tòa án nhân dân về “nhận định các con số đặc biệt 520, 1314 là tặng cho”: không tìm thấy, phần thân bài chỉ ghi điều luật và chú thích rõ.
+- Điều 133-1, Điều 287-2, khoản 3 Điều 246 của Bộ luật Hình sự: văn bản hiện hành trích theo nguyên văn Luật sửa đổi, bổ sung Bộ luật Hình sự (lần 9), không tìm thấy trang văn bản tích hợp chính thức “Bộ luật Hình sự (gồm cả luật sửa đổi lần 12)” nào mở được.

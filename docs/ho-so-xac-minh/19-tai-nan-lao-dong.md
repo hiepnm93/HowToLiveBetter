@@ -1,39 +1,39 @@
-# 核实记录：第 19 节补 4 条（工伤）
+# Hồ sơ xác minh: chương 19 bổ sung 4 mục (tai nạn lao động)
 
-核实日期：2026-09-07。第 19 节 6 → 10 条，节标题由「被裁员和主动离职」改为「被裁员、离职和工伤」，全书 318 → 322 条。
+Ngày kiểm chứng: 2026-09-07. Chương 19 từ 6 lên 10 mục, tên chương đổi từ “bị sa thải và chủ động nghỉ việc” thành “bị sa thải, nghỉ việc và tai nạn lao động”, toàn sách từ 318 lên 322 mục.
 
-工伤原来是全书最大的单点空白：第 7 节第 3 条提过工伤案件在法律援助范围内，但「怎么认定、什么时限、拿多少」一条没有。这笔钱比裁员的 N 大一个量级，期限还更硬。
+Tai nạn lao động trước đây là khoảng trống đơn lẻ lớn nhất của toàn sách: mục 3 trong chương 7 từng nhắc các vụ tai nạn lao động nằm trong phạm vi trợ giúp pháp lý, nhưng “xác định thế nào, thời hạn ra sao, nhận bao nhiêu” thì không có mục nào. Khoản tiền này lớn hơn khoản N của việc bị sa thải tới một bậc, thời hạn còn cứng hơn.
 
-方法：用 `Invoke-WebRequest` 取 gov.cn 公报页原始字节，按 GB18030 解码后去标签，逐条比对法条原文。
+Phương pháp: dùng `Invoke-WebRequest` lấy các byte gốc của trang công báo trên gov.cn, giải mã theo GB18030 rồi bỏ thẻ, so từng điều với nguyên văn pháp luật.
 
 ---
 
-## 一、逐条核对到的原文
+## 1. Nguyên văn đã đối chiếu từng điều
 
-来源均为《工伤保险条例》（国务院令第 586 号，2010 年修订）中国政府网公报全文 <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>。
+Nguồn đều là “Điều lệ bảo hiểm tai nạn lao động” (Quốc lệnh số 586, sửa đổi năm 2010), toàn văn trên công báo của Chính phủ Trung Quốc <https://www.gov.cn/gongbao/content/2011/content_1778064.htm>.
 
-| 法条 | 核对到的原文 | 用在哪 |
+| Điều luật | Nguyên văn đã đối chiếu | Dùng ở đâu |
 | --- | --- | --- |
-| 第十四条 | 七种「应当认定为工伤」的情形，其中第（六）项为 2010 年修订后的表述：「在上下班途中，受到非本人主要责任的交通事故或者城市轨道交通、客运轮渡、火车事故伤害的」 | 第 7 条（上下班路上被撞也算） |
-| 第十五条 | 「（一）在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的」等三种「视同工伤」 | 第 7 条备注 |
-| 第十六条 | 「（一）故意犯罪的；（二）醉酒或者吸毒的；（三）自残或者自杀的」不得认定 | 第 7 条备注 |
-| 第十七条 | 「所在单位应当自事故伤害发生之日或者被诊断、鉴定为职业病之日起30日内……提出工伤认定申请」；「用人单位未按前款规定提出工伤认定申请的，工伤职工或者其近亲属、工会组织在事故伤害发生之日或者被诊断、鉴定为职业病之日起1年内，可以直接向用人单位所在地统筹地区社会保险行政部门提出工伤认定申请」；「用人单位未在本条第一款规定的时限内提交工伤认定申请，在此期间发生符合本条例规定的工伤待遇等有关费用由该用人单位负担」 | 第 7 条的两个时限 |
-| 第十八条 | 申请材料三项：工伤认定申请表、劳动关系证明材料、医疗诊断证明或职业病诊断证明书 | 第 7 条成本栏 |
-| 第十九条 | 「职工或者其近亲属认为是工伤，用人单位不认为是工伤的，由用人单位承担举证责任。」 | 第 7 条 |
-| 第二十条 | 「社会保险行政部门应当自受理工伤认定申请之日起60日内作出工伤认定的决定」 | 第 7 条来源栏 |
-| 第二十一、二十二条 | 「经治疗伤情相对稳定后存在残疾、影响劳动能力的，应当进行劳动能力鉴定」；「劳动功能障碍分为十个伤残等级，最重的为一级，最轻的为十级」 | 第 9 条 |
-| 第三十六条 | 五级、六级：一次性伤残补助金为 18 个月、16 个月的本人工资；难以安排工作的按月发伤残津贴，为本人工资的 70%、60% | 第 9 条 |
-| 第三十七条 | 七至十级：一次性伤残补助金为 13、11、9、7 个月的本人工资；合同期满终止或本人提出解除时，由基金付一次性工伤医疗补助金、由单位付一次性伤残就业补助金，标准由省级政府规定 | 第 9 条 |
-| 第三十九条 | 「（一）丧葬补助金为6个月的统筹地区上年度职工月平均工资；（二）供养亲属抚恤金……配偶每月40%，其他亲属每人每月30%，孤寡老人或者孤儿每人每月在上述标准的基础上增加10%……（三）一次性工亡补助金标准为上一年度全国城镇居民人均可支配收入的20倍。」 | 第 10 条 |
-| 第六十二条 | 第二款「依照本条例规定应当参加工伤保险而未参加工伤保险的用人单位职工发生工伤的，由该用人单位按照本条例规定的工伤保险待遇项目和标准支付费用。」第一款：责令限期参加、补缴，「按日加收万分之五的滞纳金；逾期仍不缴纳的，处欠缴数额1倍以上3倍以下的罚款」 | 第 8 条 |
+| Điều 14 | bảy tình huống “nên được xác định là tai nạn lao động”, trong đó mục (sáu) là cách diễn đạt sau sửa đổi năm 2010: “trên đường đi làm, đi về, bị tai nạn giao thông hoặc bị thương do tai nạn của đường sắt đô thị, phà chở khách, tàu hỏa mà bản thân không chịu trách nhiệm chính” | mục 7 (bị xe đâm trúng trên đường đi làm, đi về cũng tính) |
+| Điều 15 | “(một) trong thời gian làm việc và tại vị trí làm việc, đột phát bệnh tật rồi tử vong, hoặc trong vòng 48 giờ sau khi cấp cứu không qua khỏi” v.v. ba tình huống “coi như là tai nạn lao động” | ghi chú của mục 7 |
+| Điều 16 | “(một) cố ý phạm tội; (hai) say rượu hoặc sử dụng ma túy; (ba) tự làm tổn thương bản thân hoặc tự sát” thì không được xác định | ghi chú của mục 7 |
+| Điều 17 | “Đơn vị nơi công tác phải trong vòng 30 ngày kể từ ngày xảy ra tổn thương do tai nạn hoặc kể từ ngày được chẩn đoán, thẩm định là bệnh nghề nghiệp… nộp đơn xin xác định tai nạn lao động”; “nếu đơn vị sử dụng lao động không nộp đơn xin xác định tai nạn lao động theo quy định tại khoản trên, thì người lao động bị tai nạn lao động hoặc thân nhân gần của họ, tổ chức công đoàn, trong vòng 1 năm kể từ ngày xảy ra tổn thương do tai nạn hoặc kể từ ngày được chẩn đoán, thẩm định là bệnh nghề nghiệp, có thể trực tiếp nộp đơn xin xác định tai nạn lao động tới cơ quan hành chính bảo hiểm xã hội của khu vực điều phối nơi đơn vị sử dụng lao động đặt trụ sở”; “nếu đơn vị sử dụng lao động không nộp đơn xin xác định tai nạn lao động trong thời hạn quy định tại khoản 1 của điều này, thì các khoản chi phí như chế độ đãi ngộ tai nạn lao động phù hợp với điều lệ này phát sinh trong khoảng thời gian đó do đơn vị sử dụng lao động gánh chịu” | hai mốc thời hạn của mục 7 |
+| Điều 18 | ba loại hồ sơ xin: tờ khai xin xác định tai nạn lao động, chứng liệu về quan hệ lao động, giấy chứng nhận chẩn đoán y tế hoặc giấy chứng nhận chẩn đoán bệnh nghề nghiệp | cột chi phí của mục 7 |
+| Điều 19 | “Người lao động hoặc thân nhân gần của họ cho rằng là tai nạn lao động, mà đơn vị sử dụng lao động không cho là tai nạn lao động, thì đơn vị sử dụng lao động gánh chịu nghĩa vụ đưa ra bằng chứng.” | mục 7 |
+| Điều 20 | “Cơ quan hành chính bảo hiểm xã hội phải ra quyết định xác định tai nạn lao động trong vòng 60 ngày kể từ ngày tiếp nhận đơn xin xác định tai nạn lao động” | cột nguồn của mục 7 |
+| Điều 21, 22 | “Sau khi điều trị mà tình trạng thương tật tương đối ổn định mà còn tồn tại khuyết tật, ảnh hưởng năng lực lao động, thì phải tiến hành thẩm định năng lực lao động”; “rối loạn chức năng lao động chia thành mười cấp khuyết tật, nặng nhất là cấp một, nhẹ nhất là cấp mười” | mục 9 |
+| Điều 36 | cấp 5, cấp 6: trợ cấp khuyết tật một lần bằng 18 tháng, 16 tháng lương của bản thân; nếu khó sắp xếp việc làm thì phát phụ cấp khuyết tật hằng tháng, bằng 70%, 60% lương của bản thân | mục 9 |
+| Điều 37 | cấp 7 đến 10: trợ cấp khuyết tật một lần bằng 13, 11, 9, 7 tháng lương của bản thân; khi hợp đồng chấm dứt do hết hạn hoặc bản thân đề nghị chấm dứt, thì quỹ trả trợ cấp y tế tai nạn lao động một lần, đơn vị trả trợ cấp việc làm cho người khuyết tật một lần, tiêu chuẩn do chính phủ cấp tỉnh quy định | mục 9 |
+| Điều 39 | “(một) trợ cấp mai táng bằng 6 tháng tiền lương bình quân hằng tháng của công nhân viên trong khu vực điều phối năm trước; (hai) phụ cấp nuôi dưỡng thân nhân… vợ hoặc chồng mỗi tháng 40%, thân nhân khác mỗi người mỗi tháng 30%, người già góa hoặc trẻ mồ côi mỗi người mỗi tháng tăng thêm 10% trên cơ sở tiêu chuẩn trên… (ba) tiêu chuẩn trợ cấp tử vong do công một lần bằng 20 lần thu nhập khả dụng bình quân đầu người của cư dân thành thị toàn quốc năm trước.” | mục 10 |
+| Điều 62 | khoản 2 “khi người lao động của đơn vị sử dụng lao động lẽ ra phải tham gia bảo hiểm tai nạn lao động theo điều lệ này mà chưa tham gia, lại xảy ra tai nạn lao động, thì đơn vị sử dụng lao động đó phải trả các khoản phí theo các hạng mục và tiêu chuẩn đãi ngộ bảo hiểm tai nạn lao động quy định trong điều lệ này.” Khoản 1: buộc tham gia, nộp bổ sung trong thời hạn, “mỗi ngày cộng thêm 5/10.000 tiền phạt chậm nộp; quá hạn vẫn không nộp thì phạt tiền từ 1 đến 3 lần số tiền nợ” | mục 8 |
 
-## 二、未取得 / 未采用
+## 2. Chưa lấy được / không sử dụng
 
-| 想找的 | 结果 | 处理 |
+| Muốn tìm | Kết quả | Cách xử lý |
 | --- | --- | --- |
-| 一次性工亡补助金当年的具体金额 | 需要 2025 年全国城镇居民人均可支配收入。国务院政策文件库中检索不到统计公报本体；gov.cn 的公报解读文章只给了「居民人均可支配收入比上年实际增长5.0%」，没有绝对值；stats.gov.cn 的最新发布列表里也没有该条目 | 第 10 条只写倍数公式，金额写 TODO |
-| 48 小时条款在实务中的争议材料 | 只找到大量二手评论，未取得可引的裁判文书或官方口径 | 正文只陈述法条原文，不展开评价 |
+| Số tiền cụ thể của trợ cấp tử vong do công một lần trong năm | Cần thu nhập khả dụng bình quân đầu người của cư dân thành thị toàn quốc năm 2025. Tìm trong kho văn bản chính sách của Quốc vụ viện không thấy bản thân công báo thống kê; bài giải đọc công báo trên gov.cn chỉ cho “thu nhập khả dụng bình quân đầu người của cư dân tăng 5,0% so với năm trước tính theo giá thực tế”, không có giá trị tuyệt đối; danh sách phát hành mới nhất của stats.gov.cn cũng không có mục này | mục 10 chỉ viết công thức số lần nhân, số tiền ghi TODO |
+| Tư liệu tranh cãi về điều khoản 48 giờ trong thực tiễn | Chỉ tìm thấy rất nhiều bình luận thứ cấp, chưa lấy được văn bản phán quyết có thể trích dẫn hoặc cách nói chính thức | phần thân bài chỉ trình bày nguyên văn điều luật, không triển khai đánh giá |
 
-## 三、口径与收益量级
+## 3. Góc đánh giá và mức lợi ích
 
-四条口径都是金钱。收益量级按第 8 节以来的金钱阈值定：一次性伤残补助金按月工资折算，最低的十级也是 7 个月工资；工亡补助金是「上一年度全国城镇居民人均可支配收入的 20 倍」，都在万元级以上，因此全部定「大」。成本方面，认定和鉴定本身不花钱，但都要跑流程、等结论，时间记「中」；第 8 条（单位未参保）额外记「毅力=些」，因为对方大概率不认，要撑到仲裁。
+Bốn mục đều dùng góc đánh giá là tiền bạc. Mức lợi ích ấn định theo ngưỡng tiền bạc từ chương 8 trở đi: trợ cấp khuyết tật một lần quy đổi theo lương tháng, thấp nhất là cấp mười cũng đã là 7 tháng lương; trợ cấp tử vong do công là “20 lần thu nhập khả dụng bình quân đầu người của cư dân thành thị toàn quốc năm trước”, đều từ cỡ 10.000 yên trở lên, nên tất cả định “lớn”. Về chi phí, việc xác định và thẩm định bản thân không mất tiền, nhưng đều phải chạy thủ tục, chờ kết luận, thời gian ghi “trung bình”; mục 8 (đơn vị chưa tham gia bảo hiểm) còn được ghi thêm “ý chí = chút”, vì khả năng cao bên kia sẽ không thừa nhận, phải gắng vượt qua đến chừng mực trọng tài (tranh chấp lao động).

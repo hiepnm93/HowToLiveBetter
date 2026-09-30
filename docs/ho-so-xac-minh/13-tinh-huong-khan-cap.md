@@ -1,158 +1,156 @@
-# 第 13 节核实记录
+# Hồ sơ xác minh nguồn chương 13
 
-说明：所有「已打开」的 URL 都是用 WebFetch 实际打开并在返回原文中找到对应句子的。本次会话 WebSearch 配额在本节开始前已用尽（200/200），只能用 WebFetch；Bing/DuckDuckGo/Sogou/Baidu 经 WebFetch 检索中文几乎全部返回无关结果或验证码，中文官方页面只能靠已知 URL 或站内目录逐层打开。期刊论文一律通过 Europe PMC REST 接口（DOI 精确检索）核实标题、作者、期刊、年份与摘要数字；出版社页面（LWW、Ovid、AHA、SAGE）对本工具返回 402/403。
+Giải thích: toàn bộ URL “đã mở” đều được mở thật bằng WebFetch và tìm thấy câu tương ứng trong văn bản trả về. Hạn mức WebSearch của phiên làm việc này đã dùng hết trước khi bắt đầu chương (200/200), chỉ còn dùng được WebFetch; Bing/DuckDuckGo/Sogou/Baidu qua WebFetch tra tiếng Trung hầu như đều trả kết quả không liên quan hoặc trang xác nhận (captcha), trang chính thức tiếng Trung chỉ có thể mở theo tầng qua URL đã biết hoặc danh mục trong site. Bài báo tạp chí đều qua giao diện Europe PMC REST (tra cứu chính xác theo DOI) để kiểm chứng tiêu đề, tác giả, tạp chí, năm và các con số trong tóm tắt; trang của nhà xuất bản (LWW, Ovid, AHA, SAGE) trả 402/403 với công cụ này.
 
-## 期刊论文
+## Bài báo tạp chí
 
-### Sasson 2010（条 1）
-- DOI：10.1161/CIRCOUTCOMES.109.889576（doi.org 302 → ahajournals.org 403）
-- 已打开：PubMed 20123673 与 Europe PMC 接口，摘要一致。
-- 原文：「79 studies involving 142,740 patients」「pooled survival to hospital discharge was 7.6%」「witnessed by a bystander (6.4% to 13.5%) … who received bystander CPR (3.9% to 16.1%)」「Although 53% (95% CI, 45.0% to 59.9%) of events were witnessed by a bystander, only 32% (95% CI, 26.7% to 37.8%) received bystander CPR」
+### Sasson 2010 (mục 1)
+- DOI: 10.1161/CIRCOUTCOMES.109.889576 (doi.org 302 → ahajournals.org 403)
+- Đã mở: PubMed 20123673 và giao diện Europe PMC, tóm tắt trùng khớp.
+- Nguyên văn: “79 studies involving 142,740 patients” “pooled survival to hospital discharge was 7.6%” “witnessed by a bystander (6.4% to 13.5%) … who received bystander CPR (3.9% to 16.1%)” “Although 53% (95% CI, 45.0% to 59.9%) of events were witnessed by a bystander, only 32% (95% CI, 26.7% to 37.8%) received bystander CPR”
 
-### Zheng 2023 BASIC-OHCA（条 1）
-- Europe PMC 标题检索命中：Zheng J, Lv C, Zheng W 等. Incidence, process of care, and outcomes of out-of-hospital cardiac arrest in China: a prospective study of the BASIC-OHCA registry. The Lancet Public Health, 2023. DOI 10.1016/S2468-2667(23)00173-1
-- 原文：「7121 (20.3%) received bystander cardiopulmonary resuscitation」「441 (1.2%) of 38,227 survived」（出院或 30 天）
-- 同批命中 Xie X 等 2023 Circ Cardiovasc Qual Outcomes（DOI 10.1161/circoutcomes.121.008856）：EMS 处理病例出院存活 1.15%，正文未引。
+### Zheng 2023 BASIC-OHCA (mục 1)
+- Tra tiêu đề trên Europe PMC trúng: Zheng J, Lv C, Zheng W và cộng sự. Incidence, process of care, and outcomes of out-of-hospital cardiac arrest in China: a prospective study of the BASIC-OHCA registry. The Lancet Public Health, 2023. DOI 10.1016/S2468-2667(23)00173-1
+- Nguyên văn: “7121 (20.3%) received bystander cardiopulmonary resuscitation” “441 (1.2%) of 38,227 survived” (xuất viện hoặc 30 ngày)
+- Cùng lượt tìm kiếm trúng Xie X và cộng sự 2023 Circ Cardiovasc Qual Outcomes (DOI 10.1161/circoutcomes.121.008856): tỷ lệ sống sót đến xuất viện ở các ca do EMS xử trí là 1,15%, phần thân bài không trích.
 
-### Teixeira 2018（条 2）
-- 任务书给的 DOI 10.1016/j.jamcollsurg.2017.12.016 经 Europe PMC 核实指向另一篇胃癌论文（Woo Y 等），**已弃用**。
-- 用标题检索 Europe PMC 命中正确 DOI：10.1016/j.jamcollsurg.2018.01.047。Teixeira PGR, Brown CVR, Emigh B 等, Texas Tourniquet Study Group. Civilian Prehospital Tourniquet Use Is Associated with Improved Survival in Patients with Peripheral Vascular Injury. J Am Coll Surg 2018.
-- 原文：「11 Level I trauma centers (January 2011 through December 2016)」「During 6 years, 1,026 patients with peripheral vascular injuries were admitted」「Prehospital tourniquets were used in 181 (17.6%) patients」「Mortality was 5.2% in the non-tourniquet group compared with 3.9% in the tourniquet group」「the use of tourniquets was found to be independently associated with survival (adjusted odds ratio 5.86; 95% CI 1.41 to 24.47; adjusted p = 0.015)」。初稿曾凭记忆写成 3.4% 对 8.9%，二次核对摘要后改正。
+### Teixeira 2018 (mục 2)
+- DOI 10.1016/j.jamcollsurg.2017.12.016 được giao trong đề bài, qua Europe PMC kiểm chứng lại trỏ về một bài khác về ung thư dạ dày (Woo Y và cộng sự), **đã loại bỏ**.
+- Tra tiêu đề trên Europe PMC trúng DOI đúng: 10.1016/j.jamcollsurg.2018.01.047. Teixeira PGR, Brown CVR, Emigh B và cộng sự, Texas Tourniquet Study Group. Civilian Prehospital Tourniquet Use Is Associated with Improved Survival in Patients with Peripheral Vascular Injury. J Am Coll Surg 2018.
+- Nguyên văn: “11 Level I trauma centers (January 2011 through December 2016)” “During 6 years, 1,026 patients with peripheral vascular injuries were admitted” “Prehospital tourniquets were used in 181 (17.6%) patients” “Mortality was 5.2% in the non-tourniquet group compared with 3.9% in the tourniquet group” “the use of tourniquets was found to be independently associated with survival (adjusted odds ratio 5.86; 95% CI 1.41 to 24.47; adjusted p = 0.015)”. Bản nháp trước đây từng ghi theo trí nhớ là 3,4% đối 8,9%, đã sửa sau khi đối chiếu lại tóm tắt lần hai.
 
-### Kragh 2009（条 2）
-- DOI：10.1097/SLA.0b013e31818842ba（doi.org 302 → ovid.com 402）
-- 已打开：Europe PMC 接口。Kragh JF Jr 等. Survival with emergency tourniquet use to stop bleeding in major limb trauma. Ann Surg 2009.
-- 原文：232 patients, 309 limbs；「Tourniquet use when shock was absent was strongly associated with survival (90% vs. 10%; P < 0.001)」；院前 194 人死亡率 11%，急诊室才上 38 人 24%；需要而未上 5 人存活 0% 对 87%；「no amputations resulted from tourniquet use alone」，短暂神经麻痹 4 例。
+### Kragh 2009 (mục 2)
+- DOI: 10.1097/SLA.0b013e31818842ba (doi.org 302 → ovid.com 402)
+- Đã mở: giao diện Europe PMC. Kragh JF Jr và cộng sự. Survival with emergency tourniquet use to stop bleeding in major limb trauma. Ann Surg 2009.
+- Nguyên văn: 232 patients, 309 limbs; “Tourniquet use when shock was absent was strongly associated with survival (90% vs. 10%; P < 0.001)”; trước bệnh viện 194 người tỷ lệ tử vong 11%, để lên nẹp cầm máu chỉ khi vào phòng cấp cứu là 38 người 24%; cần mà không được dùng 5 người sống sót 0% đối 87%; “no amputations resulted from tourniquet use alone”, 4 ca tê liệt thần kinh tạm thời.
 
-### Dow 2019 WMS 失温指南（条 11）
-- DOI：10.1016/j.wem.2019.10.002（doi.org 302 → sagepub 403；wemjournal.org 301 → sagepub；sciencedirect 403）
-- Europe PMC 已核实标题、作者（Dow J, Giesbrecht GG, Danzl DF 等）、期刊 Wilderness & Environmental Medicine、2019、PMID 31740369、非开放获取。**只核实了摘要**，具体推荐条文未能打开，正文备注已说明。
+### Dow 2019, hướng dẫn giảm thân nhiệt của WMS (mục 11)
+- DOI: 10.1016/j.wem.2019.10.002 (doi.org 302 → sagepub 403; wemjournal.org 301 → sagepub; sciencedirect 403)
+- Europe PMC đã kiểm chứng tiêu đề, tác giả (Dow J, Giesbrecht GG, Danzl DF và cộng sự), tạp chí Wilderness & Environmental Medicine, 2019, PMID 31740369, không truy cập mở. **Chỉ kiểm chứng được tóm tắt**, các khuyến nghị cụ thể không mở được, ghi chú trong thân bài đã nói rõ.
 
-### Lipman 2019 WMS 热病指南（条 6）
-- DOI：10.1016/j.wem.2018.10.004（同上 403）
-- Europe PMC 已核实标题、作者（Lipman GS, Gaudio FG, Eifling KP 等）、期刊、2019、PMID 31221601、非开放获取。**只核实了摘要**。
+### Lipman 2019, hướng dẫn bệnh do nóng của WMS (mục 6)
+- DOI: 10.1016/j.wem.2018.10.004 (báo lỗi 403 như trên)
+- Europe PMC đã kiểm chứng tiêu đề, tác giả (Lipman GS, Gaudio FG, Eifling KP và cộng sự), tạp chí, 2019, PMID 31221601, không truy cập mở. **Chỉ kiểm chứng được tóm tắt**.
 
-## 中国官方文件
+## Văn bản chính thức Trung Quốc
 
-### 狂犬病暴露预防处置工作规范（2023 年版）（条 3、14）
-- URL：<https://www.ndcpa.gov.cn/jbkzzx/c100014/common/content/content_1706569159854649344.html>
-- 已打开。发文：国家疾控局综合司、国家卫生健康委办公厅，2023 年 9 月 13 日。
-- 原文：「接触或者喂饲动物，或者完好的皮肤被舔舐为 I 级暴露。裸露的皮肤被轻咬……为 Ⅱ 级暴露。单处或者多处贯穿性皮肤咬伤……为 Ⅲ 级暴露」「用肥皂水（或者其他弱碱性清洁剂）和一定压力的流动清水交替彻底冲洗所有咬伤和抓伤处约 15 分钟」「判定为 Ⅲ 级暴露者，应处置伤口并注射狂犬病被动免疫制剂和接种狂犬病疫苗」「狂犬病病死率几乎达 100%，暴露后狂犬病疫苗接种无禁忌症」
-- 中国疾控中心同文 PDF（chinacdc.cn/…/P020240906525421817465.pdf）能下载但工具无法解析文字，未引。
+### Quy chuẩn công tác phòng ngừa và xử trí phơi nhiễm bệnh dại (bản 2023) (mục 3, 14)
+- URL: <https://www.ndcpa.gov.cn/jbkzzx/c100014/common/content/content_1706569159854649344.html>
+- Đã mở. Văn bản do: Sảnh tổng hợp Cục Quản lý kiểm soát dịch bệnh nhà nước, Văn phòng Ủy ban Y tế và Sức khỏe nhà nước ban hành, ngày 13-09-2023.
+- Nguyên văn: “Tiếp xúc hoặc cho động vật ăn, hoặc da lành lặn bị liếm là phơi nhiễm cấp I. Da trần bị cắn nhẹ… là phơi nhiễm cấp II. Một hoặc nhiều vết cắn xuyên da… là phơi nhiễm cấp III” “Dùng nước xà phòng (hoặc chất tẩy rửa kiềm yếu khác) và nước sạch chảy có áp lực nhất định luân phiên rửa kỹ toàn bộ các vết cắn, vết cào trong khoảng 15 phút” “Người được đánh giá là phơi nhiễm cấp III cần xử trí vết thương, tiêm chế phẩm miễn dịch thụ động bệnh dại và tiêm vắc-xin dại” “tỷ lệ tử vong của bệnh dại gần như đạt 100%, tiêm vắc-xin dại sau phơi nhiễm không có chống chỉ định”
+- PDF cùng văn bản trên site Trung tâm Kiểm soát dịch bệnh Trung Quốc (chinacdc.cn/…/P020240906525421817465.pdf) tải được nhưng công cụ không đọc ra chữ, không trích.
 
-### 民法典（条 1、5）
-- URL：<https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>（最高检法律法规库，第 8 节已用）
-- 已打开，页面标题「中华人民共和国民法典」。
-- 第一百八十四条：「因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任。」
-- 第一千零三十二条：「自然人享有隐私权。任何组织或者个人不得以刺探、侵扰、泄露、公开等方式侵害他人的隐私权。」
-- 第一千零三十三条（court.gov.cn/zixun/xiangqing/233181.html 与 tjca.miit.gov.cn 页均核实）：「除法律另有规定或者权利人明确同意外，任何组织或者个人不得实施下列行为：（一）以电话、短信、即时通讯工具、电子邮件、传单等方式侵扰他人的私人生活安宁……」
-- 第一千一百九十五条：spp、court.gov.cn、miit 三页返回文本均在该条之前截断（工具抓取长度限制），cac.gov.cn 分页 _6/_7 404，gov.cn content_5516649 404，zqdzfy PDF 404。**未核实**，正文标 TODO。
+### Bộ luật Dân sự (mục 1, 5)
+- URL: <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml> (thư viện pháp luật quy phạm của Viện kiểm sát nhân dân Tối cao, chương 8 đã dùng)
+- Đã mở, tiêu đề trang “Bộ luật Dân sự của Cộng hòa Nhân dân Trung Hoa”.
+- Điều 184: “Người cứu hộ thực hiện hành vi cấp cứu khẩn cấp một cách tự nguyện gây thiệt hại cho người được cứu thì người cứu hộ không chịu trách nhiệm dân sự.”
+- Điều 1032: “Thể nhân có quyền riêng tư. Bất kỳ tổ chức hoặc cá nhân nào không được xâm hại quyền riêng tư của người khác bằng các cách thức như do thám, quấy nhiễu, tiết lộ, công khai…”
+- Điều 1033 (đã kiểm chứng ở cả hai trang court.gov.cn/zixun/xiangqing/233181.html và tjca.miit.gov.cn): “Ngoài trường hợp pháp luật có quy định khác hoặc người có quyền đồng ý rõ ràng, bất kỳ tổ chức, cá nhân nào không được thực hiện các hành vi sau: (một) quấy nhiễu sự yên tĩnh của đời sống riêng tư của người khác qua điện thoại, tin nhắn, công cụ nhắn tin tức thời, thư điện tử, tờ rơi…”
+- Điều 1195: văn bản trả về của cả ba trang spp, court.gov.cn, miit đều bị cắt trước điều này (giới hạn độ dài bóc dữ liệu của công cụ), trang phân trang _6/_7 của cac.gov.cn là 404, gov.cn content_5516649 là 404, PDF của zqdzfy là 404. **Chưa kiểm chứng được**, thân bài ghi TODO.
 
-### 刑法（条 5、15）
-- URL：<https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html>（北京市公安交管局转载「根据刑法修正案（十一）修正」整合文本，第 9 节已用）
-- 已打开。
-- 第二十条：「为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在进行的不法侵害，而采取的制止不法侵害的行为，对不法侵害人造成损害的，属于正当防卫，不负刑事责任。」
-- 第二百六十三条：「以暴力、胁迫或者其他方法抢劫公私财物的，处三年以上十年以下有期徒刑，并处罚金」，加重情形十年以上至死刑（页面摘要确认存在加重条款）。
-- 第二百七十四条：「敲诈勒索公私财物，数额较大或者多次敲诈勒索的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金」，数额巨大三到十年。
+### Bộ luật Hình sự (mục 5, 15)
+- URL: <https://jtgl.beijing.gov.cn/jgj/jgxx/flfg/fl/11033925/index.html> (bản văn hợp nhất “sửa đổi theo Đạo luật sửa đổi, bổ sung Bộ luật Hình sự lần XI” do Cục Quản lý giao thông công an thành phố Bắc Kinh đăng tải lại, chương 9 đã dùng)
+- Đã mở.
+- Điều 20: “Để bảo vệ lợi ích của Nhà nước, lợi ích công, thân thể, tài sản và các quyền lợi khác của bản thân hoặc người khác khỏi hành vi xâm hại bất hợp pháp đang diễn ra, hành vi ngăn chặn hành vi xâm hại bất hợp pháp mà gây thiệt hại cho người xâm hại bất hợp pháp là phòng vệ chính đáng, không chịu trách nhiệm hình sự.”
+- Điều 263: “Dùng bạo lực, uy hiếp hoặc phương thức khác cướp đoạt tài sản công, tư thì phạt tù có thời hạn từ ba năm đến dưới mười năm, đồng thời phạt tiền”, tình tiết tăng nặng từ mười năm trở lên đến tử hình (tóm tắt trang xác nhận có điều khoản tăng nặng).
+- Điều 274: “Cưỡng đoạt tài sản công, tư, số tiền tương đối lớn hoặc cưỡng đoạt nhiều lần thì phạt tù có thời hạn dưới ba năm, cẩu dịch hoặc quản chế, đồng thời hoặc riêng lẻ phạt tiền”, số tiền rất lớn thì ba đến mười năm.
 
-### 反电信网络诈骗法（条 4）
-- URL：<https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>
-- 已打开。2022 年 9 月 2 日通过，12 月 1 日施行。
-- 第八条：「各级人民政府和有关部门应当加强反电信网络诈骗宣传，普及相关法律和知识，提高公众对各类电信网络诈骗方式的防骗意识和识骗能力。」
-- 第二十条、三十四条同第 8 节核实。
+### Luật Chống lừa đảo qua mạng viễn thông (mục 4)
+- URL: <https://www.spp.gov.cn/spp/fl/202209/t20220902_575631.shtml>
+- Đã mở. Thông qua ngày 02-09-2022, hiệu lực ngày 01-12.
+- Điều 8: “Chính phủ nhân dân các cấp và các cơ quan có liên quan phải tăng cường tuyên truyền chống lừa đảo qua mạng viễn thông, phổ biến pháp luật và kiến thức liên quan, nâng cao ý thức phòng lừa và khả năng nhận diện lừa đảo của công chúng đối với các kiểu lừa đảo qua mạng viễn thông.”
+- Điều 20, Điều 34 đã kiểm chứng trong chương 8.
 
-### 福建省公安厅「识骗技巧」专栏（条 4、5）
-- 目录页 <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/> 已打开，从目录逐篇打开：
-- 刷单（2023-07-03）<http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202307/t20230703_6196881.htm>：「以低投入、高回报骗取受害人信任」「以『任务单未完成』为由拒绝退还本金」「喊你一起赚钱的大概率是想赚你的钱。如遇到诈骗，请及时拨打 110 报警，手机可下载并注册国家反诈中心 APP」
-- 投资理财（2023-12-20）…/202312/t20231220_6362145.htm：「犯罪分子组织『水军』在群里扮演投资者，晒出收益误导受害人」「给予小额返利让受害人尝到甜头，不断诱导加大投资额度」「不轻信『专家指导』『稳赚不赔』等噱头」
-- 贷款（2023-12-07）…/202312/t20231207_6326741.htm：「缴纳一定的保证金，否则不放款，一旦你把钱打过去，对方立即就会把你拉黑」「贷款并不需要交保证金、做银行流水账，一旦遇上了，一定是假的」
-- 冒充客服（2023-10-20）…/202310/t20231020_6279505.htm：三步「自报家门，取得初步信任」「制造恐慌，提出解决办法」（称影响征信）「催促付款，实施诈骗」
-- 冒充公检法（2023-09-13）…/202309/t20230913_6255863.htm：「公检法机关不存在所谓的『安全账户』，凡是通过电话、QQ、微信、网络等办案、做笔录的『公检法机关』，都是诈骗。」拒绝「屏幕共享」
-- 杀猪盘（2023-08-18）…/202308/t20230818_6232030.htm：「对于从未见过面，只见到照片或者视频的『恋人』，不可轻信」
-- 色诱刷单（2024-03-07）…/202403/t20240307_6410612.htm：「任何时候，不管对方以什么理由借口，让你刷单返现、做任务、做数据的都是骗子」「一定要保存好证据，及时拨打 110，切勿继续转账」
-- 96110（2023 年，URL 日期 2023-03-06，页面摘要给出的日期与之不一致，只记年份）…/202303/t20230306_6126156.htm：「来电不轻信，信息不透露，链接不点击，转账多核实」
-- 「色字头上一把刀」（2026-01-16，…/202601/t20260116_7081388.htm）：页面能打开、标题与发布单位可见，但正文被编码成 base64 图片数据，两次抓取都无法读出文字，**未引用**。
+### Chuyên mục “kỹ năng nhận diện lừa đảo” của Sở Công an tỉnh Phúc Kiến (mục 4, 5)
+- Trang danh mục <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/> đã mở, mở từng bài theo danh mục:
+- Chạy đơn (làm nhiệm vụ) (2023-07-03) <http://gat.fujian.gov.cn/ztzl/fjjffpzxrx/spjq/202307/t20230703_6196881.htm>: “lấy lòng tin nạn nhân bằng ‘đầu tư ít, lời cao’” “dùng lý do ‘nhiệm vụ chưa hoàn thành’ để từ chối hoàn trả vốn gốc” “người rủ bạn cùng kiếm tiền phần lớn là muốn kiếm tiền của bạn. Nếu gặp lừa đảo, hãy kịp thời gọi 110 báo án, điện thoại có thể tải về và đăng ký App Trung tâm Chống lừa đảo quốc gia”
+- Đầu tư quản lý tài chính (2023-12-20) …/202312/t20231220_6362145.htm: “tội phạm tổ chức ‘thủy quân’ (người xem giả) trong nhóm đóng vai nhà đầu tư, khoe lợi nhuận để đánh lạc hướng nạn nhân” “cho hoàn lại khoản nhỏ để nạn nhân nếm ngọt, liên tục dụ dỗ tăng hạn mức đầu tư” “đừng nhẹ dạ tin các chiêu như ‘chuyên gia chỉ đạo’, ‘lời chắc chắn không lỗ’”
+- Vay vốn (2023-12-07) …/202312/t20231207_6326741.htm: “nộp một khoản tiền ký quỹ nhất định, nếu không sẽ không giải ngân; một khi bạn chuyển tiền đi, đối phương lập tức chặn liên lạc với bạn” “vay vốn vốn dĩ không cần nộp tiền ký quỹ, không cần làm sổ giao dịch ngân hàng, gặp phải kiểu này chắc chắn là giả”
+- Giả bộ chăm sóc khách hàng (2023-10-20) …/202310/t20231020_6279505.htm: ba bước “tự giới thiệu, lấy được lòng tin ban đầu” “gây hoảng sợ, đưa ra cách giải quyết” (nói sẽ ảnh hưởng lịch sử tín dụng) “giục thanh toán, thực hiện lừa đảo”
+- Giả bộ công – kiểm – pháp (2023-09-13) …/202309/t20230913_6255863.htm: “các cơ quan công an, kiểm sát, tòa án không có cái gọi là ‘tài khoản an toàn’, bất kỳ ‘cơ quan công – kiểm – pháp’ nào yêu cầu xử lý vụ án, làm biên bản qua điện thoại, QQ, WeChat, mạng… đều là lừa đảo.” Từ chối “chia sẻ màn hình”
+- Kịch bản lừa tình cảm đầu tư (2023-08-18) …/202308/t20230818_6232030.htm: “với ‘người yêu’ chưa từng gặp mặt, chỉ thấy ảnh hoặc video, không thể nhẹ dạ tin”
+- Dụ sắc chạy đơn (2024-03-07) …/202403/t20240307_6410612.htm: “bất kỳ lúc nào, bất kể đối phương lấy lý do gì, bảo bạn chạy đơn hoàn tiền, làm nhiệm vụ, làm số liệu đều là lừa đảo” “nhất định phải giữ chứng cứ, kịp thời gọi 110, tuyệt đối đừng tiếp tục chuyển tiền”
+- 96110 (năm 2023, URL ghi 06-03-2023, ngày trong tóm tắt trang không khớp với ngày đó, chỉ ghi năm) …/202303/t20230306_6126156.htm: “cuộc gọi đến đừng nhẹ dạ tin, thông tin không tiết lộ, đường link không bấm, chuyển tiền phải kiểm tra kỹ”
+- “Chữ sắc có dao treo trên đầu” (16-01-2026, …/202601/t20260116_7081388.htm): trang mở được, tiêu đề và đơn vị phát hành nhìn thấy được, nhưng phần thân bài bị mã hóa thành dữ liệu ảnh base64, hai lần bóc dữ liệu đều không đọc ra chữ, **không trích dẫn**.
 
-### 云南省疾控局 中暑提示（条 6）
-- URL：<https://ynsjkj.yn.gov.cn/html/2026/jikongkepu_0719/2606.html>
-- 已打开。标题「出现这些症状，你可能是中暑了！严重可致命」，2026-07-19。
-- 原文：「立即将其转移到阴凉通风处」、冷湿毛巾降温、意识清醒者补含盐饮料、「如果症状严重或持续不缓解，应立即拨打急救电话」，热射病病死率「极高」。
-
+### Cục Kiểm soát dịch bệnh tỉnh Vân Nam, nhắc nhở về say nắng (mục 6)
+- URL: <https://ynsjkj.yn.gov.cn/html/2026/jikongkepu_0719/2606.html>
+- Đã mở. Tiêu đề “Xuất hiện các triệu chứng này, bạn có thể đã say nắng! Nặng có thể gây chết người”, 19-07-2026.
+- Nguyên văn: “chuyển ngay người đó đến nơi mát mẻ, thoáng gió”, hạ nhiệt bằng khăn ướt lạnh, người còn tỉnh bổ sung nước có muối, “nếu triệu chứng nặng hoặc kéo dài không thuyên giảm, phải gọi ngay số điện thoại cấp cứu”, tỷ lệ tử vong của nhiệt xung (heat stroke) là “cực cao”.
 ## WHO
 
-### 狂犬病实况报道（条 3）
-- <https://www.who.int/zh/news-room/fact-sheets/detail/rabies>（英文版同时打开）
-- 原文：「全世界每年估计有 5.9 万人死于狂犬病」「在高达 99% 的人类狂犬病病例中，狗是病毒传播的罪魁祸首」「暴露后立即使用水和肥皂彻底清洗伤口至少 15 分钟」「清洗伤口，立即接种疫苗，并注射狂犬病免疫球蛋白/单克隆抗体」（III 级）
+### Fact sheet bệnh dại (mục 3)
+- <https://www.who.int/zh/news-room/fact-sheets/detail/rabies> (bản tiếng Anh cũng mở cùng lúc)
+- Nguyên văn: “ước tính mỗi năm toàn thế giới có 59.000 người chết vì bệnh dại” “trong tới 99% số ca dại ở người, chó là thủ phạm chính truyền virus” “ngay sau khi phơi nhiễm, dùng nước và xà phòng rửa kỹ vết thương ít nhất 15 phút” “rửa vết thương, tiêm vắc-xin ngay lập tức, đồng thời tiêm immunoglobulin/kháng thể đơn dòng bệnh dại” (cấp III)
 
-### 动物咬伤实况报道（条 12）
-- <https://www.who.int/zh/news-room/fact-sheets/detail/animal-bites>（英文版同时打开）
-- 原文：「立即完全固定被咬的身体部位，并迅速送到最近的医疗机构就医」「避免使用止血带，并避免切割伤口」「用针对当地蛇种的适当抗蛇毒血清进行治疗」；犬咬「用肥皂和自来水冲洗和清洁伤口 15 分钟」
+### Fact sheet về vật cắn (mục 12)
+- <https://www.who.int/zh/news-room/fact-sheets/detail/animal-bites> (bản tiếng Anh cũng mở cùng lúc)
+- Nguyên văn: “ngay lập tức bất động hoàn toàn phần cơ thể bị cắn và nhanh chóng đưa đến cơ sở y tế gần nhất để điều trị” “tránh dùng dây thắt garo và tránh rạch vết thương” “điều trị bằng huyết thanh kháng độc phù hợp với loài rắn ở địa phương”; chó cắn “rửa và làm sạch vết thương bằng xà phòng và nước máy trong 15 phút”
 
-### 蛇咬伤中毒实况报道（条 12）
-- <https://www.who.int/zh/news-room/fact-sheets/detail/snakebite-envenoming>（英文版 2023-09-12）
-- 原文：「每年约有 81 410 至 137 880 人死于蛇咬伤」，截肢与永久残疾约为死亡数 3 倍；「高质量抗蛇毒血清是防止或逆转蛇咬伤的大部分毒性作用的最有效治疗方法」
+### Fact sheet về ngộ độc do rắn cắn (mục 12)
+- <https://www.who.int/zh/news-room/fact-sheets/detail/snakebite-envenoming> (bản tiếng Anh 2023-09-12)
+- Nguyên văn: “mỗi năm ước có từ 81 410 đến 137 880 người chết vì rắn cắn”, số ca cắt chi và khuyết tật vĩnh viễn gấp khoảng 3 lần số ca tử vong; “huyết thanh kháng độc chất lượng cao là phương pháp điều trị hiệu quả nhất để ngăn chặn hoặc đảo ngược phần lớn tác động độc hại của rắn cắn”
 
-### 溺水实况报道（条 8）
-- <https://www.who.int/zh/news-room/fact-sheets/detail/drowning>（英文版同时打开）
-- 原文：「世界各地每年溺水死亡总数估计为 30 万例」「92% 的溺水死亡发生在低收入和中等收入国家」；英文版「fourth leading cause of death for children aged 1–4 years and the third leading cause of death for children aged 5–14 years」「safe rescue and resuscitation training」
+### Fact sheet về đuối nước (mục 8)
+- <https://www.who.int/zh/news-room/fact-sheets/detail/drowning> (bản tiếng Anh cũng mở cùng lúc)
+- Nguyên văn: “ước tính tổng số ca tử vong do đuối nước trên thế giới mỗi năm là 300.000 ca” “92% số ca tử vong do đuối nước xảy ra ở các nước thu nhập thấp và trung bình”; bản tiếng Anh “fourth leading cause of death for children aged 1–4 years and the third leading cause of death for children aged 5–14 years” “safe rescue and resuscitation training”
 
-## 美国联邦机构官方页面（中国官方页打不开时的替代）
+## Trang chính thức của cơ quan liên bang Hoa Kỳ (dùng thay khi trang chính thức Trung Quốc không mở được)
 
-### FEMA Ready.gov Home Fires（条 7）
-- <https://www.ready.gov/home-fires> 已打开。
-- 原文：「Drop down to the floor and crawl low, under any smoke to your exit」「Before opening a door, feel the doorknob and door. If either is hot, or if there is smoke coming around the door, leave the door closed and use your second way out」「If you open a door, open it slowly. Be ready to shut it quickly if heavy smoke or fire is present」「stop, drop and roll」「If you can't get out, close the door and cover vents and cracks around doors with cloth or tape to keep smoke out. Call 9-1-1」
-- 页面没有「不坐电梯」「出去别回头」原话，这两句在正文备注里作为常识给出。
+### FEMA Ready.gov Home Fires (mục 7)
+- <https://www.ready.gov/home-fires> đã mở.
+- Nguyên văn: “Drop down to the floor and crawl low, under any smoke to your exit” “Before opening a door, feel the doorknob and door. If either is hot, or if there is smoke coming around the door, leave the door closed and use your second way out” “If you open a door, open it slowly. Be ready to shut it quickly if heavy smoke or fire is present” “stop, drop and roll” “If you can't get out, close the door and cover vents and cracks around doors with cloth or tape to keep smoke out. Call 9-1-1”
+- Trang không có câu nguyên văn “đừng dùng thang máy” “ra ngoài đừng ngoái nhìn lại”, hai câu này được đưa vào ghi chú thân bài như kiến thức thông thường.
 
-### FEMA Ready.gov Earthquakes（条 13）
-- <https://www.ready.gov/earthquakes> 已打开。
-- 原文：「Drop where you are onto hands and knees」「Cover your head and neck with one arm and hand」「Hold until the shaking stops」「Turn face down and cover your head and neck with a pillow」「Stay there. Move to an open area away from buildings, trees, streetlights and power lines」「Pull over and stop. Set your parking brake」「If you are inside, stay and do not run outside; avoid doorways」「Expect aftershocks」「Send a text or bang on a pipe or wall. Cover your mouth with your shirt for protection and instead of shouting, use a whistle」；避免受损建筑内电梯、不进受损建筑。
+### FEMA Ready.gov Earthquakes (mục 13)
+- <https://www.ready.gov/earthquakes> đã mở.
+- Nguyên văn: “Drop where you are onto hands and knees” “Cover your head and neck with one arm and hand” “Hold until the shaking stops” “Turn face down and cover your head and neck with a pillow” “Stay there. Move to an open area away from buildings, trees, streetlights and power lines” “Pull over and stop. Set your parking brake” “If you are inside, stay and do not run outside; avoid doorways” “Expect aftershocks” “Send a text or bang on a pipe or wall. Cover your mouth with your shirt for protection and instead of shouting, use a whistle”; tránh thang máy trong tòa nhà bị hư hại, không vào tòa nhà bị hư hại.
 
-### NWS Heat Related Illnesses（条 6）
-- <https://www.weather.gov/safety/heat-illness> 已打开。
-- 原文：热射病「body temperature above 103°F」「Call 911 or get the victim to a hospital immediately. Heat stroke is a severe medical emergency」、凉处、凉水湿布降温、「Do not provide fluids」；热衰竭「Loosen clothing. Apply cool, wet cloths or have person sit in a cool bath」、小口喝水、「Seek immediate medical attention if the person vomits, symptoms worsen or last longer than 1 hour」
+### NWS Heat Related Illnesses (mục 6)
+- <https://www.weather.gov/safety/heat-illness> đã mở.
+- Nguyên văn: nhiệt xung “body temperature above 103°F” “Call 911 or get the victim to a hospital immediately. Heat stroke is a severe medical emergency”, chỗ mát, khăn ướt nước lạnh hạ nhiệt, “Do not provide fluids”; kiệt sức do nóng “Loosen clothing. Apply cool, wet cloths or have person sit in a cool bath”, uống từng ngụm nhỏ, “Seek immediate medical attention if the person vomits, symptoms worsen or last longer than 1 hour”
 
-### NWS During Extreme Cold（条 11）
-- <https://www.weather.gov/safety/cold-during> 已打开（/safety/cold-hypothermia 404）。
-- 原文：「If your temperature is 95°F or less, you feel cold and sluggish, or you are having trouble thinking clearly, see a doctor immediately」「Get medical attention immediately. Move the victim inside to a heated location and begin warming the center of the body first」「If the person is unconscious, administer CPR」、热饮、酒精「reduces shivering」；冻伤「Do not use hot water or radiant heat such as a fireplace」
+### NWS During Extreme Cold (mục 11)
+- <https://www.weather.gov/safety/cold-during> đã mở (/safety/cold-hypothermia là 404).
+- Nguyên văn: “If your temperature is 95°F or less, you feel cold and sluggish, or you are having trouble thinking clearly, see a doctor immediately” “Get medical attention immediately. Move the victim inside to a heated location and begin warming the center of the body first” “If the person is unconscious, administer CPR”, đồ uống nóng, rượu “reduces shivering”; tê cóng “Do not use hot water or radiant heat such as a fireplace”
 
-### MedlinePlus Choking（条 9）
-- <https://medlineplus.gov/ency/article/000047.htm> 已打开。
-- 原文：「Are you choking? Can you speak?」、「coughing forcefully and is able to speak」的不干预、「repeated cycles of 5 back blows followed by 5 abdominal thrusts, until the object comes out or the person becomes unconscious」「If the person loses consciousness, start CPR」、叫人打 911；孕妇肥胖者胸部冲击。
+### MedlinePlus Choking (mục 9)
+- <https://medlineplus.gov/ency/article/000047.htm> đã mở.
+- Nguyên văn: “Are you choking? Can you speak?”; “coughing forcefully and is able to speak” thì không can thiệp; “repeated cycles of 5 back blows followed by 5 abdominal thrusts, until the object comes out or the person becomes unconscious” “If the person loses consciousness, start CPR”, gọi người khác đánh số 911; người mang thai và người béo phì dùng ấn ngực.
 
-### NPS Staying Safe Around Bears（条 14）
-- <https://www.nps.gov/subjects/bears/safety.htm> 已打开。
-- 原文：「Do NOT run, but if the bear follows, stop and hold your ground. Bears can run as fast as a racehorse both uphill and down」「Stay calm and remember that most bears do not want to attack you; they usually just want to be left alone」「Continue to talk to the bear in low tones」「If the bear is stationary, move away slowly and sideways」「Make yourselves look as large as possible」「Do NOT climb a tree. Both grizzlies and black bears can climb trees」；棕熊「PLAY DEAD. Lay flat on your stomach with your hands clasped behind your neck. Spread your legs」；黑熊「DO NOT PLAY DEAD … try to fight back using any object available」
+### NPS Staying Safe Around Bears (mục 14)
+- <https://www.nps.gov/subjects/bears/safety.htm> đã mở.
+- Nguyên văn: “Do NOT run, but if the bear follows, stop and hold your ground. Bears can run as fast as a racehorse both uphill and down” “Stay calm and remember that most bears do not want to attack you; they usually just want to be left alone” “Continue to talk to the bear in low tones” “If the bear is stationary, move away slowly and sideways” “Make yourselves look as large as possible” “Do NOT climb a tree. Both grizzlies and black bears can climb trees”; gấu nâu “PLAY DEAD. Lay flat on your stomach with your hands clasped behind your neck. Spread your legs”; gấu đen “DO NOT PLAY DEAD … try to fight back using any object available”
 
-### NPS Mojave / Death Valley Safety（条 10）
-- <https://www.nps.gov/moja/planyourvisit/safety.htm> 已打开：「a minimum of one gallon of water per person, per day; hikers and cyclists should carry two gallons per person, per day」「Let someone know your trip route, destination, and return date, vehicle make and license plate. Cell phone coverage is sporadic」「Avoid strenuous activity during times of extreme heat」
-- <https://www.nps.gov/deva/planyourvisit/safety.htm> 已打开：「DRINK plenty of water, at least one gallon a day」「DO NOT hike in the valley/lower elevations when it is hot!」「limited to no cell phone service」，推荐卫星电话。
-- 两页都没有「车坏了留在车旁」原话（Joshua Tree 页 404），正文该条因此定 C。
+### NPS Mojave / Death Valley Safety (mục 10)
+- <https://www.nps.gov/moja/planyourvisit/safety.htm> đã mở: “a minimum of one gallon of water per person, per day; hikers and cyclists should carry two gallons per person, per day” “Let someone know your trip route, destination, and return date, vehicle make and license plate. Cell phone coverage is sporadic” “Avoid strenuous activity during times of extreme heat”
+- <https://www.nps.gov/deva/planyourvisit/safety.htm> đã mở: “DRINK plenty of water, at least one gallon a day” “DO NOT hike in the valley/lower elevations when it is hot!” “limited to no cell phone service”, khuyên dùng điện thoại vệ tinh.
+- Cả hai trang đều không có câu nguyên văn “xe hỏng thì ở lại bên xe” (trang Joshua Tree là 404), mục này trong thân bài vì vậy định mức C.
 
-## 打开失败或未能提取、未引用的来源
-- 公安部 mps.gov.cn、m.mps.gov.cn：全程 HTTP 521；诈骗类型占比只能标 TODO。
-- 国家消防救援局 119.gov.cn：405 / 412；qmxfkp 子目录 412。
-- 国家卫健委 nhc.gov.cn「高温中暑预防知识要点」（/wjw/jbyfykz/201007/1edb19b7dd4e4bdf8da5ea45f4a64e23.shtml）：412（http 与 https 均是）。
-- 中国地震局 <https://www.cea.gov.cn/cea/dzpd/dzcs/5758823/index.html>（地震时如何做好自救互救，2024-05-10，海南省地震局供稿）与 …/5758835/index.html（「林」震有方，北京市地震局）：页面打开、标题与日期可见，正文脚本渲染未能提取文字。
-- 应急管理部 mem.gov.cn/kp 生活安全、自然灾害栏目：能打开，但每篇文章链接都指向 mp.weixin.qq.com（公众号），按规则不引；也无燃气、触电、迷路专题。
-- 中国红十字会 redcross.org.cn：首页能打开，应急救护栏目只有培训新闻，没有止血、溺水、海姆立克的知识页。
-- 中国疾控中心 chinacdc.cn 健康主题页：能打开，慢病与伤害子栏目返回空白。
-- 北斗官网 beidou.gov.cn/xt/xtjs/：Socket is closed。
-- WHO heat-and-health、snakebite first aid Q&A：404。
-- CDC extreme-cold、heat-health、drowning 各页：404 或无救援原文。
-- gov.cn 站内搜索接口（sousuo.www.gov.cn/search-gov/data）：t=zhengce 能返回但与本节无关，t=xinwen / govall 全部「没有找到相关结果」。
-- 触电、燃气泄漏两条候选：没有任何可打开的官方原文，**未收**。
-- 急救包最低配置：并入条 2、11 的成本栏，不单列。
+## Nguồn mở thất bại hoặc không trích xuất được, không trích dẫn
+- Bộ Công an mps.gov.cn, m.mps.gov.cn: suốt quá trình HTTP 521; tỷ lệ các kiểu lừa đảo chỉ có thể ghi TODO.
+- Cục Cứu hỏa và Cứu nạn nhà nước 119.gov.cn: 405 / 412; thư mục con qmxfkp là 412.
+- Ủy ban Y tế và Sức khỏe nhà nước nhc.gov.cn “Những điểm kiến thức phòng tránh say nắng do nóng cao” (/wjw/jbyfykz/201007/1edb19b7dd4e4bdf8da5ea45f4a64e23.shtml): 412 (cả http lẫn https).
+- Cục Địa chấn Trung Quốc <https://www.cea.gov.cn/cea/dzpd/dzcs/5758823/index.html> (“khi động đất làm tốt tự cứu và cứu giúp lẫn nhau thế nào”, 10-05-2024, do Cục Địa chấn tỉnh Hải Nam cung cấp) và …/5758835/index.html (cột “phòng động đất có phương của Lâm”, Cục Địa chấn thành phố Bắc Kinh): trang mở được, tiêu đề và ngày tháng nhìn thấy được, thân bài render bằng kịch bản nên không trích xuất được chữ.
+- Bộ Quản lý tình trạng khẩn cấp mem.gov.cn/kp các chuyên mục an toàn sinh hoạt, thiên tai: mở được, nhưng liên kết mỗi bài đều trỏ về mp.weixin.qq.com (kênh công chúng WeChat), theo quy tắc không trích; cũng không có chuyên đề về khí gas, điện giật, lạc đường.
+- Hội Chữ thập đỏ Trung Quốc redcross.org.cn: trang chủ mở được, chuyên mục cấp cứu chỉ có tin đào tạo, không có trang kiến thức về cầm máu, đuối nước, động tác Heimlich.
+- Trung tâm Kiểm soát dịch bệnh Trung Quốc chinacdc.cn trang chủ đề sức khỏe: mở được, chuyên mục con bệnh mãn tính và tổn thương trả về trắng.
+- Website chính thức BeiDou beidou.gov.cn/xt/xtjs/: Socket is closed.
+- WHO heat-and-health, mục Q&A sơ cứu rắn cắn: 404.
+- Các trang CDC extreme-cold, heat-health, drowning: 404 hoặc không có nguyên văn về cứu hộ.
+- Giao diện tìm kiếm trong site gov.cn (sousuo.www.gov.cn/search-gov/data): t=zhengce trả về được nhưng không liên quan chương này, t=xinwen / govall toàn bộ trả “không tìm thấy kết quả liên quan”.
+- Hai mục ứng cử về điện giật, rò rỉ khí gas: không có nguyên văn chính thức nào mở được, **không thu vào**.
+- Cấu hình tối thiểu của túi cấp cứu: gộp vào cột chi phí của mục 2, 11, không tách riêng.
+## Bổ sung kiểm chứng 2026-09-07: viết lại mục động đất (mục 13 trong chương 13)
 
-## 2026-09-07 补充核实：地震条（第 13 节第 13 条）改写
+Nguyên nhân viết lại: độc giả nghi ngờ “cúi sát đất, tìm chỗ nấp, níu chặt, không chạy ra ngoài” không phù hợp với động đất đột ngột, dữ dội mà nhà cửa có thể sập, và cho rằng có trường hợp cho thấy người nhanh chân chạy ra ngoài bị thương vong thấp hơn.
 
-改写起因：读者质疑「伏地、找掩护、抓牢，不往外跑」不适用于突然剧烈、房屋会垮的地震，认为有案例显示迅速跑出的人伤亡更低。
+Nguyên văn đã mở và đối chiếu:
 
-打开并核对的原文：
-
-1. Europe PMC 记录 MED/1600585，<https://europepmc.org/article/MED/1600585>
+1. Europe PMC ghi MED/1600585, <https://europepmc.org/article/MED/1600585>
    Armenian HK, Noji EK, Oganesian AP (1992). A case-control study of injuries arising from
    the earthquake in Armenia, 1988. Bulletin of the World Health Organization, 70(2), 251-257.
-   摘要原文（逐字）："A total of 189 such individuals were identified through neighbourhood
+   Nguyên văn tóm tắt (từng chữ): "A total of 189 such individuals were identified through neighbourhood
    polyclinics in the city of Leninakan and 159 noninjured controls were selected from the same
    neighbourhoods." / "98% of persons who were hospitalized with injuries were inside a building
    at the time of the earthquake, compared with 83% of the controls (odds ratio = 12.20, 95%
@@ -161,51 +159,50 @@
    (95% CI = 2.12-6.33)." / "Leaving buildings after the first shock of the earthquake was a
    protective behaviour. The odds ratio for those staying indoors compared with those who ran out
    was 4.40 (95% CI = 2.24-8.71)."
-   已核对：标题、作者、期刊、年份、卷页、三组比值比与置信区间全部一致。
-   局限（已写进备注）：对照是同社区未受伤者，遇难者未纳入；摘要未说明是否校正楼层。
+   Đã đối chiếu: tiêu đề, tác giả, tạp chí, năm, tập – trang, ba nhóm tỷ số chênh (odds ratio) và khoảng tin cậy đều trùng khớp.
+   Hạn chế (đã ghi vào ghi chú): nhóm chứng là người chưa bị thương trong cùng cộng đồng, người thiệt mạng không được đưa vào; tóm tắt không nói rõ có hiệu chỉnh theo tầng nhà hay không.
 
 2. Mahue-Giangreco M, Mack W, Seligson H, Bourque LB (2001). Annals of Epidemiology, 11(5),
-   347-357. <https://doi.org/10.1016/s1047-2797(01)00220-4>（PMID 11399450）
-   摘要提到 "The current recommendation of 'duck, cover, and hold'" 在夜间、人在床上时未必最优，
-   并指出 "reaching for or catching objects, bracing, or holding onto perceived stable objects may
-   increase risk for more serious injury"。已核对标题、作者、期刊卷页、DOI。
+   347-357. <https://doi.org/10.1016/s1047-2797(01)00220-4> (PMID 11399450)
+   Tóm tắt nêu rằng “The current recommendation of 'duck, cover, and hold'” chưa chắc tối ưu vào ban đêm khi người đang nằm trên giường,
+   và chỉ ra rằng “reaching for or catching objects, bracing, or holding onto perceived stable objects may
+   increase risk for more serious injury”. Đã đối chiếu tiêu đề, tác giả, tập – trang tạp chí, DOI.
 
 3. US FEMA Ready.gov. Earthquakes. <https://www.ready.gov/earthquakes>
-   2026-09-07 复核，During 段原文："Drop where you are onto hands and knees." / "Cover your head
+   Đối chiếu lại ngày 2026-09-07, nguyên văn đoạn During: "Drop where you are onto hands and knees." / "Cover your head
    and neck with one arm and hand." / "Hold until the shaking stops." / "If you are inside, stay
    and do not run outside; avoid doorways."
-   该页未对无抗震设防、砖石或土坯建筑给出例外说明。
+   Trang này không có phần nói ngoại lệ cho các công trình không được thiết kế kháng chấn, nhà gạch đá hoặc nhà đất.
 
-未取得的来源：中国地震局科普页（正文脚本渲染，抓不到文字），仍标 TODO。
-未采用：短视频平台上的相关分析（不符合引用规则），读者提到的「某次地震近乎零伤亡因为人跑得快」的具体案例
-未能定位到官方或期刊出处，因此没有写进条目。
+Nguồn chưa lấy được: trang phổ biến khoa học của Cục Địa chấn Trung Quốc (thân bài render bằng kịch bản, không bóc được chữ), vẫn ghi TODO.
+Không sử dụng: các phân tích liên quan trên các nền tảng video ngắn (không phù hợp quy tắc trích dẫn); trường hợp cụ thể độc giả nhắc đến “một trận động đất hầu như không có thương vong vì người dân chạy nhanh” chưa định vị được nguồn chính thức hoặc trên tạp chí, nên không ghi vào mục.
 
-### 2026-09-07 再补：拿到中国地震局原文（视频字幕转录），TODO 解除
+### 2026-09-07 bổ sung tiếp: đã lấy được nguyên văn của Cục Địa chấn Trung Quốc (chép lại phụ đề video), gỡ TODO
 
-此前两次抓取失败的原因查清了：中国地震局「地震科普」栏目的文章正文不是文字，是内嵌 mp4。
-raw HTML 里 `id="news_content"` 内只有一个 `<video src="...mp4">`，所以浏览器渲染出来也是空的。
+Đã tìm ra nguyên nhân hai lần bóc dữ liệu trước đó thất bại: phần thân bài của chuyên mục “phổ biến khoa học động đất” trên website Cục Địa chấn Trung Quốc không phải chữ mà là mp4 nhúng.
+Trong raw HTML, phần tử `id="news_content"` chỉ chứa một `<video src="...mp4">`, nên trình duyệt render ra cũng trống rỗng.
 
-改用抽帧读字幕：
-- 页面 <https://www.cea.gov.cn/cea/dzpd/dzcs/5537260/index.html>（标题「地震来了，是躲还是跑？」，
-  片头署名「安徽省地震局」，中国地震局官网地震科普栏目）
-- 视频 <https://www.cea.gov.cn/cea/dzpd/dzcs/5537260/2020051215493612585.mp4>，时长 2 分 33 秒，1920×1080
-- 用 ffmpeg 按 1.5 到 3 秒一帧裁出字幕条拼图，逐帧读取
+Đổi cách: trích khung hình để đọc phụ đề:
+- Trang <https://www.cea.gov.cn/cea/dzpd/dzcs/5537260/index.html> (tiêu đề “Động đất rồi, né hay chạy?”,
+  phần mở đầu ghi rõ “Cục Địa chấn tỉnh An Huy”, chuyên mục phổ biến khoa học động đất trên website chính thức của Cục Địa chấn Trung Quốc)
+- Video <https://www.cea.gov.cn/cea/dzpd/dzcs/5537260/2020051215493612585.mp4>, thời lượng 2 phút 33 giây, 1920×1080
+- Dùng ffmpeg cắt khung mỗi 1,5 đến 3 giây để ghép bảng phụ đề, đọc từng khung
 
-转录到的原文字幕（按出现顺序，逐字）：
-「今天我们就来聊一聊」「既要因地制宜」「也要因人而异」「综合考虑建筑物的抗震能力」
-「人员所处位置、体能、室外环境」「具体情况具体分析」
-「地震时 如果在户外」「应该第一时间疏散到空旷的地方避震」「避开容易倒塌的高大建筑物」
-「注意远离高架桥、电线杆、玻璃幕墙」「广告牌以及其他高空悬挂物」「还要注意远离化工厂、危险品仓库等」
-「这里指的是在符合抗震设防要求的建筑内」
-标题卡：「震时就近躲避」「震后迅速撤离」
-「地震发生时」「建筑物整体垮塌的可能性较小」「即使在大地震中彻底垮塌的建筑物也是少数」
-「绝大多数的建筑物只是遭受不同程度的破坏」「坠落的建筑构件及装饰物品」「才是对生命安全最大的威胁」
-「震时无保护措施的盲目乱跑」「反而容易被坠落的天花板、吊灯（扇）等物品砸伤」
-「躲也要讲究科学」「的避震口诀要时刻牢记」「用手或者其他软物保护好头颈部」「并牢牢地抓住桌腿」
-「这样才能保证在晃动过程中」「从而达到遮蔽保护的效果」
-「则应迅速贴紧承重墙蹲伏」「同时保护好头部」「注意避开外墙、窗户、阳台等等」
+Phụ đề nguyên văn đã chép được (theo thứ tự xuất hiện, từng chữ):
+“Hôm nay chúng ta cùng nói về chuyện này” “vừa phải tùy điều kiện từng nơi” “cũng phải tùy theo từng người” “tổng hợp xem xét khả năng kháng chấn của công trình”
+“vị trí của con người, thể lực, môi trường bên ngoài” “tình huống cụ thể thì phân tích cụ thể”
+“Khi động đất, nếu đang ở ngoài trời” “nên trong giây phút đầu tiên sơ tán đến nơi trống trải để né đất rung” “tránh các công trình cao lớn dễ sập đổ”
+“chú ý tránh xa cầu vượt, cột điện, tường kính khép kín” “biển quảng cáo và các vật treo trên cao khác” “còn phải chú ý tránh xa nhà máy hóa chất, kho hàng nguy hiểm…”
+“ở đây nói đến là ở trong các công trình đạt yêu cầu thiết kế kháng chấn”
+Thẻ tiêu đề: “khi động đất thì né tại chỗ gần nhất” “sau động đất thì nhanh chóng rút lui”
+“Khi động đất xảy ra” “khả năng công trình sập toàn bộ là nhỏ” “ngay cả trong động đất lớn, công trình sập hoàn toàn cũng chỉ là thiểu số”
+“phần lớn công trình chỉ chịu hư hại ở các mức độ khác nhau” “các cấu kiện công trình và đồ vật trang trí rơi xuống” “mới là mối đe dọa lớn nhất đối với an toàn tính mạng”
+“khi động đất chạy loạn xạ mà không có biện pháp bảo vệ” “thay vào đó dễ bị trần nhà, đèn (quạt) treo rơi xuống đập thương”
+“né cũng phải có khoa học” “câu cửa miệng về né động đất phải luôn ghi nhớ” “dùng tay hoặc vật mềm khác bảo vệ tốt vùng đầu – cổ” “và nắm thật chặt chân bàn”
+“như vậy mới có thể trong quá trình rung lắc” “đạt được hiệu quả che chắn, bảo vệ”
+“thì nên nhanh chóng áp sát tường chịu lực mà ngồi thu mình” “đồng thời bảo vệ tốt phần đầu” “chú ý tránh tường ngoài, cửa sổ, ban công v.v.”
 
-要点：官方口诀「震时就近躲避、震后迅速撤离」有明确前提——「在符合抗震设防要求的建筑内」，
-且开篇就要求「因地制宜」「因人而异」「综合考虑建筑物的抗震能力」。这与本条按建筑分情况的写法一致，
-故条目改用该片作首要来源，TODO（待核实：中国地震局原文）解除。
-该片未单独讲平房、无设防自建房该跑还是该躲，本条中「老房子出去」的部分仍以亚美尼亚研究为据并标争议。
+Điểm chính: câu cửa miệng chính thức “khi động đất né tại chỗ gần nhất, sau động đất nhanh chóng rút lui” có tiền đề rõ ràng — “ở trong các công trình đạt yêu cầu thiết kế kháng chấn”,
+và ngay phần mở đầu đã yêu cầu “tùy điều kiện từng nơi” “tùy theo từng người” “tổng hợp xem xét khả năng kháng chấn của công trình”. Điều này trùng với cách viết của mục này là phân theo từng loại công trình,
+nên mục này đổi sang dùng đoạn phim trên làm nguồn chính, gỡ TODO (chờ kiểm chứng: nguyên văn của Cục Địa chấn Trung Quốc).
+Đoạn phim không nói riêng rằng với nhà một tầng, nhà tự xây không có thiết kế kháng chấn nên chạy hay nên né, phần “nhà cũ thì chạy ra ngoài” trong mục này vẫn dựa vào nghiên cứu Armenia và ghi chú tranh cãi.

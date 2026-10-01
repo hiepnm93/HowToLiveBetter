@@ -1,5 +1,7 @@
 # Agent notes (dlgrv/HowToLiveBetter)
 
+> **hiepnm93 fork (Vietnamese):** this repo is [hiepnm93/HowToLiveBetter](https://github.com/hiepnm93/HowToLiveBetter), built on the [dlgrv](https://github.com/dlgrv/HowToLiveBetter) multilingual pipeline. Vietnamese (`vi`) is the site's primary locale (`book/vi/`, `README.vi.md`, `docs/research/vi/`); title «Cẩm nang sống hiệu quả»; content is CC BY 4.0 with attribution to the original [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter). VI conventions: [TRANSLATION.md § Vietnamese](TRANSLATION.md#vietnamese-vi--conventions). Bulk translation backend: `HTLB_LLM_BACKEND=claude-cli` (headless `claude -p`).
+
 English-primary fork of [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter).
 
 ## Sync Chinese content from upstream

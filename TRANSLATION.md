@@ -204,3 +204,18 @@ China-context rules above are identical; field labels are in the table above.
 Applies to `book/pt/` and `README.pt.md` (pt-BR). Field labels in the table above
 (`Custo` / `Em linguagem simples` / `Benefício` / `Nível de evidência` / `Fontes` / `Notas`).
 Same number rules as ES. Chapters **01–34** under `book/pt/`; slugs as in TOC.
+
+## Vietnamese (VI) — conventions
+
+Applies to `book/vi/`, `README.vi.md`, `docs/research/vi/`. Prompt style pack:
+[translate/prompts/translate-unit.md](translate/prompts/translate-unit.md) § Vietnamese.
+
+- Field labels: `Chi phí` / `Nói dễ hiểu` / `Lợi ích` / `Mức bằng chứng` / `Nguồn` / `Ghi chú` (SSOT `translate/rules/vi.json`).
+- Book title: «Cẩm nang sống hiệu quả». Attribution keeps the original repo link
+  https://github.com/eternity4719/HowToLiveBetter (CC BY 4.0) plus the VI fork link.
+- Numbers: decimal comma, thousands dot (`43,2%`, `1.234.567`); scale words nghìn / triệu / tỷ / nghìn tỷ (never «vạn»). `verify.py` normalizes these.
+- Hanzi allowed only inside round parentheses as a gloss: «bảo hiểm y tế (医保)», «(《民法典》)».
+  `translate_unit.fix_vi_punct` wraps stray hanzi and converts CJK punctuation mechanically.
+- File slugs: `book/vi/NN-khong-dau-gach-noi.md` (map in `translate/ops/translate_doc.py` `CHAPTER_SLUGS`).
+- Free-form docs (README, long reads): `python3 translate/ops/translate_doc.py <src.md> <out.md>`.
+- LanguageTool has no Vietnamese pack — `make lt` is skipped for `vi`; verify + human read instead.

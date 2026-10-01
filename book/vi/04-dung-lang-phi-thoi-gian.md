@@ -1,0 +1,166 @@
+# 4. Đừng lãng phí thời gian
+
+Phần này chỉ tính sổ thời gian: mỗi ngày, mỗi tuần, mỗi năm tiết kiệm lại được bao nhiêu giờ, hoặc tỷ lệ hoàn thành việc đúng hạn tăng thêm được bao nhiêu. Ở đây không quy thời gian ra tuổi thọ, cũng không quy ra tiền. Những chỗ dính đến tiền chỉ nêu cách tính, không đưa kết luận. Bằng chứng của đa số các mục trong phần này là một nghiên cứu đơn lẻ hoặc thống kê tổng thể từ khảo sát cách dùng thời gian, nên mức bằng chứng chủ yếu ở mức B và C.
+
+### 1. Viết “dự định sẽ làm” thành “mấy giờ, ở đâu, gặp việc gì thì làm việc đó”
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=时间 -->
+- Chi phí: Không tốn tiền. Mỗi việc chỉ mất 1 đến 2 phút để viết một câu “nếu… thì…”. Ví dụ: “8 giờ sáng thứ Ba ngồi vào bàn là viết phần mở đầu trước”.
+- Nói dễ hiểu: Thay câu “tôi sẽ làm việc này” bằng “8 giờ sáng thứ Ba ngồi vào bàn là viết phần mở đầu trước”. Tính gộp 94 lần kiểm chứng, tỷ lệ hoàn thành mục tiêu của những người viết kiểu này cao hơn rõ rệt — mức tác động trung bình đến lớn. Bạn chỉ đổi cách viết một câu, không tốn tiền cũng không tốn sức.
+- Lợi ích: Tính gộp 94 phép kiểm định độc lập, những ai viết sẵn dự định dưới dạng “nếu… thì…” đạt mục tiêu với tỷ lệ cao hơn. Cách viết này trong tâm lý học gọi là ý định thực hiện (implementation intention). Cỡ hiệu ứng d = 0,65, thuộc mức trung bình đến lớn. Nó phát huy tác dụng ở ba khâu: giúp bạn bắt tay vào việc, giữ vững khi bị gián đoạn, và rút lui kịp khỏi những việc chắc chắn không thành.
+- Mức bằng chứng: A
+- Nguồn:Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119. <https://doi.org/10.1016/S0065-2601(06)38002-1>
+- Ghi chú: Mẹo này chỉ hiệu quả với những việc bạn thực sự muốn làm. Nếu bản thân không muốn mục tiêu đó thì viết bao nhiêu câu cũng vô ích. Ngoài ra, các nghiên cứu này chủ yếu chọn sinh viên làm đối tượng và chủ yếu xét các thói quen về sức khỏe, nên đem sang môi trường công việc chưa chắc cho kết quả như vậy.
+
+### 2. Viết ra điều kiện dừng trước khi bắt đầu
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
+- Chi phí: Không tốn tiền. Tốn 5 phút lúc bắt đầu để viết rõ "đến ngày… mà chưa đạt chỉ tiêu… thì dừng". Khó ở chỗ đến ngày đó phải thừa nhận, dừng tay trước mặt người khác thì hơi mất thể diện.
+- Nói dễ hiểu: Trước khi bắt đầu, hãy viết sẵn một câu: "đến ngày… mà chưa đạt chỉ tiêu… thì dừng". Gộp nhiều nghiên cứu lại, cách viết này thực sự giúp người ta rút khỏi việc mà chắc chắn không thành. Thứ được tiết kiệm là toàn bộ thời gian lẽ ra bạn còn phải đổ thêm vào.
+- Lợi ích: Gộp kết quả nhiều nghiên cứu về ý định thực hiện (implementation intention), kết quả là: câu "nếu… thì…" định trước cũng giúp người ta rút khỏi các phương án chắc chắn thất bại. Nguyên văn là disengagement from failing courses of action. Thời gian tiết kiệm được chính là phần bạn lẽ ra còn tiếp tục đầu tư.
+- Mức bằng chứng: B
+- Nguồn:Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. Advances in Experimental Social Psychology, 38, 69–119. <https://doi.org/10.1016/S0065-2601(06)38002-1>
+- Ghi chú: Điều kiện dừng nên đặt ngay khi mới bắt đầu, lúc cảm xúc còn bình tĩnh. Đặt muộn hơn sẽ bị chi phí đã bỏ ra kéo lệch. Khi cân nhắc, chỉ nhìn vào chi phí và lợi ích sắp tới — xem mục 3. Ngoài ra, "chịu rút lui" chỉ là một kết luận bộ phận trong tổng hợp nhiều nghiên cứu; chưa ai tính riêng xem nó tiết kiệm được bao nhiêu thời gian.
+
+### 3. Khi quyết định có tiếp tục hay không, chỉ tính phần bỏ ra và phần thu về trong tương lai, đừng tính những gì đã bỏ ra rồi
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
+- Chi phí: Không tốn tiền. Khó ở chỗ phải chấp nhận một điều: thời gian đã bỏ ra rồi thì mất, không lấy lại được.
+- Nói dễ hiểu: Tiền và thời gian đã bỏ vào rồi sẽ khiến người ta càng muốn làm tiếp cho bằng. Gộp 98 bộ dữ liệu lại, khuynh hướng này hiện ra rất ổn định. Vì vậy khi cân nhắc có nên tiếp tục hay không, chỉ cần tính từ giờ trở đi còn bỏ ra bao nhiêu và còn thu về được bao nhiêu; phần đã tiêu rồi thì không tính vào.
+- Lợi ích: Tiền, công sức và thời gian đã đầu tư khiến người ta càng muốn tiếp tục làm. Trong tâm lý học, hiện tượng này gọi là hiệu ứng chi phí chìm (sunk cost). Gộp 98 bộ dữ liệu lại phân tích, kết quả xác nhận khuynh hướng này tồn tại ổn định. Tránh được khuynh hướng này thì bạn sẽ không tiếp tục bỏ thêm thời gian chỉ vì "tiếc phần đã bỏ ra".
+- Mức bằng chứng: B
+- Nguồn:Arkes, H. R., & Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35, 124–140. <https://doi.org/10.1016/0749-5978(85)90049-4>；Roth, S., Robbert, T., & Straus, L. (2015). On the sunk-cost effect in economic decision-making: A meta-analytic review. Business Research, 8(1), 99–138. <https://doi.org/10.1007/s40685-014-0014-8>
+- Ghi chú: Thí nghiệm rạp hát của Arkes và Blumer diễn ra như thế này: rạp hát của Đại học Ohio bán vé cả mùa, ngẫu nhiên bán cho người mua ba mức giá — giá gốc 15 đô la Mỹ, giảm 2 đô la, giảm 7 đô la. Nửa đầu mùa, nhóm mua giá gốc xem trung bình 4,11 suất, hai nhóm còn lại xem 3,32 và 3,29 suất. Sang nửa sau mùa, ba nhóm không còn chênh lệch đáng kể. Roth và cộng sự nhận thấy ảnh hưởng này nhạt dần theo thời gian, và người càng lớn tuổi càng ít bị ảnh hưởng.
+
+### 4. Ước thời gian dựa trên thời gian thực tế của việc tương tự trước đây, không tính theo kế hoạch
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=时间 -->
+- Chi phí: Không tốn tiền. Trước khi ước, dành vài phút xem lại lần trước việc tương tự thực sự mất bao lâu.
+- Nói dễ hiểu: Sinh viên ước mất 33,9 ngày để hoàn thành luận văn, thực tế mất 55,5 ngày; chỉ 29,7% làm xong đúng thời gian mình đã ước. Một nhóm khác được yêu cầu nhớ lại lần trước việc tương tự mất bao lâu rồi mới ước: tỉ lệ hoàn thành đúng hạn tăng từ 29,3% lên 60,0%.
+- Lợi ích: Sinh viên dự đoán hoàn thành luận văn trong 33,9 ngày, thực tế mất 55,5 ngày. Chỉ 29,7% hoàn thành đúng theo dự đoán của mình. Nhóm nghiên cứu yêu cầu một nhóm khác trước hết liên kết trải nghiệm trong quá khứ với công việc hiện tại, sau đó mới ước thời gian. Tỉ lệ hoàn thành đúng hạn của nhóm này tăng từ 29,3% ở nhóm đối chứng lên 60,0%. Sự lạc quan khiến người ta ước thấp thời gian không còn xuất hiện ở nhóm này.
+- Mức bằng chứng: B
+- Nguồn:Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the "planning fallacy": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>；Flyvbjerg, B. (2006). From Nobel Prize to project management: Getting risks right. Project Management Journal, 37(3), 5–15. <https://doi.org/10.1177/875697280603700302>；Halkjelsvik, T., & Jørgensen, M. (2012). From origami to software development: A review of studies on judgment-based predictions of performance time. Psychological Bulletin, 138(2), 238–271. <https://doi.org/10.1037/a0025996>
+- Ghi chú: Nghiên cứu của Buehler chỉ tuyển sinh viên đại học Canada; đây là một nghiên cứu đơn lẻ với số người ít: 37 người và khoảng 40 người mỗi nhóm. Việc ước thời gian dựa trên dữ liệu lịch sử của các dự án tương tự được gọi là dự báo theo lớp tham chiếu (reference class forecasting); cách làm cụ thể trong kỹ thuật xem ở Flyvbjerg. Sau khi tổng hợp nhiều nghiên cứu, Halkjelsvik chỉ ra rằng ước thấp phổ biến hơn ước cao, nhưng độ chênh lệch thay đổi rất nhiều tùy loại nhiệm vụ và phương pháp nghiên cứu.
+
+### 5. Gửi chương trình họp trước, không có chương trình thì không họp; đứng họp khi có thể
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
+- Chi phí: Không tốn tiền. Người tổ chức dành 5 đến 10 phút trước cuộc họp để soạn chương trình họp. Họp đứng cần người tham gia phối hợp.
+- Nói dễ hiểu: Những cuộc họp có gửi chương trình trước thì người tham dự dễ thấy cuộc họp hữu ích hơn. Trong thí nghiệm, cuộc họp ngồi kéo dài hơn cuộc họp đứng 34%, nhưng chất lượng quyết định của hai cách họp thì không khác nhau.
+- Lợi ích: Hai cuộc khảo sát lần lượt có 958 người và 292 người. Kết quả: những cuộc họp gửi chương trình trước khiến người tham dự dễ thấy cuộc họp hiệu quả hơn, mối liên hệ này có ý nghĩa về mặt thống kê. Trong một thí nghiệm khác, 55 nhóm họp ngồi và 56 nhóm họp đứng — nhóm ngồi kéo dài hơn 34%. Chất lượng quyết định của hai cách họp không có khác biệt.
+- Mức bằng chứng: B
+- Nguồn:Leach, D. J., Rogelberg, S. G., Warr, P. B., & Burnfield, J. L. (2009). Perceived meeting effectiveness: The role of design characteristics. Journal of Business and Psychology, 24(1), 65–76. <https://doi.org/10.1007/s10869-009-9092-6>；Bluedorn, A. C., Turban, D. B., & Love, M. S. (1999). The effects of stand-up and sit-down meeting formats on meeting outcomes. Journal of Applied Psychology, 84(2). <https://doi.org/10.1037/0021-9010.84.2.277>
+- Ghi chú: Thí nghiệm về họp đứng thực hiện trên các nhóm 5 người làm nhiệm vụ trong phòng thí nghiệm. Không thể áp dụng kết luận này cho các cuộc họp dài hoặc họp quy mô lớn. Leach đo cảm nhận của người tham dự về mức hiệu quả, không phải lượng việc thực tế hoàn thành.
+
+### 6. Cắt bớt số cuộc họp: việc nào chữ giải quyết được thì không họp
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
+- Chi phí: Không tốn tiền. Cần sự phối hợp của đồng nghiệp và cấp trên. Khó ở chỗ phải viết rõ ràng một đoạn trao đổi — tốn sức hơn nhiều so với mở miệng nói một câu.
+- Nói dễ hiểu: Ngày nào họp càng nhiều, bạn càng mệt, và tự cảm thấy việc trên tay cũng càng chất. Cắt bỏ một cuộc họp thì thời gian nhận lại đúng bằng thời lượng cuộc họp đó, không bớt một phút nào.
+- Lợi ích: Hai cuộc khảo sát chọn nhân viên làm việc trên 35 giờ mỗi tuần, lần lượt có 676 người và 304 người. Thời gian họp chiếm bao nhiêu không ảnh hưởng cố định đến thái độ làm việc và mức độ hạnh phúc; mức ảnh hưởng phụ thuộc vào hai chuyện: cuộc họp có tổ chức tốt không, và công việc ở vị trí đó phụ thuộc vào người khác đến đâu. Một nghiên cứu khác yêu cầu người tham gia ghi nhật ký suốt một tuần liền; kết quả cho thấy ngày nào họp càng nhiều lần, mức mệt mỏi và khối lượng việc tự cảm nhận càng cao. Thời gian tiết kiệm được, đúng bằng thời lượng của cuộc họp bạn cắt bỏ.
+- Mức bằng chứng: B
+- Nguồn:Rogelberg, S. G., Leach, D. J., Warr, P. B., & Burnfield, J. L. (2006). "Not another meeting!" Are meeting time demands related to employee well-being? Journal of Applied Psychology, 91(1). <https://doi.org/10.1037/0021-9010.91.1.83>；Luong, A., & Rogelberg, S. G. (2005). Meetings and more meetings: The relationship between meeting load and the daily well-being of employees. Group Dynamics: Theory, Research, and Practice, 9(1). <https://doi.org/10.1037/1089-2699.9.1.58>
+- Ghi chú: Có tranh cãi: Rogelberg 2006 phát hiện mối quan hệ giữa lượng họp nhiều hay ít và mức độ hạnh phúc không hẳn một chiều. Ở những vị trí công việc phụ thuộc nhiều vào người khác, họp nhiều lại không phải chuyện xấu. Ngoài ra, chưa có nghiên cứu nào so sánh trực tiếp “chuyển sang trao đổi không đồng bộ bằng chữ” với việc họp; đây là suy luận của chính tác giả.
+
+### 7. Chia việc lớn thành các việc nhỏ rồi mới ước thời gian và bắt đầu
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
+- Chi phí: Không tốn tiền. Bản thân việc chia mất 5 đến 15 phút.
+- Nói dễ hiểu: Khi ước thời gian cho một công việc, người ta không tự chia việc ra từng phần để tính. Liệt kê các việc nhỏ ra trước rồi mới ước sẽ ít bị ước thiếu hơn. Chia xong, mỗi bước nhỏ đều có thể bắt tay vào làm ngay, nên cũng đỡ trì hoãn hơn.
+- Lợi ích: Khi ước thời gian, người ta không tự chia một công việc có nhiều đầu việc thành từng phần. Ví dụ viết phần tổng quan tài liệu, viết phần thảo luận, sắp xếp tài liệu tham khảo — bản chất đây vốn là mấy việc riêng biệt. Liệt kê các việc nhỏ ra trước rồi mới ước giúp hạn chế thói quen ước thời gian thiếu, thói quen này gọi là sai lầm hoạch định (planning fallacy). Chia xong, mỗi bước nhỏ đều thành một việc có thể bắt đầu ngay lập tức, và trì hoãn cũng giảm theo. Trong các nghiên cứu, những yếu tố báo trước trì hoãn mạnh nhất gồm cảm giác ghét việc đó, và chính việc đó đã từng bị đẩy lùi.
+- Mức bằng chứng: B
+- Nguồn:Kruger, J., & Evans, M. (2004). If you don't want to be late, enumerate: Unpacking reduces the planning fallacy. Journal of Experimental Social Psychology, 40(5), 586–598. <https://doi.org/10.1016/j.jesp.2003.11.001>；Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1). <https://doi.org/10.1037/0033-2909.133.1.65>
+- Ghi chú: Chia đến mức nào là vừa: lấy mốc "mỗi việc nhỏ làm xong được trong một lần ngồi xuống"; chia quá nhỏ thì bản thân nó cũng tốn thời gian. Ngoài ra, nghiên cứu của Kruger và Evans mới chỉ kiểm chứng được hướng kết quả qua bản tóm tắt, chưa kiểm chứng được các con số phần trăm cụ thể trong nguyên văn.
+
+### 8. Tự đặt hạn chót cho việc không có hạn chót từ bên ngoài
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
+- Chi phí: Không tốn tiền. Khó ở chỗ đã đặt là phải giữ lời: đến ngày mà coi nhẹ thì coi như chưa đặt.
+- Nói dễ hiểu: Khi có hạn chót do người khác đặt, 80,6% sinh viên làm xong trước hạn đó. Còn làm xong đúng trong thời gian mình tự ước thì chỉ có 38,7%. Việc xong lúc nào gần như do hạn chót quyết định, chứ ít liên quan đến dự đoán của chính mình. Vì thế với việc nào không có hạn chót, hãy tự đặt một cái và giữ lời.
+- Lợi ích: Ở nhóm sinh viên có hạn chót từ bên ngoài, 80,6% hoàn thành trước hạn. Còn chỉ có 38,7% hoàn thành trong khoảng thời gian mình tự dự đoán. Thời điểm hoàn thành gần như đi theo hạn chót, hệ số tương quan r = 0,82 — con số càng gần 1 nghĩa là bám càng chặt; còn với dự đoán của bản thân thì quan hệ rất yếu.
+- Mức bằng chứng: B
+- Nguồn:Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the "planning fallacy": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>
+- Ghi chú: Nói ngày bạn tự đặt cho người khác biết, nó sẽ gần hơn với loại hạn chót do người ngoài đặt. Cần lưu ý: nghiên cứu chỉ kiểm chứng rằng hạn chót do người khác đặt thì hiệu quả; loại tự đặt cho mình, như chia khung thời gian (timebox) hay đồng hồ Pomodoro, chưa ai đo trực tiếp — phần này là suy luận theo.
+
+### 9. Coi trì hoãn là đang né tránh khó chịu, đừng coi là thiếu cố gắng
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
+- Chi phí: Không tốn tiền. Thứ thay đổi chỉ là hướng nhìn: trước tiên hỏi xem việc này chỗ nào khiến bạn khó chịu, rồi hẵng nghĩ cách.
+- Nói dễ hiểu: Trì hoãn gần như không liên quan mấy đến lười biếng hay tính cách. Cái nói rõ nhất bạn có trì hoãn hay không là: việc đó khiến bạn khó chịu đến đâu, bạn có tin mình làm được không, và bạn dễ bị thứ gì ngay trước mắt kéo đi đến mức nào. Vậy nên cách có ích là làm cho việc bớt khó chịu và thu nhỏ bước đầu tiên lại — chứ không phải mắng mình một trận rồi gồng tiếp.
+- Lợi ích: Một phân tích gộp tổng hợp 691 hệ số tương quan cho thấy các yếu tố gắn chặt và ổn định với trì hoãn gồm: việc đó đáng ghét, khó chịu đến mức nào, khoảng cách còn lại đến hạn chót, niềm tin vào năng lực của bản thân (cảm giác mình làm được), tính bốc đồng, cùng với tính tận tâm và các khía cạnh của nó như tự kiểm soát, dễ bị phân tâm, ability tổ chức công việc, động cơ thành tựu. Còn tính bất ổn cảm xúc (neuroticism), tính chống đối và thích tìm cảm giác mạnh thì chỉ liên hệ rất yếu với trì hoãn. Tác giả giải thích nhóm kết quả này bằng thuyết động lực theo thời gian (temporal motivation theory): sức hút hiện tại của một việc giảm rất nhanh khi phần thưởng ngày càng ở xa.
+- Mức bằng chứng: A
+- Nguồn:Steel P (2007). The nature of procrastination: a meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65–94. <https://doi.org/10.1037/0033-2909.133.1.65>
+- Ghi chú: Mức lợi ích ghi là “trung bình”, vì các nghiên cứu này mới chỉ ra được hướng, chưa đo được tiết kiệm được bao nhiêu giờ. Cách làm cụ thể nằm ở mục 1 của chương này (viết việc theo dạng “lúc mấy giờ, ở đâu, gặp việc gì thì làm việc đó”), mục 7 (chia việc lớn thành các việc nhỏ), mục 8 (tự đặt ngày hạn cho những việc không có hạn chót từ bên ngoài). Đây là tổng hợp các nghiên cứu tương quan, không kết luận được cái nào gây ra cái nào.
+
+### 10. Để đồ cần dùng gần tay, đồ cần tránh ra xa, đừng trông chờ vào việc nhịn ngay lúc đó
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
+- Chi phí: Không tốn tiền, làm một lần chỉ mất vài phút. Cất điện thoại sang phòng khác, trải sách và máy tính lên bàn.
+- Nói dễ hiểu: Đồ để càng xa thì bạn càng ít lấy. Cùng một loại đồ ăn vặt, để xa hơn thì lượng ăn vào giảm rõ rệt, thuộc nhóm hiệu quả cỡ trung bình. Bày ra ít lựa chọn hơn thì số người lấy cũng giảm rõ rệt. Cách này không đòi bạn phải nhịn ngay tại chỗ, chỉ vài phút là sắp xếp xong.
+- Lợi ích: Một tổng quan Cochrane gộp 24 thử nghiệm ngẫu nhiên có đối chứng. Khi đặt đồ ăn xa hơn, lượng ăn vào giảm: hiệu số trung bình chuẩn hóa −0,60 (khoảng tin cậy 95% từ −0,84 đến −0,36; 12 nghiên cứu, 1.098 người, bằng chứng độ tin cậy thấp), thuộc hiệu ứng cỡ trung bình. Khi giảm số lựa chọn, việc chọn món đồ ăn đó giảm rõ hơn: hiệu số trung bình chuẩn hóa −1,13 (khoảng tin cậy 95% từ −1,90 đến −0,37; 3 nghiên cứu, 154 người, bằng chứng độ tin cậy thấp). Phân tích hồi quy cho thấy: để càng xa, càng ít lựa chọn thì hiệu ứng càng mạnh.
+- Mức bằng chứng: B
+- Nguồn:Hollands GJ, Carter P, Anwer S, et al. (2019). Altering the availability or proximity of food, alcohol, and tobacco products to change their selection and consumption. Cochrane Database of Systematic Reviews, 9, CD012573. <https://doi.org/10.1002/14651858.CD012573.pub3>
+- Ghi chú: Lý do xếp mức B: cả 24 nghiên cứu trong tổng quan này đều về đồ ăn, không có nghiên cứu nào về rượu hay thuốc lá; 14 nghiên cứu làm trong phòng thí nghiệm, tất cả đến từ các nước thu nhập cao. Vì vậy, việc áp suy luận «để xa thì ít chạm» sang điện thoại và trò chơi chỉ là suy diễn, chưa có thử nghiệm trực tiếp nào. Riêng việc để điện thoại ra khỏi tầm mắt đã có người kiểm chứng trực tiếp, xem mục 1 của phần 3 (Tắt thông báo không cần thiết, để điện thoại ra khỏi tầm mắt khi làm việc).
+
+### 11. Muốn tự buộc mình làm được thì đem tiền đặt cược, nhưng trước hết hãy hỏi mình có chịu bỏ tiền không
+<!-- 成本标签: 钱=少 时间=少 毅力=些 收益=中 口径=时间 -->
+
+- Chi phí: Kiểu đặt cược đòi hỏi bạn phải bỏ trước một khoản tiền của mình; không làm được thì bị tịch thu. Trong thử nghiệm, khoản tiền đặt là 150 USD.
+- Nói dễ hiểu: Muốn ép mình làm được, bạn có thể chọn kiểu thưởng (làm được thì lãnh tiền thưởng), hoặc kiểu đặt cược (bỏ tiền ra trước, làm được thì nhận lại cộng thêm thưởng). Trong nhóm người chịu tham gia cả hai kiểu, nhóm đặt cược có tỉ lệ làm được cao hơn 13 điểm phần trăm. Nhưng chỉ 13,7% chịu đặt cược, còn tới 90% chịu nhận thưởng — nên đặt cược chỉ có tác dụng với người thật sự chịu bỏ tiền.
+- Lợi ích: Một thử nghiệm ngẫu nhiên ở Mỹ với 2.538 người, phân ngẫu nhiên các nhân viên cùng người thân, bạn bè của họ vào bốn phương án khuyến khích hoặc chăm sóc thông thường. Kiểu thưởng (làm được nhận khoảng 800 USD) có tỉ lệ chấp nhận 90,0%; kiểu đặt cược (đặt trước 150 USD, cộng thêm 650 USD tiền thưởng) chỉ 13,7%. Tỉ lệ cai thuốc lá duy trì được sau sáu tháng: bốn phương án khuyến khích nằm trong khoảng 9,4% đến 16,0%, chăm sóc thông thường 6,0%. Kiểu thưởng đạt 15,7%, kiểu đặt cược 10,2%. Nhưng nếu chỉ tính riêng 13,7% người chịu tham gia cả hai kiểu, thì tỉ lệ cai thuốc sau sáu tháng của kiểu đặt cược cao hơn kiểu thưởng 13,2 điểm phần trăm (95% CI 3,1 đến 22,8 — tức là khoảng tin cậy).
+- Mức bằng chứng: A
+- Nguồn:Halpern SD, French B, Small DS, et al. (2015). Randomized trial of four financial-incentive programs for smoking cessation. New England Journal of Medicine, 372(22), 2108–2117. <https://doi.org/10.1056/NEJMoa1414293>
+- Ghi chú: Thử nghiệm này đo việc cai thuốc lá; việc suy rộng sang viết luận văn, tập thể dục… chỉ là suy đoán, nên mức lợi ích được ghi là "trung bình". Khi chọn phương án, trước hết hãy xem bạn có thật sự dùng nó hay không. Một cách mà đa số không chịu áp dụng thì dù hiệu quả đến mấy cũng vô dụng với những người đó. Vì vậy, trước tiên hãy chọn kiểu bạn chịu chấp nhận; đặt cược số tiền nhỏ vẫn hơn là không đặt. Còn cai thuốc lá nói chung thì xem mục 3, chương 2 (thuốc cai thuốc lá).
+
+### 12. Đếm thói quen mới theo tháng, đừng lấy "21 ngày" làm chuẩn
+<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=中 口径=时间 -->
+- Chi phí: Không tốn tiền. Cần lặp lại cùng một hành động mỗi ngày trong cùng một bối cảnh, kéo dài vài tháng.
+- Nói dễ hiểu: Câu "21 ngày để hình thành một thói quen" không có căn cứ. Một nghiên cứu theo dõi 12 tuần tính ra: để một hành động trở thành việc làm mà không cần suy nghĩ, nhanh thì 18 ngày, chậm thì tới 254 ngày. Hai ba tuần mà vẫn chưa thấy nhẹ nhàng hơn là chuyện bình thường. Bỏ lỡ một ngày giữa chừng cũng không xoá sạch tiến độ.
+- Lợi ích: 96 tình nguyện viên mỗi người chọn một hành động liên quan đến ăn, uống hoặc vận động, làm mỗi ngày trong một bối cảnh cố định (ví dụ "sau bữa sáng") suốt 12 tuần, mỗi ngày tự chấm điểm mức độ tự động của mình. Dữ liệu của 82 người đủ để phân tích, mô hình khớp thành công trên 62 người. Số ngày cần để đạt 95% mức tự động tối đa của từng người nằm trong khoảng 18 đến 254 ngày. Nghiên cứu còn phát hiện: bỏ lỡ một lần thực hiện không ảnh hưởng đáng kể đến quá trình hình thành thói quen.
+- Mức bằng chứng: B
+- Nguồn:Lally P, van Jaarsveld CHM, Potts HWW, Wardle J (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009. <https://doi.org/10.1002/ejsp.674>
+- Ghi chú: Chỉ có duy nhất nghiên cứu này, với 96 người, và các hành động đều đơn giản (ví dụ ăn một quả trái cây sau bữa ăn). Việc phức tạp hơn mất bao lâu — ví dụ chạy bộ ba lần mỗi tuần, viết mỗi ngày — chưa ai đo. Vì vậy, hai tuần sau vẫn thấy vất vả không thể coi là bằng chứng của thất bại. Để việc lặp lại thực sự xảy ra, hãy gắn hành động vào một bối cảnh cố định, xem mục 1 trong chương này (viết theo kiểu "mấy giờ, ở đâu, gặp điều gì thì làm điều đó").
+
+### 13. Dùng tài liệu tự trợ giúp có thử nghiệm ngẫu nhiên chứng minh khi trì hoãn đã ảnh hưởng đến cuộc sống, không nhất thiết phải tìm chuyên gia trị liệu
+<!-- 成本标签: 钱=0 时间=中 毅力=些 收益=中 口径=时间 -->
+- Chi phí: Một cuốn sách tự trợ giúp giá vài chục nhân dân tệ, có loại miễn phí. Cần bỏ khoảng mười tuần: mỗi tuần đọc một phần và làm một bài tập.
+- Nói dễ hiểu: Trì hoãn nặng đến mức gây khổ sở thì vẫn cải thiện được. Tập theo tài liệu tự trợ giúp dựa trên trị liệu nhận thức – hành vi trong mười tuần: có người hướng dẫn làm cùng hay tự làm một mình đều hiệu quả rõ rệt hơn là không làm gì cả. Có người hướng dẫn hay không thì gần như không thấy khác biệt, nên tự tập theo tài liệu vẫn có tác dụng.
+- Lợi ích: 150 người được chia ngẫu nhiên thành ba nhóm: tự trợ giúp có chuyên gia trị liệu hướng dẫn, tự trợ giúp không hướng dẫn, và nhóm đối chứng danh sách chờ. Sau mười tuần, cỡ hiệu ứng giữa các nhóm trên thang đo trì hoãn thuần túy: nhóm có hướng dẫn d = 0,70 (95% CI 0,29–1,10, tức khoảng tin cậy), nhóm không hướng dẫn d = 0,50 (0,10–0,90); trên thang đo trì hoãn phi lý trí lần lượt là 0,81 (0,40–1,22) và 0,69 (0,29–1,09). Tỷ lệ đạt mức cải thiện có ý nghĩa lâm sàng: nhóm có hướng dẫn từ 31,3% đến 40,0%, nhóm không hướng dẫn từ 24,0% đến 36,0%. Hai nhóm không có khác biệt đáng kể ở bất kỳ kết quả nào.
+- Mức bằng chứng: A
+- Nguồn:Rozental A, Forsell E, Svensson A, Andersson G, Carlbring P (2015). Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial. Journal of Consulting and Clinical Psychology, 83(4), 808–824. <https://doi.org/10.1037/ccp0000023>
+- Ghi chú: Người tham gia là người trưởng thành ở Thụy Điển, tài liệu viết bằng tiếng Thụy Điển, tiếng Trung chưa có bộ tương đương sẵn, nên mức độ lợi ích được ghi là "trung bình". Các thành phần trong tài liệu chỉ là mấy thứ quen thuộc: kích hoạt hành vi, thí nghiệm hành vi, kiểm soát kích thích, và phần giảng giải về động lực cùng cách làm việc. Riêng kiểm soát kích thích đã có ở mục 10 của chương này (đưa thứ bạn không muốn đụng tới ra xa). Nếu trì hoãn đi kèm tâm trạng buồn bã rõ rệt hoặc lo âu, hãy làm theo mục 19 của chương 3 trước (vận động, ra nắng, ngủ đúng giờ, tìm người tâm sự, gọi 12356).
+
+### 14. Dùng lương theo giờ của bạn để quyết định việc nhà nào nên thuê ngoài
+<!-- 成本标签: 钱=多 时间=少 毅力=否 收益=大 口径=时间 -->
+- Chi phí: Bạn phải chi tiền thuê dịch vụ, nhiều hay ít tuỳ vào loại dịch vụ bạn mua. Ngoài ra cần bỏ ra một lần thời gian trước để tính rõ lương theo giờ của chính mình.
+- Nói dễ hiểu: Người Trung Quốc trung bình mỗi ngày dành 1 giờ 17 phút làm việc nhà. Riêng nhóm người thật sự có làm trong ngày thì mất 1 giờ 59 phút. Người chi tiền mua thời gian có mức hài lòng với cuộc sống cao hơn. Cùng một khoản tiền, tiêu vào mua thời gian khiến người ta vui hơn ngay lúc đó so với tiêu vào mua đồ.
+- Lợi ích: Người dân Trung Quốc trung bình dành 1 giờ 17 phút mỗi ngày cho việc nhà. Nếu chỉ tính những người có làm việc nhà, mức trung bình là 1 giờ 59 phút. Đây là khảo sát năm 2024, phủ 38.500 hộ và 107.000 người. Một nghiên cứu khác lấy mẫu 6.271 người ở bốn quốc gia, cho thấy người chi tiền mua thời gian có mức hài lòng với cuộc sống cao hơn. Nhóm nghiên cứu còn làm thử nghiệm ngay trong đời thực: cùng một khoản tiền, tiêu vào mua thời gian mang lại cảm giác vui lúc đó cao hơn so với mua đồ vật.
+- Mức bằng chứng: B
+- Nguồn:Whillans, A. V., Dunn, E. W., Smeets, P., Bekkers, R., & Norton, M. I. (2017). Buying time promotes happiness. Proceedings of the National Academy of Sciences. <https://doi.org/10.1073/pnas.1706541114>；国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>
+- Ghi chú: Trước tiên tính lương theo giờ: thu nhập sau thuế một tháng chia cho số giờ bạn thực tế làm việc trong tháng. Sau đó xem việc nhà định thuê ngoài tốn bao nhiêu tiền. Nếu giá thuê ngoài thấp hơn lương theo giờ của bạn, và thời gian tiết kiệm được bạn thật sự dùng để kiếm tiền hoặc nghỉ ngơi, thì nên thuê. Lương theo giờ và giá dịch vụ của mỗi người khác nhau, nên phải tự tính lấy. Ngoài ra, Whillans đo xem người ta có vui hơn không sau khi chi tiền mua thời gian, chứ không đo tiết kiệm được bao nhiêu giờ.
+
+### 15. Đặt giới hạn cứng cho video ngắn và việc lướt vô mục đích
+<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=时间 -->
+- Chi phí: Không tốn tiền. Việc làm chỉ mất vài phút: tắt thông báo đẩy (push), xóa ứng dụng, hoặc đặt giới hạn thời gian mỗi ngày cho ứng dụng. Khó là kiềm chế được tay, nhịn không bấm vào mở.
+- Nói dễ hiểu: Người Trung Quốc trung bình mỗi ngày dùng mạng 5 giờ 37 phút. Riêng những ai hôm đó thật sự lên mạng thì mức là 6 giờ 3 phút. Năm 2018, tính cùng một kiểu mới chỉ 2 giờ 42 phút. Đây là con số lớn nhất trong mục này. Cắt mỗi ngày một giờ là cả năm có thêm 365 giờ.
+- Lợi ích: Cư dân Trung Quốc trung bình mỗi ngày dùng mạng 5 giờ 37 phút. Chỉ tính những người hôm đó thật sự lên mạng, mức trung bình là 6 giờ 3 phút. Tỷ lệ người có dùng mạng trong ngày là 92,9%. Đây là số liệu năm 2024. Năm 2018, tính cùng một cách thì mới chỉ 2 giờ 42 phút. Đây là con số lớn nhất trong mục này. Cắt bớt một giờ mỗi ngày, tương đương thêm 365 giờ mỗi năm. Theo Trung tâm Thông tin Mạng Internet Trung Quốc (中国互联网络信息中心), tính đến tháng 6 năm 2025, người dùng mạng trung bình lên mạng 30,6 giờ mỗi tuần, nhiều hơn nửa năm trước 1,9 giờ. Số người dùng video ngắn đạt 1,068 tỷ, chiếm 95,1% tổng số người dùng mạng.
+- Mức bằng chứng: C
+- Nguồn:国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>；国家统计局 (2019). 2018年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>；中国互联网络信息中心 (2025). 第 56 次《中国互联网络发展状况统计报告》. <https://www.cnnic.net.cn/NMediaFile/2025/0730/MAIN1753846666507QEK67ZS9DH.pdf>
+- Ghi chú: Thời gian dùng mạng bao gồm cả làm việc, học tập và giao tiếp, không phải toàn bộ đều là lãng phí. Chỉ xếp mức C vì chưa có nghiên cứu nào tính xem “giới hạn rồi thu về được bao nhiêu, thời gian đó dùng vào đâu” — hiện chỉ có thống kê tổng lượng. Riêng nhóm “lướt xem người khác sống thế nào” đã có thử nghiệm ngẫu nhiên đo cả thời gian thu về lẫn mức thay đổi tâm trạng, xem mục 3, điều 21.
+
+### 16. Không xem tivi và tin tức cập nhật liên tục, hẹn giờ xem tập trung phần thông tin cần biết
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
+- Chi phí: Không tốn tiền. Khó ở chỗ bỏ thói quen tay rảnh là bật tivi lên, ngoài ra có thể bỏ lỡ một số tin vừa xảy ra.
+- Nói dễ hiểu: Người Mỹ từ 15 tuổi trở lên xem tivi 2,6 giờ mỗi ngày, chiếm một nửa toàn bộ thời gian rảnh. Người Trung Quốc trung bình xem 1 giờ 40 phút mỗi ngày, nhóm người 75 đến 84 tuổi xem 3 giờ 16 phút. Chuyển phần thông tin cần xem sang hẹn giờ xem tập trung, thì cả khối thời gian này chính là phần bạn lấy lại được.
+- Lợi ích: Người Mỹ từ 15 tuổi trở lên xem tivi 2,6 giờ mỗi ngày. Tổng thời gian giải trí của họ là 5,2 giờ, xem tivi chiếm một nửa. Đây là số liệu năm 2025. Cư dân Trung Quốc xem tivi trung bình 1 giờ 40 phút mỗi ngày, nhóm 75 đến 84 tuổi là 3 giờ 16 phút. Đây là số liệu năm 2018.
+- Mức bằng chứng: C
+- Nguồn:U.S. Bureau of Labor Statistics (2026). American Time Use Survey — 2025 Results. <https://www.bls.gov/news.release/atus.nr0.htm>；国家统计局 (2019). 2018年全国时间利用调查公报. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>
+- Ghi chú: Hiện chỉ có thống kê tổng lượng. Chưa có nghiên cứu nào tính xem sau khi bớt xem tivi và thời sự, phần thời gian tiết kiệm được được dùng vào việc gì. Cách "hẹn giờ xem tập trung" là kinh nghiệm của tác giả.
+
+### 17. Dành một lần học phím tắt và tự động hóa cho phần mềm dùng thường ngày
+<!-- 成本标签: 钱=0 时间=中 毅力=些 收益=中 口径=时间 -->
+- Chi phí: Không tốn tiền. Phải đầu tư một lần vài giờ đến vài chục giờ để học. Khó nhất là giai đoạn mới tập còn chậm hơn dùng chuột.
+- Nói dễ hiểu: Phần lớn người dùng Word nhiều năm vẫn cứ bấm icon trên thanh công cụ. Trong thí nghiệm chia nhóm so sánh, phím tắt nhanh hơn cả menu lẫn icon. Học tốn một lần, sau đó mỗi thao tác mỗi ngày đều dần hoàn lại vốn. Càng làm lâu cùng một loại việc, càng thu về nhiều.
+- Lợi ích: Nghiên cứu quan sát 251 người dùng Word thành thạo: đa số rất hiếm khi dùng phím tắt dù nó nhanh hơn, mà chủ yếu vẫn bấm icon trên thanh công cụ. Thí nghiệm chia nhóm so sánh xác nhận: trong ba cách gồm menu, icon và phím tắt, phím tắt là nhanh nhất. Thời gian tiết kiệm được cộng dồn dần theo số thao tác mỗi ngày. Người gắn bó lâu với cùng một loại công việc được lợi nhiều nhất.
+- Mức bằng chứng: B
+- Nguồn:Lane, D. M., Napier, H. A., Peres, S. C., & Sándor, A. (2005). Hidden costs of graphical user interfaces: Failure to make the transition from menus and icon toolbars to keyboard shortcuts. International Journal of Human-Computer Interaction. <https://doi.org/10.1207/s15327590ijhc1802_1>
+- Ghi chú: Chỉ học những thao tác bạn dùng hơn mười lần mỗi ngày; học quá nhiều chỉ là một dạng lãng phí khác. Cần nói rõ: thí nghiệm hiệu suất đó chỉ có 6 người tham gia, và phần tóm tắt cũng không nêu số giây tiết kiệm được cho mỗi thao tác.
+
+### 18. Chọn chỗ ở ưu tiên thời gian đi làm, rút ngắn quãng đường mỗi chiều
+<!-- 成本标签: 钱=多 时间=中 毅力=否 收益=大 口径=时间 -->
+- Chi phí: Chi phí cao. Có thể phải trả tiền thuê nhà đắt hơn, hoặc chuyển sang căn nhà nhỏ hơn. Bản thân việc chuyển nhà cũng tốn thời gian.
+- Nói dễ hiểu: Ai có quãng đường đi làm càng dài thì càng tự thấy cuộc sống của mình kém vui. Khoản thiệt hại này không được bù lại bằng lương hay chỗ ở. Đi làm mỗi chiều bớt 30 phút thì mỗi tuần bạn tiết kiệm được 5 giờ.
+- Lợi ích: Người dân Trung Quốc trung bình dành 50 phút mỗi ngày cho việc di chuyển. Nếu chỉ tính những ai hôm đó có đi lại, con số là 1 giờ 2 phút. Đây là số liệu năm 2024. Nghiên cứu ở Đức theo dõi dài hạn cùng một nhóm người cho thấy người có quãng đường đi làm càng dài thì mức hài lòng tự đánh giá về cuộc sống (tự thấy cuộc sống của mình thế nào) ổn định ở mức thấp hơn. Và khoản thiệt hại này không được bù lại bằng thu nhập hay chỗ ở. Các bài tổng hợp nhiều nghiên cứu cũng xác nhận: thời gian đi làm càng dài, người ta càng không hài lòng với việc đi làm, bất kể dùng phương tiện gì. Mỗi chiều bớt 30 phút, mỗi tuần tiết kiệm được khoảng 5 giờ.
+- Mức bằng chứng: B
+- Nguồn:Stutzer, A., & Frey, B. S. (2008). Stress that doesn't pay: The commuting paradox. Scandinavian Journal of Economics, 110(2), 339–366. <https://doi.org/10.1111/j.1467-9442.2008.00542.x>；Chatterjee, K., et al. (2020). Commuting and wellbeing: A critical overview of the literature with implications for policy and future research. Transport Reviews, 40(1), 5–34. <https://doi.org/10.1080/01441647.2019.1649317>；国家统计局 (2024). 第三次全国时间利用调查公报（第二号）. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>
+- Ghi chú: Tranh cãi: Chatterjee và cộng sự sau khi tổng hợp nhiều nghiên cứu chỉ ra rằng giữa độ dài quãng đường đi làm và mức hài lòng chung với cuộc sống chưa thấy mối quan hệ ổn định. Họ cho rằng nhìn chung người ta có thể bù lại thiệt hại do đi làm xa bằng công việc tốt hơn hoặc chỗ ở tốt hơn. Cần lưu ý thêm: thống kê về hoạt động di chuyển tính cả mọi chuyến đi, không riêng việc đi làm. Ngoài ra, nếu có thể đi làm lệch giờ, cùng một quãng đường cũng mất ít thời gian hơn.

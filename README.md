@@ -12,15 +12,16 @@ Covers longevity and disease prevention, accidents and first aid, saving money a
 ![Primary sources](https://img.shields.io/badge/Primary%20sources-1443%20links-565a5f?style=flat-square)
 ![License](https://img.shields.io/badge/License-Unlicense-565a5f?style=flat-square)
 
-**[Open the online search page](https://dlgrv.github.io/HowToLiveBetter/en/)** | [Table of contents](#table-of-contents) | [Glossary](#reading-the-numbers-glossary) | [Verification records](docs/research/核实记录/) | [Is marriage worth it (long read)](docs/research/en/Is-Marriage-Worth-It.md) | [Home emergency kit (long read)](docs/research/en/Home-Emergency-Kit.md) | [Should you stop to help a stranger (long read)](docs/research/en/Should-You-Stop-To-Help-A-Stranger.md) | [What licenses a platform needs (long read)](docs/research/en/What-Licenses-A-Platform-Needs.md)
+**[Open the online search page](https://hiepnm93.github.io/HowToLiveBetter/en/)** | [Table of contents](#table-of-contents) | [Glossary](#reading-the-numbers-glossary) | [Verification records](docs/research/核实记录/) | [Is marriage worth it (long read)](docs/research/en/Is-Marriage-Worth-It.md) | [Home emergency kit (long read)](docs/research/en/Home-Emergency-Kit.md) | [Should you stop to help a stranger (long read)](docs/research/en/Should-You-Stop-To-Help-A-Stranger.md) | [What licenses a platform needs (long read)](docs/research/en/What-Licenses-A-Platform-Needs.md)
 
 | Language | Site | README | PDF | EPUB |
 | --- | --- | --- | --- | --- |
-| 🇬🇧 English | [Read on the site](https://dlgrv.github.io/HowToLiveBetter/en/) | [README.md](README.md) | [Download PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.pdf) | [Download EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.epub) |
-| 🇷🇺 Русский | [Читать на сайте](https://dlgrv.github.io/HowToLiveBetter/ru/) | [README.ru.md](README.ru.md) | [Скачать PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.pdf) | [Скачать EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.epub) |
-| 🇨🇳 中文 | [在网站阅读](https://dlgrv.github.io/HowToLiveBetter/zh/) | [README.zh.md](README.zh.md) | [下载 PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.pdf) | [下载 EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.epub) |
-| 🇪🇸 Español | [Leer en el sitio](https://dlgrv.github.io/HowToLiveBetter/es/) | [README.es.md](README.es.md) | [Descargar PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.pdf) | [Descargar EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.epub) |
-| 🇧🇷 Português | [Ler no site](https://dlgrv.github.io/HowToLiveBetter/pt/) | [README.pt.md](README.pt.md) | [Baixar PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.pdf) | [Baixar EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.epub) |
+| 🇻🇳 Tiếng Việt | [Đọc trên web](https://hiepnm93.github.io/HowToLiveBetter/vi/) | [README.vi.md](README.vi.md) | — | — |
+| 🇬🇧 English | [Read on the site](https://hiepnm93.github.io/HowToLiveBetter/en/) | [README.md](README.md) | [Download PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.pdf) | [Download EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.epub) |
+| 🇷🇺 Русский | [Читать на сайте](https://hiepnm93.github.io/HowToLiveBetter/ru/) | [README.ru.md](README.ru.md) | [Скачать PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.pdf) | [Скачать EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.epub) |
+| 🇨🇳 中文 | [在网站阅读](https://hiepnm93.github.io/HowToLiveBetter/zh/) | [README.zh.md](README.zh.md) | [下载 PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.pdf) | [下载 EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.epub) |
+| 🇪🇸 Español | [Leer en el sitio](https://hiepnm93.github.io/HowToLiveBetter/es/) | [README.es.md](README.es.md) | [Descargar PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.pdf) | [Descargar EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.epub) |
+| 🇧🇷 Português | [Ler no site](https://hiepnm93.github.io/HowToLiveBetter/pt/) | [README.pt.md](README.pt.md) | [Baixar PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.pdf) | [Baixar EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.epub) |
 
 ---
 
@@ -67,7 +68,7 @@ Covers longevity and disease prevention, accidents and first aid, saving money a
 
 ## How to read this
 
-- **To filter by conditions**: open the [online search page](https://dlgrv.github.io/HowToLiveBetter/en/); you can filter by keyword, chapter, and evidence grade, and combine three cost dimensions: whether it costs money, whether it takes time, whether it takes willpower. The data is read directly from the book/ text; fix the text and the search page changes with it.
+- **To filter by conditions**: open the [online search page](https://hiepnm93.github.io/HowToLiveBetter/en/); you can filter by keyword, chapter, and evidence grade, and combine three cost dimensions: whether it costs money, whether it takes time, whether it takes willpower. The data is read directly from the book/ text; fix the text and the search page changes with it.
 - **To read in order**: items inside each section are ordered from highest to lowest value for the money; start with the first few items of each section.
 - **If you can't read that string of numbers**: every item has an "In plain terms" line that translates the risk ratios and confidence intervals in the Benefit field into everyday statements like "about 20% lower chance of dying in the same period" or "a few days of detention, a fine of so much" — using only facts already in the original, without adding new numbers. That line alone is enough to decide; the Benefit field keeps all the raw numbers and confidence intervals so you can check for yourself.
 - **Only the hardest conclusions**: on the search page check evidence grade A to keep only the 425 items with concrete numbers from meta-analyses or large trials.
@@ -222,4 +223,4 @@ Items inside each section are ordered from highest to lowest value for money. Se
 
 ## The book itself
 
-The text is split into 34 section files under [book/en/](book/en/); click a section title in the table of contents above to open it. It is split because a single file would exceed GitHub's 512 KB Markdown rendering limit and later sections would not display; the [online search page](https://dlgrv.github.io/HowToLiveBetter/en/) reads these files combined and works the same way.
+The text is split into 34 section files under [book/en/](book/en/); click a section title in the table of contents above to open it. It is split because a single file would exceed GitHub's 512 KB Markdown rendering limit and later sections would not display; the [online search page](https://hiepnm93.github.io/HowToLiveBetter/en/) reads these files combined and works the same way.

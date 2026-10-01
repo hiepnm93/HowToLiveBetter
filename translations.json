@@ -687,5 +687,177 @@
       "file": "34-Cuidado-ao-usar-os-medicamentos-que-tem-em-casa.md",
       "verified": null
     }
+  },
+  "vi": {
+    "01": {
+      "status": "complete",
+      "file": "01-dung-chet-som.md",
+      "verified": null
+    },
+    "02": {
+      "status": "complete",
+      "file": "02-dung-chet-tu-tu.md",
+      "verified": null
+    },
+    "03": {
+      "status": "complete",
+      "file": "03-dung-lang-phi-suc-luc.md",
+      "verified": null
+    },
+    "04": {
+      "status": "complete",
+      "file": "04-dung-lang-phi-thoi-gian.md",
+      "verified": null
+    },
+    "05": {
+      "status": "complete",
+      "file": "05-dung-lang-phi-tien.md",
+      "verified": null
+    },
+    "06": {
+      "status": "complete",
+      "file": "06-danh-sach-dieu-khong-nen.md",
+      "verified": null
+    },
+    "07": {
+      "status": "complete",
+      "file": "07-song-the-nao-khi-khong-co-tien.md",
+      "verified": null
+    },
+    "08": {
+      "status": "complete",
+      "file": "08-dung-tu-dua-minh-vao-rac-roi.md",
+      "verified": null
+    },
+    "09": {
+      "status": "complete",
+      "file": "09-lan-ranh-phap-luat-de-dam-phai.md",
+      "verified": null
+    },
+    "10": {
+      "status": "complete",
+      "file": "10-yeu-va-ket-hon-co-dang-khong.md",
+      "verified": null
+    },
+    "11": {
+      "status": "complete",
+      "file": "11-lan-ranh-cho-lap-trinh-vien.md",
+      "verified": null
+    },
+    "12": {
+      "status": "complete",
+      "file": "12-khoi-nghiep-va-kinh-doanh.md",
+      "verified": null
+    },
+    "13": {
+      "status": "complete",
+      "file": "13-tinh-huong-khan-cap.md",
+      "verified": null
+    },
+    "14": {
+      "status": "complete",
+      "file": "14-tai-khoan-va-an-toan-thong-tin.md",
+      "verified": null
+    },
+    "15": {
+      "status": "complete",
+      "file": "15-thue-nha-va-mua-nha.md",
+      "verified": null
+    },
+    "16": {
+      "status": "complete",
+      "file": "16-song-khi-mac-benh-man-tinh.md",
+      "verified": null
+    },
+    "17": {
+      "status": "complete",
+      "file": "17-nha-co-nguoi-gia.md",
+      "verified": null
+    },
+    "18": {
+      "status": "complete",
+      "file": "18-nuoi-con-co-dang-khong.md",
+      "verified": null
+    },
+    "19": {
+      "status": "complete",
+      "file": "19-di-lam-nghi-viec-va-tai-nan-lao-dong.md",
+      "verified": null
+    },
+    "20": {
+      "status": "complete",
+      "file": "20-cham-soc-tre-so-sinh.md",
+      "verified": null
+    },
+    "21": {
+      "status": "complete",
+      "file": "21-du-lich-nuoc-ngoai-va-an-toan.md",
+      "verified": null
+    },
+    "22": {
+      "status": "complete",
+      "file": "22-thu-gian-the-nao.md",
+      "verified": null
+    },
+    "23": {
+      "status": "complete",
+      "file": "23-hoc-ky-nang-gi-dang.md",
+      "verified": null
+    },
+    "24": {
+      "status": "complete",
+      "file": "24-di-kham-benh.md",
+      "verified": null
+    },
+    "25": {
+      "status": "complete",
+      "file": "25-thu-tuc-khi-nguoi-than-qua-doi.md",
+      "verified": null
+    },
+    "26": {
+      "status": "complete",
+      "file": "26-lam-website-hoac-nen-tang.md",
+      "verified": null
+    },
+    "27": {
+      "status": "complete",
+      "file": "27-mang-thai-va-sinh-con.md",
+      "verified": null
+    },
+    "28": {
+      "status": "complete",
+      "file": "28-dung-pha-co-the-vi-ngoai-hinh.md",
+      "verified": null
+    },
+    "29": {
+      "status": "complete",
+      "file": "29-sau-cu-soc-lon.md",
+      "verified": null
+    },
+    "30": {
+      "status": "complete",
+      "file": "30-con-thoi-di-hoc.md",
+      "verified": null
+    },
+    "31": {
+      "status": "complete",
+      "file": "31-nhung-con-duong-sau-18-tuoi.md",
+      "verified": null
+    },
+    "32": {
+      "status": "complete",
+      "file": "32-du-hoc.md",
+      "verified": null
+    },
+    "33": {
+      "status": "complete",
+      "file": "33-song-khi-khuyet-tat.md",
+      "verified": null
+    },
+    "34": {
+      "status": "complete",
+      "file": "34-thuoc-trong-nha-dung-uong-sai.md",
+      "verified": null
+    }
   }
 }

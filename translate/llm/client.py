@@ -63,6 +63,43 @@ def _completions_url(base_url: str) -> str:
     return f"{base}/chat/completions"
 
 
+def _chat_claude_cli(messages: list[dict[str, str]], *, timeout: float) -> str:
+    """Headless `claude -p` backend (HTLB_LLM_BACKEND=claude-cli).
+
+    System message → --system-prompt; remaining turns flattened into stdin.
+    Model comes from the CLI's own settings unless HTLB_LLM_MODEL is set.
+    """
+    import subprocess
+
+    system = "\n\n".join(m["content"] for m in messages if m["role"] == "system")
+    turns = [m for m in messages if m["role"] != "system"]
+    prompt = "\n\n".join(
+        m["content"] if m["role"] == "user" else f"[Your previous draft]\n{m['content']}"
+        for m in turns
+    )
+    cmd = [os.environ.get("HTLB_CLAUDE_BIN", "claude"), "-p", "--tools", ""]
+    if system:
+        cmd += ["--system-prompt", system]
+    model = os.environ.get("HTLB_LLM_MODEL", "").strip()
+    if model:
+        cmd += ["--model", model]
+    last = ""
+    for attempt in range(MAX_RETRIES + 1):
+        try:
+            res = subprocess.run(
+                cmd, input=prompt, capture_output=True, text=True, timeout=timeout, check=False
+            )
+        except subprocess.TimeoutExpired:
+            last = "timeout"
+            continue
+        out = res.stdout.strip()
+        if res.returncode == 0 and out:
+            return out
+        last = (res.stderr or res.stdout)[:500]
+        time.sleep(5 * (attempt + 1))
+    raise LLMError(f"claude-cli failed after retries: {last}")
+
+
 def chat(
     messages: list[dict[str, str]],
     *,
@@ -74,6 +111,8 @@ def chat(
     timeout: float | None = None,
 ) -> str:
     load_dotenv()
+    if os.environ.get("HTLB_LLM_BACKEND", "").strip() == "claude-cli":
+        return _chat_claude_cli(messages, timeout=timeout or 900)
     explicit = base_url is not None or model is not None
     if base_url is None:
         base_url = _require_env("HTLB_LLM_BASE_URL")

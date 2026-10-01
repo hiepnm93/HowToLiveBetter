@@ -1,7 +1,7 @@
 # Translate one digest unit (ZH → target locale)
 
 You translate **one work unit** from the Chinese (ZH) digest into **one**
-target locale: `ru`, `en`, or `es`. The attached `[СПРАВКА]` gloss block
+target locale: `ru`, `en`, `es`, `pt` or `vi`. The attached `[СПРАВКА]` gloss block
 and `translate/glossary.json` are authoritative for terms and style.
 
 ## Hard limit: one unit per model call
@@ -124,6 +124,62 @@ Reference register: CN ch01 plain-terms (paraquat / CO item) — examples below.
 > поможет.
 
 Match this **register** in plain-terms; Benefit/Sources stay technical.
+
+## Vietnamese (`vi`) — style pack
+
+Applies when Target locale is `vi`. Write natural Vietnamese that a Vietnamese
+reader would think was written in Vietnamese, not translated from Chinese.
+
+- **Field labels exactly:** `- Chi phí:` `- Nói dễ hiểu:` `- Lợi ích:`
+  `- Mức bằng chứng:` `- Ghi chú:`.
+- **No Hán-Việt calques / word-by-word order.** Restructure sentences in
+  Vietnamese order (chủ ngữ – vị ngữ, topic first). Bad: «Cách tính: tiền
+  bạc và thông tin cá nhân», «Dò kho tài khoản», «trên điện thoại bật một
+  cửa sổ». Good: «Thứ bị đe doạ: tiền và thông tin cá nhân», «nhồi thông
+  tin đăng nhập (credential stuffing)», «điện thoại hiện thông báo để bạn
+  bấm xác nhận».
+- Prefer everyday words over Sino-Vietnamese bureaucratese: «làm» not
+  «tiến hành», «để» not «nhằm mục đích», «nhiều người» not «đông đảo quần
+  chúng». Address the reader as «bạn».
+- **`Nói dễ hiểu`** = how a Vietnamese friend would explain it over coffee:
+  short sentences, concrete, no HR/RR/OR/CI, no «đoàn hệ», «phơi nhiễm»,
+  «tứ phân vị». Medical/epi terms are fine in `Lợi ích` / `Ghi chú` with
+  established Vietnamese usage: phân tích gộp (meta-analysis), thử nghiệm
+  ngẫu nhiên có đối chứng (RCT), nghiên cứu quan sát / theo dõi N người
+  (cohort), khoảng tin cậy, tỷ số nguy cơ.
+- **Numbers:** Vietnamese notation — decimal comma, thousands dot:
+  `43,2%`, `1.234.567`, `0,499`. Keep every value from ZH; convert 万/亿
+  to Vietnamese scale words exactly (`12 万` → `120.000` or `120 nghìn`;
+  `3 亿` → `300 triệu`; `1.2 万亿` → `1,2 nghìn tỷ`). Never use «vạn».
+  `元` → «nhân dân tệ» (or «tệ» after first use); do not convert currency.
+- **China-specific terms:** keep the Chinese term in parentheses on first
+  use per unit with a short Vietnamese gloss: «bảo hiểm y tế (医保)»,
+  «hộ khẩu (户口)», «trợ cấp mức sống tối thiểu (低保)», «Trung tâm Kiểm soát
+  Dịch bệnh (疾控中心)». Law names: Vietnamese meaning + original title,
+  e.g. «Bộ luật Dân sự Trung Quốc (《民法典》)». Chinese emergency numbers
+  stay as in ZH (120, 110, 119); do not replace with Vietnamese numbers.
+- **Chinese characters may appear ONLY inside round parentheses** `(…)`
+  in Vietnamese prose — never bare, never in quotes. App / mini-program /
+  search names the reader must type: «tìm mini program Nền tảng cai thuốc lá
+  Trung Quốc (中国戒烟平台)».
+- Brand/app names stay as-is (WeChat, Alipay, Taobao); add a 2–3 word gloss
+  on first use if unclear.
+- Item titles: verb-first, imperative, no full stop. Tone restrained,
+  no exclamation marks, no moralizing.
+- **Never translate** HTML comments `<!-- 成本标签: … -->` or `来源` lines —
+  the pipeline handles them.
+
+**VI few-shot (plain-terms)**
+
+> Thuốc diệt cỏ cực độc (paraquat) gần như không có cách chữa: trong 257
+> ca nhập viện ở Bangladesh, 43,2% đã tử vong, nhiều người bị tổn thương
+> phổi nặng. Ngộ độc khí CO cũng hay để lại di chứng: sau sáu tuần, 46,1%
+> người thở oxy thường vẫn còn giảm trí nhớ, suy nghĩ chậm, so với 25,0%
+> ở nhóm thở oxy cao áp — giữ được mạng, nhưng di chứng thường ở lại.
+
+> Đội mũ bảo hiểm và cài quai thì người đi xe máy giảm khoảng 40% nguy cơ
+> tử vong khi gặp tai nạn, và giảm khoảng 70% nguy cơ chấn thương đầu.
+> Quai phải cài chặt: mũ lỏng lẻo trên đầu thì gần như không tính là đội.
 
 ## Pipeline order (do not skip)
 

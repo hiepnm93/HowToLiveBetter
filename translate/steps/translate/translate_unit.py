@@ -23,6 +23,7 @@ _LANG_NAMES = {
     "en": "English",
     "es": "Spanish",
     "pt": "Brazilian Portuguese",
+    "vi": "Vietnamese",
 }
 
 LOCALE_FIELD_HINTS = {
@@ -81,6 +82,44 @@ def strip_fence(text: str) -> str:
     if m:
         return m.group(1).strip() + "\n"
     return t if t.endswith("\n") else t + "\n"
+
+
+_VI_PUNCT = str.maketrans({"，": ", ", "：": ": ", "；": "; ", "！": "! ", "？": "? "})
+
+
+_HANZI_RUN = re.compile(r"[《\u4e00-\u9fff][\u4e00-\u9fff〔〕《》·\d]*")
+
+
+def _paren_bare_hanzi(text: str) -> str:
+    """Wrap hanzi runs that sit outside (...) — verify only allows hanzi in paren glosses."""
+    out, depth, i = [], 0, 0
+    while i < len(text):
+        ch = text[i]
+        if ch == "(":
+            depth += 1
+        elif ch == ")":
+            depth = max(depth - 1, 0)
+        elif ch == "\n":
+            depth = 0
+        m = _HANZI_RUN.match(text, i) if depth == 0 else None
+        if m:
+            out.append(f"({m.group(0)})")
+            i = m.end()
+            continue
+        out.append(ch)
+        i += 1
+    return "".join(out)
+
+
+def fix_vi_punct(text: str) -> str:
+    """Model leaks CJK punctuation into Vietnamese prose; sources are injected later."""
+    text = text.translate(_VI_PUNCT)
+    # Verify allows hanzi only inside (...): “中国戒烟平台” → (中国戒烟平台)
+    text = re.sub(r"[“\"「]([\u4e00-\u9fff·]+)[”\"」]", r"(\1)", text)
+    # ((《办法》), 财金…) breaks verify's single-level paren gloss strip → (《办法》, 财金…)
+    text = re.sub(r"\(\(([^()]*)\)", r"(\1", text)
+    text = _paren_bare_hanzi(text)
+    return re.sub(r"(?<=\S) {2,}", " ", text).replace(" \n", "\n")
 
 
 def strip_mechanical_markers(text: str) -> str:
@@ -276,6 +315,8 @@ def main(argv: list[str] | None = None) -> int:
             print(f"LLM error: {e}", file=sys.stderr)
             return 1
         translated = strip_fence(translated)
+        if args.lang == "vi":
+            translated = fix_vi_punct(translated)
         if uu != "00":
             # Late import: mechanical sits under repair/; avoid cycle at module load.
             from translate.steps.repair.mechanical import collapse_multiline_fields

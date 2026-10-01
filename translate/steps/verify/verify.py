@@ -508,7 +508,7 @@ def norm_numbers(text, lang=None, *, ru=False, es=False):
         text = text.replace("\x00", ".")
         text = re.sub(r"(?<=\d),(?=\d)", ".", text)
         text = re.sub(r"(?<=\d) (?=\d{3}(?!\d))", "", text)
-    elif lang in ("es", "pt"):
+    elif lang in ("es", "pt", "vi"):
         # Fold thousands dots before commas become decimals. «9.676» / «1.234.567»
         # must not be read as 9.676 / 1.234 after the comma→dot pass.
         text = re.sub(
@@ -518,6 +518,10 @@ def norm_numbers(text, lang=None, *, ru=False, es=False):
         )
         if lang == "es":
             scale_ahead = r"mil(?:|es)\b|millones|millón\b|mil millones|billones|trillones"
+        elif lang == "vi":
+            scale_ahead = (
+                r"nghìn\s+tỷ|ngàn\s+tỷ|nghìn\s+tỉ|ngàn\s+tỉ|nghìn\b|ngàn\b|triệu\b|tỷ\b|tỉ\b"
+            )
         else:
             scale_ahead = (
                 r"mil\b|milhões|milhão\b|mil milhões|bilhões|bilhão\b|"
@@ -535,7 +539,11 @@ def norm_numbers(text, lang=None, *, ru=False, es=False):
         text = re.sub(r"(?<=\d),(?=\d{3}(?!\d))", "", text)
     text = fold_words(text)
 
-    if lang == "pt":
+    if lang == "vi":
+        distrib_scales = (
+            r"nghìn\s+tỷ|ngàn\s+tỷ|nghìn\s+tỉ|ngàn\s+tỉ|nghìn\b|ngàn\b|triệu\b|tỷ\b|tỉ\b"
+        )
+    elif lang == "pt":
         distrib_scales = (
             r"тыс\.?|млн\.?|млрд\.?|трлн\.?|thousand|million|billion|тысяч|"
             r"миллион|миллиард|триллион|trillion|milhões|milhão|bilhões|bilhão|"
@@ -547,7 +555,7 @@ def norm_numbers(text, lang=None, *, ru=False, es=False):
             r"миллион|миллиард|триллион|trillion|millones|millón|billones|mil"
         )
     _distrib = re.compile(
-        r"(\d+(?:\.\d+)?)((?:\s+(?:до|and|to|a|de)\s*|\s*[–—-]\s*)\d+(?:\.\d+)?)"
+        r"(\d+(?:\.\d+)?)((?:\s+(?:до|and|to|a|de|đến|tới)\s*|\s*[–—-]\s*)\d+(?:\.\d+)?)"
         rf"\s*({distrib_scales})\b",
         flags=re.IGNORECASE,
     )
@@ -555,8 +563,17 @@ def norm_numbers(text, lang=None, *, ru=False, es=False):
     def _distribute(m: "re.Match") -> str:
         first, mid, scale = m.group(1), m.group(2), m.group(3)
         second = re.search(r"\d+(?:\.\d+)?", mid).group(0)
-        key = scale.lower().rstrip(".")
+        key = re.sub(r"\s+", " ", scale.lower().rstrip("."))
         _scale_map = {
+            "nghìn tỷ": 1e12,
+            "ngàn tỷ": 1e12,
+            "nghìn tỉ": 1e12,
+            "ngàn tỉ": 1e12,
+            "nghìn": 1e3,
+            "ngàn": 1e3,
+            "triệu": 1e6,
+            "tỷ": 1e9,
+            "tỉ": 1e9,
             "тыс": 1e3,
             "тысяч": 1e3,
             "млн": 1e6,
@@ -604,7 +621,23 @@ def norm_numbers(text, lang=None, *, ru=False, es=False):
         ("million", 1e6),
         ("billion", 1e9),
     ]
-    if lang == "pt":
+    if lang == "vi":
+        scale = [
+            ("nghìn tỷ", 1e12),
+            ("ngàn tỷ", 1e12),
+            ("nghìn tỉ", 1e12),
+            ("ngàn tỉ", 1e12),
+            *scale_common,
+            ("nghìn", 1e3),
+            ("ngàn", 1e3),
+            ("triệu", 1e6),
+            ("tỷ", 1e9),
+            ("tỉ", 1e9),
+        ]
+        romance_scales = (
+            r"nghìn\s+tỷ|ngàn\s+tỷ|nghìn\s+tỉ|ngàn\s+tỉ|nghìn\b|ngàn\b|triệu\b|tỷ\b|tỉ\b"
+        )
+    elif lang == "pt":
         scale = [
             ("mil milhões", 1e9),
             ("milhões", 1e6),
@@ -650,7 +683,7 @@ def norm_numbers(text, lang=None, *, ru=False, es=False):
         g_num, g_scale = (m.group(1), m.group(2)) if m.group(1) else (m.group(3), m.group(4))
         v = float(g_num)
         if g_scale:
-            key = g_scale.lower().rstrip(".")
+            key = re.sub(r"\s+", " ", g_scale.lower().rstrip("."))
             v *= next((f for k, f in scale if key.startswith(k)), 1)
         s = f"{v:.15g}"
         if re.search(r"\.(\d*?)((?:0{6}|9{6})\d*)$", s):

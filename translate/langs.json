@@ -1,8 +1,19 @@
 {
   "languages": [
     {
-      "code": "en",
+      "code": "vi",
       "primary": true,
+      "contentRoot": "book/vi",
+      "readme": "README.vi.md",
+      "htmlLang": "vi",
+      "ogLocale": "vi_VN",
+      "inLanguage": "vi",
+      "shortLabel": "VI",
+      "menuLabel": "Tiếng Việt"
+    },
+    {
+      "code": "en",
+      "primary": false,
       "contentRoot": "book/en",
       "readme": "README.md",
       "htmlLang": "en",

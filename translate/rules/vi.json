@@ -1,0 +1,61 @@
+{
+  "labels": {
+    "cn": [
+      "成本",
+      "说人话",
+      "收益",
+      "证据等级",
+      "备注"
+    ],
+    "vi": [
+      "Chi phí",
+      "Nói dễ hiểu",
+      "Lợi ích",
+      "Mức bằng chứng",
+      "Ghi chú"
+    ]
+  },
+  "source_label": "Nguồn",
+  "evidence_grade_label": "Mức bằng chứng",
+  "banned_calques": [],
+  "style_markers": [
+    {
+      "pattern": "\\bđược tiến hành\\b",
+      "label": "duoc-tien-hanh",
+      "note": "văn hành chính → làm / thực hiện"
+    },
+    {
+      "pattern": "\\bnhằm mục đích\\b",
+      "label": "nham-muc-dich",
+      "note": "→ để"
+    },
+    {
+      "pattern": "\\bcần lưu ý rằng\\b",
+      "label": "can-luu-y-rang",
+      "note": "câu mở thừa"
+    },
+    {
+      "pattern": "\\btiến hành việc\\b",
+      "label": "tien-hanh-viec",
+      "note": "→ bỏ"
+    },
+    {
+      "pattern": "\\bđối với việc\\b",
+      "label": "doi-voi-viec",
+      "note": "→ với / khi"
+    }
+  ],
+  "whitelist_zones": [
+    "- Lợi ích:",
+    "- Ghi chú:",
+    "- Nguồn:",
+    "- Mức bằng chứng:",
+    "<!-- 成本标签"
+  ],
+  "soft_calques": [
+    "đoàn hệ",
+    "phơi nhiễm",
+    "tứ phân vị",
+    "nhiễu"
+  ]
+}

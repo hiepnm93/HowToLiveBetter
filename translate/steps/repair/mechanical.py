@@ -22,7 +22,7 @@ _INJECT_RE = re.compile(r"(?:\s*〔[^〕]+〕)+")
 
 def format_abs_for_lang(value: str, lang: str) -> str:
     """Canonical verify token → locale spelling that ``norm_numbers`` recovers."""
-    if "." in value and lang in ("es", "pt", "ru"):
+    if "." in value and lang in ("es", "pt", "ru", "vi"):
         return value.replace(".", ",")
     return value
 
@@ -61,7 +61,7 @@ def fix_mangled_decimals(text: str, needed: set[str], lang: str) -> str:
         frac = v[2:]
         loc = format_abs_for_lang(v, lang)
         text = re.sub(rf"(?<![\d.,])0{re.escape(frac)}(?!\d)", loc, text)
-        if lang in ("es", "pt") and v in text:
+        if lang in ("es", "pt", "vi") and v in text:
             text = text.replace(v, loc)
     return text
 

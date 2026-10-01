@@ -33,7 +33,7 @@ INDEX_PATH = os.path.join(SITE, "index.html")
 V2_CSS_SRC = os.path.join(ROOT, "forge", "v2.css")
 V2_CSS_DST = os.path.join(SITE, "assets", "v2.css")
 
-HOST = "https://dlgrv.github.io/HowToLiveBetter"
+HOST = "https://hiepnm93.github.io/HowToLiveBetter"
 ORIGIN_PAGES = "https://eternity4719.github.io/HowToLiveBetter/"
 ORIGIN_REPO = "https://github.com/eternity4719/HowToLiveBetter"
 

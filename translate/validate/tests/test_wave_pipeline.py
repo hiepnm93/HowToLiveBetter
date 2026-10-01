@@ -70,7 +70,7 @@ class TestWavePipelineMain(unittest.TestCase):
                 rc = wave_pipeline.main(["02"])
 
         self.assertEqual(rc, 0)
-        expected = {"ru", "en", "es", "pt"}
+        expected = {"ru", "en", "es", "pt", "vi"}
         self.assertEqual(len(assemble_calls), len(expected))
         self.assertEqual(len(verify_calls), len(expected))
         langs_assembled = {c[-1] for c in assemble_calls}

@@ -121,8 +121,8 @@ wave:  ## Run assemble+verify for a wave. Usage: make wave WAVE=1
 	@$(PY) translate/ops/wave_pipeline.py $$($(PY) -c "import json; print(' '.join(f'{int(c):02d}' for c in json.load(open('waves.json'))['waves']['$(WAVE)']['chapters']))")
 
 repair:  ## Mechanical-first repair after verify FAIL. Usage: make repair CH=01 LANG=ru
-	@[ -n "$(CH)" ] || (echo "Usage: make repair CH=NN LANG=ru|en|es|pt" && exit 1)
-	@[ -n "$(LANG)" ] || (echo "Usage: make repair CH=NN LANG=ru|en|es|pt" && exit 1)
+	@[ -n "$(CH)" ] || (echo "Usage: make repair CH=NN LANG=ru|en|es|pt|vi" && exit 1)
+	@[ -n "$(LANG)" ] || (echo "Usage: make repair CH=NN LANG=ru|en|es|pt|vi" && exit 1)
 	$(PY) translate/steps/repair/repair_wave.py --nn $(CH_PAD) --lang $(LANG) \
 		--workdir $(WORKDIR) --assembled $(WORKDIR)/assembled.md --max-rounds 3
 

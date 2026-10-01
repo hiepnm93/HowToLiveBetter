@@ -7,15 +7,15 @@ cd "$(dirname "$0")/../.." || exit
 lang="${1:?usage: $0 <lang> <nn>…}"
 shift
 case "$lang" in
-  ru|en|es|pt) ;;
+  ru|en|es|pt|vi) ;;
   *)
-    echo "unsupported lang: $lang (want ru|en|es|pt)" >&2
+    echo "unsupported lang: $lang (want ru|en|es|pt|vi)" >&2
     exit 1
     ;;
 esac
 
 for raw in "$@"; do
-  nn=$(printf '%02d' "$raw")
+  nn=$(printf '%02d' "$((10#$raw))")
   echo "===== chapter $nn ($lang) ====="
   rm -rf "translate/runs/active/$lang/$nn"
   mkdir -p "translate/runs/active/$lang/$nn"

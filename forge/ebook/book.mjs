@@ -84,6 +84,24 @@ const LOCALE = {
       body: 'Texto',
     },
   },
+  vi: {
+    markers: {
+      front: '## Những câu hỏi',
+      toc: '## Mục lục',
+      book: '## Nội dung chính',
+    },
+    title: 'Cẩm nang sống hiệu quả',
+    typstLang: 'vi',
+    typstRegion: 'VN',
+    labels: {
+      front: 'Lời nói đầu',
+      contents: 'Hướng dẫn các chương',
+      about: 'Về ấn bản này',
+      toc: 'Mục lục',
+      cover: 'Bìa',
+      body: 'Nội dung',
+    },
+  },
   pt: {
     markers: {
       front: '## Perguntas',

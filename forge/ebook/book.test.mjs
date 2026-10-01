@@ -63,7 +63,7 @@ test('es reuses English README markers', () => {
 });
 
 test('each locale TOC has 34 chapters and long reads', () => {
-  for (const code of ['en', 'ru', 'zh', 'es', 'pt']) {
+  for (const code of ['en', 'ru', 'zh', 'es', 'pt', 'vi']) {
     const book = readBook(code);
     assert.equal(book.bookFiles.length, EXPECTED_CHAPTERS, code);
     assert.ok(book.docFiles.length > 0, code);

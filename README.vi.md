@@ -1,19 +1,11 @@
 <div align="center">
 
-<img src="site/assets/og/zh.png" alt="Cẩm nang sống hiệu quả — dùng ít nhất tiền, thời gian và sức lực để đổi lấy nhiều nhất tuổi thọ, tiền bạc và tự do nhân thân" width="820">
+<img src="site/assets/og/vi.png" alt="Cẩm nang sống hiệu quả — dùng ít nhất tiền, thời gian và sức lực để đổi lấy nhiều nhất tuổi thọ, tiền bạc và tự do nhân thân" width="820">
 
 # Cẩm nang sống hiệu quả
 
 > Bản dịch tiếng Việt không chính thức của [高性价比人生指南](https://github.com/eternity4719/HowToLiveBetter). Khi có khác biệt, bản gốc tiếng Trung là chuẩn.
 
-| Ngôn ngữ | Trang web | README |
-| --- | --- | --- |
-| 🇻🇳 Tiếng Việt | [Đọc trên web](https://hiepnm93.github.io/HowToLiveBetter/vi/) | [README.vi.md](README.vi.md) |
-| 🇨🇳 中文 | [在网站阅读](https://hiepnm93.github.io/HowToLiveBetter/zh/) | [README.zh.md](README.zh.md) |
-| 🇬🇧 English | [Read on the site](https://hiepnm93.github.io/HowToLiveBetter/en/) | [README.md](README.md) |
-| 🇷🇺 Русский | [Читать на сайте](https://hiepnm93.github.io/HowToLiveBetter/ru/) | [README.ru.md](README.ru.md) |
-| 🇪🇸 Español | [Leer en el sitio](https://hiepnm93.github.io/HowToLiveBetter/es/) | [README.es.md](README.es.md) |
-| 🇧🇷 Português | [Ler no site](https://hiepnm93.github.io/HowToLiveBetter/pt/) | [README.pt.md](README.pt.md) |
 
 Nói cách sống lâu hơn, cách ít ốm đau hơn, và khi gặp tai nạn thì cứu giúp thế nào. Nói cách bớt tiêu tiền oan, những việc nào dễ khiến bạn bị lừa đảo hay vướng vào kiện tụng. Nói khi mất việc và không có tiền thì có thể nhận được khoản gì, mở cửa hàng, mở công ty hay làm website cần những thủ tục gì. Cũng nói luôn chuyện yêu đương, kết hôn, sinh con, xuất ngoại và học nghề.<br>
 641 lời khuyên, mỗi mục ghi rõ bạn bỏ ra cái gì, đổi lại được cái gì, bằng chứng chắc chắn đến đâu; nguồn trích dẫn chỉ gồm bài báo khoa học trên tạp chí và văn bản chính thức.
@@ -33,7 +25,7 @@ Skill dành cho trợ lý AI, hỗ trợ cả Claude Code và Codex. Cài xong, 
 <table>
 <tr><td align="right"><b>Tải xuống</b></td><td align="left">
 
-[PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.pdf) | [EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.epub)
+[PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-vi.pdf) | [EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-vi.epub)
 
 </td></tr>
 <tr><td align="right"><b>Tra cứu</b></td><td align="left">
@@ -59,11 +51,12 @@ Skill dành cho trợ lý AI, hỗ trợ cả Claude Code và Codex. Cài xong, 
 
 | Ngôn ngữ | Trang web | README | PDF | EPUB |
 | --- | --- | --- | --- | --- |
-| 🇨🇳 Tiếng Trung | [Đọc trên trang web](https://dlgrv.github.io/HowToLiveBetter/zh/) | [README.zh.md](README.zh.md) | [Tải PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.pdf) | [Tải EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.epub) |
-| 🇬🇧 Tiếng Anh | [Đọc trên trang web](https://dlgrv.github.io/HowToLiveBetter/en/) | [README.md](README.md) | [Tải PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.pdf) | [Tải EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.epub) |
-| 🇷🇺 Tiếng Nga | [Đọc trên trang web](https://dlgrv.github.io/HowToLiveBetter/ru/) | [README.ru.md](README.ru.md) | [Tải PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.pdf) | [Tải EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.epub) |
-| 🇪🇸 Tiếng Tây Ban Nha | [Đọc trên trang web](https://dlgrv.github.io/HowToLiveBetter/es/) | [README.es.md](README.es.md) | [Tải PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.pdf) | [Tải EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.epub) |
-| 🇧🇷 Tiếng Bồ Đào Nha | [Đọc trên trang web](https://dlgrv.github.io/HowToLiveBetter/pt/) | [README.pt.md](README.pt.md) | [Tải PDF](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.pdf) | [Tải EPUB](https://github.com/dlgrv/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.epub) |
+| 🇻🇳 Tiếng Việt | [Đọc trên trang web](https://hiepnm93.github.io/HowToLiveBetter/vi/) | [README.vi.md](README.vi.md) | [Tải PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-vi.pdf) | [Tải EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-vi.epub) |
+| 🇨🇳 Tiếng Trung | [Đọc trên trang web](https://hiepnm93.github.io/HowToLiveBetter/zh/) | [README.zh.md](README.zh.md) | [Tải PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.pdf) | [Tải EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-zh.epub) |
+| 🇬🇧 Tiếng Anh | [Đọc trên trang web](https://hiepnm93.github.io/HowToLiveBetter/en/) | [README.md](README.md) | [Tải PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.pdf) | [Tải EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-en.epub) |
+| 🇷🇺 Tiếng Nga | [Đọc trên trang web](https://hiepnm93.github.io/HowToLiveBetter/ru/) | [README.ru.md](README.ru.md) | [Tải PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.pdf) | [Tải EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-ru.epub) |
+| 🇪🇸 Tiếng Tây Ban Nha | [Đọc trên trang web](https://hiepnm93.github.io/HowToLiveBetter/es/) | [README.es.md](README.es.md) | [Tải PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.pdf) | [Tải EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-es.epub) |
+| 🇧🇷 Tiếng Bồ Đào Nha | [Đọc trên trang web](https://hiepnm93.github.io/HowToLiveBetter/pt/) | [README.pt.md](README.pt.md) | [Tải PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.pdf) | [Tải EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-pt.epub) |
 
 ---
 
@@ -113,9 +106,9 @@ Skill dành cho trợ lý AI, hỗ trợ cả Claude Code và Codex. Cài xong, 
 - **Muốn chọn lọc theo điều kiện**: Mở [trang tra cứu trực tuyến](https://hiepnm93.github.io/HowToLiveBetter/vi/), có thể lọc theo từ khóa, chương, mức độ bằng chứng, cũng có thể lọc theo ba tiêu chí «có tốn tiền không, tốn bao nhiêu thời gian, có cần ý chí không», vài điều kiện có thể dùng chồng lên nhau. Nội dung trên trang lấy trực tiếp từ văn bản trong thư mục book/, văn bản sửa chỗ nào thì trang đổi theo chỗ đó.
 - **Các mục chỉ dẫn chéo sang nhau** (kiểu «xem chương 8 mục 17»): trên trang tra cứu, chỗ chỉ dẫn này có một đường kẻ nét đứt. Bấm vào là tiêu đề và phần «diễn giải dễ hiểu» (说人话) của mục được chỉ hiện ra ngay tại chỗ. Muốn thực sự nhảy sang thì bấm tiếp «tới mục đó». Nếu mục đó đang bị điều kiện lọc che mất, trang sẽ tự động xóa bộ lọc. Đọc trực tiếp trên GitHub thì không bấm được, nhưng sau mỗi chỗ chỉ dẫn đều ghi rõ nó chỉ tới cái gì («xem mục 18 (vay tiền thì viết giấy nợ cho rõ ràng)»). Không nhảy qua cũng biết đang nói tới mục nào.
 - **Muốn đọc theo thứ tự**: Trong mỗi chương, các mục được xếp từ hiệu quả so với chi phí cao xuống thấp, cứ xem từ vài mục đầu của mỗi chương là được.
-- **Muốn xem offline hoặc gửi cho người khác**: Tải [bản HTML gộp trong một tệp dùng offline](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html), cả quyển sách cùng chức năng tra cứu và lọc đều nằm trong một tệp duy nhất, nhấp đúp là mở, không cần máy chủ cũng không cần mạng, gửi thẳng qua WeChat cũng được.
-- **Muốn in hoặc lướt trên điện thoại**: Tải [PDF](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.pdf), dàn trang A4, hơn hai trăm trang, có mục lục kèm số trang và dấu trang, mỗi chương bắt đầu ở trang mới.
-- **Muốn đọc trên Kindle hoặc máy đọc sách khác**: Tải [e-book EPUB](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.epub), với Kindle thì gửi qua Send to Kindle là đọc được.
+- **Muốn xem offline hoặc gửi cho người khác**: Tải [bản HTML gộp trong một tệp dùng offline](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html) (bản tiếng Trung), cả quyển sách cùng chức năng tra cứu và lọc đều nằm trong một tệp duy nhất, nhấp đúp là mở, không cần máy chủ cũng không cần mạng, gửi thẳng qua WeChat cũng được.
+- **Muốn in hoặc lướt trên điện thoại**: Tải [PDF](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-vi.pdf), dàn trang A4, hơn hai trăm trang, có mục lục kèm số trang và dấu trang, mỗi chương bắt đầu ở trang mới.
+- **Muốn đọc trên Kindle hoặc máy đọc sách khác**: Tải [e-book EPUB](https://github.com/hiepnm93/HowToLiveBetter/releases/download/ebooks-latest/HowToLiveBetter-vi.epub), với Kindle thì gửi qua Send to Kindle là đọc được.
 - **Cả ba tệp đều được tạo lại tự động sau mỗi lần nội dung cập nhật**, đường dẫn tải giữ nguyên không đổi; bản đã chuyển đi sẽ không cập nhật theo, hãy lấy bản trực tuyến làm chuẩn.
 - **Không hiểu chuỗi số đó**: Mỗi mục đều có một dòng «diễn giải dễ hiểu». Dòng này chuyển cách viết trong nghiên cứu ở cột «Lợi ích» thành cách nói đời thường như «xác suất tử vong trong cùng thời kỳ thấp hơn chừng 20%», «giam giữ vài ngày, phạt bao nhiêu tiền». Nó chỉ dùng những gì cột «Lợi ích» đã ghi, không thêm số mới. Chỉ cần nhìn dòng này là đủ để quyết định. Cột «Lợi ích» vẫn giữ nguyên toàn bộ số liệu, muốn tự kiểm chứng thì xem cột đó.
 - **Chỉ muốn xem kết luận vững nhất**: Trên trang tra cứu, tích chọn mức độ bằng chứng A, sẽ còn lại 425 mục có số cụ thể, đến từ phân tích tổng hợp hoặc thử nghiệm quy mô lớn.
@@ -136,7 +129,7 @@ Mỗi lời khuyên có dạng như sau:
 
 ## Tự chạy một bản
 
-Đa số mọi người không cần tự triển khai: [trang tra cứu trực tuyến](https://hiepnm93.github.io/HowToLiveBetter/vi/) có sẵn, nếu cần dùng offline thì tải [bản HTML một file offline](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html), nhấp đúp là mở được.
+Đa số mọi người không cần tự triển khai: [trang tra cứu trực tuyến](https://hiepnm93.github.io/HowToLiveBetter/vi/) có sẵn, nếu cần dùng offline thì tải [bản HTML một file offline](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html) (bản tiếng Trung), nhấp đúp là mở được.
 
 Nếu bạn thực sự muốn chạy trên máy tính hoặc máy chủ của mình:
 

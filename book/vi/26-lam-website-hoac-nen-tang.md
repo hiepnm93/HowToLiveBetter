@@ -1,6 +1,6 @@
 # 26. Làm website hoặc nền tảng: giấy phép, thủ tục đăng ký (备案) và máy chủ
 
-Bạn muốn làm một website hoặc một app. Mục này trả lời bốn câu hỏi: về mặt pháp lý nó được coi là loại hình kinh doanh nào, cần xin giấy phép gì, đặt máy chủ ở đâu, và ai chịu trách nhiệm về nội dung người dùng đăng lên cũng như tiền thu được qua nền tảng. Thước đo của mục này là tự do thân thể và tiền bạc. Thứ tự các mục như sau: trước hết là những việc có thể phải ngồi tù, tiếp theo là những giấy phép phải xin trước, rồi đến những việc nền tảng phải làm hằng ngày; mục cuối là kinh nghiệm chọn máy chủ — mục đó chỉ đưa được cách đánh giá, không có con số. Nếu bạn là nhân sự kỹ thuật đi làm thuê, các giới hạn pháp lý xem ở mục 11. Cách đăng ký công ty và kê khai thuế xem ở mục 12, mục này không nhắc lại. Bảng đối chiếu các loại giấy phép và bảng quyết định chọn máy chủ, xem tại [docs/(做平台要办哪些证).md](../docs/做平台要办哪些证.md).
+Bạn muốn làm một website hoặc một app. Mục này trả lời bốn câu hỏi: về mặt pháp lý nó được coi là loại hình kinh doanh nào, cần xin giấy phép gì, đặt máy chủ ở đâu, và ai chịu trách nhiệm về nội dung người dùng đăng lên cũng như tiền thu được qua nền tảng. Thước đo của mục này là tự do thân thể và tiền bạc. Thứ tự các mục như sau: trước hết là những việc có thể phải ngồi tù, tiếp theo là những giấy phép phải xin trước, rồi đến những việc nền tảng phải làm hằng ngày; mục cuối là kinh nghiệm chọn máy chủ — mục đó chỉ đưa được cách đánh giá, không có con số. Nếu bạn là nhân sự kỹ thuật đi làm thuê, các giới hạn pháp lý xem ở mục 11. Cách đăng ký công ty và kê khai thuế xem ở mục 12, mục này không nhắc lại. Bảng đối chiếu các loại giấy phép và bảng quyết định chọn máy chủ, xem tại [docs/(做平台要办哪些证).md](../../docs/research/vi/lam-nen-tang-can-nhung-giay-to-gi.md).
 
 ### 1. Đừng để nền tảng tự thu tiền rồi chuyển cho người bán — hãy để tiền đi qua tổ chức thanh toán được cấp phép và về thẳng tay người bán
 <!-- 成本标签: 钱=0 时间=中 毅力=否 收益=大 口径=自由 -->
@@ -109,4 +109,4 @@ Bạn muốn làm một website hoặc một app. Mục này trả lời bốn c
 
 ## Giấy phép
 
-Nội dung được phát hành theo giấy phép [CC BY 4.0](../LICENSE); khi trích dẫn hoặc phỏng theo cần ghi rõ nguồn và kèm liên kết về bản gốc. Phần mã nguồn dùng [MIT](../LICENSE-CODE).
+Nội dung được phát hành theo giấy phép [CC BY 4.0](../../LICENSE); khi trích dẫn hoặc phỏng theo cần ghi rõ nguồn và kèm liên kết về bản gốc. Phần mã nguồn dùng [MIT](../../LICENSE-CODE).

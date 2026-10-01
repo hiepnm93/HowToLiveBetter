@@ -1,6 +1,6 @@
 # 10. Yêu đương và kết hôn có đáng hay không
 
-Mục này tách câu hỏi “kết hôn có đáng hay không” thành từng khoản — tiền, thời gian, sức khỏe, rủi ro pháp lý, chất lượng mối quan hệ — và tính riêng từng khoản. Mỗi khoản chỉ dùng những con số tra cứu được nguồn, nguồn giới hạn ở số liệu thống kê chính thức hoặc phân tích gộp (meta-analysis — gộp số liệu của nhiều nghiên cứu lại để tính lại một lần). Ở đây không phán xét đạo đức, cũng không thay bạn đưa ra kết luận. Các khoản sức khỏe tính theo nguy cơ tử vong, các khoản thời gian tính theo số phút mỗi ngày, còn các khoản pháp lý tính theo cách điều luật quy định. Ba cách tính này không quy đổi qua lại với nhau. Cách tách từng khoản, danh sách mục trống để tự điền và những hiểu lầm thường gặp xem tại [docs/(结婚划不划算).md](../docs/结婚划不划算.md).
+Mục này tách câu hỏi “kết hôn có đáng hay không” thành từng khoản — tiền, thời gian, sức khỏe, rủi ro pháp lý, chất lượng mối quan hệ — và tính riêng từng khoản. Mỗi khoản chỉ dùng những con số tra cứu được nguồn, nguồn giới hạn ở số liệu thống kê chính thức hoặc phân tích gộp (meta-analysis — gộp số liệu của nhiều nghiên cứu lại để tính lại một lần). Ở đây không phán xét đạo đức, cũng không thay bạn đưa ra kết luận. Các khoản sức khỏe tính theo nguy cơ tử vong, các khoản thời gian tính theo số phút mỗi ngày, còn các khoản pháp lý tính theo cách điều luật quy định. Ba cách tính này không quy đổi qua lại với nhau. Cách tách từng khoản, danh sách mục trống để tự điền và những hiểu lầm thường gặp xem tại [docs/(结婚划不划算).md](../../docs/research/vi/ket-hon-co-dang-khong.md).
 
 ### 1. Quen thêm nhiều người thay vì cố níu một người: hai người có hợp nhau hay không, gặp rồi mới biết
 <!-- 成本标签: 钱=0 时间=中 毅力=些 收益=中 口径=时间 -->
@@ -153,7 +153,7 @@ Mục này tách câu hỏi “kết hôn có đáng hay không” thành từng
 - Lợi ích: Lợi ích của người lớn là có thật. Nhưng nó không tự động chuyển thành lợi ích sức khỏe (mục 8) hay chất lượng mối quan hệ (mục 15) của bạn. Còn khoản thời gian (mục 9), khoản tiền bạc (mục 10 đến 12) và chi phí rút lui (mục 16) thì hoàn toàn do người trong cuộc gánh. Tách sổ ra xong, chuyện "kết hôn kiểu hoàn thành nhiệm vụ" lãi hay lỗ, bạn tự nhìn thấy được.
 - Mức bằng chứng: C
 - Nguồn:作者经验，方法类建议；数据部分见本节前面各条
-- Ghi chú: Cột của người lớn cũng có thể tính thành một khoản rất nặng; cân ra sao là do bạn tự quyết. Danh sách điền sẵn xem trong [tài liệu đính kèm (docs/结婚划不划算.md)](../docs/结婚划不划算.md)
+- Ghi chú: Cột của người lớn cũng có thể tính thành một khoản rất nặng; cân ra sao là do bạn tự quyết. Danh sách điền sẵn xem trong [tài liệu đính kèm (docs/结婚划不划算.md)](../../docs/research/vi/ket-hon-co-dang-khong.md)
 
 ### 18. Coi chất lượng quan hệ vợ chồng là một khoản trong sổ sức khỏe: cãi nhau chỉ bàn việc, đừng chửi bới, đừng mỉa mai
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=小 口径=死亡率 -->

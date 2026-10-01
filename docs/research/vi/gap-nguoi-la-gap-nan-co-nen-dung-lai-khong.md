@@ -1,4 +1,4 @@
-[← Về mục lục chính](../../README.md)
+[← Về mục lục chính](../../../README.vi.md)
 
 # Gặp người lạ gặp nạn trên đường, đi tiếp hay dừng lại
 

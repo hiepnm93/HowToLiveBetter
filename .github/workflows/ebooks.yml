@@ -126,8 +126,8 @@ jobs:
           set -euo pipefail
           mapfile -t files < <(find dist -maxdepth 1 -type f \
             \( -name 'HowToLiveBetter-*.epub' -o -name 'HowToLiveBetter-*.pdf' \) | sort)
-          if [ "${#files[@]}" -ne 10 ]; then
-            echo "expected 10 assets, got ${#files[@]}"
+          if [ "${#files[@]}" -ne 12 ]; then  # 2 formats × 6 locales (matrix.lang)
+            echo "expected 12 assets, got ${#files[@]}"
             ls -l dist
             exit 1
           fi

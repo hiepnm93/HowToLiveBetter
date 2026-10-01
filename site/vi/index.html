@@ -25,13 +25,8 @@ window.__HTLB_LANGS__={"codes":["vi","en","ru","zh","es","pt"],"primary":"vi","s
     }
     var p = new URLSearchParams(location.search);
     var saved = localStorage.getItem('htlb-lang');
-    var nav = (navigator.language || '').toLowerCase();
-    var sys = null;
-    var sorted = codes.slice().sort(function(a,b){ return b.length - a.length; });
-    for (var i = 0; i < sorted.length; i++) {
-      if (nav.startsWith(sorted[i])) { sys = sorted[i]; break; }
-    }
-    var lang = p.get('lang') || saved || sys || primary;
+    // hiepnm93 fork: Vietnamese site — root always opens the primary locale (vi), no browser-language sniffing
+    var lang = p.get('lang') || saved || primary;
     if (codes.indexOf(lang) < 0) lang = primary;
     var prefix = segs.length ? '/' + segs.join('/') + '/' : '/';
     location.replace(prefix + lang + '/' + location.search + location.hash);
@@ -94,7 +89,7 @@ window.__HTLB_LANGS__={"codes":["vi","en","ru","zh","es","pt"],"primary":"vi","s
    "url": "https://hiepnm93.github.io/HowToLiveBetter/vi/",
    "inLanguage": "vi",
    "bookFormat": "https://schema.org/EBook",
-   "numberOfPages": 597,
+   "numberOfPages": 641,
    "license": "https://unlicense.org/",
    "abstract": "Cẩm nang xếp theo hiệu quả chi phí: sức khoẻ và tuổi thọ, sơ cứu, tiền bạc, phòng lừa đảo, ranh giới pháp luật, công việc, gia đình. Mỗi mục ghi chi phí, lợi ích, mức bằng chứng và nguồn gốc; lọc theo tiền, thời gian và ý chí.",
    "about": [
@@ -525,7 +520,7 @@ h1,h2,h3{text-wrap:wrap}
     <div class="nav-r">
       <details class="lang-dd" id="lang">
         <summary title="Language / Язык / 语言" aria-label="Выбрать язык"><span id="lang-label">РУ</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>
-                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="lang-menu" role="menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="lang-menu" role="menu">
           <button type="button" role="menuitem" data-lang="vi">Tiếng Việt</button>
           <button type="button" role="menuitem" data-lang="en">English</button>
           <button type="button" role="menuitem" data-lang="ru">Русский</button>

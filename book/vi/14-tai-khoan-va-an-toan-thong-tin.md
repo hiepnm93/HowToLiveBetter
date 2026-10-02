@@ -10,6 +10,7 @@ Phạm vi: tiền bạc và thông tin cá nhân. Khi người khác đăng nh�
 - Mức bằng chứng: A
 - Nguồn:Doerfler P, Thomas K, Marincenko M, et al. (2019). Evaluating Login Challenges as a Defense Against Account Takeover. The World Wide Web Conference (WWW '19). <https://doi.org/10.1145/3308558.3313481>
 - Ghi chú: Nghiên cứu này cũng cho thấy cách xác minh này đôi khi lại chặn luôn chính chủ tài khoản ở bên ngoài. 52% người dùng thật không đăng nhập được ngay lần đầu, nhưng cuối cùng 97% vẫn vào được. Hãy bật tính năng này cho email trước, vì hầu hết các tài khoản khác đều có thể dùng email để lấy lại mật khẩu.
+- Tại Việt Nam: Ở Việt Nam, hầu hết ngân hàng vẫn gửi mã OTP qua tin nhắn SMS nên việc bảo vệ thẻ SIM (mục 3) càng quan trọng; với email, Google, Facebook, Apple, hãy ưu tiên xác minh bằng ứng dụng xác thực hoặc thông báo đẩy thay vì SMS. Riêng chuyển tiền trực tuyến từ 10.000.000 đồng/lần hoặc 20.000.000 đồng/ngày qua ứng dụng ngân hàng, Quyết định 2345/QĐ-NHNN (từ 1/7/2024) bắt buộc phải thêm lớp xác thực sinh trắc học như quét khuôn mặt hoặc vân tay.
 
 ### 2. Đặt riêng một mật khẩu cho email, không trùng với bất kỳ trang web nào
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
@@ -28,6 +29,7 @@ Phạm vi: tiền bạc và thông tin cá nhân. Khi người khác đăng nh�
 - Mức bằng chứng: C
 - Nguồn:作者经验，无直接文献
 - Ghi chú: Mã PIN được đặt trong mục "Khóa SIM" trong phần cài đặt điện thoại. Mã mặc định ban đầu thường là 1234 hoặc 0000. Nhập sai ba lần liên tiếp thì phải dùng mã PUK do nhà mạng cung cấp mới mở lại được. Vì vậy, sau khi đặt xong, hãy ghi mã này ra giấy trước.
+- Tại Việt Nam: SIM ở Việt Nam phải đăng ký theo căn cước, nên khi mất máy bạn có thể ra cửa hàng giao dịch của nhà mạng (Viettel, VinaPhone, MobiFone) với CCCD để khóa số và cấp lại SIM, không phụ thuộc vào PIN; song vẫn nên đặt mã PIN SIM như bản gốc, vì kẻ tạm cầm máy nếu nhận được SMS OTP có thể đặt lại mật khẩu các tài khoản của bạn. Cách đặt giống hướng dẫn: mục khóa SIM trong cài đặt, mã mặc định thường là 1234 hoặc 0000, nhập sai ba lần thì cần mã PUK từ nhà mạng, nên ghi mã PIN ra giấy trước.
 
 ### 4. Mất điện thoại thì làm theo thứ tự này: báo khóa SIM, khóa máy từ xa, đổi mật khẩu, báo công an, đóng băng thẻ ngân hàng
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=金钱 -->
@@ -37,11 +39,13 @@ Phạm vi: tiền bạc và thông tin cá nhân. Khi người khác đăng nh�
 - Mức bằng chứng: C
 - Nguồn:US FCC. Protect Your Smart Device. <https://www.fcc.gov/consumers/guides/protect-your-mobile-device>；步骤顺序是作者经验；补办身份证见第 7 节，冒名贷款见第 8 节关于征信的一条
 - Ghi chú: Ghi sẵn số tổng đài của ba nhà mạng từ trước: China Mobile (中国移动) 10086, China Unicom (中国联通) 10010, China Telecom (中国电信) 10000. Cũng ghi lại số điện thoại của bạn được đăng ký ở thành phố nào — tổng đài sẽ hỏi. Dùng điện thoại của người khác vẫn gọi tổng đài báo khóa SIM như bình thường.
+- Tại Việt Nam: Ở Việt Nam, trình tự tương ứng là: mượn máy người khác gọi tổng đài nhà mạng (Viettel, VinaPhone, MobiFone) khóa SIM rồi ra cửa hàng với CCCD cấp lại; khóa máy từ xa và xóa dữ liệu qua Find My (iPhone) hoặc Find My Device (Android); đổi mật khẩu email và ngân hàng từ máy khác; khóa thẻ ngân hàng ngay trên ứng dụng hoặc tổng đài; báo công an phường, xã (khẩn cấp gọi 113) để lấy giấy tiếp nhận tin báo. Giấy tiếp nhận này là căn cứ để bạn làm việc tiếp với ngân hàng và nhà mạng.
 
 ### 5. Thẻ bị quẹt trái phép: báo mất và đóng băng thẻ trước, báo công an sau, rồi yêu cầu ngân hàng bồi thường — việc chứng minh "do chính bạn chi tiêu" là trách nhiệm của ngân hàng
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
 
 - Chi phí: Không mất tiền. Thấy giao dịch lạ trên thẻ là báo mất hoặc đóng băng ngay. Giữ lại hồ sơ trình báo công an, biên nhận báo mất và các thông báo giao dịch ngân hàng gửi cho bạn. Thẻ vẫn còn trong người thì làm ngay một giao dịch tra cứu hoặc gửi/rút tiền nhỏ ở gần đó, để lại dấu vết chứng minh lúc xảy ra sự việc thẻ thật vẫn trên tay bạn. Khó nhất là nhịn được cơn bực, đừng tranh cãi với tổng đài trước — báo mất cái đã.
+- Tại Việt Nam: Ở Việt Nam chưa có quy định mặc định ngân hàng phải tự chứng minh giao dịch do chủ thẻ thực hiện như văn bản của Tòa án Nhân dân Tối cao Trung Quốc, nên thực tế là: phong tỏa thẻ ngay qua ứng dụng hoặc tổng đài, trình báo công an để lấy giấy tiếp nhận, rồi gửi khiếu nại bằng văn bản kèm sao kê và bằng chứng thẻ vẫn trong người; không được giải quyết thỏa đáng thì khởi kiện, tòa xét lỗi từng bên theo Bộ luật Dân sự 2015. Hành vi quẹt trộm thẻ có thể bị truy cứu trách nhiệm hình sự về tội sử dụng mạng máy tính chiếm đoạt tài sản (Điều 290 Bộ luật Hình sự 2015); còn nếu bạn tự tay chuyển tiền vì bị lừa thì kẻ đó phạm tội lừa đảo chiếm đoạt tài sản (Điều 174 Bộ luật Hình sự 2015), hãy gọi 113 ngay.
 
 - Nói dễ hiểu: Thẻ bị người khác quẹt trái phép thì bạn không phải đi chứng minh "đó không phải mình quẹt". Ngược lại, ngân hàng phải đưa ra bằng chứng cho thấy giao dịch đó do chính bạn thực hiện; đưa không được là phải đền cho bạn. Điều kiện: bạn phải báo mất và đóng băng ngay khi phát hiện. Để chậm báo mất thì phần thiệt hại phát sinh sau đó bạn phải tự gánh.
 
@@ -69,6 +73,7 @@ Phạm vi: tiền bạc và thông tin cá nhân. Khi người khác đăng nh�
 - Mức bằng chứng: A
 - Nguồn:全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>：第六条「收集个人信息，应当限于实现处理目的的最小范围，不得过度收集个人信息」；第十六条「个人信息处理者不得以个人不同意处理其个人信息或者撤回同意为由，拒绝提供产品或者服务；处理个人信息属于提供产品或者服务所必需的除外」；第十五条「基于个人同意处理个人信息的，个人有权撤回其同意。个人信息处理者应当提供便捷的撤回同意的方式」
 - Ghi chú: Tiêu chí xét là thông tin đó có bắt buộc để cung cấp dịch vụ hay không. Bản đồ cần vị trí là bắt buộc; đèn pin cần danh bạ thì không. Sau khi cài App, vào trang quyền ứng dụng trong phần cài đặt điện thoại và tắt những quyền không cần thiết. Đến lúc thật sự cần dùng, hãy chọn “chỉ cho phép lần này”.
+- Tại Việt Nam: Việt Nam có nguyên tắc tương tự: theo Luật Bảo vệ dữ liệu cá nhân 2025 (hiệu lực 1/1/2026, trước đó là Nghị định 13/2023/NĐ-CP), doanh nghiệp chỉ được xử lý dữ liệu cá nhân khi có sự đồng ý và trong phạm vi phù hợp với mục đích, bạn có quyền từ chối hoặc rút lại đồng ý mà không bị dùng làm cớ để từ chối cung cấp dịch vụ. Với quyền nào không phục vụ tính năng đó (đèn pin xin danh bạ, trò chơi xin vị trí), bạn cứ tắt trong phần quyền ứng dụng của điện thoại.
 
 ### 8. Bạn có quyền xem, sao chép, sửa và xóa thông tin cá nhân của mình; bị từ chối thì có thể khởi kiện
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=自由 -->
@@ -78,6 +83,7 @@ Phạm vi: tiền bạc và thông tin cá nhân. Khi người khác đăng nh�
 - Mức bằng chứng: A
 - Nguồn:全国人大常委会 (2021). 个人信息保护法. 中国人大网. <http://www.npc.gov.cn/npc/c2/c30834/202108/t20210820_313088.html>：第四十五条「个人有权向个人信息处理者查阅、复制其个人信息……个人请求查阅、复制其个人信息的，个人信息处理者应当及时提供」；第四十六条更正、补充权；第四十七条列了五种应当主动删除的情形，含「（一）处理目的已实现、无法实现或者为实现处理目的不再必要」「（二）个人信息处理者停止提供产品或者服务，或者保存期限已届满」「（三）个人撤回同意」，「个人信息处理者未删除的，个人有权请求删除」；第五十条「个人信息处理者应当建立便捷的个人行使权利的申请受理和处理机制。拒绝个人行使权利的请求的，应当说明理由」「个人可以依法向人民法院提起诉讼」
 - Ghi chú: Hủy tài khoản và xóa thông tin cá nhân là hai chuyện khác nhau: hủy xong vẫn phải đề nghị xóa thông tin riêng. Trước khi đổi điện thoại hoặc bán điện thoại cũ, hãy đăng xuất hết mọi tài khoản trên máy cũ, gỡ liên kết với các tài khoản đó, rồi khôi phục cài đặt gốc. Luật cho bạn là quyền xóa sau khi sự việc đã xảy ra — nó không thể lấy lại giúp bạn những gì đã bị rò rỉ ra ngoài.
+- Tại Việt Nam: Ở Việt Nam, quyền được biết, truy cập, sửa đổi, xóa dữ liệu cá nhân và rút lại đồng ý hiện quy định trong Luật Bảo vệ dữ liệu cá nhân 2025 (hiệu lực 1/1/2026), trước đó là Nghị định 13/2023/NĐ-CP. Hãy gửi yêu cầu bằng văn bản qua kênh chính thức của doanh nghiệp và lưu bằng chứng; họ từ chối hoặc im lặng thì bạn có thể khiếu nại lên cơ quan có thẩm quyền hoặc khởi kiện ra tòa, việc này thường kéo dài hàng tháng nên khiếu nại trước vẫn nhanh hơn.
 
 ### 9. Quét khuôn mặt không phải điều bạn buộc phải đồng ý: còn cách khác thì không được chỉ bắt bạn quét khuôn mặt, bạn không đồng ý thì phải cho bạn cách khác
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
@@ -87,3 +93,4 @@ Phạm vi: tiền bạc và thông tin cá nhân. Khi người khác đăng nh�
 - Mức bằng chứng: A
 - Nguồn:国家互联网信息办公室、公安部 (2025). 人脸识别技术应用安全管理办法（第 19 号令，第十条、十二条、十三条，2025 年 6 月 1 日起施行）. <https://www.cac.gov.cn/2025-03/21/c_1744174262156096.htm>
 - Ghi chú: Thường gặp nhất là cửa ra vào khu dân cư, nền tảng cho thuê nhà, phòng gym, khách sạn yêu cầu bạn đăng ký mẫu khuôn mặt. Khi bên kia nói "hệ thống chỉ hỗ trợ quét khuôn mặt", hãy đọc nguyên văn quy định cho họ nghe. Nguyên văn là: "Khi thực hiện cùng mục đích hoặc đạt yêu cầu nghiệp vụ tương đương mà tồn tại cách khác không dùng công nghệ nhận diện khuôn mặt, thì không được dùng công nghệ nhận diện khuôn mặt làm cách xác thực duy nhất". Sau đó yêu cầu họ cung cấp cách khác như quẹt thẻ, mật mã hoặc giấy tờ tùy thân. Vẫn không cho thì phản ánh với cơ quan quản lý không gian mạng địa phương (网信部门). Nếu nhà nước có quy định riêng về xác thực danh tính bằng khuôn mặt — ví dụ một số tình huống tài chính và hành chính — thì làm theo quy định đó. Khác biệt lớn nhất giữa khuôn mặt và mật mã là khuôn mặt sau khi bị lộ thì không thể đổi lại, nên nó đáng để bạn thận trọng hơn cả mật mã. Đơn vị lưu thông tin khuôn mặt của từ 100.000 người trở lên phải đăng ký (备案) với cơ quan quản lý không gian mạng cấp tỉnh trở lên trong vòng 30 ngày làm việc — đây cũng là một câu hỏi để đánh giá xem bên kia có chính quy hay không. Quyền tra cứu, sửa chữa, xóa thông tin cá nhân của bạn xem mục 8.
+- Tại Việt Nam: Việt Nam chưa có quy định riêng quản lý nhận diện khuôn mặt như Trung Quốc; dữ liệu khuôn mặt là dữ liệu sinh trắc thuộc nhóm dữ liệu cá nhân nhạy cảm, chỉ được xử lý khi bạn đồng ý theo Luật Bảo vệ dữ liệu cá nhân 2025 (hiệu lực 1/1/2026, trước đó là Nghị định 13/2023/NĐ-CP), nên với chung cư, phòng gym hay nền tảng cho thuê nhà bạn vẫn có thể từ chối và đề xuất cách khác như thẻ từ hoặc mã PIN. Riêng ngân hàng thì ngược lại: từ 1/7/2024, chuyển tiền trực tuyến từ 10.000.000 đồng/lần hoặc 20.000.000 đồng/ngày bắt buộc thêm xác thực sinh trắc học theo Quyết định 2345/QĐ-NHNN, nên nếu không muốn quét khuôn mặt bạn phải giữ giao dịch dưới ngưỡng này hoặc ra quầy giao dịch.

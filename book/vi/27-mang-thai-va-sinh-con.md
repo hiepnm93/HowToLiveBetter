@@ -12,6 +12,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:De-Regil LM, Peña-Rosas JP, Fernández-Gaxiola AC, Rayco-Solon P (2015). Effects and safety of periconceptional oral folate supplementation for preventing birth defects. Cochrane Database of Systematic Reviews, (12), CD007950. <https://doi.org/10.1002/14651858.CD007950.pub3>
 - Ghi chú: Quan trọng là phải bắt đầu uống trước khi mang thai. Ống thần kinh của thai nhi khép kín trong vòng 28 ngày sau khi thụ thai. Đợi đến khi que thử báo có thai mới uống thì khoảng thời gian này đã trôi qua phần lớn. Vì vậy nếu định sinh con, hãy uống trước 3 tháng. Trong cùng phân tích gộp đó, axit folic không có hiệu quả rõ rệt với sứt môi hở vòm, bệnh tim bẩm sinh và sảy thai — đừng mong nó có tác dụng với cái khác.
+- Tại Việt Nam: Ở VN bạn mua axit folic tự do ở nhà thuốc, giá vài nghìn đến vài chục nghìn đồng một lọ, không cần đơn; một số địa phương còn cấp miễn phí viên bổ sung vi chất cho thai phụ tại trạm y tế xã, phường. Điểm khó vẫn là uống đều từ trước khi mang thai, vì ống thần kinh của thai khép kín sớm hơn nhiều so với lúc que thử báo hai vạch.
 
 ### 2. Lập Sổ tay Sức khỏe Mẹ và Trẻ tại trung tâm y tế cộng đồng trước tuần thai thứ 13 để dùng hết suất khám thai miễn phí
 <!-- 成本标签: 钱=0 时间=中 毅力=否 收益=中 口径=死亡率 -->
@@ -21,6 +22,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版）. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>；靖江市人民政府. 国家基本公共卫生服务项目——孕产妇健康管理服务（地方服务清单公开）. <https://www.jingjiang.gov.cn/xxgk/zdlyxxgk/wsjk/art/2023/art_383017a2e7794892bc772bfbe042f379.html>
 - Ghi chú: 5 lần đó là mức tối thiểu được miễn phí, không phải toàn bộ việc khám thai. Tùy tình huống, bệnh viện sẽ chỉ định thêm siêu âm, xét nghiệm đường huyết, theo dõi tim thai — những phần này bạn tự trả tiền. Lập sổ càng sớm thì việc phân loại nguy cơ thai kỳ càng sớm được thực hiện. Phân loại nguy cơ thai kỳ là xếp thai phụ theo mức nguy cơ từ thấp đến cao; ai thuộc nhóm nguy cơ cao thì được chuyển sớm đến bệnh viện đủ năng lực tiếp nhận. Người đang sống ở quận huyện khác thì lập sổ theo nơi ở hiện tại, không cần quay về nơi đăng ký hộ khẩu (户口).
+- Tại Việt Nam: Ở VN không có sổ «Mẹ và trẻ» theo chương trình nhà nước như sách gốc; bạn được cấp sổ khám thai ngay lần khám đầu, một số nơi là Sổ sức khỏe mẹ và con. Khám thai tại trạm y tế xã, phường thường miễn phí hoặc rất rẻ; người có thẻ BHYT được thanh toán các lần khám thai định kỳ và chi phí sinh theo quy định (kiểm tra văn bản hiện hành). Nên đi khám ngay khi biết có thai, đừng đợi đủ 13 tuần.
 
 ### 3. Xét nghiệm luôn ba thứ HIV, giang mai, viêm gan B ngay lần khám thai đầu tiên — phát hiện ra vẫn có dịch vụ chặn lây truyền miễn phí
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=死亡率 -->
@@ -30,6 +32,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:国家卫生健康委办公厅 (2020). 预防艾滋病、梅毒和乙肝母婴传播工作规范（2020 年版）. <https://wjw.xinjiang.gov.cn/hfpc/zhgl6/202012/08b7de496f0b40e586d4b99d00cf79c4.shtml>（新疆维吾尔自治区卫生健康委员会转载）；国务院 (2006). 艾滋病防治条例（第四十三、四十四条）. <https://wjw.beijing.gov.cn/zwgk_20040/zcwj2022/flfg/202304/t20230408_2992986.html>（北京市卫生健康委员会转载）
 - Ghi chú: Ba xét nghiệm này làm càng sớm càng có ích, vì cả chặn lây truyền lẫn điều trị đều cần thời gian. Điều 3 của Điều lệ phòng, chống bệnh AIDS còn ghi rõ “bất kỳ cơ quan hay cá nhân nào cũng không được kỳ thị người nhiễm HIV, người bệnh AIDS và gia đình của họ”; các quyền lợi chính đáng như kết hôn, xin việc, khám chữa bệnh, đi học đều được pháp luật bảo vệ. Cách phòng ngừa và xét nghiệm hằng ngày xem phần 1. Dùng thuốc dự phòng sau phơi nhiễm sau khi có hành vi nguy cơ cao xem phần 13
+- Tại Việt Nam: Ở VN thai phụ được xét nghiệm HIV ngay trong lần khám thai đầu; các cơ sở được chỉ định của chương trình phòng lây truyền từ mẹ sang con cấp thuốc dự phòng miễn phí, vì Luật Phòng, chống HIV/AIDS quy định người nhiễm HIV được cấp thuốc miễn phí. Xét nghiệm giang mai và viêm gan B tại bệnh viện thường thu phí nhỏ, không hẳn miễn phí như sách gốc. Mẹ nhiễm viêm gan B thì con được tiêm mũi vắc-xin trong 24 giờ đầu miễn phí qua Chương trình tiêm chủng mở rộng, còn globulin miễn dịch viêm gan B có thể phải tự mua ở bệnh viện.
 
 ### 4. Cả thai kỳ không hút một điếu thuốc, không uống một ngụm rượu nào, và người nhà cũng đừng hút thuốc trong phòng
 <!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=死亡率 -->
@@ -75,6 +78,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: B
 - Nguồn:北京市卫生健康委员会. 每周急救话题：准妈妈羊水早破怎样办？ <https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jzjj/202001/t20200115_1575632.html>；北京市顺义区妇幼保健院. 孕晚期在家破水怎么办？ <https://www.bch-syfy.cn/Html/News/Articles/9453.html>
 - Ghi chú: Ba dấu hiệu sắp sinh là cơn co tử cung đều đặn, ra máu báo sinh và vỡ ối. Hai dấu hiệu đầu vẫn có thể thong thả dọn đồ, riêng vỡ ối là dấu hiệu duy nhất đòi hỏi "nằm xuống tại chỗ và gọi xe" ngay. Tắm, vào nhà vệ sinh, tự lái xe sau khi vỡ ối đều là những cách làm sai điển hình. Ghi lại thời điểm vỡ ối và màu nước ối để báo bác sĩ. Nước ối có màu vàng xanh hoặc lẫn hạt phân su cho thấy dấu hiệu suy thai (thai nhi thiếu oxy trong tử cung). Nếu đồng thời có cơn co đều đặn, thai máy giảm rõ rệt, sốt kèm ớn lạnh thì càng phải nhấn mạnh với bác sĩ rằng đây là cấp cứu.
+- Tại Việt Nam: Sách gốc ghi số 120; ở VN số cấp cứu y tế là 115, công an 113, cứu hỏa – cứu nạn 114. Vỡ ối thì nằm ngay tại chỗ, kê cao mông, gọi 115 hoặc nhờ người đưa đến bệnh viện gần nhất có khoa sản, đừng tự lái xe.
 
 ### 9. Muốn sinh không đau thì cứ nói ra, nó không làm tăng nguy cơ mổ lấy thai
 <!-- 成本标签: 钱=少 时间=少 毅力=些 收益=中 口径=时间 -->
@@ -84,6 +88,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:Anim-Somuah M, Smyth RMD, Cyna AM, Cuthbert A (2018). Epidural versus non-epidural or no analgesia for pain management in labour. Cochrane Database of Systematic Reviews, (5), CD000331. <https://doi.org/10.1002/14651858.CD000331.pub4>；国家医疗保障局 (2024). 重构产科服务价格项目 助力构建生育友好型社会. <https://www.gov.cn/zhengce/202406/content_6957553.htm>
 - Ghi chú: «Tiêm vô cảm thì đau lưng cả đời» và «tiêm vô cảm thì đẻ khó, phải mổ» — hai lời đồn lan rộng nhất đều không có căn cứ. Cochrane tổng hợp gây tê ngoài màng cứng với các biện pháp giảm đau khác và kết luận nó không ảnh hưởng tới nguy cơ mổ lấy thai cũng như đau lưng kéo dài. Tác dụng phụ thật sự gồm: huyết áp hạ nhẹ, sốt, chân mềm yếu, tiểu không ra, cùng với giai đoạn một và hai của chuyển dạ kéo dài hơn và khả năng phải dùng oxytocin cao hơn. Làm hay không là tùy bạn, nhưng đừng bỏ chỉ vì lời đồn. Có làm được hay không còn phụ thuộc vào việc bệnh viện có bác sĩ gây mê túc trực 24 giờ không — hãy hỏi rõ ngay từ lúc khám thai. 〔1000〕
+- Tại Việt Nam: Ở VN dịch vụ này đã có ở nhiều bệnh viện công lớn và bệnh viện tư, gọi là gây tê ngoài màng cứng hay «sinh không đau»; phần giảm đau chuyển dạ thường nằm ngoài phạm vi BHYT thanh toán nên bạn tự trả, phổ biến ở mức vài triệu đồng tùy bệnh viện. Cần bệnh viện có bác sĩ gây mê trực 24/24, nên hỏi ngay từ lúc khám thai.
 
 ### 10. Đừng yêu cầu mổ lấy thai khi không có chỉ định y khoa, cũng đừng chọn ngày đẹp để mổ
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=死亡率 -->
@@ -93,6 +98,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:World Health Organization (2015). WHO Statement on Caesarean Section Rates（WHO/RHR/15.02）. <https://www.who.int/publications/i/item/WHO-RHR-15.02>
 - Ghi chú: Khi có nhu cầu y khoa thật sự, mổ lấy thai là ca phẫu thuật cứu mạng, cần làm thì làm, đừng gồng chịu. Điều cần tránh là mổ khi không có chỉ định y khoa, ví dụ vì sợ đau, chọn giờ đẹp, tính tuổi để con vào học. Mổ lấy thai là phẫu thuật lớn ở vùng bụng, hồi phục chậm hơn, và ở lần mang thai sau nguy cơ nhau tiền đạo, nhau cài răng lược và vỡ tử cung cao hơn. Điều này ảnh hưởng trực tiếp đến việc bạn có còn muốn sinh đứa thứ hai hay không.
+- Tại Việt Nam: Ở VN tỷ lệ mổ lấy thai đã vượt xa mức 10% WHO nêu trong nhiều năm, cao nhất ở một số bệnh viện tư, và chuyện chọn ngày giờ đẹp theo tục lệ rất phổ biến. Khi bác sĩ xác nhận sinh thường được thì nên nhường chuyện chọn ngày đẹp lại cho an toàn của mẹ.
 
 ### 11. Xác nhận tình trạng tham gia bảo hiểm thai sản trước khi mang thai, vợ/chồng chưa đi làm cũng được thanh toán chi phí y tế khi sinh
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -102,6 +108,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:全国人大常委会 (2010). 中华人民共和国社会保险法（第五十四、五十六条）. <https://guangdong.chinatax.gov.cn/gdsw/qysw_gkwj/2020-02/12/content_8e8c485d0db34b989531f3ba57cec5a9.shtml>（国家税务总局广东省税务局转载）
 - Ghi chú: Hai việc phải hỏi rõ từ trước, vì sinh xong rồi thì không bổ sung được. Thứ nhất là số tháng đóng bảo hiểm liên tục đã đủ chưa: mỗi địa phương đều quy định một mức số tháng tối thiểu, không đủ thì không được hưởng. Thứ hai là nếu sinh con không ở nơi tham gia bảo hiểm thì có phải làm thủ tục đăng ký sinh ở nơi khác trước hay không: người chưa đăng ký có khi phải tự ứng tiền trước, về sau mới làm thủ tục hoàn trả bằng giấy, thậm chí không được thanh toán. Số ngày nghỉ thai sản và cách tính trợ cấp thai sản xem mục 2, phần 18.
+- Tại Việt Nam: Ở VN không có «bảo hiểm thai sản» tách riêng như Trung Quốc: chế độ thai sản nằm trong BHXH bắt buộc, chỉ người lao động nữ tham gia BHXH bắt buộc mới hưởng trợ cấp khi nghỉ 6 tháng thai sản theo Bộ luật Lao động 2019; Luật Bảo hiểm xã hội 2024 (hiệu lực 1/7/2025) bổ sung trợ cấp thai sản một lần cho người tham gia BHXH tự nguyện khi sinh con (kiểm tra văn bản hiện hành). Vợ hoặc chồng không đi làm thì chi phí khám thai và sinh con được thanh toán qua BHYT; từ 2021 thẻ BHYT dùng được ở bệnh viện mọi tỉnh nên không phải đăng ký sinh ngoại tỉnh như sách gốc nói. Hỏi trước bệnh viện nơi sinh có hợp đồng khám chữa bệnh BHYT hay không.
 
 ### 12. Làm xong Giấy chứng nhận sinh y học (《出生医学证明》) trước khi xuất viện, đặt tên sẵn cho bé và tránh viết sai chữ
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
@@ -111,6 +118,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:全国人大常委会 (1994, 2017 修正). 中华人民共和国母婴保健法（第二十三条）. <https://www.gov.cn/guoqing/2021-10/29/content_5647619.htm>
 - Ghi chú: Trước khi điền, hãy đối chiếu từng chữ họ tên của bố mẹ, số thẻ căn cước (身份证) và tên của bé. Chữ dùng trong tên phải gõ được trong hệ thống hộ tịch; chữ hiếm thì về sau làm giấy tờ gì cũng phiền. Đổi tên hay đổi giấy đều phải đi thủ tục cấp lại hoặc đổi mới, phiền hơn nhiều so với việc đối chiếu ngay tại chỗ. Có giấy rồi thì cất giữ riêng cẩn thận, quan trọng ngang sổ hộ khẩu (户口本) và thẻ căn cước.
+- Tại Việt Nam: Ở VN, bệnh viện nơi sinh cấp Giấy chứng sinh trước khi bạn xuất viện; giấy này dùng để làm Giấy khai sinh tại UBND cấp xã nơi cha hoặc mẹ cư trú, hoặc nộp online qua Cổng Dịch vụ công quốc gia và VNeID. Tên con phải bằng tiếng Việt hoặc tiếng dân tộc khác của Việt Nam, không đặt bằng số hay ký tự không phải chữ theo quy định hiện hành. Đối chiếu kỹ họ tên, ngày sinh trước khi rời viện, vì sửa sau này mất thời gian hơn nhiều.
 
 ### 13. Đừng từ chối sàng lọc máu gót chân và sàng lọc thính lực cho trẻ sơ sinh
 <!-- 成本标签: 钱=少 时间=少 毅力=否 收益=大 口径=死亡率 -->
@@ -120,6 +128,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:卫生部 (2009). 新生儿疾病筛查管理办法（卫生部令第 64 号，第三、十、十一条）. <http://www.gov.cn/gongbao/content/2009/content_1371363.htm>
 - Ghi chú: Điều 11 của quy định yêu cầu trước khi sàng lọc phải nói thật đầy đủ với người giám hộ về hạng mục, điều kiện, cách thực hiện, độ nhạy (phát hiện được bao nhiêu) và chi phí, sau đó ký tên đồng ý. Vì vậy bạn sẽ nhận được một tờ giấy đồng ý (知情同意书). Trước khi ký, hãy đọc kỹ: bệnh nào thuộc danh mục nhà nước quy định, hạng mục nào là mục thêm phải tự trả tiền. Dương tính ở lần sàng lọc đầu chưa phải là chẩn đoán xác định — tuyệt đại đa số chỉ cần xét nghiệm lại một lần là loại trừ được, đừng hoảng loạn ngay từ bước này. Trẻ không qua sàng lọc thính lực lần đầu phải đi tầm soát lại theo thông báo, đừng tự kết luận "bé nghe được là coi như ổn".
+- Tại Việt Nam: Ở VN sàng lọc sơ sinh chưa bắt buộc với mọi trẻ nhưng được khuyến nghị mạnh: chương trình của Bộ Y tế tập trung vào suy giáp bẩm sinh, thiếu men G6PD và một số bệnh chuyển hóa hiếm, nhiều địa phương miễn phí hoặc hỗ trợ, gói mở rộng tự trả vài trăm nghìn đồng. Sàng lọc thính lực thường làm ngay tại bệnh viện nơi sinh trước khi xuất viện. Kết quả nghi ngờ chỉ là mời xét nghiệm lại, tuyệt đại đa số loại trừ được.
 
 ### 14. Có giấy khai sinh là làm bảo hiểm y tế cho con ngay, đừng đợi xong hộ khẩu
 <!-- 成本标签: 钱=少 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -129,6 +138,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:中国政府网 (2024). 健全基本医疗保险参保长效机制国务院政策例行吹风会. <https://www.gov.cn/zhengce/202409/content_6973567.htm>
 - Ghi chú: Sinh non, vàng da phải chiếu đèn xanh, viêm phổi ở trẻ sơ sinh — đây là những lý do nhập viện phổ biến ở trẻ sơ sinh, viện phí dễ lên tới hơn 10.000 nhân dân tệ, nên có bảo hiểm hay không khác nhau rất nhiều. Quy định về việc «đăng ký trong bao nhiêu ngày sau khi sinh thì được hưởng quyền lợi từ ngày sinh» ở mỗi địa phương không hoàn toàn giống nhau. Cách thực hiện cụ thể hãy lấy hướng dẫn của cơ quan bảo hiểm y tế địa phương làm chuẩn. Trước khi xuất viện, gọi 12393 hỏi một câu là tiện nhất.
+- Tại Việt Nam: Ở VN bạn đăng ký BHYT cho con ngay khi có giấy khai sinh, thường làm liên thông cùng thủ tục khai sinh tại UBND cấp xã hoặc trên VNeID; trẻ dưới 6 tuổi được Nhà nước đóng BHYT, gia đình không phải đóng tiền. Vẫn nên làm sớm vì viện phí sơ sinh như sinh non, viêm phổi, vàng da chiếu đèn có thể lên tới vài chục triệu đồng (kiểm tra văn bản hiện hành).
 
 ### 15. Đăng ký khai sinh cho con tại trạm công an trong vòng một tháng sau khi sinh
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=小 口径=自由 -->
@@ -138,6 +148,7 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:国务院 (1958). 中华人民共和国户口登记条例（第七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2531969.html>（广东省人民政府转载）
 - Ghi chú: Mang đủ những giấy tờ này: giấy chứng sinh (出生医学证明), giấy tờ tùy thân và sổ hộ khẩu của cả bố lẫn mẹ, giấy đăng ký kết hôn. Con có thể đăng ký hộ khẩu theo bố hoặc theo mẹ — bạn tự chọn, nhưng chính sách mỗi nơi một khác, ảnh hưởng đến cả khu vực tuyển sinh lẫn nơi tham gia bảo hiểm y tế. Hãy tính kỹ trước khi đi, đổi lại sau này rất phiền. Con sinh ra khi cha mẹ chưa kết hôn vẫn được đăng ký khai sinh bình thường.
+- Tại Việt Nam: Ở VN thời hạn khai sinh là 60 ngày kể từ ngày sinh theo Luật Hộ tịch 2014, dài hơn mức một tháng của sách gốc; hồ sơ nộp tại UBND cấp xã nơi cha hoặc mẹ cư trú, miễn phí, và có thể gửi online qua Cổng Dịch vụ công quốc gia hoặc VNeID. Khai sinh, đăng ký cư trú và cấp thẻ BHYT cho trẻ nay làm liên thông trong một bộ hồ sơ. Con ngoài hôn nhân vẫn được đăng ký khai sinh bình thường.
 
 ### 16. Đừng bỏ buổi tái khám sau sinh 42 ngày — đó cũng là lần tầm soát trầm cảm sau sinh
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=死亡率 -->
@@ -147,3 +158,4 @@ Số liệu từ Tổ chức Y tế Thế giới (WHO): năm 2023, trên toàn t
 - Mức bằng chứng: A
 - Nguồn:国家卫生计生委 (2017). 国家基本公共卫生服务规范（第三版）. <https://www.nhc.gov.cn/ewebeditor/uploadfile/2017/04/20170417104506514.pdf>；靖江市人民政府. 国家基本公共卫生服务项目——孕产妇健康管理服务（地方服务清单公开）. <https://www.jingjiang.gov.cn/xxgk/zdlyxxgk/wsjk/art/2023/art_383017a2e7794892bc772bfbe042f379.html>
 - Ghi chú: Trầm cảm sau sinh không phải là “làm quá”, cũng không thể giải quyết bằng một câu “nghĩ thoáng lên” của người nhà. Có bảng hỏi tầm soát riêng, có điều trị, và có thể hồi phục. Khi có ý nghĩ tự vẫn, cách xử lý xem mục 1. Nếu sinh con ra mà thực sự không nuôi được, lối đi hợp pháp xem mục 9, điều 20. Buổi tái khám này còn xem vết thương lành thế nào, tử cung co hồi thế nào, chức năng sàn chậu có ổn không. Phương án ngừa thai cũng được trao đổi trong lần này: sau sinh chưa thấy kinh trở lại không có nghĩa là không thể mang thai
+- Tại Việt Nam: Ở VN không có lần khám 42 ngày miễn phí theo chương trình nhà nước như Trung Quốc; bạn chủ động quay lại bệnh viện nơi sinh hoặc cơ sở sản phụ khoa, BHYT chi trả khi có chỉ định, không thì trả phí khám thông thường. Nếu có ý nghĩ làm hại mình hoặc con, hãy đến chuyên khoa tâm thần tuyến tỉnh trở lên, việc khám chữa được BHYT chi trả. Một số trạm y tế có đến thăm, theo dõi sản phụ sau sinh trong khu vực quản lý, nên hỏi trạm nơi bạn ở.

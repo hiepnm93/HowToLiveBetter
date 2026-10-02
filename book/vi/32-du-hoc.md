@@ -14,6 +14,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:中国（教育部）留学服务中心. 认证院校查询. <http://yxcx.cscse.edu.cn/>；教育部教育涉外监管信息网. <https://jsj.moe.gov.cn/>
 - Ghi chú: Lời môi giới nói suông «Bộ Giáo dục công nhận» chưa đủ tin, phải lấy kết quả bạn tự tra trên mạng làm chuẩn. Danh sách sẽ thay đổi: nhập học thì trường có tên trong danh sách, đến lúc tốt nghiệp chưa chắc vẫn còn, nên trong thời gian học mỗi năm nên tra lại một lần. Các chương trình liên kết đào tạo Trung – nước ngoài (中外合作办学) có một chế độ chứng nhận – đăng ký riêng. Người nhập học từ năm 2008 trở đi có thể dùng họ tên và số thẻ căn cước (身份证) để tra mã số đăng ký của mình trên cổng thông tin giám sát nói trên.
+- Tại Việt Nam: Ở Việt Nam không có danh sách «trường được chứng nhận» tập trung như của Trung Quốc; bằng nước ngoài được xét công nhận theo từng hồ sơ do Bộ Giáo dục và Đào tạo xử lý trực tuyến qua Cổng Dịch vụ công quốc gia, và kết quả công nhận này mới là điều kiện để bạn thi công chức, học cao học hoặc làm việc trong cơ quan nhà nước. Nếu học chương trình liên kết đào tạo với nước ngoài ngay tại Việt Nam thì chương trình phải nằm trong danh mục được Bộ Giáo dục và Đào tạo phê duyệt, kiểm tra trước khi đóng học phí theo Luật Giáo dục đại học. Trước khi nộp hồ sơ, bạn tự tra tư cách hợp pháp của trường ở nước sở tại, đừng tin lời bảo đảm của môi giới.
 
 ### 2. Theo dõi vụ kiện quanh quy định mới về F-1 của Mỹ: “tối đa 4 năm, rời Mỹ trong 30 ngày sau khi học xong” dự kiến có hiệu lực từ 15/9/2026 nhưng bị tòa hoãn ngay ngày hôm trước, hiện vẫn theo nguyên tắc “học đến khi xong”
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=自由 -->
@@ -23,6 +24,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:DHS (2026). Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors（2026-07-17 公布，原定 2026-09-15 生效）. <https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant>；Presidents' Alliance on Higher Education and Immigration v. U.S. Department of Homeland Security, No. 1:26-cv-13799-FDS (D. Mass. Sept. 14, 2026)，法院案卷. <https://www.courtlistener.com/docket/74661796/presidents-alliance-on-higher-education-and-immigration-v-united-states/>；Yale Office of International Students & Scholars (2026-09-14). Important Update: Court Action on the D/S Rule. <https://oiss.yale.edu/news/important-update-court-action-on-the-ds-rule>；AILA (2026). One Day Before Taking Effect, Federal Court Postpones the F, J, and I Fixed Admission Period Rule. <https://www.aila.org/blog/think-immigration-one-day-before-taking-effect-federal-court-postpones-the-f-j-and-i-fixed-admission-period-rule>；8 CFR 214.2(f). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>
 - Ghi chú: Thông tin trong mục này cập nhật đến 25/9/2026. Chính phủ có thể kháng cáo lên Tòa Phúc thẩm Liên bang Vòng 1 (First Circuit), còn Bộ An ninh Nội địa có thể chỉnh sửa quy định rồi công bố lại. Vì vậy ai học nhiều năm thì đừng giả định quy cũ sẽ mãi không đổi. Tòa đã định phiên họp ngày 2/10/2026 để nghe hai bên báo cáo tiến độ; qua ngày đó, hãy xem lại thông báo của trường một lần nữa. Nếu quy định mới sau này có hiệu lực, muốn gia hạn phải nộp đơn trước khi hết thời hạn, không tự động được gia hạn. Theo quy cũ, ai nghỉ học sớm thì thời hạn rời Mỹ khác với ai học đến khi xong — nên hỏi trước văn phòng sinh viên quốc tế của trường. Thị thực J cũng nằm trong cùng quy định này nhưng chi tiết khác với F-1 — hãy tra theo loại thị thực của mình.
+- Tại Việt Nam: Quy định của Mỹ trong mục này áp dụng như nhau cho du học sinh Việt Nam. Xin thị thực F-1 từ Việt Nam, bạn nộp và phỏng vấn tại Đại sứ quán Mỹ ở Hà Nội hoặc Tổng lãnh sự quán Mỹ ở TP.HCM, thời gian chờ hẹn có thể kéo dài nên đừng tính phương án rời Mỹ rồi quay lại khi quy định chưa ngã ngũ. Bạn theo dõi thông báo của văn phòng sinh viên quốc tế của trường, và nên đăng ký thông tin với Đại sứ quán Việt Nam tại Mỹ hoặc hội du học sinh Việt Nam ở đó để nhận tin khẩn.
 
 ### 3. Không vượt giới hạn giờ làm thêm ở Mỹ, Canada, Anh, Úc — vượt một giờ cũng là vi phạm điều kiện thị thực
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=自由 -->
@@ -32,6 +34,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:8 CFR 214.2(f)(9). <https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2>；UK Home Office. Immigration Rules Appendix Student（ST26.1、ST26.5）. <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>；IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>；Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>
 - Ghi chú: Tại Mỹ, việc làm ngoài trường phải được chấp thuận trước; khi đơn xin giấy phép làm việc I-765 còn đang xét duyệt thì chưa được bắt đầu làm. Tại Canada, giấy phép cũ in mức 20 giờ mỗi tuần, nhưng nếu vẫn đủ điều kiện thì thực tế được làm tới 24 giờ — cứ lấy quy định hiện hành làm chuẩn. Mục cấm tự làm chủ của Anh áp dụng rất rộng: nhận việc riêng, mở gian hàng online, làm nghề tự do đều bị tính là tự làm chủ.
+- Tại Việt Nam: Các mức giới hạn giờ làm ở bốn nước áp dụng như nhau cho hộ chiếu Việt Nam. Một số trung tâm tư vấn du học trong nước quảng cáo «vừa học vừa làm tự túc» và nói nhẹ chuyện số giờ, bạn tự đối chiếu với quy định chính thức của nước đó trước khi ký hợp đồng dịch vụ. Làm vượt giờ bị phát hiện có thể bị hủy thị thực và ảnh hưởng các lần xin thị thực sau.
 
 ### 4. Giữ trạng thái “đang học toàn thời gian”: nghỉ học, thôi học hay trong lúc chuyển trường đều không được làm thêm
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=自由 -->
@@ -41,6 +44,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:IRCC. Work off campus as an international student. <https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html>；U.S. Department of Homeland Security, Study in the States. Working in the United States. <https://studyinthestates.dhs.gov/students/work/working-in-the-united-states>；UK Home Office. Immigration Rules Appendix Student（ST26.1）. <https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student>
 - Ghi chú: Áp lực học hành lớn, muốn giảm môn thì hỏi trước: giảm xuống còn bao nhiêu thì không còn tính là học toàn thời gian. Mất tư cách đến sớm hơn cả chuyện làm thêm bất hợp pháp. Bị đuổi học hoặc chương trình bị chấm dứt thì tư cách thường mất ngay trong ngày. Đừng chờ trường gửi thư chính thức rồi mới hành động.
+- Tại Việt Nam: Nếu mất tư cách du học và bị buộc rời nước, bạn liên hệ Đại sứ quán hoặc Lãnh sự quán Việt Nam tại nước sở tại để được hướng dẫn quay về. Đường dây nóng bảo hộ công dân của Bộ Ngoại giao Việt Nam là +84 981 84 84 84, hỗ trợ liên lạc, giấy tờ và liên hệ với gia đình, nhưng không can thiệp vào quyết định của cơ quan di trú nước đó, chi phí về nước bạn tự trả.
 
 ### 5. Mỹ: báo địa chỉ mới cho cơ quan di trú trong vòng 10 ngày sau khi chuyển chỗ ở
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
@@ -59,6 +63,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:教育部教育涉外监管信息网. 预警信息. <https://jsj.moe.gov.cn/>；教育部发布 2025 年第 4 号留学预警. <https://jsj.moe.gov.cn/n2/2/2/2060.shtml>；第 1 号. <https://jsj.moe.gov.cn/n2/2/2/2001.shtml>
 - Ghi chú: Cảnh báo không phải lệnh cấm, cũng không có nghĩa là không được đi — nó chỉ cho bạn một căn cứ chính thức để cân nhắc rủi ro ở nơi đó. Danh sách cảnh báo thay đổi theo tình hình, mục này không cập nhật theo dài hạn, hãy lấy trang hiện thời trên website làm chuẩn. Về an toàn cá nhân ở nước ngoài và bảo hộ lãnh sự, xem mục 21.
+- Tại Việt Nam: Việt Nam không phát «cảnh báo du học» đánh số định kỳ như Bộ Giáo dục Trung Quốc; thông tin rủi ro theo từng nước bạn xem ở mục bảo hộ công dân, khuyến cáo trên Cổng thông tin điện tử của Bộ Ngoại giao và trang của Đại sứ quán Việt Nam tại nước đó. Khi nhận cảnh báo của đại sứ quán về an ninh hoặc lừa đảo ở nước sắp đi, bạn nên rà lại kế hoạch; đang ở nước ngoài mà gặp sự việc thì liên hệ đường dây nóng bảo hộ công dân của Bộ Ngoại giao hoặc cơ quan đại diện Việt Nam gần nhất.
 
 ### 7. Úc: bảo hiểm OSHC phải bao trọn thời gian lưu trú và không được gián đoạn; không xuất trình được bảo hiểm lúc hạ cánh thì có thể bị từ chối nhập cảnh
 <!-- 成本标签: 钱=多 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -68,6 +73,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:Australian Government Department of Home Affairs. Student visa (subclass 500). <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500>
 - Ghi chú: Nếu trường mua hộ, hãy hỏi rõ tên công ty bảo hiểm, ngày bắt đầu và ngày kết thúc hợp đồng cùng số hợp đồng, vì đơn xin visa phải điền các thông tin này. Mua thiếu thời gian sẽ gây rắc rối khi gia hạn visa; thà mua dài hơn, kéo đến sau tốt nghiệp và chừa thêm một chút vẫn hơn.
+- Tại Việt Nam: Với người Việt Nam, OSHC tốn khoảng 8 đến hơn 10 triệu đồng mỗi năm cho một người tùy gói và tỷ giá; Úc chỉ chấp nhận bảo hiểm của một số đơn vị được phê duyệt như Bupa, Medibank, nib, Allianz Care, bạn có thể mua trực tuyến từ Việt Nam. Nếu mua kèm dịch vụ tư vấn du học, vẫn yêu cầu giấy xác nhận ghi rõ tên công ty bảo hiểm, ngày bắt đầu – kết thúc và số hợp đồng để điền vào hồ sơ visa, vì mua qua trung gian có thể bị cộng thêm phí.
 
 ### 8. Anh: ngoài lệ phí visa còn có khoản phí y tế bổ sung thu theo từng năm, sinh viên 776 bảng Anh mỗi năm, nộp một lần khi làm hồ sơ
 <!-- 成本标签: 钱=多 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -77,6 +83,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:UK Government. Student visa. <https://www.gov.uk/student-visa>；UK Government. Pay for UK healthcare as part of your immigration application. <https://www.gov.uk/healthcare-immigration-application>
 - Ghi chú: Mức phí và tỷ giá đều có thể thay đổi; hãy tính theo con số hiện hành trên hai trang được dẫn trong nguồn. Ai học chương trình cấp bằng (degree), đủ 18 tuổi trở lên, thường được ở tối đa 5 năm; dưới trình độ degree là 2 năm. Lấy số năm này để ước tính phí y tế bổ sung phải nộp.
+- Tại Việt Nam: Quy đổi theo tỷ giá, phí y tế bổ sung 776 bảng Anh mỗi năm là khoảng 25 triệu đồng, lệ phí visa sinh viên 558 bảng Anh khoảng 18 triệu đồng, tỷ giá biến động nên lấy con số khi thanh toán làm chuẩn. Bạn nộp hồ sơ trực tuyến trên gov.uk và lấy sinh trắc học tại trung tâm nhận hồ sơ thị thực ở Hà Nội hoặc TP.HCM; hai khoản này phải trả một lần cùng lúc nộp hồ sơ, nhớ đưa đủ vào dự trù chi tiêu ban đầu.
 
 ### 9. Chừa sẵn thời gian công nhận văn bằng trước khi về nước: giám định của Trung tâm Lưu học sinh mất 10 đến 20 ngày làm việc
 <!-- 成本标签: 钱=少 时间=中 毅力=否 收益=中 口径=时间 -->
@@ -86,6 +93,7 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:中国（教育部）留学服务中心. 网上服务大厅·学历学位认证. <http://zwfw.cscse.edu.cn/>
 - Ghi chú: Hồ sơ cần nộp gồm mấy thứ sau: văn bằng tốt nghiệp, hộ chiếu hoặc giấy thông hành (通行证), thẻ cư trú hoặc thị thực, ghi chú (签注), ảnh thẻ, bản tuyên bố ủy quyền. Hồ sơ xuất nhập cảnh trong thời gian ở nước ngoài do hệ thống tự lấy, nên đừng làm mất các trang thị thực của thời gian đó. Trang web của trung tâm còn đăng thông báo về những văn bằng bị hủy hiệu lực và những trường tạm ngừng nhận đơn công nhận. Trước khi làm, bạn xem qua xem có trường nào liên quan đến mình không.
+- Tại Việt Nam: Tại Việt Nam, thủ tục tương ứng là công nhận văn bằng do nước ngoài cấp, nộp trực tuyến cho Bộ Giáo dục và Đào tạo qua Cổng Dịch vụ công quốc gia; thời gian xử lý tính theo ngày làm việc và kéo dài hơn nếu phải bổ sung giấy tờ, quy trình có thể đổi theo thông tư mới nên kiểm tra văn bản hiện hành. Tùy nước cấp bằng và mục đích sử dụng, bằng cùng bảng điểm cần bản dịch công chứng và có thể phải hợp pháp hóa lãnh sự, bạn nên làm xong thủ tục này tại Cơ quan đại diện Việt Nam ở nước sở tại trước khi về nước cho đỡ phải gửi lại.
 
 ### 10. Tra tên trường trước khi đăng ký: danh sách trường bị "tăng cường rà soát" mỗi năm một dài, mua bằng cấp đã hết đường
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -95,3 +103,4 @@ Khi gặp sự việc ở nước ngoài, cách liên hệ sứ quán và lãnh 
 - Mức bằng chứng: A
 - Nguồn:中国（教育部）留学服务中心. 关于对部分国外院校学历学位认证加强认证审查的公告（九）（2025-10-28）. <https://www.cscse.edu.cn/cscse/sy/tzgg/2025102809225023345/index.html>；中国（教育部）留学服务中心. <https://www.cscse.edu.cn/>
 - Ghi chú: “Tăng cường rà soát” không có nghĩa là chắc chắn không được công nhận, nhưng bạn sẽ phải nộp bổ sung nhiều giấy tờ hơn và mất thời gian lâu hơn. Bất kỳ công ty môi giới nào hứa “cam kết được công nhận” hay “kênh nội bộ làm nhanh” đều là lừa đảo — Trung tâm đã phát riêng thông báo cảnh báo lừa đảo về chuyện này. Thuê người viết hộ luận văn hay học hộ khóa online xuyên biên giới: nếu bị phát hiện, ngoài việc bằng cấp bị vô hiệu, hồ sơ thị thực (visa) của bạn cũng có thể bị ảnh hưởng.
+- Tại Việt Nam: Ở Việt Nam cũng có kiểu quảng cáo «bằng thạc sĩ nhanh, không cần học» và các chương trình liên kết chưa được phép tuyển sinh, bạn kiểm tra trường và chương trình trên cổng thông tin của Bộ Giáo dục và Đào tạo trước khi nộp tiền. Trung tâm thu tiền rồi làm hồ sơ gian dối với giá trị từ 2.000.000 đồng trở lên có thể bị xử lý về lừa đảo chiếm đoạt tài sản theo Điều 174 Bộ luật Hình sự 2015, còn dùng bằng giả trong hồ sơ xin việc thì chính bạn có thể phạm tội làm, sử dụng con dấu, tài liệu giả theo Điều 341 Bộ luật Hình sự 2015.

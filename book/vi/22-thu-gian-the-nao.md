@@ -10,6 +10,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:国务院 (2006). 娱乐场所管理条例（国令第 458 号，第二十、二十一条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6297.htm>；国务院 (2002). 互联网上网服务营业场所管理条例（国令第 363 号，第二十一条）. <http://www.gov.cn/gongbao/content/2002/content_61788.htm>
 - Ghi chú: Chỉ cần gặp bất kỳ dấu hiệu nào dưới đây là đổi chỗ khác ngay: phòng nằm trong hầm, chỉ có một lối ra, hành lang chất đầy đồ, đèn chỉ dẫn cửa thoát hiểm không sáng. Khi cháy, kiểu địa điểm này khói dày, lối đi hẹp, người đông, mà phần lớn khách đã uống rượu. Thời gian bạn có để thoát ra được tính bằng giây. Số điện thoại tố cáo, theo quy định, phải được ghi trên biển cảnh báo ngay trong địa điểm.
+- Tại Việt Nam: Ở Việt Nam, nghĩa vụ giữ thông thoáng lối thoát hiểm của quán karaoke, vũ trường, phòng giải đố nằm trong Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ (hiệu lực từ 7/2025, kiểm tra văn bản hiện hành), và kinh doanh karaoke phải đủ điều kiện phòng cháy chữa cháy mới được cấp phép. Thực tế nước mình đã có vụ cháy quán karaoke ở Bình Dương (9/2022) khiến 32 người tử vong vì lối thoát hiểm bị chặn và không có lối ra thứ hai. Thấy cửa bị khóa, hành lang chất đồ, biển thoát hiểm không sáng thì đi ngay; khi có cháy gọi 114 (cứu hỏa, cứu nạn), muốn tố cáo cơ sở vi phạm thì phản ánh với công an phường, xã hoặc gọi 113.
 
 ### 2. Xin bảng giá trước khi gọi món: chỗ giải trí bắt buộc niêm yết giá rõ ràng, không chấp nhận kiểu "chơi trước, tính tiền sau"
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
@@ -19,6 +20,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:国务院 (2006). 娱乐场所管理条例（国令第 458 号，第二十九、五十三条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6297.htm>
 - Ghi chú: Cách làm: vào phòng xin ngay một bảng giá, bản giấy hay bản điện tử đều được, nhận xong chụp ảnh luôn. Gọi món xong xin thêm một bản danh sách đã xác nhận. Món "pha chế đặc biệt", "đĩa hoa quả" do nhân viên giới thiệu thì luôn hỏi giá trước rồi hẵng gọi. Trả tiền có tranh chấp thì gọi 12315 ngay tại chỗ. Đừng trả tiền trước rồi mới đi khiếu nại: đã trả tiền rồi thì bạn khó chứng minh hơn nhiều.
+- Tại Việt Nam: Việt Nam cũng cấm 'chặt chém': theo Luật Giá 2023 và Luật Bảo vệ quyền lợi người tiêu dùng 2023, hàng hóa, dịch vụ phải niêm yết giá (kiểm tra văn bản hiện hành), và quán 'chặt chém' bị xử phạt hành chính, gian dối nghiêm trọng có thể bị xử lý hình sự. Ở VN không có số Tổng đài 12315 kiểu Trung Quốc; khi có tranh chấp thì gọi 113 tại chỗ, chưa thanh toán, sau đó phản ánh với UBND cấp xã, phường hoặc tổng đài bảo vệ người tiêu dùng 1800.6838.
 
 ### 3. Trong quán có người đưa "đồ" là đi ngay — chứa chấp hay cung cấp đều không phải "giúp bạn"
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=自由 -->
@@ -28,6 +30,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:国务院 (2006). 娱乐场所管理条例（国令第 458 号，第十四、三十、四十二条）. <http://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6297.htm>
 - Ghi chú: Chỉ cần có người đưa ra bột lạ, viên lạ, pod thuốc lá điện tử và mời bạn "thử", hãy rời khỏi đó ngay, đừng ở lại xem náo nhiệt. Rủi ro bạn cá nhân phải gánh còn nặng hơn cả cơ sở. Tự mình sử dụng ma túy, bản thân đã phải chịu xử phạt hành chính. Mà "cho bạn dùng thử tại đây" trong phòng bạn đặt hoặc nhà bạn thì cấu thành tội chứa chấp người khác sử dụng ma túy — phạm tội hình sự.
+- Tại Việt Nam: Ở Việt Nam, tự sử dụng trái phép chất ma túy ngoài bị xử phạt hành chính còn có thể bị truy cứu trách nhiệm hình sự theo Điều 256a Bộ luật Hình sự 2015 (sửa đổi 2025, hiệu lực 1/7/2025); để người khác 'dùng thử' trong phòng bạn thuê thì càng có thể bị xử lý như tổ chức sử dụng ma túy. Cơ sở kinh doanh mà bán, cung cấp ma túy hoặc che giấu việc khách sử dụng bị xử lý nặng hơn theo Luật Phòng, chống ma túy 2021. Có người rút bột lạ, viên lạ ra mời bạn 'thử' thì rời quán ngay và báo 113.
 
 ### 4. Không ăn kẹo và đồ ăn vặt người lạ đưa, không uống thức uống từng rời khỏi tầm mắt, không nhận pod thuốc lá điện tử người khác chìa ra
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=自由 -->
@@ -37,6 +40,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:最高人民检察院 (2021). 江苏苏州吴江区：办案检察官揭秘披着潮流外衣的新型毒品. <https://www.spp.gov.cn/spp/zdgz/202110/t20211011_531831.shtml>；国家药监局、公安部、国家卫生健康委 (2023). 关于调整麻醉药品和精神药品目录的公告（2023 年第 120 号）. <https://yjj.sh.gov.cn/qtgzwj/20230911/3b612c94e35b4b63abba314c972a2593.html>（上海市药监局转载，原文页 nmpa.gov.cn 在本机返回 412）；全国人大常委会 (2025). 治安管理处罚法（2025 年修订，第八十四、八十五条）. <https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml>；全国人大 (1997). 刑法（第三百五十三条）. <https://www.spp.gov.cn/spp/fl/201802/t20180206_364975.shtml>；全国人大常委会 (2007). 禁毒法（第三十三、三十八、四十七条）. <http://www.gd.gov.cn/zwgk/wjk/zcfgk/content/post_2520706.html>（广东省人民政府转载）
 - Ghi chú: Không chỉ ở địa điểm vui chơi giải trí; cổng trường học, buổi họp bạn, chuyến xe đường dài cũng vậy. Đưa cho bạn là kẹo, nước uống hay pod thuốc lá điện tử thì đều như nhau. Sau khi bị bỏ thuốc vào người thường đi kèm cướp tài sản, xâm hại tình dục và tống tiền; phần này không có thống kê chính thức nào công bố, chỉ là nhận định từ kinh nghiệm. Nước uống chỉ cần từng rời khỏi tầm mắt là nên đổi ly khác — đỡ phiền hơn nhiều so với truy cứu về sau. Khi trong chỗ vui chơi có người rút ra bột, viên thuốc, pod không rõ nguồn gốc thì xử lý thế nào, xem mục 3 của chương này. Việc cầm đồ giúp người khác xem chương 8, mục 29.
+- Tại Việt Nam: Khác Trung Quốc, Việt Nam đã cấm hẳn thuốc lá điện tử và thuốc lá nung nóng từ 1/1/2025: sản xuất, kinh doanh, nhập khẩu, vận chuyển, sử dụng đều vi phạm pháp luật (kiểm tra văn bản hiện hành). Loại pod 'lên não' tẩm cần sa tổng hợp, kẹo và nước uống trộn ma túy mới cũng từng bị công an nhiều tỉnh cảnh báo. Vì từ 1/7/2025 sử dụng trái phép chất ma túy có thể bị truy cứu hình sự theo Điều 256a Bộ luật Hình sự 2015 (sửa đổi 2025), lời khuyên giữ nguyên: thứ gì người lạ đưa thì không nhận, nước uống rời khỏi tầm mắt thì đổi ly; nếu nghi bị bỏ thuốc, gọi ngay 115 cấp cứu và 113 công an.
 
 ### 5. Dùng căn cước của mình khi lên mạng ở quán net, đừng cho mượn cũng đừng dùng thẻ người khác
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
@@ -46,6 +50,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:国务院 (2002). 互联网上网服务营业场所管理条例（国令第 363 号，第二十三条）. <http://www.gov.cn/gongbao/content/2002/content_61788.htm>
 - Ghi chú: Đây là cùng một vấn đề với mục «căn cước không cho người khác mượn» ở mục 9. Quán net không được đón tiếp người chưa thành niên và phải treo biển cấm người chưa thành niên ở vị trí dễ thấy ngay lối vào. Các cơ sở giải trí ca nhạc – vũ trường (歌舞娱乐场所) cũng không nhận người chưa thành niên. Nếu bạn «quẹt thẻ hộ» để người chưa thành niên vào quán net, người bị phạt là quán, nhưng hồ sơ vẫn để lại trên căn cước của bạn.
+- Tại Việt Nam: Quán net ở Việt Nam ít hơn trước nhưng cơ sở cung cấp dịch vụ Internet công cộng vẫn chịu quản lý theo Nghị định 147/2024/NĐ-CP về quản lý dịch vụ Internet (kiểm tra văn bản hiện hành) và bị công an kiểm tra. Luật Căn cước 2023 nghiêm cấm cho mượn thẻ căn cước, và hoạt động trên máy gắn với căn cước nào thì truy về chủ căn cước đó. Dùng CCCD thật của mình, đừng 'quẹt hộ' cho ai, kể cả người chưa thành niên muốn vào quán game.
 
 ### 6. Đừng chọn kịch bản phá án (剧本杀), phòng giải đố (escape room) đặt trong nhà ở dân cư hoặc dưới tầng hầm hai
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
@@ -55,6 +60,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:文化和旅游部、公安部、住房和城乡建设部、应急管理部、市场监管总局 (2022). 关于加强剧本娱乐经营场所管理的通知. <https://www.gov.cn/zhengce/zhengceku/2022-06/27/content_5698021.htm>
 - Ghi chú: Đặc điểm của loại địa điểm này là tối, nhiều vách ngăn, đạo cụ dễ cháy, cửa thường phải “giải đố” mới mở được. Khi có cháy, thoát ra còn khó hơn ở cửa hàng thông thường. Trước khi đặt chỗ, nhìn trang đánh giá là biết ngay địa điểm ở tầng mấy và có nằm trong nhà ở dân cư hay không. Chỗ nào không đạt quy định thì đổi chỗ khác luôn.
+- Tại Việt Nam: Việt Nam chưa có quy định riêng cấm phòng giải đố, kịch bản phá án đặt trong nhà ở dân cư hay tầng hầm như thông báo 2022 của Trung Quốc, nên phần kiểm tra thuộc về bạn. Cơ sở này vẫn phải đáp ứng yêu cầu phòng cháy chữa cháy, còn Luật Nhà ở 2023 hạn chế việc dùng nhà ở và căn hộ chung cư để kết hợp kinh doanh (kiểm tra văn bản hiện hành). Trước khi đặt chỗ, xem địa chỉ và tầng trên trang đánh giá, ưu tiên nơi tầng thấp, có hai lối ra và bảng đăng ký hộ kinh doanh.
 
 ### 7. Buồn thì ra đi bộ hoặc chạy bộ: tác dụng chống trầm cảm tỷ lệ thuận với cường độ tập
 <!-- 成本标签: 钱=0 时间=中 毅力=是 收益=大 口径=死亡率 -->
@@ -73,6 +79,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:Hoge EA, Bui E, Mete M, Dutton MA, Baker AW, Simon NM (2023). Mindfulness-based stress reduction vs escitalopram for the treatment of adults with anxiety disorders: a randomized clinical trial. JAMA Psychiatry, 80(1), 13-21. <https://doi.org/10.1001/jamapsychiatry.2022.3679>
 - Ghi chú: Thử nghiệm dùng chương trình giảm căng thẳng dựa trên chánh niệm chuẩn hóa 8 tuần (MBSR); app thiền tùy tiện không thể coi là tương đương. Khóa học dành cho người đã đạt tiêu chuẩn chẩn đoán rối loạn lo âu — cần đi khám bác sĩ thì vẫn phải đi. Nếu bạn vì lo tác dụng phụ của thuốc mà cứ trì hoãn không điều trị, đây là một lựa chọn có độ mạnh bằng chứng tương đương.
+- Tại Việt Nam: Khóa chánh niệm giảm stress chuẩn hóa 8 tuần ở Việt Nam còn ít, chủ yếu tại trung tâm tâm lý tư nhân, và không nằm trong phạm vi chi trả của BHYT. Ngược lại, khám và điều trị lo âu, trầm cảm tại khoa Tâm thần bệnh viện tuyến tỉnh hoặc tuyến thành phố có BHYT chi trả, còn thuốc chống trầm cảm, chống lo âu là thuốc kê đơn nên phải có đơn bác sĩ mới được mua (Luật Dược 2016, sửa đổi 2024) — đừng tự mua thuốc trên mạng.
 
 ### 9. Muốn bình tĩnh lại ngay tại chỗ, làm 5 phút “thở dài chu kỳ”: hít vào làm hai nhịp, thở ra kéo dài
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
@@ -91,6 +98,7 @@ Nửa đầu chương nói về những khoản tiền tiêu oan ở các địa
 - Mức bằng chứng: A
 - Nguồn:Holt-Lunstad J, Smith TB, Baker M, Harris T, Stephenson D (2015). Loneliness and social isolation as risk factors for mortality: a meta-analytic review. Perspectives on Psychological Science, 10(2), 227-237. <https://doi.org/10.1177/1745691614568352>
 - Ghi chú: Có tranh cãi. Đây đều là các mối liên hệ tìm được khi theo dõi một nhóm người, không phải thử nghiệm ngẫu nhiên có đối chứng, nên không tách ra được cái nào là nguyên nhân, cái nào là hệ quả. Người sức khỏe vốn yếu càng dễ sống một mình và ít giao lưu xã hội hơn. Tác giả xếp quan hệ xã hội vào nhóm yếu tố sức khỏe cùng đẳng cấp với hút thuốc lá và béo phì, nhưng chưa có thử nghiệm ngẫu nhiên nào chứng minh rằng "tăng giao lưu xã hội giúp giảm tỷ lệ tử vong". Mục này không mâu thuẫn với mục 3 "cắt giảm các mối quan hệ khiến bạn hao tổn": mục kia chặt bỏ những mối quan hệ hao tổn bạn, còn mục này giữ lại vài mối quan hệ giúp bạn lấy lại sức.
+- Tại Việt Nam: Ở Việt Nam, cảnh sống một mình và cô đơn đặc biệt phổ biến ở người già ở quê khi con cái đi làm xa, cũng như người trẻ ở thành phố lớn. Việc gặp gỡ định kỳ không tốn tiền: tổ dân phố, câu lạc bộ dưỡng sinh, khiêu vũ, cầu lông ở công viên đều miễn phí hoặc gần như miễn phí.
 
 ### 11. Sống gần mảng xanh thì hãy tận dụng: đi bộ, dạo chơi hay ngồi nghỉ đều được tính
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=小 口径=死亡率 -->

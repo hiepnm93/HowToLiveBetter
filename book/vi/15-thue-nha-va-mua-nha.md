@@ -10,6 +10,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
 - Ghi chú: Ngày trả nhà, hãy cùng chủ nhà chụp ảnh, quay video: chụp lại số đồng hồ nước, đồng hồ điện, đồng hồ gas, và chụp cả tường lẫn sàn nhà. Nếu tiền cọc bị trừ mà không có lý do, trước hết hãy khiếu nại lên cơ quan quản lý hoạt động cho thuê nhà ở. Số tiền không lớn thì chọn thủ tục tố tụng vụ án nhỏ (小额诉讼), xem phần 8.
+- Tại Việt Nam: Ở Việt Nam không có văn bản riêng nào siết việc đặt cọc thuê nhà như quy định của Trung Quốc, tiền cọc (thường 1–2 tháng thuê) do hai bên thỏa thuận và xử theo hợp đồng cùng Bộ luật Dân sự 2015: bên nhận cọc mà không giao nhà thì phải hoàn lại tiền cọc và thêm một khoản bằng cọc. Vì vậy hãy ghi cả ba điều (mức cọc, thời hạn hoàn trả, trường hợp khấu trừ) vào hợp đồng và chụp ảnh hiện trạng khi nhận nhà. Sau khi ký, bạn cần đăng ký tạm trú tại công an xã, phường theo Luật Cư trú 2020.
 
 ### 2. Bị cắt nước cắt điện, thay khóa, bị đe doạ tận nhà để ép dọn đi — hãy gọi cảnh sát và giữ chứng cứ trước: pháp quy cấm dùng những cách này ép bạn trả nhà
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -19,6 +20,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十二条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
 - Ghi chú: Gọi cảnh sát là để lưu biên bản cảnh sát ra hiện trường; khi sau này đòi bồi thường thiệt hại, đó chính là chứng cứ. Đồng thời báo cho cơ quan quản lý hoạt động cho thuê nhà ở biết.
+- Tại Việt Nam: Pháp luật Việt Nam không có điều khoản liệt kê riêng như bản gốc, nhưng việc chủ nhà tự ý vào nhà, thay khóa, cắt điện cắt nước để đuổi người thuê có thể bị xử lý hình sự về tội xâm phạm chỗ ở theo Điều 158 Bộ luật Hình sự 2015. Gặp trường hợp này hãy gọi công an 113 đến lập biên bản hiện trường, giữ tin nhắn đe dọa và biên lai điện nước làm chứng cứ để đòi bồi thường, không đối đầu trực tiếp.
 
 ### 3. Trả tiền thuê nhà và tiền đặt cọc trực tiếp cho chủ nhà, không qua tay môi giới
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
@@ -28,6 +30,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第二十五条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
 - Ghi chú: Trước khi trả tiền, kiểm tra xem tên người nhận có phải là tên trên giấy chứng nhận quyền sở hữu nhà hay không. Nếu không phải chính chủ, hỏi rõ và giữ một bản ủy quyền bằng văn bản. Môi giới chỉ được thu phí dịch vụ môi giới cho việc kết nối giữa chủ nhà và người thuê
+- Tại Việt Nam: Việt Nam chưa có quy định cấm môi giới thu hộ tiền thuê như bản gốc, và từng xảy ra việc người giả làm chủ nhà thu cọc của nhiều khách. Trước khi trả tiền, hãy xem giấy chứng nhận quyền sử dụng đất (sổ đỏ, sổ hồng) bản gốc và đối chiếu tên với căn cước công dân của người nhận; nếu người ký không phải chủ nhà thì yêu cầu giấy ủy quyền. Hoạt động môi giới bất động sản được quản lý theo Luật Kinh doanh bất động sản 2023, nên thanh toán trực tiếp cho chủ nhà và chỉ trả phí môi giới đúng thỏa thuận.
 
 ### 4. Thuê căn hộ dài hạn: kiểm tra tài khoản giám sát tiền thuê trước, đừng ham rẻ mà trả trọn năm một lần
 <!-- 成本标签: 钱=0 时间=中 毅力=些 收益=大 口径=金钱 -->
@@ -37,6 +40,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:国务院 (2025). 住房租赁条例（国令第 812 号，2025 年 9 月 15 日施行）（第十九条）. <https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm>
 - Ghi chú: Khi ký hợp đồng, đọc kỹ xem có bị gắn khoản vay hay không. Nếu là app trả góp trả thẳng một năm tiền cho bên cho thuê căn hộ, còn bạn trả nợ từng tháng, thì căn hộ bỏ chạy bạn vẫn phải trả tiếp. Loại hợp đồng này thì không ký.
+- Tại Việt Nam: Việt Nam không có hệ thống tài khoản giám sát tiền thuê như Trung Quốc, và từng có nền tảng cho thuê căn hộ trung gian thu tiền trước nhiều tháng rồi ngừng hoạt động khiến khách mất cả tiền cọc lẫn tiền đã trả. Vì vậy đừng trả trọn năm để được giảm giá, hãy trả theo tháng hoặc kỳ ngắn qua chuyển khoản có ghi rõ nội dung, và đọc kỹ hợp đồng xem có bị gắn khoản vay, trả góp tiền thuê hay không.
 
 ### 5. Nhà bị bán trong thời hạn thuê thì vẫn được ở đến hết hợp đồng
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -46,6 +50,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:全国人大 (2020). 民法典（第七百二十五条）. <https://www.spp.gov.cn/spp/fl/202006/t20200602_463888.shtml>
 - Ghi chú: Điều kiện là bạn đã dọn vào ở hợp pháp — điều luật dùng cụm «chiếm hữu, sử dụng hợp pháp» (合法占有使用). Cần giữ cẩn thận hợp đồng, biên lai chuyển khoản và bằng chứng về thời điểm dọn vào.
+- Tại Việt Nam: Việt Nam có quy định tương tự: Bộ luật Dân sự 2015 ghi nhận việc chuyển quyền sở hữu nhà đang cho thuê không làm mất hiệu lực hợp đồng thuê, chủ nhà mới phải tiếp tục cho bạn ở đến hết hạn. Vì hợp đồng thuê nhà ở không bắt buộc công chứng, hãy giữ hợp đồng gốc, biên lai chuyển tiền và bằng chứng thời điểm nhận nhà để chứng minh quan hệ thuê với chủ nhà mới.
 
 ### 6. Kiểm tra giấy chứng nhận quyền sở hữu và tình trạng thế chấp trước khi ký, mọi khoản tiền đều chuyển khoản và ghi rõ mục đích
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
@@ -55,6 +60,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: C
 - Nguồn:作者经验，无直接文献；证据留存与转账备注同理见第 8 节关于彩礼和借条的两条
 - Ghi chú: Thông tin quyền sở hữu có thể tra cứu tại trung tâm đăng ký bất động sản địa phương. Khi ký hợp đồng, yêu cầu chính chủ nhà có mặt; nếu chủ nhà không đến được thì xin một giấy ủy quyền. Nếu người cho bạn thuê lại chỉ là người đang thuê nhà (二房东), phải có sự đồng ý bằng văn bản của chủ nhà ban đầu.
+- Tại Việt Nam: Trước khi ký, hãy yêu cầu xem sổ đỏ, sổ hồng bản gốc, đối chiếu với căn cước công dân của người cho thuê, và tra tình trạng thế chấp, tranh chấp, quy hoạch tại Văn phòng đăng ký đất đai nơi có nhà. Mọi khoản tiền nên chuyển khoản với nội dung rõ «tiền thuê tháng mấy, nhà số mấy» thay vì trả tiền mặt. Nhà đang thế chấp ngân hàng vẫn có thể cho thuê, nhưng nên yêu cầu chủ nhà xác nhận bằng văn bản để tránh rắc rối khi nhà bị xử lý nợ.
 
 ### 7. Mua nhà cũ mà để môi giới thu hộ tiền nhà thì bắt buộc phải qua tài khoản tiền gửi chuyên dụng cho thanh toán giao dịch mà công ty môi giới mở tại ngân hàng
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
@@ -64,6 +70,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:住房城乡建设部、国家发展改革委、人力资源社会保障部 (2011). 房地产经纪管理办法（令第 8 号，2016 年第 29 号令修改）第二十四条：「房地产交易当事人约定由房地产经纪机构代收代付交易资金的，应当通过房地产经纪机构在银行开设的客户交易结算资金专用存款账户划转交易资金。」第十八条「房地产经纪服务实行明码标价制度……在经营场所醒目位置标明房地产经纪服务项目、服务内容、收费标准」；第十九条「两家或者两家以上房地产经纪机构合作开展同一宗房地产经纪业务的，只能按照一宗业务收取佣金，不得向委托人增加收费」；第十七条代办贷款、代办房地产登记等其他服务「应当向委托人说明服务内容、收费标准等情况，经委托人同意后，另行签订合同」. <http://www.gov.cn/gongbao/content/2011/content_1918920.htm>
 - Ghi chú: Tiền nhà là vài trăm nghìn đến vài triệu nhân dân tệ — khoản tiền lớn nhất tính theo một lần trong cuốn sách này, đừng chuyển qua WeChat cho nhân viên môi giới. Còn có hai kiểu bị thu thêm tiền thường gặp. Một là hai công ty môi giới cùng làm một giao dịch — trường hợp này chỉ được thu một khoản phí môi giới. Hai là làm hộ hồ sơ vay, làm hộ thủ tục sang tên — đây là dịch vụ khác, phải ký hợp đồng riêng và báo trước mức phí. Mọi khoản tiền đều chuyển khoản và ghi rõ mục đích, xem mục 6 (kiểm tra giấy chứng nhận quyền sở hữu nhà (产权证) và tình trạng thế chấp trước khi ký hợp đồng).
+- Tại Việt Nam: Việt Nam không có chế độ tài khoản chuyên dụng của công ty môi giới như bản gốc; tiền mua nhà nên thanh toán trực tiếp cho người bán theo hợp đồng đã công chứng, tuyệt đối không chuyển qua tài khoản cá nhân của nhân viên môi giới. Với nhà ở hình thành trong tương lai do chủ đầu tư bán, Luật Kinh doanh bất động sản 2023 yêu cầu tiền đặt trước của khách hàng được gửi vào tài khoản riêng tại ngân hàng thương mại. Phí môi giới mua bán nhà cũ theo thông lệ khoảng 1–2% giá giao dịch, và không có quy định «hai công ty môi giới cùng làm chỉ được thu một lần phí» như Trung Quốc.
 
 ### 8. Đừng thuê phòng ngăn chia (隔断房): đơn vị cho thuê nhỏ nhất là căn phòng theo thiết kế ban đầu, bếp, nhà vệ sinh và ban công không được ở người
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -73,6 +80,7 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:住房和城乡建设部 (2010). 商品房屋租赁管理办法（令第 6 号）第八条：「出租住房的，应当以原设计的房间为最小出租单位，人均租住建筑面积不得低于当地人民政府规定的最低标准。厨房、卫生间、阳台和地下储藏室不得出租供人员居住。」第九条：「出租人应当按照合同约定履行房屋的维修义务并确保房屋和室内设施安全……房屋租赁合同期内，出租人不得单方面随意提高租金水平。」<http://www.gov.cn/gongbao/content/2011/content_1845070.htm>
 - Ghi chú: Khi phần ngăn chia trái phép bị xử lý, người phải dọn đi là người thuê; tiền đặt cọc và tiền thuê đã trả thường không đòi lại được. Về an toàn cũng kém: tường ngăn chia thường chắn lối thoát nạn, một nhà ở rất đông người mà lại dùng chung một đường điện. Khi xem nhà, để ý ba điểm: tường có phải xây thêm về sau không, phòng có cửa sổ không, và công tơ điện có đủ tải cho nhiều người như vậy không.
+- Tại Việt Nam: Phòng trọ chia nhỏ, xây thêm tầng sai phép vẫn phổ biến ở các đô thị Việt Nam, và rủi ro lớn nhất ở đây là cháy nạn; sau các vụ cháy nhà trọ lớn năm 2023, quy định về phòng cháy chữa cháy đối với nhà trọ đã bị siết chặt (kiểm tra văn bản hiện hành). Khi xem phòng, hãy kiểm tra lối thoát nạn không bị chắn, có bình chữa cháy và báo cháy, công tơ điện đủ tải, và tránh phòng làm từ bếp, nhà vệ sinh hoặc ban công. Phần xây thêm trái phép mà bị xử lý thì người phải dọn đi thường là người thuê, tiền cọc khó đòi lại.
 
 ### 9. Muốn về nông thôn sống khi hộ khẩu vẫn là thành thị: chỉ thuê nhà nông dân, đừng mua đất thổ cư nông thôn hay nhà trên đất đó
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=金钱 -->
@@ -82,3 +90,4 @@ Thước đo của chương này: tiền bạc. Thuê nhà thì chỗ dễ mất
 - Mức bằng chứng: A
 - Nguồn:国务院办公厅 (2007). 关于严格执行有关农村集体建设用地法律和政策的通知（国办发〔2007〕71 号）. <https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_2395.htm>；中央农村工作领导小组办公室、农业农村部 (2019). 关于进一步加强农村宅基地管理的通知（中农发〔2019〕11 号）第五、六部分. <https://www.moa.gov.cn/govpublic/NCJJTZ/201909/t20190920_6328397.htm>
 - Ghi chú: Đất thổ cư nông thôn là đất làng chia cho người trong làng xây nhà, chỉ cấp cho người của làng mình. Khi thuê nhà nông dân, hãy ký hợp đồng bằng văn bản với hộ cho thuê, ghi rõ thời hạn, tiền thuê, có được sửa chữa hay cải tạo không, và khoản tiền sửa chữa cải tạo được tính thế nào khi hết hạn. Văn bản quy định thời hạn thuê không quá 20 năm, đừng ký loại hợp đồng "thuê 50 năm", "thuê 70 năm", càng đừng trả trước nhiều năm tiền thuê trong một lần. Văn bản còn cấm xuống nông thôn dùng đất thổ cư để xây biệt thự, khu nhà sân vườn rộng và hội quán tư nhân; đừng góp tiền "xây chung" với dân làng.
+- Tại Việt Nam: Việt Nam không có chế độ «đất thổ cư chỉ cấp cho người trong làng»: người Việt Nam có thể mua nhà đất ở nông thôn trên cả nước, miễn là đất có giấy chứng nhận, mua bán phải công chứng và kiểm tra quy hoạch, tranh chấp theo Luật Đất đai 2024 và Luật Nhà ở 2023. Cái cần tránh là nhà xây trên đất nông nghiệp hoặc không có sổ (không công chứng được, dễ bị cưỡng chế) và việc trả tiền trước cho người chưa có sổ. Người Việt Nam định cư ở nước ngoài và người nước ngoài sở hữu nhà ở tại Việt Nam bị hạn chế theo Luật Nhà ở 2023 (kiểm tra văn bản hiện hành).

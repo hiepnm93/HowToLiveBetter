@@ -10,6 +10,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第二条）；国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十九、二十一条）；外交部领事司. 安全提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/>
 - Ghi chú: Cảnh báo thay đổi theo tình hình thực tế, sách này không chép lại danh sách — trước khi đi, bạn tự kiểm tra trang đó một lần. Tính đến 7/9/2026, trong mục này vẫn còn các cảnh báo dạng "tạm chưa nên đến" đối với: Eswatini (25/8/2026), Palestine (10/10/2023), Sudan (17/4/2023). Bốn cảnh báo khác là Afghanistan (17/2/2023), Syria (4/1/2023), Peru (29/12/2022), Somalia (24/11/2022). Ngoài ra còn có cảnh báo riêng cho vùng phía bắc Myanmar (缅北) và một số tỉnh của Cộng hòa Dân chủ Congo. Công ty lữ hành cũng có nghĩa vụ thông báo cho khách. Trước khi đi theo đoàn, bạn có thể yêu cầu họ nêu rõ rủi ro của điểm đến bằng văn bản.
+- Tại Việt Nam: Việt Nam không có hệ thống cảnh báo an toàn bốn mức của Bộ Ngoại giao Trung Quốc; thay vào đó bạn xem mục khuyến cáo an toàn cho công dân Việt Nam trên website Cục Lãnh sự, Bộ Ngoại giao (lanhsuvietnam.gov.vn), nơi cập nhật từng điểm đến có nguy cơ cao. Hệ thống xuất nhập cảnh của Việt Nam không khuyên can bạn tại cửa khẩu như quy định Trung Quốc từ 15/9/2026, nên việc tránh nơi có khuyến cáo không nên đến hoàn toàn do bạn tự chịu trách nhiệm.
 
 ### 2. Lưu số 12308 và số bảo hộ lãnh sự của đại sứ quán, lãnh sự quán nước sở tại vào điện thoại, chép thêm một bản để trong ví, đừng đợi lúc có chuyện mới đi tìm
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
@@ -19,6 +20,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:外交部、中国驻缅甸使领馆 (2023). 关于当前缅北地区安全局势的领事提醒. <https://cs.mfa.gov.cn/zggmzhw/lsbh/aqtx/202311/t20231109_11176682.shtml>；国务院新闻办 (2023). 国务院政策例行吹风会介绍领事保护与协助有关情况. <https://www.gov.cn/xinwen/2023zccfh/11/index.htm>
 - Ghi chú: Đại sứ quán hoặc lãnh sự quán nơi bạn đến còn có một đường dây nóng bảo hộ lãnh sự riêng, thường nhanh hơn tổng đài. Trước khi đi, bạn tra theo từng quốc gia trên website Dịch vụ Lãnh sự Trung Quốc (中国领事服务网) rồi lưu cùng số tổng đài vào điện thoại. Nếu điện thoại bị mất hoặc hết pin thì các số đã lưu không dùng được. Vì vậy nên chép tay thêm một bản để trong ví, hoặc viết số này đưa cho người nhà.
+- Tại Việt Nam: Việt Nam không có tổng đài 12308; bạn lưu đường dây nóng bảo hộ công dân của Bộ Ngoại giao (0981 84 84 84), kèm số điện thoại và địa chỉ của Đại sứ quán hoặc Tổng lãnh sự quán Việt Nam tại nước đến, và vẫn chép tay một bản bỏ vào ví như sách gốc khuyên.
 
 ### 3. Biết bảo hộ lãnh sự làm được gì, không làm được gì: thăm được, rút người thì không, chi phí vẫn phải tự trả
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -28,6 +30,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第九、十、十四、二十六条）
 - Ghi chú: Cơ quan lãnh sự không nộp phạt thay bạn, không trả viện phí thay bạn, không mua vé máy bay cho bạn, và cũng không thay đổi được kết luận của tòa án nước sở tại. Những gì họ cung cấp là thông tin về luật sư, phiên dịch, cơ sở y tế, dịch vụ tang lễ tại địa phương; ngoài ra còn giúp bạn liên lạc với người thân, bạn bè và tìm được các kênh xin cứu trợ. Vì vậy, trước khi đi nước ngoài hãy tự chuẩn bị sẵn tiền và bảo hiểm, đừng coi “lỡ có chuyện thì nhà nước lo hết” là phương án.
+- Tại Việt Nam: Nguyên tắc này ở Việt Nam cũng vậy: Cơ quan đại diện Việt Nam tại nước sở tại có thể xác minh tình hình, yêu cầu xử lý công bằng, thăm bạn và giúp liên lạc với gia đình, nhưng không nộp phạt, không trả viện phí, không mua vé máy bay thay bạn, chi phí ứng trước cuối cùng vẫn do bạn trả. Bị giữ ở nước ngoài thì yêu cầu phía nước sở tại thông báo cho Cơ quan đại diện Việt Nam ngay để được thăm khám.
 
 ### 4. Mua bảo hiểm gồm cả y tế ở nước ngoài và vận chuyển y tế, đừng chỉ mua bảo hiểm chậm chuyến bay
 <!-- 成本标签: 钱=少 时间=少 毅力=否 收益=大 口径=金钱 -->
@@ -37,6 +40,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: C
 - Nguồn:国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第二十六条）；美国疾病控制与预防中心. Travelers' Health: Travel Insurance：「Medical evacuation insurance covers emergency transportation from a remote area to a high-quality hospital, which could otherwise cost more than $100,000.」. <https://wwwnc.cdc.gov/travel/page/insurance>；其余为作者经验，无直接文献
 - Ghi chú: Mức 100.000 USD là cách nói về giới hạn dưới, không phải khoảng chi phí. Không tìm thấy số liệu thống kê khoảng chi phí nào công khai từ cơ quan chính thức hay ngành bảo hiểm, nên sách này không ghi khoảng cụ thể. Trước khi mua, cần xác nhận ba việc. Thứ nhất, nước bạn định đến có nằm trong phạm vi bảo hiểm hay không. Thứ hai, các hoạt động rủi ro cao như lặn, trượt tuyết, đi xe máy có bị loại trừ hay không. Thứ ba, bồi thường là công ty bảo hiểm thanh toán trực tiếp với bệnh viện, hay bạn ứng trước tiền rồi về lấy hóa đơn để đòi lại. Đến nước miễn visa cũng vẫn phải mua bảo hiểm.
+- Tại Việt Nam: Bảo hiểm y tế của Việt Nam không thanh toán viện phí điều trị tại nước ngoài, nên gói bảo hiểm du lịch với hai hạn mức chi phí y tế ở nước ngoài và vận chuyển y tế vẫn là bắt buộc; gói ngắn hạn của các công ty Việt thường chỉ vài trăm nghìn đồng. Riêng xin visa Schengen châu Âu, hồ sơ đòi hỏi hạn mức y tế tối thiểu 30.000 EUR, mua gói thấp hơn là bị trả.
 
 ### 5. Coi mọi tin "tuyển dụng lương cao ở nước ngoài" đều là lừa đảo: bị lừa đi làm lừa đảo qua mạng, về nước vẫn có thể bị hạn chế xuất cảnh
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=自由 -->
@@ -46,6 +50,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第三、四条）；司法部、公安部、国家移民局 (2026). 就《国务院关于出境入境管理的规定》答记者问. <https://www.gov.cn/zhengce/202608/content_7077270.htm>
 - Ghi chú: Dấu hiệu nhận biết gần như cố định: lương tháng cao hơn hẳn cùng loại vị trí, không đòi hỏi bằng cấp hay kinh nghiệm, không ký hợp đồng chính thức, bắt bạn ra thành phố vùng biên tập trung trước, làm visa thay và giữ hộ chiếu của bạn. Khu vực miền Bắc Myanmar đã có cảnh báo lãnh sự riêng. Đi thật rồi thì cả tự do thân thể lẫn hộ chiếu đều không nằm trong tay mình, muốn rời đi cũng không thể.
+- Tại Việt Nam: Việt Nam đang chịu nạn lừa tuyển dụng việc nhẹ lương cao sang Campuchia và Myanmar; nhiều người là nạn nhân mua bán người theo Điều 150 Bộ luật Hình sự 2015, nhưng ai trực tiếp đi lừa đảo có thể bị truy cứu theo Điều 174 (lừa đảo chiếm đoạt tài sản). Đi làm việc ở nước ngoài phải qua doanh nghiệp có giấy phép theo Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng 2020, trước khi nộp phí hãy kiểm tra danh sách doanh nghiệp được cấp phép trên cổng thông tin của cơ quan quản lý lao động ngoài nước. Thấy dấu hiệu giữ hộ chiếu, bắt tập trung vùng biên thì dừng lại; người thân mất tích ở nước ngoài thì báo công an (113) và gọi đường dây nóng bảo hộ công dân của Bộ Ngoại giao (0981 84 84 84).
 
 ### 6. Đừng rút tiền mặt ở nước ngoài quá 100.000 nhân dân tệ một năm — hạn mức tính gộp trên tất cả thẻ cùng tên bạn
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
@@ -55,6 +60,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:国家外汇管理局 (2017). 关于规范银行卡境外大额提取现金交易的通知（汇发〔2017〕29 号，第一、二、三、四、六、七条，2018 年 1 月 1 日起实施）. <https://www.safe.gov.cn/safe/2017/1230/21873.html>；国家外汇管理局 (2017). 外汇局有关负责人就规范银行卡境外大额提取现金交易有关问题答记者问. <https://www.gov.cn/zhengce/2017-12/31/content_5251958.htm>；中国银联国际. 境外ATM取款. <https://m.unionpayintl.com/wap/cn/serviceCenter/cardUsingInstructions/805.shtml>
 - Ghi chú: Hạn mức tính theo năm dương lịch, sang ngày 01/01 thì đếm lại từ đầu. Chỉ ngừng rút tiền mặt ở nước ngoài, chi tiêu bằng thẻ không bị ảnh hưởng. Nếu thật sự cần dùng số tiền mặt lớn ở nước ngoài, hãy làm thủ tục mua ngoại tệ theo Biện pháp Quản lý Ngoại hối của Cá nhân (《个人外汇管理办法》) trước, rồi mang tiền mặt ngoại tệ xuất cảnh. Bản thân việc rút tiền mặt còn hai cái bẫy, trang “Rút tiền mặt qua ATM ở nước ngoài” của UnionPay International (银联国际) ghi rõ: một là, thẻ gắn hai nhãn thương hiệu (UnionPay cùng một thương hiệu thẻ quốc tế) ở một số máy ATM tại một số quốc gia không chọn được kênh UnionPay để rút; hai là, một số máy ATM ở nước ngoài hiện thông báo phí phụ trội (surcharge) trên màn hình, khoản phí này do đơn vị chấp nhận thanh toán tại nơi đó thu, “không liên quan đến UnionPay”. Cùng trang đó còn nhắc: “Vì rút tiền bằng thẻ tín dụng phải chịu lãi thấu chi, khuyến nghị chủ thẻ dùng thẻ ghi nợ UnionPay khi rút tiền ở nước ngoài.” Thẻ bị mất, bị ATM nuốt hoặc bị quẹt trộm tiền thì xử lý thế nào, xem điều 5 mục 14 (thẻ bị quẹt trộm: báo khoá thẻ trước, báo cảnh sát sau).
+- Tại Việt Nam: Việt Nam không áp hạn mức rút tiền mặt ở nước ngoài như vậy, nhưng theo Pháp lệnh Ngoại hối, cá nhân chuyển tiền ra nước ngoài phải qua ngân hàng, tổ chức được phép kinh doanh ngoại hối, còn mang tiền mặt ngoại tệ xuất cảnh vượt một ngưỡng nhất định phải khai hải quan kèm chứng từ của ngân hàng (kiểm tra quy định hiện hành của Ngân hàng Nhà nước). Phí và tỷ giá khi rút thẻ ở nước ngoài của ngân hàng Việt thường bất lợi, nên quẹt thẻ được thì đừng rút tiền mặt.
 
 ### 7. Chụp ảnh hộ chiếu, thị thực, giấy tờ tùy thân lưu một bản lên đám mây; nếu mất thì trình báo cảnh sát trước rồi mới làm giấy thông hành
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
@@ -64,6 +70,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: C
 - Nguồn:国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十六条）；作者经验，无直接文献
 - Ghi chú: Cách lưu là chụp xong gửi vào hai nơi khác nhau, ví dụ lưu một bản trên đám mây và gửi một bản cho một người thân trong gia đình. Ngoài ra in thêm một bản photocopy, cất riêng khỏi bản gốc. Thẻ ngân hàng và đơn thuốc của thuốc hay dùng cũng chụp luôn. Điện thoại và hộ chiếu thường mất cùng nhau; chỉ lưu trên điện thoại thì coi như không lưu
+- Tại Việt Nam: Ở Việt Nam quy trình tương tự: mất hộ chiếu ở nước ngoài thì trình báo cảnh sát địa phương lấy xác nhận, rồi mang bản chụp hộ chiếu và hình đến Đại sứ quán hoặc Tổng lãnh sự quán Việt Nam xin cấp giấy thông hành hoặc hộ chiếu khác để về nước; làm lại hộ chiếu thì nộp tại Cục Quản lý xuất nhập cảnh (Bộ Công an) hoặc Phòng Quản lý xuất nhập cảnh công an cấp tỉnh sau khi về.
 
 ### 8. Trước khi tự lái xe ở nước ngoài, hãy xác nhận nơi đó có công nhận bằng lái xe Trung Quốc hay không — “bằng lái xe quốc tế” bán trên mạng đa số chỉ là tờ giấy vô giá trị
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=自由 -->
@@ -73,6 +80,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:United Nations Treaty Collection. Convention on Road Traffic, Geneva, 19 September 1949 — status of treaties. <https://treaties.un.org/pages/ViewDetailsV.aspx?src=TREATY&mtdsg_no=XI-B-1&chapter=11&clang=_en>
 - Ghi chú: Ở đa số quốc gia, lái xe khi không có bằng lái hợp lệ là tội hình sự hoặc bị phạt rất nặng. Hơn nữa, nếu ra sự cố, khả năng rất cao là bảo hiểm sẽ từ chối bồi thường — đây mới là cái giá thật. Có hai cách tra: vào website Dịch vụ Lãnh sự Trung Quốc (中国领事服务网) tìm mục “Lưu ý cho công dân Trung Quốc” (中国公民须知) của quốc gia đến, hoặc yêu cầu công ty cho thuê xe cấp một bản xác nhận bằng văn bản. Hồng Kông, Ma Cao, Đài Loan cùng một số quốc gia có thỏa thuận riêng khác.
+- Tại Việt Nam: Việt Nam khác Trung Quốc ở chỗ là thành viên Công ước Viên 1968 về giao thông đường bộ, nên công dân Việt Nam có thể xin giấy phép lái xe quốc tế chính thức tại cơ quan công an có thẩm quyền hoặc nộp trực tuyến (từ 1/3/2025 việc cấp GPLX chuyển sang Bộ Công an, kiểm tra văn bản hiện hành). Giấy này chỉ có giá trị ở các nước thành viên công ước, với nước khác thì quy định riêng như sách gốc đã nói; chưa xác nhận được nước đến chấp nhận bằng lái hay giấy phép của Việt Nam thì đừng lái, vì bảo hiểm sẽ từ chối bồi thường.
 
 ### 9. Nhờ trung tâm làm visa, du học, định cư, trước hết hỏi xem nó đã đăng ký với cơ quan quản lý di trú Trung Quốc (移民管理机构) chưa
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=自由 -->
@@ -83,6 +91,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第七、八、十、十二、十三条）
 - Ghi chú: Trung tâm nào miệng lúc nào cũng "bao đậu", "cam kết có visa", "hồ sơ để chúng tôi lo cho bạn" thì bản chất việc nó làm vốn đã là việc bị cấm rõ ràng. Khi bị phát hiện, người mang vết đen trong hồ sơ visa là bạn. Bạn tự điền đơn mà có trục trặc thì nhiều lắm là lần này bị từ chối visa; còn dùng giấy tờ giả mà bị kết luận gian lận thì hậu quả nặng hơn nhiều. Tư vấn chính sách và tra cứu thông tin không nhằm kiếm tiền thì không tính là dịch vụ trung gian.
+- Tại Việt Nam: Việt Nam không dùng chế độ đăng ký với cơ quan di trú như sách gốc mà quản lý bằng giấy phép ngành: công ty tư vấn du học phải có giấy chứng nhận đăng ký hoạt động do Sở Giáo dục và Đào tạo cấp, doanh nghiệp đưa người đi làm việc ở nước ngoài phải có giấy phép theo Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng 2020. Trước khi ký hợp đồng và nộp phí, bạn kiểm tra số giấy phép trên cổng thông tin của cơ quan quản lý; lời hứa bao đậu visa vẫn là dấu hiệu lừa đảo.
 
 ### 10. Đừng phát thư mời hộ người lạ, đừng để ai mượn danh nghĩa bạn làm thủ tục xuất nhập cảnh
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=自由 -->
@@ -92,6 +101,7 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: A
 - Nguồn:国务院 (2026). 关于出境入境管理的规定（国令第 841 号）. <https://www.gov.cn/zhengce/zhengceku/202607/content_7077173.htm>（第三、十一条）
 - Ghi chú: Đây là loại rủi ro giống với "đừng giúp người lạ mang đồ" ở mục 8: hồ sơ phát ra mang danh nghĩa của bạn thì hậu quả rơi lên đầu bạn. Cán bộ công chức và cán bộ quân đội muốn nhờ môi giới chạy quốc tịch nước ngoài hoặc giấy phép cư trú ở nước ngoài trái quy định, thì bên môi giới không những không được làm mà còn phải báo cáo cơ quan giám sát (监察机关).
+- Tại Việt Nam: Ở Việt Nam, cá nhân hay tổ chức mời, bảo lãnh người nước ngoài nhập cảnh phải chịu trách nhiệm về nội dung khai; khai không đúng sự thật bị xử phạt hành chính, còn làm hoặc sử dụng giấy mời, giấy tờ giả có thể bị truy cứu theo Điều 341 Bộ luật Hình sự 2015 (làm, sử dụng con dấu, tài liệu giả). Vì vậy đừng đứng tên mời hộ người lạ, hồ sơ sai nằm dưới tên bạn.
 
 ### 11. Trước khi xuất cảnh, gửi lịch trình, chỗ ở và người đi cùng cho một người thân, hẹn sẵn tần suất liên lạc
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=死亡率 -->
@@ -101,3 +111,4 @@ Mục này tính sổ theo tiền và tự do thân thể, có vài mục còn l
 - Mức bằng chứng: C
 - Nguồn:国务院 (2023). 领事保护与协助条例（国令第 763 号）. <https://www.gov.cn/zhengce/zhengceku/202307/content_6891761.htm>（第十三条）；作者经验，无直接文献
 - Ghi chú: Ghi rõ bốn thứ là đủ: số hiệu chuyến bay, địa chỉ chỗ ở, tên và số điện thoại của người đi cùng, và tần suất liên lạc đã hẹn. Nếu đi đến nơi tín hiệu kém hoặc an ninh kém, hãy nói rõ thêm câu "bao lâu không có tin tức thì báo cảnh sát". Các thủ tục trợ giúp nêu trên đều chỉ bắt đầu được khi có người thân nắm được lịch trình của bạn.
+- Tại Việt Nam: Người nhà bạn ở Việt Nam mất liên lạc với bạn ở nước ngoài có thể gọi đường dây nóng bảo hộ công dân của Bộ Ngoại giao (0981 84 84 84), liên hệ trực tiếp Cơ quan đại diện Việt Nam tại nước đó và báo công an (113) để khai báo người mất tích. Tin nhắn trước chuyến đi nên ghi rõ số hiệu chuyến bay, địa chỉ chỗ ở, người đi cùng và hẹn sẵn mốc thời gian không có tin tức thì bắt đầu tìm.

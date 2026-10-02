@@ -147,3 +147,25 @@ Sau khi thức khuya thì bù ngủ thế nào: xem mục 2, điều 39 (Thức 
 Ngủ ban đêm bao lâu và giờ giấc có đều đặn không: xem mục 2, điều 13 (Mỗi đêm ngủ khoảng 7 giờ, giữ giờ giấc cố định).
 
 Tiếp xúc ánh sáng buổi sáng và thức dậy đúng giờ: xem mục 3, điều 2 (Thức dậy đúng giờ, kể cả cuối tuần).
+
+## Áp dụng tại Việt Nam
+
+> Phần bổ sung cho bản tiếng Việt, không có trong bản gốc. Thông tin pháp lý mang tính tham khảo, cần đối chiếu văn bản hiện hành; không thay thế tư vấn của luật sư.
+
+- **Quyền lợi ca đêm theo luật Việt Nam**: Bộ luật Lao động 2019 (Điều 106) tính thời gian làm việc ban đêm từ 22 giờ đến 6 giờ sáng hôm sau; người làm việc ban đêm được trả thêm ít nhất 30% tiền lương (Điều 98) và được nghỉ giữa giờ ít nhất 45 phút liên tục (Điều 109). Nếu hợp đồng hoặc bảng lương của bạn không thấy khoản phụ cấp này, bạn có quyền yêu cầu doanh nghiệp giải thích và bổ sung.
+
+- **Trần giờ làm thêm của ca 12 giờ**: nhiều nhà máy, xưởng ở Việt Nam chạy hai ca 12 giờ, trong đó có phần giờ làm thêm; Bộ luật Lao động 2019 giới hạn làm thêm tối đa 40 giờ/tháng và 200 giờ/năm (300 giờ với một số ngành). Vượt trần là vi phạm — bạn có thể từ chối và phản ánh với cơ quan quản lý lao động địa phương hoặc thanh tra lao động.
+
+- **Ca đêm chưa được coi là bệnh nghề nghiệp**: Luật An toàn, vệ sinh lao động 2015 chỉ chi trả bảo hiểm cho tai nạn lao động và bệnh nghề nghiệp trong danh mục do cơ quan có thẩm quyền ban hành; hại sức khỏe do lệch nhịp sinh học không nằm trong đó (kiểm tra văn bản hiện hành). Nghĩa là phần hại này phải tự phòng, không có cơ chế đền bù nào thay bạn lo.
+
+- **Theo dõi đường huyết và huyết áp định kỳ**: nghiên cứu trong bài cho thấy chỉ 10 ngày lệch nhịp đã đưa một số người vào vùng tiền tiểu đường; người làm ca đêm lâu năm nên xét nghiệm đường huyết đói và đo huyết áp mỗi năm — giá vài chục nghìn đồng ở bệnh viện công lập. Bộ luật Lao động 2019 buộc doanh nghiệp tổ chức khám sức khỏe định kỳ, bạn có thể đề nghị bổ sung các hạng mục này khi khám.
+
+- **Đèn trị liệu ánh sáng khó mua tại Việt Nam**: hộp đèn chuyên dụng gần như không có ở cửa hàng, chủ yếu mua qua sàn thương mại điện tử hoặc xách tay; chọn loại ghi rõ cường độ (nghiên cứu cho hiệu quả ở mức 900 đến 6.000 lux, mỗi đêm ít nhất 1 giờ) và có lọc tia UV, tránh các loại đèn quảng cáo "trị liệu" mà không ghi thông số lux.
+
+- **Ngủ ban ngày trong nhà trọ, nhà phố**: tiếng xe máy, loa hàng rong và công trình xây dựng sáng sớm khiến giấc ngủ ngày ở Việt Nam khó đạt được điều kiện "gần như tối hoàn toàn" như trong thí nghiệm; rèm cản sáng (blackout), bịt mắt và nút tai là bộ ba chi phí thấp nhất. Nếu đang thuê nhà, bạn có thể thỏa thuận với chủ nhà lắp rèm cản sáng và ghi vào hợp đồng — hợp đồng thuê nhà ở không bắt buộc công chứng.
+
+- **Đeo kính râm trên đường về sau ca**: đây là điều kiện dễ bị bỏ sót nhất trong bài; đi xe máy buổi sáng ở Việt Nam thì chọn kính không quá sẫm để vẫn nhìn rõ đường, hoặc dùng mũ có kính đổi màu. Nếu quá buồn ngủ, nên dừng chợp mắt ở nơi an toàn rồi mới đi tiếp — lái xe khi mệt sau ca đêm là nguy cơ tai nạn riêng của nó.
+
+- **Thuốc hỗ trợ giấc ngủ**: thuốc ngủ thuộc nhóm kê đơn nên phải có đơn bác sĩ mới mua được (Luật Dược 2016, sửa đổi 2024); melatonin thì được bán tại Việt Nam như thực phẩm bảo vệ sức khỏe trên các sàn thương mại điện tử, chất lượng không đồng đều và không được kiểm soát như thuốc. Nếu lệch nhịp kéo dài ảnh hưởng rõ đến sức khỏe, hãy đi khám chuyên khoa Thần kinh hoặc Tâm thần ở bệnh viện tuyến tỉnh trở lên thay vì tự mua dùng.
+
+- **Thói quen ăn khuya sau ca**: quán phở, bún, bánh mì mở đến sáng khắp nơi khiến việc "ăn no rồi mới đi ngủ" thành mặc định của người làm ca đêm ở Việt Nam; đúng hướng khuyên trong bài, bạn nên ăn bữa chính trước khi vào ca và hạn chế ăn giữa đêm — cách này không tốn tiền, chỉ cần đổi thứ tự các bữa.

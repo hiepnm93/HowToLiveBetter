@@ -69,3 +69,25 @@ Trước tiên, hãy trả lời mấy câu hỏi dưới đây, rồi hãy đi 
 - Mọi điều khoản nêu ở trên đều lấy cột Nguồn ở tiết 26 trong README của Cẩm nang sống hiệu quả làm chuẩn; ở đó có số hiệu văn bản, số điều và liên kết.
 - Loại quy định này thay đổi rất nhanh. Nội dung tiết này được kiểm chứng vào tháng 9 năm 2026. Nếu thực sự cần trích dẫn, bạn hãy tự mở lại trang bản gốc một lần nữa. Đặc biệt lưu ý hai chỗ: Luật An toàn mạng (网络安全法) điều chỉnh lại số điều kể từ ngày 1 tháng 1 năm 2026; quy định dành cho người chưa thành niên khi thưởng trên livestream được sửa vào tháng 4 năm 2026, chuyển sang phân mức theo độ tuổi.
 - Có vài chỗ chưa lấy được văn bản gốc, đã ghi rõ từng chỗ trong [biên bản kiểm chứng](../核实记录/追加-第26节做平台.md). Một chỗ là liệu sàn thương mại điện tử có bắt buộc phải xin giấy phép EDI hay không, các văn bản chính thức có quy định rõ hay chưa. Chỗ còn lại là bản giải thích tư pháp (司法解释) quy định xử lý trực tiếp theo tội kinh doanh trái pháp luật (非法经营罪) đối với hành vi kinh doanh dịch vụ văn hóa mạng hoặc dịch vụ âm thanh - hình ảnh không có giấy phép.
+
+## Áp dụng tại Việt Nam
+
+> Phần bổ sung cho bản tiếng Việt, không có trong bản gốc. Thông tin pháp lý mang tính tham khảo, cần đối chiếu văn bản hiện hành; không thay thế tư vấn của luật sư.
+
+- **Không có đăng ký ICP kiểu Trung Quốc**: website bán hàng ở Việt Nam chỉ cần làm thủ tục «thông báo» (site giới thiệu, bán hàng không qua sàn) hoặc «đăng ký» (có sàn giao dịch, đấu giá trực tuyến) với Bộ Công Thương qua cổng online.gov.vn, nộp hoàn toàn trực tuyến; không làm thì website có thể bị đưa vào danh sách website thương mại điện tử vi phạm để xử lý.
+
+- **Các giấy phép «văn hóa mạng», «chương trình nghe nhìn», «tin tức» không có đối ứng riêng**: nền tảng có tính chất mạng xã hội hoặc mạng giao tiếp (kể cả chức năng livestream cho người dùng lên hình) phải được cấp phép dịch vụ mạng xã hội theo Nghị định 147/2024/NĐ-CP, và mọi tài khoản phải xác thực bằng số điện thoại di động; còn muốn làm hẳn trang tin tức thì cần tư cách báo điện tử theo Luật Báo chí 2016, cá nhân thường không xin được.
+
+- **Cá nhân vẫn làm được, nhưng phải có tư cách kinh doanh**: khác điểm «phải là công ty» của giấy phép viễn thông ở Trung Quốc, Việt Nam cho phép cá nhân bán hàng online, nhưng muốn ký hợp đồng với người bán, xuất hóa đơn và chịu trách nhiệm với cơ quan thuế thì nên đăng ký hộ kinh doanh hoặc doanh nghiệp; hộ kinh doanh đã bỏ thuế khoán từ 1/1/2026, chuyển sang tự kê khai (kiểm tra văn bản hiện hành).
+
+- **Sàn phải lo thuế hộ người bán**: theo Luật Quản lý thuế (sửa đổi 2024), chủ sàn thương mại điện tử, kể cả sàn nước ngoài, phải cung cấp thông tin người bán cho cơ quan thuế và trong nhiều trường hợp khấu trừ, nộp thuế thay (kiểm tra văn bản hiện hành); khi thiết kế sàn, bạn cần xây sẵn chức năng tổng hợp doanh thu từng gian hàng.
+
+- **Thu tiền hộ người bán là dịch vụ trung gian thanh toán**: nền tảng giữ tiền người mua rồi trả lại cho người bán phải có giấy phép do Ngân hàng Nhà nước cấp, nên sàn nhỏ hãy tích hợp cổng thanh toán đã được cấp phép thay vì tự đọng tiền; riêng chuyển tiền trực tuyến từ 10.000.000 đồng/lần hoặc 20.000.000 đồng/ngày thì tài khoản phải xác thực sinh trắc học theo Quyết định 2345/QĐ-NHNN (từ 1/7/2024).
+
+- **Lưu dữ liệu người dùng tại Việt Nam**: Luật An ninh mạng 2018 yêu cầu nhà cung cấp dịch vụ trên không gian mạng lưu trữ dữ liệu người dùng tại Việt Nam trong các trường hợp luật định, còn Nghị định 147/2024/NĐ-CP đặt thêm nghĩa vụ gỡ bỏ nội dung vi phạm và hợp tác với cơ quan quản lý; thuê hosting trong nước thì phần lớn nghĩa vụ này nằm ở nhà cung cấp, tự dựng máy chủ ở nước ngoài thì rơi cả lên bạn.
+
+- **Máy chủ ở nước ngoài không phải đường thoát**: với người dùng tại Việt Nam, bạn vẫn chịu Luật An ninh mạng 2018 và có thể bị yêu cầu gỡ bỏ, chặn thông tin vi phạm; còn chuyển dữ liệu cá nhân ra nước ngoài thì chịu điều chỉnh của Luật Bảo vệ dữ liệu cá nhân 2025 (hiệu lực 1/1/2026), trước đó là Nghị định 13/2023/NĐ-CP với nghĩa vụ lập và nộp hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài (kiểm tra văn bản hiện hành).
+
+- **Khiếu nại và hồ sơ lưu trữ**: Luật Bảo vệ quyền lợi người tiêu dùng 2023 buộc nền tảng tiếp nhận, xử lý khiếu nại của người mua và có thể phải liên đới trách nhiệm với gian hàng vi phạm; Việt Nam không gom các mốc lưu 3 năm hay 60 ngày thành một bảng như bên Trung Quốc, nhưng log và đơn hàng là chứng cứ điện tử có giá trị pháp lý theo Luật Giao dịch điện tử 2023, mất log là mất phương tiện chứng minh khi có tranh chấp hoặc bị cơ quan quản lý yêu cầu cung cấp.
+
+- **Chọn nhà cung cấp và sao lưu**: nguyên tắc VPS, đám mây lớn, đặt máy thật chỉ khi có người chuyên trách vẫn đúng như bảng quyết định; ở Việt Nam nên ưu tiên nhà cung cấp có pháp nhân rõ ràng vì khi có sự cố, cơ quan quản lý liên hệ trực tiếp với đơn vị cho thuê máy chủ, còn bản sao lưu vẫn nên đặt ở hai nơi khác nhau, đừng gom cả hai vào một vùng của cùng một nhà cung cấp.

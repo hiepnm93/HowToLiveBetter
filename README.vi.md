@@ -5,6 +5,8 @@
 # Cẩm nang sống hiệu quả
 
 > Bản dịch tiếng Việt không chính thức của [高性价比人生指南](https://github.com/eternity4719/HowToLiveBetter). Khi có khác biệt, bản gốc tiếng Trung là chuẩn.
+>
+> Bản tiếng Việt bổ sung dòng **Tại Việt Nam** cho từng mục (và phần «Áp dụng tại Việt Nam» cuối các bài đọc dài): đối chiếu luật, thủ tục, số liệu ở Việt Nam. Phần này do người dịch thêm, mang tính tham khảo, không thay thế tư vấn của luật sư hay bác sĩ; hãy kiểm tra văn bản hiện hành.
 
 
 Nói cách sống lâu hơn, cách ít ốm đau hơn, và khi gặp tai nạn thì cứu giúp thế nào. Nói cách bớt tiêu tiền oan, những việc nào dễ khiến bạn bị lừa đảo hay vướng vào kiện tụng. Nói khi mất việc và không có tiền thì có thể nhận được khoản gì, mở cửa hàng, mở công ty hay làm website cần những thủ tục gì. Cũng nói luôn chuyện yêu đương, kết hôn, sinh con, xuất ngoại và học nghề.<br>

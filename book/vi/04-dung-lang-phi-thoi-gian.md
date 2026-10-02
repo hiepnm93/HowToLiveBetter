@@ -55,6 +55,7 @@ Phần này chỉ tính sổ thời gian: mỗi ngày, mỗi tuần, mỗi năm 
 - Mức bằng chứng: B
 - Nguồn:Rogelberg, S. G., Leach, D. J., Warr, P. B., & Burnfield, J. L. (2006). "Not another meeting!" Are meeting time demands related to employee well-being? Journal of Applied Psychology, 91(1). <https://doi.org/10.1037/0021-9010.91.1.83>；Luong, A., & Rogelberg, S. G. (2005). Meetings and more meetings: The relationship between meeting load and the daily well-being of employees. Group Dynamics: Theory, Research, and Practice, 9(1). <https://doi.org/10.1037/1089-2699.9.1.58>
 - Ghi chú: Có tranh cãi: Rogelberg 2006 phát hiện mối quan hệ giữa lượng họp nhiều hay ít và mức độ hạnh phúc không hẳn một chiều. Ở những vị trí công việc phụ thuộc nhiều vào người khác, họp nhiều lại không phải chuyện xấu. Ngoài ra, chưa có nghiên cứu nào so sánh trực tiếp “chuyển sang trao đổi không đồng bộ bằng chữ” với việc họp; đây là suy luận của chính tác giả.
+- Tại Việt Nam: Ngoài lý do năng suất trong bản gốc, ở Việt Nam bạn còn có căn cứ pháp lý: cuộc họp bị yêu cầu tham gia ngoài giờ làm việc tính là làm thêm giờ, và luật giới hạn làm thêm tối đa 40 giờ/tháng, 200 giờ/năm (300 giờ với một số ngành) theo Bộ luật Lao động 2019. Nếu bị triệu tập họp sau giờ hành chính mà không có chương trình gửi trước, bạn có thể nêu quy định này để đề nghị dời cuộc họp sang giờ làm việc.
 
 ### 7. Chia việc lớn thành các việc nhỏ rồi mới ước thời gian và bắt đầu
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
@@ -73,6 +74,7 @@ Phần này chỉ tính sổ thời gian: mỗi ngày, mỗi tuần, mỗi năm 
 - Mức bằng chứng: B
 - Nguồn:Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the "planning fallacy": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>
 - Ghi chú: Nói ngày bạn tự đặt cho người khác biết, nó sẽ gần hơn với loại hạn chót do người ngoài đặt. Cần lưu ý: nghiên cứu chỉ kiểm chứng rằng hạn chót do người khác đặt thì hiệu quả; loại tự đặt cho mình, như chia khung thời gian (timebox) hay đồng hồ Pomodoro, chưa ai đo trực tiếp — phần này là suy luận theo.
+- Tại Việt Nam: Với các việc liên quan cơ quan nhà nước ở Việt Nam, hạn chót thường đã được luật định sẵn, bạn chỉ cần tra và ghi vào lịch: ví dụ khai sinh trong 60 ngày, khai tử trong 15 ngày (Luật Hộ tịch 2014). Thời hạn giải quyết từng thủ tục được công bố trên Cổng Dịch vụ công quốc gia, nơi bạn cũng nộp hồ sơ trực tuyến được.
 
 ### 9. Coi trì hoãn là đang né tránh khó chịu, đừng coi là thiếu cố gắng
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
@@ -120,6 +122,7 @@ Phần này chỉ tính sổ thời gian: mỗi ngày, mỗi tuần, mỗi năm 
 - Mức bằng chứng: A
 - Nguồn:Rozental A, Forsell E, Svensson A, Andersson G, Carlbring P (2015). Internet-based cognitive-behavior therapy for procrastination: A randomized controlled trial. Journal of Consulting and Clinical Psychology, 83(4), 808–824. <https://doi.org/10.1037/ccp0000023>
 - Ghi chú: Người tham gia là người trưởng thành ở Thụy Điển, tài liệu viết bằng tiếng Thụy Điển, tiếng Trung chưa có bộ tương đương sẵn, nên mức độ lợi ích được ghi là "trung bình". Các thành phần trong tài liệu chỉ là mấy thứ quen thuộc: kích hoạt hành vi, thí nghiệm hành vi, kiểm soát kích thích, và phần giảng giải về động lực cùng cách làm việc. Riêng kiểm soát kích thích đã có ở mục 10 của chương này (đưa thứ bạn không muốn đụng tới ra xa). Nếu trì hoãn đi kèm tâm trạng buồn bã rõ rệt hoặc lo âu, hãy làm theo mục 19 của chương 3 trước (vận động, ra nắng, ngủ đúng giờ, tìm người tâm sự, gọi 12356).
+- Tại Việt Nam: Bản gốc nhắc đường dây 12356, nhưng đó là đường dây của Trung Quốc, không tồn tại ở Việt Nam; nếu trì hoãn kèm buồn bã hoặc lo âu rõ rệt, bạn đến khoa tâm thần (tâm bệnh) của bệnh viện cấp tỉnh hoặc bệnh viện chuyên khoa tâm thần để được đánh giá, còn tổng đài 111 chỉ dành cho trẻ em. Ở Việt Nam chưa có bộ tài liệu trị liệu nhận thức – hành vi tự trợ giúp chuẩn tương đương bản nghiên cứu, sách dịch trên thị trường chỉ nên xem là tham khảo.
 
 ### 14. Dùng lương theo giờ của bạn để quyết định việc nhà nào nên thuê ngoài
 <!-- 成本标签: 钱=多 时间=少 毅力=否 收益=大 口径=时间 -->

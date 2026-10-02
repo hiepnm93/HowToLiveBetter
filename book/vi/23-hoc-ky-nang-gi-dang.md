@@ -99,6 +99,7 @@ Mục này tính bằng tiền và thời gian, riêng mục 2 tính thêm theo 
 - Mức bằng chứng: B
 - Nguồn:Frey CB, Osborne MA (2017). The future of employment: how susceptible are jobs to computerisation? Technological Forecasting and Social Change, 114, 254-280. <https://doi.org/10.1016/j.techfore.2016.08.019>
 - Ghi chú: Gây tranh cãi. Đây là bản thảo nghiên cứu năm 2013 chưa được công bố chính thức, chấm điểm cho cả nghề theo kiểu "liệu nghề đó có bị máy thay được không". Các nghiên cứu sau đó chia nhỏ ra từng nhiệm vụ cụ thể để ước tính, tỉ lệ rủi ro cao tính ra thấp hơn nhiều. Nghiên cứu cũng không nói chuyện này sẽ xảy ra vào năm nào. Khi dùng nó, đừng dính mãi vào con số 47%, mà hãy nhìn vào ba chỗ máy móc bị kẹt mà nghiên cứu chỉ ra. Các nghề như lắp đặt tại chỗ, bảo trì, chăm sóc hộ lý bám trụ tốt hơn công việc giấy tờ thuần túy — lý do nằm ở đây. Vì vậy khi "học một kỹ năng", ưu tiên chọn loại phải ra hiện trường, đối mặt với môi trường không theo khuôn mẫu.
+- Tại Việt Nam: Cơ cấu lao động Việt Nam nặng về lắp ráp điện tử, dệt may, da giày, chế biến nông sản — đúng nhóm «quy trình cố định, xử lý lặp lại» mà nghiên cứu xếp vào rủi ro bị thay thế cao nhất; do đó khi chọn hướng học nghề trong nước, ưu tiên nghề phải ra hiện trường và phán đoán tại chỗ (điện lạnh, sửa chữa, bảo trì, chăm sóc) hơn là nghề xử lý giấy tờ thuần túy.
 
 ### 11. Kiểm tra kỹ năng có bậc đánh giá và bậc có đổi ra tiền hay không trước khi học
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->

@@ -45,9 +45,22 @@ def parse_json(raw: str) -> dict[str, str]:
     return {str(k).strip(): " ".join(str(v).split()) for k, v in data.items() if str(v).strip()}
 
 
+CHUNK = 10  # items per LLM call; whole long chapters made the model skip most items
+
+
 def gen(src: Path, out: Path) -> None:
-    raw = _chat("Chương cần đối chiếu:\n\n" + src.read_text(encoding="utf-8"))
-    out.write_text(json.dumps(parse_json(raw), ensure_ascii=False, indent=1), encoding="utf-8")
+    text = src.read_text(encoding="utf-8")
+    title = text.splitlines()[0]
+    items = re.split(r"(?m)^(?=### \d+\. )", text)[1:]
+    notes: dict[str, str] = {}
+    for i in range(0, len(items), CHUNK):
+        part = "".join(items[i : i + CHUNK])
+        raw = _chat(
+            f"Chương: {title}\nXét LẦN LƯỢT TỪNG mục dưới đây, không bỏ sót mục nào có "
+            f"liên quan luật, thủ tục, cơ quan, dịch vụ hay số liệu:\n\n{part}"
+        )
+        notes.update(parse_json(raw))
+    out.write_text(json.dumps(notes, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def doc(src: Path, out: Path) -> None:

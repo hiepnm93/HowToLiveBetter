@@ -10,6 +10,7 @@ Chương này chỉ tính sổ về tinh lực và thời gian. Bốn thứ đư
 - Mức bằng chứng: B
 - Nguồn:Stothart, Mitchum & Yehnert (2015). The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance. <https://doi.org/10.1037/xhp0000100>；Ward, Duke, Gneezy & Bos (2017). Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research. <https://doi.org/10.1086/691462>
 - Ghi chú: Tất cả đều là các bài tập đơn lẻ trong phòng thí nghiệm. Tích lũy hằng ngày sẽ ra kết quả gì thì chưa ai đo. Với những vị trí thật sự cần gọi là có mặt ngay, có thể chỉ giữ thông báo cho một vài người liên hệ.
+- Tại Việt Nam: Ở Việt Nam, một nguồn gián đoạn đáng kể ngoài công việc là cuộc gọi, tin nhắn rác và tin nhắn lừa đảo; bạn có thể chuyển tiếp tin nhắn rác về tổng đài 5656 để nhà mạng xử lý, đồng thời dùng chức năng chặn số ngay trong phần cài đặt của máy. Còn việc tắt thông báo ứng dụng và để điện thoại ngoài tầm mắt khi làm việc thì thực hiện như hướng dẫn gốc, không có gì khác.
 
 ### 2. Giữ giờ thức dậy cố định, kể cả cuối tuần
 <!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
@@ -227,6 +228,7 @@ Chương này chỉ tính sổ về tinh lực và thời gian. Bốn thứ đư
 - Mức bằng chứng: A
 - Nguồn:Kjærvik SL, Bushman BJ (2024). A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage? Clinical Psychology Review. <https://doi.org/10.1016/j.cpr.2024.102414>
 - Ghi chú: Thước đo ở đây là nóng giận và tính hung hăng, không phải năng lượng. Mục này được ghi theo khía cạnh thời gian — đó là cách xếp loại của chính tác giả: ít đi một trận cãi nhau là bớt đi một lần dọn dẹp hậu quả. Cách dùng được ngay tại chỗ xem phần 22, mục 9 (thở dài tuần hoàn), và mục 18 của chính phần này (đang giận thì rời khỏi chỗ trước). Chạy bộ không phải vô dụng: xét về lâu dài, nó có hiệu quả với tâm trạng xuống thấp, xem phần 22, mục 7 (buồn thì ra đi bộ hoặc chạy). Nó chỉ là không hợp để dập giận ngay lúc đó. Đang trong cơn giận thì đừng lái xe, đừng nhắn tin, đừng đưa ra quyết định. Nếu đang có người đánh bạn: hãy rời đi trước, rồi báo công an. Lúc đó việc cần xử lý không phải là cảm xúc của bạn, xem phần 8, mục 43 (bị bạo lực gia đình).
+- Tại Việt Nam: Lời khuyên này không đổi ở Việt Nam, nhưng cần biết: nếu cơn giận dẫn tới ra tay đánh người làm bị thương, hành vi có thể bị xử lý hình sự theo Điều 134 Bộ luật Hình sự 2015 về cố ý gây thương tích; gây rối trật tự công cộng thì bị xử phạt hành chính (kiểm tra văn bản hiện hành). Khi bị người khác đánh, hãy rời khỏi chỗ trước rồi trình báo công an xã hoặc phường nơi xảy ra việc, hoặc gọi 113.
 
 ### 25. Viết ra suy nghĩ và cảm xúc về chuyện đang đè nặng trong lòng suốt vài ngày liền, nhưng đừng mong nó chữa được bệnh
 <!-- 成本标签: 钱=0 时间=少 毅力=否 收益=小 口径=时间 -->

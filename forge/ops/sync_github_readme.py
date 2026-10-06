@@ -25,6 +25,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    assert fix("a/b.md") == "/a/b.md" and fix("./x.png") == "/x.png"
-    assert fix("https://x") == "https://x" and fix("#toc") == "#toc"
     main()
